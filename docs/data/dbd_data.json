@@ -1,0 +1,169 @@
+{
+  "snapshot_date": "2026-06-30T09:55:44+08:00",
+  "hero": {
+    "name": "黎明杀机",
+    "current_players": 83660,
+    "positive_rate": 78.5,
+    "reviews_total": 912592,
+    "price_label": "¥ 37.50",
+    "release_date": "2016 年 6 月 14 日",
+    "genres": [
+      "动作"
+    ]
+  },
+  "operations": [
+    {
+      "date": "2026-06-27",
+      "timestamp": 1782509641,
+      "title": "Ice Nine Kills X Dead by Daylight Merch",
+      "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165555270",
+      "author": "amanda_bhvr",
+      "feed_label": "Community Announcements",
+      "feed_type": "官方",
+      "is_patch": false,
+      "contents": "The Dead by Daylight x Ice Nine Kills collection doesn't stop in-game. We've teamed up to bring the collaboration into the real world, and it's everything you'd expect from two icons of horror.Pre-ord"
+    },
+    {
+      "date": "2026-06-23",
+      "timestamp": 1782225401,
+      "title": "10.0.1",
+      "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1835871199315739",
+      "author": "amanda_bhvr",
+      "feed_label": "Community Announcements",
+      "feed_type": "官方",
+      "is_patch": false,
+      "contents": "ContentNEW SURVIVOR: SHANE WIIGWAAS (RELEASED ON JUNE 25TH)New Survivor PerksWide Open ThrottleWhenever you fast-vault a Pallet:You gain 10/12.5/15% Haste for 3s.The Pallet is reset, blocked for 60s, "
+    },
+    {
+      "date": "2026-06-23",
+      "timestamp": 1782205200,
+      "title": "Steam Global Top Sellers for week of 16 Jun — 23 June 2026",
+      "url": "https://steamstore-a.akamaihd.net/news/externalpost/SteamDB/1835871199315577",
+      "author": "SteamDB",
+      "feed_label": "SteamDB",
+      "feed_type": "媒体",
+      "is_patch": false,
+      "contents": "<a href=\"https://steamdb.info/topsellers/2026W26/?utm_source=Steam&utm_medium=Steam&utm_campaign=SteamRSS\"> </a> * <a href=\"https://steamdb.info/app/4704690/charts/?utm_source=Steam&utm_medium=Steam&u"
+    },
+    {
+      "date": "2026-06-18",
+      "timestamp": 1781792187,
+      "title": "Dead by Daylight | Jason launch stream, Featuring PaulieEsther (replay)",
+      "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1835871199304397",
+      "author": "mahdi.roy",
+      "feed_label": "Community Announcements",
+      "feed_type": "官方",
+      "is_patch": false,
+      "contents": "Featuring PaulieEsther! Watch the full Twitch replay via this link: https://www.twitch.tv/videos/2798058939"
+    },
+    {
+      "date": "2026-06-17",
+      "timestamp": 1781691700,
+      "title": "Dead by Daylight hits new all-time peak player count, proving live service isn't dead",
+      "url": "https://steamstore-a.akamaihd.net/news/externalpost/PCGamesN/1835871199300390",
+      "author": "editor@pcgamesn.com",
+      "feed_label": "PCGamesN",
+      "feed_type": "媒体",
+      "is_patch": false,
+      "contents": "Dead by Daylight is a game developer's dream (or nightmare) come true. Akin to Warframe, it launched to somewhat lukewarm reviews, but has continued to expand as the years have gone on, cementing itse"
+    },
+    {
+      "date": "2026-06-17",
+      "timestamp": 1781633759,
+      "title": "The Jason Chapter is now available on Steam!",
+      "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1835236783575227",
+      "author": "CatBHVR",
+      "feed_label": "Community Announcements",
+      "feed_type": "官方",
+      "is_patch": false,
+      "contents": "Dead by Daylight’s Jason includes a new Killer, The Slasher. Purchasing this add-on unlocks the Hockey Mask badge and the Misty Cabin banner.The new Killer is The Slasher. The Jason Chapter includes:N"
+    },
+    {
+      "date": "2026-06-16",
+      "timestamp": 1781620286,
+      "title": "10.0.0 | Jason Patch Notes",
+      "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1835236783574550",
+      "author": "Goblin_BHVR",
+      "feed_label": "Community Announcements",
+      "feed_type": "官方",
+      "is_patch": false,
+      "contents": "ContentNEW KILLER: THE SLASHERPOWER: OMNIPRESENT EVILPress the Active Ability button to activate Omnipresent Evil. The Slasher becomes invisible and gains Undetectable, but cannot see Survivors or the"
+    },
+    {
+      "date": "2026-06-16",
+      "timestamp": 1781539568,
+      "title": "Stats | Celebrating 10 Years In The Fog",
+      "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1835236783570987",
+      "author": "Goblin_BHVR",
+      "feed_label": "Community Announcements",
+      "feed_type": "官方",
+      "is_patch": false,
+      "contents": "Happy 10th Anniversary, everyone! Whether you visited us in Montreal or celebrated with us online, thank you from the bottom of our hearts for making this anniversary and the livestream a time to reme"
+    }
+  ],
+  "patches": [],
+  "trends": [
+    {
+      "month": "2026-01",
+      "avg_players": 49288,
+      "peak_players": 96633
+    },
+    {
+      "month": "2026-02",
+      "avg_players": 55296,
+      "peak_players": 93286
+    },
+    {
+      "month": "2026-03",
+      "avg_players": 46223,
+      "peak_players": 84502
+    },
+    {
+      "month": "2026-04",
+      "avg_players": 49104,
+      "peak_players": 77398
+    },
+    {
+      "month": "2026-05",
+      "avg_players": 51051,
+      "peak_players": 86738
+    },
+    {
+      "month": "2026-06",
+      "avg_players": 53145,
+      "peak_players": 104001
+    }
+  ],
+  "store": {
+    "name": "黎明杀机",
+    "name_en": "Dead by Daylight",
+    "short_description": "10年恐惧相伴。10年的惊吓与刺激体验。10年的残暴献祭与惊险逃脱。 永久困于邪恶的幻境之中，即使死亡也无法逃脱，这是一场需要勇气和智慧的较量，四名意志坚定的逃生者在残忍对局中面对嗜血杀手。选择一方，进入多人非对称竞技游戏世界，获得最佳恐怖游戏体验。",
+    "short_description_en": "10 years of horror. 10 years of jump scares and close calls. 10 years of brutal sacrifices and thrilling escapes. Trapped forever in a realm of eldritch evil where even death is not an escape, four determined Survivors face a bloodthirsty Killer in a vicious game of nerve and wits.",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/381210/66727e8249aae119400352d4b1d84928f924939c/header_alt_assets_8.jpg?t=1782395976",
+    "developers": [
+      "Behaviour Interactive Inc."
+    ],
+    "publishers": [
+      "Behaviour Interactive Inc."
+    ],
+    "price": "¥ 37.50",
+    "price_en": "$7.99",
+    "release_date": "2016 年 6 月 14 日",
+    "platforms": {
+      "windows": true,
+      "mac": false,
+      "linux": false
+    },
+    "genres": [
+      "动作"
+    ]
+  },
+  "reviews": {
+    "total_reviews": 912592,
+    "positive": 716110,
+    "negative": 196482,
+    "positive_rate": 78.5
+  },
+  "ccu": 83660,
+  "crawled_at": "2026-06-30T09:55:44.135143"
+}

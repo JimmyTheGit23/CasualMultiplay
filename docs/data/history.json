@@ -1,0 +1,764 @@
+{
+  "R.E.P.O.": [
+    {
+      "date": "2026-05-28",
+      "ccu": 40801,
+      "positive_rate": 92.9,
+      "total_reviews": 14368
+    },
+    {
+      "date": "2026-06-01",
+      "ccu": 39940,
+      "positive_rate": 92.9,
+      "total_reviews": 14450
+    },
+    {
+      "date": "2026-06-02",
+      "ccu": 34225,
+      "positive_rate": 92.9,
+      "total_reviews": 14456
+    },
+    {
+      "date": "2026-06-03",
+      "ccu": 37085,
+      "positive_rate": 92.9,
+      "total_reviews": 14467
+    },
+    {
+      "date": "2026-06-04",
+      "ccu": 34816,
+      "positive_rate": 92.9,
+      "total_reviews": 14485
+    },
+    {
+      "date": "2026-06-05",
+      "ccu": 33548,
+      "positive_rate": 92.9,
+      "total_reviews": 14494
+    },
+    {
+      "date": "2026-06-06",
+      "ccu": 38331,
+      "positive_rate": 92.9,
+      "total_reviews": 14510
+    },
+    {
+      "date": "2026-06-07",
+      "ccu": 39517,
+      "positive_rate": 92.8,
+      "total_reviews": 14535
+    },
+    {
+      "date": "2026-06-08",
+      "ccu": 40703,
+      "positive_rate": 92.8,
+      "total_reviews": 14547
+    },
+    {
+      "date": "2026-06-09",
+      "ccu": 33022,
+      "positive_rate": 92.8,
+      "total_reviews": 14567
+    },
+    {
+      "date": "2026-06-10",
+      "ccu": 31228,
+      "positive_rate": 92.8,
+      "total_reviews": 14580
+    },
+    {
+      "date": "2026-06-11",
+      "ccu": 31069,
+      "positive_rate": 92.8,
+      "total_reviews": 14590
+    },
+    {
+      "date": "2026-06-12",
+      "ccu": 31146,
+      "positive_rate": 92.8,
+      "total_reviews": 14602
+    },
+    {
+      "date": "2026-06-15",
+      "ccu": 38103,
+      "positive_rate": 92.8,
+      "total_reviews": 14669
+    },
+    {
+      "date": "2026-06-16",
+      "ccu": 33935,
+      "positive_rate": 92.8,
+      "total_reviews": 14692
+    },
+    {
+      "date": "2026-06-19",
+      "ccu": 31272,
+      "positive_rate": 92.8,
+      "total_reviews": 14765
+    },
+    {
+      "date": "2026-06-22",
+      "ccu": 21684,
+      "positive_rate": 92.8,
+      "total_reviews": 14867
+    },
+    {
+      "date": "2026-06-23",
+      "ccu": 30920,
+      "positive_rate": 92.8,
+      "total_reviews": 14883
+    },
+    {
+      "date": "2026-06-26",
+      "ccu": 27892,
+      "positive_rate": 92.8,
+      "total_reviews": 14956
+    },
+    {
+      "date": "2026-06-29",
+      "ccu": 31628,
+      "positive_rate": 92.8,
+      "total_reviews": 15024
+    },
+    {
+      "date": "2026-06-30",
+      "ccu": 27816,
+      "positive_rate": 92.8,
+      "total_reviews": 15056
+    }
+  ],
+  "Lethal Company": [
+    {
+      "date": "2026-05-28",
+      "ccu": 5612,
+      "positive_rate": 93.0,
+      "total_reviews": 17577
+    },
+    {
+      "date": "2026-06-01",
+      "ccu": 5395,
+      "positive_rate": 93.0,
+      "total_reviews": 17591
+    },
+    {
+      "date": "2026-06-02",
+      "ccu": 4304,
+      "positive_rate": 93.0,
+      "total_reviews": 17591
+    },
+    {
+      "date": "2026-06-03",
+      "ccu": 4607,
+      "positive_rate": 92.9,
+      "total_reviews": 17594
+    },
+    {
+      "date": "2026-06-04",
+      "ccu": 4115,
+      "positive_rate": 92.9,
+      "total_reviews": 17596
+    },
+    {
+      "date": "2026-06-05",
+      "ccu": 3928,
+      "positive_rate": 92.9,
+      "total_reviews": 17596
+    },
+    {
+      "date": "2026-06-06",
+      "ccu": 4382,
+      "positive_rate": 92.9,
+      "total_reviews": 17598
+    },
+    {
+      "date": "2026-06-07",
+      "ccu": 4630,
+      "positive_rate": 92.9,
+      "total_reviews": 17601
+    },
+    {
+      "date": "2026-06-08",
+      "ccu": 4700,
+      "positive_rate": 92.9,
+      "total_reviews": 17603
+    },
+    {
+      "date": "2026-06-09",
+      "ccu": 3781,
+      "positive_rate": 92.9,
+      "total_reviews": 17603
+    },
+    {
+      "date": "2026-06-10",
+      "ccu": 3533,
+      "positive_rate": 92.9,
+      "total_reviews": 17604
+    },
+    {
+      "date": "2026-06-11",
+      "ccu": 3366,
+      "positive_rate": 92.9,
+      "total_reviews": 17604
+    },
+    {
+      "date": "2026-06-12",
+      "ccu": 3566,
+      "positive_rate": 92.9,
+      "total_reviews": 17604
+    },
+    {
+      "date": "2026-06-15",
+      "ccu": 4494,
+      "positive_rate": 92.9,
+      "total_reviews": 17607
+    },
+    {
+      "date": "2026-06-16",
+      "ccu": 3918,
+      "positive_rate": 92.9,
+      "total_reviews": 17608
+    },
+    {
+      "date": "2026-06-19",
+      "ccu": 3932,
+      "positive_rate": 92.9,
+      "total_reviews": 17613
+    },
+    {
+      "date": "2026-06-22",
+      "ccu": 1621,
+      "positive_rate": 92.9,
+      "total_reviews": 17617
+    },
+    {
+      "date": "2026-06-23",
+      "ccu": 3917,
+      "positive_rate": 92.9,
+      "total_reviews": 17618
+    },
+    {
+      "date": "2026-06-26",
+      "ccu": 3414,
+      "positive_rate": 92.9,
+      "total_reviews": 17623
+    },
+    {
+      "date": "2026-06-29",
+      "ccu": 4113,
+      "positive_rate": 92.9,
+      "total_reviews": 17630
+    },
+    {
+      "date": "2026-06-30",
+      "ccu": 3475,
+      "positive_rate": 92.9,
+      "total_reviews": 17633
+    }
+  ],
+  "Phasmophobia": [
+    {
+      "date": "2026-05-28",
+      "ccu": 10527,
+      "positive_rate": 90.7,
+      "total_reviews": 26671
+    },
+    {
+      "date": "2026-06-01",
+      "ccu": 10565,
+      "positive_rate": 90.7,
+      "total_reviews": 26702
+    },
+    {
+      "date": "2026-06-02",
+      "ccu": 9912,
+      "positive_rate": 90.7,
+      "total_reviews": 26707
+    },
+    {
+      "date": "2026-06-03",
+      "ccu": 8461,
+      "positive_rate": 90.7,
+      "total_reviews": 26719
+    },
+    {
+      "date": "2026-06-04",
+      "ccu": 8804,
+      "positive_rate": 90.7,
+      "total_reviews": 26731
+    },
+    {
+      "date": "2026-06-05",
+      "ccu": 8447,
+      "positive_rate": 90.7,
+      "total_reviews": 26735
+    },
+    {
+      "date": "2026-06-06",
+      "ccu": 9549,
+      "positive_rate": 90.7,
+      "total_reviews": 26738
+    },
+    {
+      "date": "2026-06-07",
+      "ccu": 9427,
+      "positive_rate": 90.7,
+      "total_reviews": 26740
+    },
+    {
+      "date": "2026-06-08",
+      "ccu": 10366,
+      "positive_rate": 90.7,
+      "total_reviews": 26745
+    },
+    {
+      "date": "2026-06-09",
+      "ccu": 8591,
+      "positive_rate": 90.7,
+      "total_reviews": 26749
+    },
+    {
+      "date": "2026-06-10",
+      "ccu": 8122,
+      "positive_rate": 90.7,
+      "total_reviews": 26750
+    },
+    {
+      "date": "2026-06-11",
+      "ccu": 7790,
+      "positive_rate": 90.7,
+      "total_reviews": 26753
+    },
+    {
+      "date": "2026-06-12",
+      "ccu": 7559,
+      "positive_rate": 90.7,
+      "total_reviews": 26754
+    },
+    {
+      "date": "2026-06-15",
+      "ccu": 9000,
+      "positive_rate": 90.7,
+      "total_reviews": 26772
+    },
+    {
+      "date": "2026-06-16",
+      "ccu": 8368,
+      "positive_rate": 90.6,
+      "total_reviews": 26779
+    },
+    {
+      "date": "2026-06-19",
+      "ccu": 7678,
+      "positive_rate": 90.6,
+      "total_reviews": 26796
+    },
+    {
+      "date": "2026-06-22",
+      "ccu": 4445,
+      "positive_rate": 90.6,
+      "total_reviews": 26814
+    },
+    {
+      "date": "2026-06-23",
+      "ccu": 8018,
+      "positive_rate": 90.6,
+      "total_reviews": 26821
+    },
+    {
+      "date": "2026-06-26",
+      "ccu": 7553,
+      "positive_rate": 90.6,
+      "total_reviews": 26835
+    },
+    {
+      "date": "2026-06-29",
+      "ccu": 9410,
+      "positive_rate": 90.6,
+      "total_reviews": 26859
+    },
+    {
+      "date": "2026-06-30",
+      "ccu": 8234,
+      "positive_rate": 90.6,
+      "total_reviews": 26863
+    }
+  ],
+  "Content Warning": [
+    {
+      "date": "2026-05-28",
+      "ccu": 1094,
+      "positive_rate": 89.9,
+      "total_reviews": 6814
+    },
+    {
+      "date": "2026-06-01",
+      "ccu": 1274,
+      "positive_rate": 89.9,
+      "total_reviews": 6820
+    },
+    {
+      "date": "2026-06-02",
+      "ccu": 1255,
+      "positive_rate": 89.9,
+      "total_reviews": 6820
+    },
+    {
+      "date": "2026-06-03",
+      "ccu": 1249,
+      "positive_rate": 89.9,
+      "total_reviews": 6821
+    },
+    {
+      "date": "2026-06-04",
+      "ccu": 1423,
+      "positive_rate": 89.9,
+      "total_reviews": 6821
+    },
+    {
+      "date": "2026-06-05",
+      "ccu": 1335,
+      "positive_rate": 89.9,
+      "total_reviews": 6821
+    },
+    {
+      "date": "2026-06-06",
+      "ccu": 1572,
+      "positive_rate": 89.9,
+      "total_reviews": 6822
+    },
+    {
+      "date": "2026-06-07",
+      "ccu": 1477,
+      "positive_rate": 89.9,
+      "total_reviews": 6822
+    },
+    {
+      "date": "2026-06-08",
+      "ccu": 1599,
+      "positive_rate": 89.9,
+      "total_reviews": 6823
+    },
+    {
+      "date": "2026-06-09",
+      "ccu": 1340,
+      "positive_rate": 89.9,
+      "total_reviews": 6828
+    },
+    {
+      "date": "2026-06-10",
+      "ccu": 1180,
+      "positive_rate": 89.9,
+      "total_reviews": 6828
+    },
+    {
+      "date": "2026-06-11",
+      "ccu": 1242,
+      "positive_rate": 89.9,
+      "total_reviews": 6826
+    },
+    {
+      "date": "2026-06-12",
+      "ccu": 1309,
+      "positive_rate": 89.9,
+      "total_reviews": 6827
+    },
+    {
+      "date": "2026-06-15",
+      "ccu": 1220,
+      "positive_rate": 89.9,
+      "total_reviews": 6830
+    },
+    {
+      "date": "2026-06-16",
+      "ccu": 1019,
+      "positive_rate": 89.9,
+      "total_reviews": 6829
+    },
+    {
+      "date": "2026-06-19",
+      "ccu": 1051,
+      "positive_rate": 89.8,
+      "total_reviews": 6835
+    },
+    {
+      "date": "2026-06-22",
+      "ccu": 515,
+      "positive_rate": 89.8,
+      "total_reviews": 6839
+    },
+    {
+      "date": "2026-06-23",
+      "ccu": 1110,
+      "positive_rate": 89.8,
+      "total_reviews": 6841
+    },
+    {
+      "date": "2026-06-26",
+      "ccu": 994,
+      "positive_rate": 89.8,
+      "total_reviews": 6845
+    },
+    {
+      "date": "2026-06-29",
+      "ccu": 1259,
+      "positive_rate": 89.9,
+      "total_reviews": 6849
+    },
+    {
+      "date": "2026-06-30",
+      "ccu": 1239,
+      "positive_rate": 89.9,
+      "total_reviews": 6848
+    }
+  ],
+  "FEEDERS": [
+    {
+      "date": "2026-05-28",
+      "ccu": 0,
+      "positive_rate": 0.0,
+      "total_reviews": 0
+    },
+    {
+      "date": "2026-06-01",
+      "ccu": 0,
+      "positive_rate": 0.0,
+      "total_reviews": 0
+    },
+    {
+      "date": "2026-06-02",
+      "ccu": 0,
+      "positive_rate": 0.0,
+      "total_reviews": 0
+    },
+    {
+      "date": "2026-06-03",
+      "ccu": 0,
+      "positive_rate": 0.0,
+      "total_reviews": 0
+    },
+    {
+      "date": "2026-06-04",
+      "ccu": 0,
+      "positive_rate": 0.0,
+      "total_reviews": 0
+    },
+    {
+      "date": "2026-06-05",
+      "ccu": 0,
+      "positive_rate": 0.0,
+      "total_reviews": 0
+    },
+    {
+      "date": "2026-06-06",
+      "ccu": 0,
+      "positive_rate": 0.0,
+      "total_reviews": 0
+    },
+    {
+      "date": "2026-06-07",
+      "ccu": 0,
+      "positive_rate": 0.0,
+      "total_reviews": 0
+    },
+    {
+      "date": "2026-06-08",
+      "ccu": 0,
+      "positive_rate": 0.0,
+      "total_reviews": 0
+    },
+    {
+      "date": "2026-06-09",
+      "ccu": 0,
+      "positive_rate": 0.0,
+      "total_reviews": 0
+    },
+    {
+      "date": "2026-06-10",
+      "ccu": 0,
+      "positive_rate": 0.0,
+      "total_reviews": 0
+    },
+    {
+      "date": "2026-06-11",
+      "ccu": 0,
+      "positive_rate": 0.0,
+      "total_reviews": 0
+    },
+    {
+      "date": "2026-06-12",
+      "ccu": 0,
+      "positive_rate": 0.0,
+      "total_reviews": 0
+    },
+    {
+      "date": "2026-06-15",
+      "ccu": 0,
+      "positive_rate": 0.0,
+      "total_reviews": 0
+    },
+    {
+      "date": "2026-06-16",
+      "ccu": 0,
+      "positive_rate": 0.0,
+      "total_reviews": 0
+    },
+    {
+      "date": "2026-06-19",
+      "ccu": 0,
+      "positive_rate": 0.0,
+      "total_reviews": 0
+    },
+    {
+      "date": "2026-06-22",
+      "ccu": 0,
+      "positive_rate": 0.0,
+      "total_reviews": 0
+    },
+    {
+      "date": "2026-06-23",
+      "ccu": 0,
+      "positive_rate": 64.3,
+      "total_reviews": 14
+    },
+    {
+      "date": "2026-06-26",
+      "ccu": 0,
+      "positive_rate": 64.3,
+      "total_reviews": 14
+    },
+    {
+      "date": "2026-06-29",
+      "ccu": 0,
+      "positive_rate": 64.3,
+      "total_reviews": 14
+    },
+    {
+      "date": "2026-06-30",
+      "ccu": 0,
+      "positive_rate": 64.3,
+      "total_reviews": 14
+    }
+  ],
+  "NARAKA: BLADEPOINT": [
+    {
+      "date": "2026-06-01",
+      "ccu": 13877,
+      "positive_rate": 72.0,
+      "total_reviews": 250340
+    },
+    {
+      "date": "2026-06-02",
+      "ccu": 6649,
+      "positive_rate": 72.0,
+      "total_reviews": 250347
+    },
+    {
+      "date": "2026-06-03",
+      "ccu": 13717,
+      "positive_rate": 72.0,
+      "total_reviews": 250362
+    },
+    {
+      "date": "2026-06-04",
+      "ccu": 6383,
+      "positive_rate": 72.0,
+      "total_reviews": 250375
+    },
+    {
+      "date": "2026-06-05",
+      "ccu": 955,
+      "positive_rate": 72.0,
+      "total_reviews": 250392
+    },
+    {
+      "date": "2026-06-06",
+      "ccu": 8375,
+      "positive_rate": 72.0,
+      "total_reviews": 250429
+    },
+    {
+      "date": "2026-06-07",
+      "ccu": 9840,
+      "positive_rate": 72.0,
+      "total_reviews": 250467
+    },
+    {
+      "date": "2026-06-08",
+      "ccu": 6322,
+      "positive_rate": 72.0,
+      "total_reviews": 250492
+    },
+    {
+      "date": "2026-06-09",
+      "ccu": 5932,
+      "positive_rate": 72.0,
+      "total_reviews": 250511
+    },
+    {
+      "date": "2026-06-10",
+      "ccu": 6177,
+      "positive_rate": 72.0,
+      "total_reviews": 250527
+    },
+    {
+      "date": "2026-06-11",
+      "ccu": 6925,
+      "positive_rate": 72.0,
+      "total_reviews": 250542
+    },
+    {
+      "date": "2026-06-12",
+      "ccu": 6374,
+      "positive_rate": 72.0,
+      "total_reviews": 250563
+    },
+    {
+      "date": "2026-06-15",
+      "ccu": 8750,
+      "positive_rate": 72.0,
+      "total_reviews": 250613
+    },
+    {
+      "date": "2026-06-16",
+      "ccu": 9241,
+      "positive_rate": 72.0,
+      "total_reviews": 250635
+    },
+    {
+      "date": "2026-06-19",
+      "ccu": 15765,
+      "positive_rate": 72.0,
+      "total_reviews": 250696
+    },
+    {
+      "date": "2026-06-22",
+      "ccu": 33221,
+      "positive_rate": 72.0,
+      "total_reviews": 250759
+    },
+    {
+      "date": "2026-06-23",
+      "ccu": 9712,
+      "positive_rate": 72.0,
+      "total_reviews": 250774
+    },
+    {
+      "date": "2026-06-26",
+      "ccu": 9269,
+      "positive_rate": 72.0,
+      "total_reviews": 250818
+    },
+    {
+      "date": "2026-06-29",
+      "ccu": 9661,
+      "positive_rate": 72.0,
+      "total_reviews": 250892
+    },
+    {
+      "date": "2026-06-30",
+      "ccu": 9198,
+      "positive_rate": 72.0,
+      "total_reviews": 250913
+    }
+  ]
+}

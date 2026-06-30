@@ -1,0 +1,46 @@
+name: Daily Data Crawl
+
+on:
+  schedule:
+    # UTC 00:00 = 北京时间 08:00
+    - cron: '0 0 * * *'
+  workflow_dispatch:  # 支持手动触发
+
+permissions:
+  contents: write  # 需要写权限来推送数据文件
+
+jobs:
+  crawl:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Run Steam data crawler
+        run: |
+          cd scripts
+          python main_crawler.py
+
+      - name: Run Chaoziran data crawler
+        run: |
+          cd scripts
+          python chaoziran_crawler.py
+
+      - name: Validate links
+        run: |
+          cd scripts
+          python validate_links.py
+
+      - name: Commit and push data
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add docs/data/
+          git diff --staged --quiet || git commit -m "📊 数据更新 $(date +'%Y-%m-%d')"
+          git push

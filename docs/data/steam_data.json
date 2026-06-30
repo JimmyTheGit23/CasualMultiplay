@@ -1,0 +1,452 @@
+{
+  "R.E.P.O.": {
+    "appid": 3241660,
+    "store": {
+      "name": "R.E.P.O.",
+      "name_en": "R.E.P.O.",
+      "type": "game",
+      "short_description": "An online co-op horror game with up to 6 players. Locate valuable, fully physics-based objects and handle them with care as you retrieve and extract to satisfy your creator's desires.",
+      "short_description_en": "An online co-op horror game with up to 6 players. Locate valuable, fully physics-based objects and handle them with care as you retrieve and extract to satisfy your creator's desires.",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3241660/a12c92856b71315da885924ea5e1d5290c8025b8/header_alt_assets_2.jpg?t=1778158882",
+      "developers": [
+        "semiwork"
+      ],
+      "publishers": [
+        "semiwork"
+      ],
+      "price": "¥ 22.75",
+      "price_en": "¥ 22.75",
+      "release_date": "2025 年 2 月 26 日",
+      "release_date_en": "26 Feb, 2025",
+      "metacritic": null,
+      "recommendations": 326109,
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "categories": [
+        "单人",
+        "多人",
+        "合作",
+        "在线合作",
+        "视角舒适度",
+        "自定义音量控制",
+        "无需应对快速反应事件",
+        "立体声",
+        "Steam 云",
+        "家庭共享"
+      ],
+      "categories_en": [
+        "Single-player",
+        "Multi-player",
+        "Co-op",
+        "Online Co-op",
+        "Camera Comfort",
+        "Custom Volume Controls",
+        "Playable without Timed Input",
+        "Stereo Sound",
+        "Steam Cloud",
+        "Family Sharing"
+      ],
+      "genres": [
+        "动作",
+        "抢先体验"
+      ],
+      "genres_en": [
+        "Action",
+        "Early Access"
+      ]
+    },
+    "steamspy": {
+      "ccu": 27816
+    },
+    "reviews": {
+      "total_reviews": 15056,
+      "positive": 13965,
+      "negative": 1091,
+      "positive_rate": 92.8
+    },
+    "ccu": 27816,
+    "crawled_at": "2026-06-30T09:52:53.188453"
+  },
+  "Lethal Company": {
+    "appid": 1966720,
+    "store": {
+      "name": "Lethal Company",
+      "name_en": "Lethal Company",
+      "type": "game",
+      "short_description": "A co-op horror about scavenging at abandoned moons to sell scrap to the Company.",
+      "short_description_en": "A co-op horror about scavenging at abandoned moons to sell scrap to the Company.",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1966720/header.jpg?t=1775380053",
+      "developers": [
+        "Zeekerss"
+      ],
+      "publishers": [
+        "Zeekerss"
+      ],
+      "price": "¥ 42.00",
+      "price_en": "¥ 42.00",
+      "release_date": "2023 年 10 月 23 日",
+      "release_date_en": "23 Oct, 2023",
+      "metacritic": null,
+      "recommendations": 410323,
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "categories": [
+        "单人",
+        "多人",
+        "合作",
+        "在线合作",
+        "自定义音量控制",
+        "立体声",
+        "部分支持控制器",
+        "家庭共享"
+      ],
+      "categories_en": [
+        "Single-player",
+        "Multi-player",
+        "Co-op",
+        "Online Co-op",
+        "Custom Volume Controls",
+        "Stereo Sound",
+        "Partial Controller Support",
+        "Family Sharing"
+      ],
+      "genres": [
+        "动作",
+        "冒险",
+        "独立",
+        "抢先体验"
+      ],
+      "genres_en": [
+        "Action",
+        "Adventure",
+        "Indie",
+        "Early Access"
+      ]
+    },
+    "steamspy": {
+      "ccu": 3475
+    },
+    "reviews": {
+      "total_reviews": 17633,
+      "positive": 16384,
+      "negative": 1249,
+      "positive_rate": 92.9
+    },
+    "ccu": 3475,
+    "crawled_at": "2026-06-30T09:52:59.422175"
+  },
+  "Phasmophobia": {
+    "appid": 739630,
+    "store": {
+      "name": "Phasmophobia 恐鬼症",
+      "name_en": "Phasmophobia",
+      "type": "game",
+      "short_description": "Phasmophobia is a 4 player online co-op psychological horror. Paranormal activity is on the rise and it’s up to you and your team to use all the ghost-hunting equipment at your disposal in order to gather as much evidence as you can.",
+      "short_description_en": "Phasmophobia is a 4 player online co-op psychological horror. Paranormal activity is on the rise and it’s up to you and your team to use all the ghost-hunting equipment at your disposal in order to gather as much evidence as you can.",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/739630/c227a2855aba60f3657bc0c3a46515b8c41fb2b6/header.jpg?t=1782311537",
+      "developers": [
+        "Kinetic Games"
+      ],
+      "publishers": [
+        "Kinetic Games"
+      ],
+      "price": "¥ 47.60",
+      "price_en": "¥ 47.60",
+      "release_date": "2020 年 9 月 18 日",
+      "release_date_en": "18 Sep, 2020",
+      "metacritic": null,
+      "recommendations": 678534,
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "categories": [
+        "单人",
+        "多人",
+        "合作",
+        "在线合作",
+        "Steam 成就",
+        "完全支持控制器",
+        "定位控制器支持",
+        "已支持 VR",
+        "Steam 集换式卡牌",
+        "视角舒适度",
+        "可调整难度",
+        "无需应对快速反应事件",
+        "DUALSHOCK 控制器支持",
+        "DUALSHOCK 控制器支持",
+        "DUALSHOCK 控制器支持",
+        "DUALSHOCK 控制器支持",
+        "立体声",
+        "环绕声",
+        "Steam 云",
+        "在手机上远程畅玩",
+        "在平板上远程畅玩",
+        "家庭共享"
+      ],
+      "categories_en": [
+        "Single-player",
+        "Multi-player",
+        "Co-op",
+        "Online Co-op",
+        "Steam Achievements",
+        "Full controller support",
+        "Tracked Controller Support",
+        "VR Supported",
+        "Steam Trading Cards",
+        "Camera Comfort",
+        "Adjustable Difficulty",
+        "Playable without Timed Input",
+        "DualShock Controller Support",
+        "DualShock Controller Support",
+        "DualShock Controller Support",
+        "DualShock Controller Support",
+        "Stereo Sound",
+        "Surround Sound",
+        "Steam Cloud",
+        "Remote Play on Phone",
+        "Remote Play on Tablet",
+        "Family Sharing"
+      ],
+      "genres": [
+        "动作",
+        "独立",
+        "抢先体验"
+      ],
+      "genres_en": [
+        "Action",
+        "Indie",
+        "Early Access"
+      ]
+    },
+    "steamspy": {
+      "ccu": 8234
+    },
+    "reviews": {
+      "total_reviews": 26863,
+      "positive": 24344,
+      "negative": 2519,
+      "positive_rate": 90.6
+    },
+    "ccu": 8234,
+    "crawled_at": "2026-06-30T09:53:05.791568"
+  },
+  "Content Warning": {
+    "appid": 2881650,
+    "store": {
+      "name": "前方高能",
+      "name_en": "Content Warning",
+      "type": "game",
+      "short_description": "录下好友的惊悚作死镜头，一跃成为“幽哩幽哩”的顶流巨星！（强烈建议开黑游玩）",
+      "short_description_en": "Film your friends doing scary things to become SpöökTube famous! (strongly advised to not go alone)",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2881650/header_schinese.jpg?t=1775640428",
+      "developers": [
+        "Zorro",
+        "Wilnyl",
+        "Philip",
+        "thePetHen",
+        "Skog"
+      ],
+      "publishers": [
+        "Evil Landfall?"
+      ],
+      "price": "¥ 20.46",
+      "price_en": "¥ 20.46",
+      "release_date": "2024 年 4 月 1 日",
+      "release_date_en": "1 Apr, 2024",
+      "metacritic": null,
+      "recommendations": 70024,
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "categories": [
+        "多人",
+        "合作",
+        "在线合作",
+        "DUALSHOCK 控制器支持",
+        "DUALSHOCK 控制器支持",
+        "部分支持控制器",
+        "Steam 云",
+        "家庭共享"
+      ],
+      "categories_en": [
+        "Multi-player",
+        "Co-op",
+        "Online Co-op",
+        "DualShock Controller Support",
+        "DualShock Controller Support",
+        "Partial Controller Support",
+        "Steam Cloud",
+        "Family Sharing"
+      ],
+      "genres": [
+        "动作",
+        "冒险",
+        "独立"
+      ],
+      "genres_en": [
+        "Action",
+        "Adventure",
+        "Indie"
+      ]
+    },
+    "steamspy": {
+      "ccu": 1239
+    },
+    "reviews": {
+      "total_reviews": 6848,
+      "positive": 6153,
+      "negative": 695,
+      "positive_rate": 89.9
+    },
+    "ccu": 1239,
+    "crawled_at": "2026-06-30T09:53:12.662869"
+  },
+  "FEEDERS": {
+    "appid": 4408510,
+    "store": {
+      "name": "FEEDERS",
+      "name_en": "FEEDERS",
+      "type": "game",
+      "short_description": "2079年。太阳爆炸了。有钱人逃到地底。你被送到最顶层，那里的天空在燃烧。他们叫你顶楼老鼠。下去那些废墟，里面爬满了独特怪物。发出声音，一种来追你。保持沉默，另一种找到你。1-4人合作恐怖游戏。",
+      "short_description_en": "2079. The sun exploded. The rich fled underground. You were sent to the top, where the sky burns. They call you Penthouse Rats. Descend into ruins crawling with smart, unique creatures. Make noise, one hunts you. Stay silent, another finds you. 1-4 player co-op horror.",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4408510/989cbd9100fe7246a3b6241dc7df43fece58e74a/header.jpg?t=1779542430",
+      "developers": [
+        "Luvi Technologies"
+      ],
+      "publishers": [
+        "Luvi Technologies"
+      ],
+      "price": "¥ 26.00",
+      "price_en": "¥ 26.00",
+      "release_date": "2026 年 3 月 30 日",
+      "release_date_en": "30 Mar, 2026",
+      "metacritic": null,
+      "recommendations": 0,
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "categories": [
+        "单人",
+        "多人",
+        "合作",
+        "在线合作",
+        "立体声",
+        "环绕声",
+        "家庭共享"
+      ],
+      "categories_en": [
+        "Single-player",
+        "Multi-player",
+        "Co-op",
+        "Online Co-op",
+        "Stereo Sound",
+        "Surround Sound",
+        "Family Sharing"
+      ],
+      "genres": [
+        "动作",
+        "冒险",
+        "独立",
+        "抢先体验"
+      ],
+      "genres_en": [
+        "Action",
+        "Adventure",
+        "Indie",
+        "Early Access"
+      ]
+    },
+    "steamspy": null,
+    "reviews": {
+      "total_reviews": 14,
+      "positive": 9,
+      "negative": 5,
+      "positive_rate": 64.3
+    },
+    "ccu": 0,
+    "crawled_at": "2026-06-30T09:53:24.275783"
+  },
+  "NARAKA: BLADEPOINT": {
+    "appid": 1203220,
+    "store": {
+      "name": "永劫无间",
+      "name_en": "NARAKA: BLADEPOINT",
+      "type": "game",
+      "short_description": "风靡全球的中式竞技大作！来这里舞利刃、端火枪，享受远近结合的华丽战斗！驾驭风沙、机甲，化身野兽、大佛，体验风格迥异的英雄能力！",
+      "short_description_en": "Dive into the legends of the Far East in NARAKA: BLADEPOINT; team up with friends in fast-paced melee fights for a Battle Royale experience unlike any other. Find your playstyle with a varied cast of heroes with unique skills. More than 40 million players have already joined the fray, play free now!",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1203220/eab492b9f38afc2bd34537d2ecd327552c5fa3e4/header_schinese.jpg?t=1778037276",
+      "developers": [
+        "24 Entertainment"
+      ],
+      "publishers": [
+        "NetEase Games "
+      ],
+      "price": "免费",
+      "price_en": "Free To Play",
+      "release_date": "2021 年 8 月 11 日",
+      "release_date_en": "11 Aug, 2021",
+      "metacritic": null,
+      "recommendations": 197737,
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "categories": [
+        "多人",
+        "玩家对战",
+        "线上玩家对战",
+        "Steam 成就",
+        "Steam 集换式卡牌",
+        "应用内购买",
+        "部分支持控制器",
+        "可用 HDR"
+      ],
+      "categories_en": [
+        "Multi-player",
+        "PvP",
+        "Online PvP",
+        "Steam Achievements",
+        "Steam Trading Cards",
+        "In-App Purchases",
+        "Partial Controller Support",
+        "HDR available"
+      ],
+      "genres": [
+        "动作",
+        "冒险",
+        "大型多人在线",
+        "免费开玩"
+      ],
+      "genres_en": [
+        "Action",
+        "Adventure",
+        "Massively Multiplayer",
+        "Free To Play"
+      ]
+    },
+    "steamspy": {
+      "ccu": 9198
+    },
+    "reviews": {
+      "total_reviews": 250913,
+      "positive": 180561,
+      "negative": 70352,
+      "positive_rate": 72.0
+    },
+    "ccu": 9198,
+    "crawled_at": "2026-06-30T09:53:30.674084"
+  }
+}
