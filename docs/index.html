@@ -3894,10 +3894,13 @@ If you want to know what happened next, let’s listen to the explanation next t
         function renderAll() {
             renderLastUpdate();
             renderOverview();
-            renderChaoziran();
-            renderRepo();
-            renderDBD();
-            renderCompetitors();
+            // 旧渲染函数延迟执行,避免阻塞发现页
+            setTimeout(() => {
+                try { renderChaoziran(); } catch(e) { console.warn('renderChaoziran:', e); }
+                try { renderRepo(); } catch(e) { console.warn('renderRepo:', e); }
+                try { renderDBD(); } catch(e) { console.warn('renderDBD:', e); }
+                try { renderCompetitors(); } catch(e) { console.warn('renderCompetitors:', e); }
+            }, 50);
         }
 
         // ========== 游戏详情页：选择器 + 子面板切换 ==========
@@ -4977,7 +4980,8 @@ If you want to know what happened next, let’s listen to the explanation next t
             if (czr.taptap) {
                 const t = czr.taptap;
                 const scoreVal = parseFloat(t.score_display || t.rating_value || t.score);
-                document.getElementById('taptap-fans').textContent = t.fans_count
+                const fansEl = document.getElementById('taptap-fans');
+                if (fansEl) fansEl.textContent = t.fans_count
                     ? (currentLang === 'zh' ? formatCompactZh(t.fans_count) : formatCompactEn(t.fans_count))
                     : '--';
                 // Hero评分
