@@ -1,0 +1,1594 @@
+{
+  "fetched_at": "2026-07-01",
+  "games": [
+    {
+      "appid": 3241660,
+      "name": "R.E.P.O.",
+      "cn_name": "R.E.P.O.",
+      "developer": "semiwork",
+      "publisher": "semiwork",
+      "release_date": "2025 年 2 月 26 日",
+      "is_free": false,
+      "price": "¥ 22.75",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3241660/a12c92856b71315da885924ea5e1d5290c8025b8/header_alt_assets_2.jpg?t=1778158882",
+      "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3241660/e29789d09be972ea786975695bdde1cc047a76e1/capsule_184x69_alt_assets_2.jpg?t=1778158882",
+      "short_description": "An online co-op horror game with up to 6 players. Locate valuable, fully physics-based objects and handle them with care as you retrieve and extract to satisfy your creator's desires.",
+      "categories": [
+        "单人",
+        "多人",
+        "合作",
+        "在线合作",
+        "视角舒适度",
+        "自定义音量控制",
+        "无需应对快速反应事件",
+        "立体声",
+        "Steam 云",
+        "家庭共享"
+      ],
+      "genres": [
+        "动作",
+        "抢先体验"
+      ],
+      "screenshots": [
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3241660/ss_e6babaab52581f81df91e50768cee6a9334ef6ec.600x338.jpg?t=1778158882",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3241660/ss_af7d8d6302d543d89019bad49ea853a970bb82de.600x338.jpg?t=1778158882",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3241660/ss_a66715d57329c456d91aeb11fbd406e7d8c5dbc7.600x338.jpg?t=1778158882",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3241660/ss_cd332c2299810a65c6aee61c04750197a919692a.600x338.jpg?t=1778158882",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3241660/ss_e4dc1bc0ada8fb7cb164b3ac37be82f51aae5627.600x338.jpg?t=1778158882"
+      ],
+      "recommendations": 326401,
+      "achievements": 0,
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "metacritic": null
+    },
+    {
+      "appid": 1966720,
+      "name": "Lethal Company",
+      "cn_name": "致命公司",
+      "developer": "Zeekerss",
+      "publisher": "Zeekerss",
+      "release_date": "2023 年 10 月 23 日",
+      "is_free": false,
+      "price": "¥ 42.00",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1966720/header.jpg?t=1775380053",
+      "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1966720/capsule_184x69.jpg?t=1775380053",
+      "short_description": "A co-op horror about scavenging at abandoned moons to sell scrap to the Company.",
+      "categories": [
+        "单人",
+        "多人",
+        "合作",
+        "在线合作",
+        "自定义音量控制",
+        "立体声",
+        "部分支持控制器",
+        "家庭共享"
+      ],
+      "genres": [
+        "动作",
+        "冒险",
+        "独立",
+        "抢先体验"
+      ],
+      "screenshots": [
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1966720/ss_78075e9a94675823024f12fce9d69b243cca94f8.600x338.jpg?t=1775380053",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1966720/ss_51860be59845771c01a3a4d9ab1ebf773f16fef5.600x338.jpg?t=1775380053",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1966720/ss_08fa3ef83b6eb70313119096f82285fa411f02e5.600x338.jpg?t=1775380053",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1966720/ss_568d97dfa9d8d3128157d84c9437030ccc1011b0.600x338.jpg?t=1775380053",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1966720/ss_e07f1d6ee90e3669118096dab1fe52c20ec6ce10.600x338.jpg?t=1775380053",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1966720/ss_0499d96a2b9ca0fc8966d77e6d5c95ae94c38492.600x338.jpg?t=1775380053"
+      ],
+      "recommendations": 410348,
+      "achievements": 0,
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "metacritic": null
+    },
+    {
+      "appid": 2881650,
+      "name": "前方高能",
+      "cn_name": "内容警告",
+      "developer": "Zorro",
+      "publisher": "Evil Landfall?",
+      "release_date": "2024 年 4 月 1 日",
+      "is_free": false,
+      "price": "¥ 20.46",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2881650/header_schinese.jpg?t=1775640428",
+      "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2881650/capsule_184x69_schinese.jpg?t=1775640428",
+      "short_description": "录下好友的惊悚作死镜头，一跃成为“幽哩幽哩”的顶流巨星！（强烈建议开黑游玩）",
+      "categories": [
+        "多人",
+        "合作",
+        "在线合作",
+        "DUALSHOCK 控制器支持",
+        "DUALSHOCK 控制器支持",
+        "部分支持控制器",
+        "Steam 云",
+        "家庭共享"
+      ],
+      "genres": [
+        "动作",
+        "冒险",
+        "独立"
+      ],
+      "screenshots": [
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2881650/ss_5df7377699e11b22ffbb604f2b3cc74d39d9bb2f.600x338.jpg?t=1775640428",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2881650/ss_0639604a881c0a0c9e02960b61d108c1f643809d.600x338.jpg?t=1775640428",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2881650/ss_f7f450f42db587f4e143ad1178500ad786c965a3.600x338.jpg?t=1775640428",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2881650/ss_ae459a02056e53665b20270b3b2c2ec74e6c4963.600x338.jpg?t=1775640428",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2881650/ss_86404e1606ca67a485e20c71cddd3cffdc511c71.600x338.jpg?t=1775640428",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2881650/ss_35c0fbe15af6816fd0d53156f0330e78a73c533d.600x338.jpg?t=1775640428"
+      ],
+      "recommendations": 70060,
+      "achievements": 48,
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "metacritic": null
+    },
+    {
+      "appid": 4408510,
+      "name": "FEEDERS",
+      "cn_name": "饲养者",
+      "developer": "Luvi Technologies",
+      "publisher": "Luvi Technologies",
+      "release_date": "2026 年 3 月 30 日",
+      "is_free": false,
+      "price": "¥ 26.00",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4408510/989cbd9100fe7246a3b6241dc7df43fece58e74a/header.jpg?t=1779542430",
+      "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4408510/ec349c3846c24bd45d2a823d5b141d791215fbd9/capsule_184x69.jpg?t=1779542430",
+      "short_description": "2079年。太阳爆炸了。有钱人逃到地底。你被送到最顶层，那里的天空在燃烧。他们叫你顶楼老鼠。下去那些废墟，里面爬满了独特怪物。发出声音，一种来追你。保持沉默，另一种找到你。1-4人合作恐怖游戏。",
+      "categories": [
+        "单人",
+        "多人",
+        "合作",
+        "在线合作",
+        "立体声",
+        "环绕声",
+        "家庭共享"
+      ],
+      "genres": [
+        "动作",
+        "冒险",
+        "独立",
+        "抢先体验"
+      ],
+      "screenshots": [
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4408510/f4fd0064e57a2392d936dcf2f5fbc5ced8f37497/ss_f4fd0064e57a2392d936dcf2f5fbc5ced8f37497.600x338.jpg?t=1779542430",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4408510/225d775d982c2cc98d57c64dde1b4f8d52866756/ss_225d775d982c2cc98d57c64dde1b4f8d52866756.600x338.jpg?t=1779542430",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4408510/d92ff3377efa836d9dcff3b5ee7fe928b23994ca/ss_d92ff3377efa836d9dcff3b5ee7fe928b23994ca.600x338.jpg?t=1779542430",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4408510/e2f1acc0a58e13e71252b01b57c9d0e063082b75/ss_e2f1acc0a58e13e71252b01b57c9d0e063082b75.600x338.jpg?t=1779542430",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4408510/9aee07cfa730037294efc089d3db62a1a763997d/ss_9aee07cfa730037294efc089d3db62a1a763997d.600x338.jpg?t=1779542430"
+      ],
+      "recommendations": 0,
+      "achievements": 0,
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "metacritic": null
+    },
+    {
+      "appid": 3527290,
+      "name": "PEAK",
+      "cn_name": "巅峰梦序",
+      "developer": "Team PEAK",
+      "publisher": "Aggro Crab",
+      "release_date": "2025 年 6 月 16 日",
+      "is_free": false,
+      "price": "¥ 20.46",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3527290/31bac6b2eccf09b368f5e95ce510bae2baf3cfcd/header.jpg?t=1775581133",
+      "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3527290/1844964d7a353e50eb3cc979ea922729d8c1b0ad/capsule_184x69.jpg?t=1775581133",
+      "short_description": "《PEAK》是一款需要细致合作的登山游戏，作为流落神秘岛屿的童子军探险家，无论单人独闯抑或团队协力，你们唯一获救的希望便是登上岛中那座巍峨的山峰，自然荒野险途漫漫，稍有不慎便会大难临头。顶峰在望，你有魄力能征服它吗？",
+      "categories": [
+        "单人",
+        "多人",
+        "合作",
+        "在线合作",
+        "Steam 成就",
+        "完全支持控制器",
+        "Steam 集换式卡牌",
+        "DUALSHOCK 控制器支持",
+        "DUALSHOCK 控制器支持",
+        "DUALSHOCK 控制器支持",
+        "DUALSHOCK 控制器支持",
+        "家庭共享"
+      ],
+      "genres": [
+        "动作",
+        "冒险",
+        "独立"
+      ],
+      "screenshots": [
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3527290/bac7b90dffb456afecc4517a3e1d69362b95d15b/ss_bac7b90dffb456afecc4517a3e1d69362b95d15b.600x338.jpg?t=1775581133",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3527290/9c500124c060f162f111afa679bf5d3a32b3fb40/ss_9c500124c060f162f111afa679bf5d3a32b3fb40.600x338.jpg?t=1775581133",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3527290/84436aac3675c39a9e21a14a4a9a3a8a7d9dea26/ss_84436aac3675c39a9e21a14a4a9a3a8a7d9dea26.600x338.jpg?t=1775581133",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3527290/55365bfa09745df86bed72720a842f64d8724b9d/ss_55365bfa09745df86bed72720a842f64d8724b9d.600x338.jpg?t=1775581133",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3527290/c673fede352b201b3f897521e4e6eb6814a38c50/ss_c673fede352b201b3f897521e4e6eb6814a38c50.600x338.jpg?t=1775581133",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3527290/63b22127ea64aba8b16c33a172b0fedbf542e834/ss_63b22127ea64aba8b16c33a172b0fedbf542e834.600x338.jpg?t=1775581133"
+      ],
+      "recommendations": 270664,
+      "achievements": 54,
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "metacritic": null
+    },
+    {
+      "appid": 739630,
+      "name": "Phasmophobia 恐鬼症",
+      "cn_name": "恐鬼症",
+      "developer": "Kinetic Games",
+      "publisher": "Kinetic Games",
+      "release_date": "2020 年 9 月 18 日",
+      "is_free": false,
+      "price": "¥ 47.60",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/739630/c227a2855aba60f3657bc0c3a46515b8c41fb2b6/header.jpg?t=1782311537",
+      "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/739630/0268c77668d5643d3f2c19e67e92e252fdfe6c7f/capsule_184x69.jpg?t=1782311537",
+      "short_description": "Phasmophobia is a 4 player online co-op psychological horror. Paranormal activity is on the rise and it’s up to you and your team to use all the ghost-hunting equipment at your disposal in order to gather as much evidence as you can.",
+      "categories": [
+        "单人",
+        "多人",
+        "合作",
+        "在线合作",
+        "Steam 成就",
+        "完全支持控制器",
+        "定位控制器支持",
+        "已支持 VR",
+        "Steam 集换式卡牌",
+        "视角舒适度",
+        "可调整难度",
+        "无需应对快速反应事件",
+        "DUALSHOCK 控制器支持",
+        "DUALSHOCK 控制器支持",
+        "DUALSHOCK 控制器支持",
+        "DUALSHOCK 控制器支持",
+        "立体声",
+        "环绕声",
+        "Steam 云",
+        "在手机上远程畅玩",
+        "在平板上远程畅玩",
+        "家庭共享"
+      ],
+      "genres": [
+        "动作",
+        "独立",
+        "抢先体验"
+      ],
+      "screenshots": [
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/739630/ec30a770064ea10c2bcfb1b3002a3dbd086be516/ss_ec30a770064ea10c2bcfb1b3002a3dbd086be516.600x338.jpg?t=1782311537",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/739630/e9b67c7a3744a36cd5cc29adc13c6caaa4172e26/ss_e9b67c7a3744a36cd5cc29adc13c6caaa4172e26.600x338.jpg?t=1782311537",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/739630/1ec54d1d45005e5ddd8360b05e5bbdea3a9090f2/ss_1ec54d1d45005e5ddd8360b05e5bbdea3a9090f2.600x338.jpg?t=1782311537",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/739630/71f1c151812f056bdbf1aa0c0d5779bb12f31a2a/ss_71f1c151812f056bdbf1aa0c0d5779bb12f31a2a.600x338.jpg?t=1782311537",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/739630/36bacb3935192ddacb4259cc964ab6e6f4be2d44/ss_36bacb3935192ddacb4259cc964ab6e6f4be2d44.600x338.jpg?t=1782311537",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/739630/a1a0840e05ff4007115fa2e51f725d1f1a9860c9/ss_a1a0840e05ff4007115fa2e51f725d1f1a9860c9.600x338.jpg?t=1782311537"
+      ],
+      "recommendations": 678585,
+      "achievements": 54,
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "metacritic": null
+    },
+    {
+      "appid": 1929610,
+      "name": "Demonologist",
+      "cn_name": "驱魔人",
+      "developer": "Clock Wizard Games",
+      "publisher": "Clock Wizard Games",
+      "release_date": "2023 年 9 月 25 日",
+      "is_free": false,
+      "price": "¥ 38.00",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1929610/header.jpg?t=1761136310",
+      "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1929610/capsule_184x69.jpg?t=1761136310",
+      "short_description": "恶魔学家是一款合作式恐怖游戏，可由至少1名和最多4名玩家一起玩。你的目标是识别被诅咒的地方的恶灵类型，并使用你的设备将其驱除，无论是单独还是与你的团队合作。",
+      "categories": [
+        "单人",
+        "多人",
+        "合作",
+        "在线合作",
+        "Steam 成就",
+        "Steam 云",
+        "家庭共享"
+      ],
+      "genres": [
+        "动作",
+        "冒险",
+        "独立"
+      ],
+      "screenshots": [
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1929610/ss_fecf052208c1c1b8ce475c41cc16bdb1dca85a60.600x338.jpg?t=1761136310",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1929610/ss_87b862f21a084d11b3574e1ca3fcc21082249019.600x338.jpg?t=1761136310",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1929610/ss_c8e2c9bb16807970bba18d39803d08b93eac6a57.600x338.jpg?t=1761136310",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1929610/ss_385d75a41dd69da50e5c6d77330101f294069d56.600x338.jpg?t=1761136310",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1929610/ss_3cf4a2ae86686d59eab58f7afa1b84f5e703eb5c.600x338.jpg?t=1761136310",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1929610/ss_b86c81d424bc256e0287e87dc7d472520a494570.600x338.jpg?t=1761136310"
+      ],
+      "recommendations": 18555,
+      "achievements": 24,
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "metacritic": null
+    },
+    {
+      "appid": 1304930,
+      "name": "The Outlast Trials",
+      "cn_name": "逃生：试炼",
+      "developer": "Red Barrels",
+      "publisher": "Red Barrels",
+      "release_date": "2024 年 3 月 5 日",
+      "is_free": false,
+      "price": "¥ 40.80",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1304930/5a49938b6562464d06a9b7155bae9c435bb71093/header_alt_assets_2.jpg?t=1779221190",
+      "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1304930/0006315ae2565f31c7675488766cccbc79fc34a8/capsule_184x69_alt_assets_2.jpg?t=1779221190",
+      "short_description": "Red Barrels invites you to experience mind-numbing terror, this time with friends. Whether you go through the trials alone or in teams, if you survive long enough and complete the therapy, Murkoff will happily let you leave… but will you be the same?",
+      "categories": [
+        "单人",
+        "多人",
+        "合作",
+        "在线合作",
+        "完全支持控制器",
+        "DUALSHOCK 控制器支持",
+        "DUALSHOCK 控制器支持",
+        "DUALSHOCK 控制器支持",
+        "DUALSHOCK 控制器支持",
+        "家庭共享"
+      ],
+      "genres": [
+        "动作",
+        "冒险",
+        "独立"
+      ],
+      "screenshots": [
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1304930/ss_dcf2a8284d687f9319ac91a02b534dc91971754c.600x338.jpg?t=1779221190",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1304930/ss_6efe75be88bdfe0100f4b67ffe7e1034f1cf0cfe.600x338.jpg?t=1779221190",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1304930/ss_0576920dd310fd71cf63ff3035ff46137634febf.600x338.jpg?t=1779221190",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1304930/ss_dc46aa1b812001788a915f9088148356a697b305.600x338.jpg?t=1779221190",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1304930/ss_da9e1f8fe8ee47b129950570aa1baca12480ae63.600x338.jpg?t=1779221190",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1304930/ss_0a9b163b1458d64c79299353d485160176ca899c.600x338.jpg?t=1779221190"
+      ],
+      "recommendations": 86052,
+      "achievements": 27,
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "metacritic": null
+    },
+    {
+      "appid": 594650,
+      "name": "猎杀：对决 1896",
+      "cn_name": "猎杀：对决",
+      "developer": "Crytek",
+      "publisher": "Crytek",
+      "release_date": "2019 年 8 月 27 日",
+      "is_free": false,
+      "price": "¥ 51.20",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/594650/a99c5b7bf79b09a031e835692d32dc264437ef21/header_alt_assets_25.jpg?t=1782727595",
+      "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/594650/078c88d470cfe352b33a97e64d61ca81b961ceaa/capsule_184x69_alt_assets_25.jpg?t=1782727595",
+      "short_description": "《猎杀：对决 1896》是一款硬核高回报的撤离式射击游戏。追踪畸变怪物，在残酷的PvP对抗中生还。深入被历史遗忘的腐化荒泽，夺取悬赏赏金。组队协作，才能求得生存。一无所有葬身荒野，或是满载物资全身而退，都在一念之间。",
+      "categories": [
+        "多人",
+        "玩家对战",
+        "线上玩家对战",
+        "合作",
+        "在线合作",
+        "Steam 成就",
+        "完全支持控制器",
+        "Steam 集换式卡牌",
+        "应用内购买",
+        "Steam 排行榜",
+        "在平板上远程畅玩",
+        "在电视上远程畅玩"
+      ],
+      "genres": [
+        "动作"
+      ],
+      "screenshots": [
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/594650/09fb643d55de8aad0ebdc929bec4758a5232858d/ss_09fb643d55de8aad0ebdc929bec4758a5232858d.600x338.jpg?t=1782727595",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/594650/d5cd34a1eed17fee5a0c549742840c8d93493663/ss_d5cd34a1eed17fee5a0c549742840c8d93493663.600x338.jpg?t=1782727595",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/594650/201cbfea739d910328ea3dd2c53fe168792d5f26/ss_201cbfea739d910328ea3dd2c53fe168792d5f26.600x338.jpg?t=1782727595",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/594650/b6c503d937922a098bee64ecb40474bf4ac15033/ss_b6c503d937922a098bee64ecb40474bf4ac15033.600x338.jpg?t=1782727595",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/594650/77321e59cbedd4bb9c1bab532a9ca02ddd89eb7a/ss_77321e59cbedd4bb9c1bab532a9ca02ddd89eb7a.600x338.jpg?t=1782727595",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/594650/ss_06e8b64880a467d5a29fa0acc49c27b09b24a473.600x338.jpg?t=1782727595"
+      ],
+      "recommendations": 210328,
+      "achievements": 36,
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "metacritic": 81
+    },
+    {
+      "appid": 1203220,
+      "name": "永劫无间",
+      "cn_name": "永劫无间",
+      "developer": "24 Entertainment",
+      "publisher": "NetEase Games ",
+      "release_date": "2021 年 8 月 11 日",
+      "is_free": true,
+      "price": "免费",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1203220/eab492b9f38afc2bd34537d2ecd327552c5fa3e4/header_schinese.jpg?t=1778037276",
+      "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1203220/6693bf77838abdcd3f35a84daa481bb798d9ba94/capsule_184x69_schinese.jpg?t=1778037276",
+      "short_description": "风靡全球的中式竞技大作！来这里舞利刃、端火枪，享受远近结合的华丽战斗！驾驭风沙、机甲，化身野兽、大佛，体验风格迥异的英雄能力！",
+      "categories": [
+        "多人",
+        "玩家对战",
+        "线上玩家对战",
+        "Steam 成就",
+        "Steam 集换式卡牌",
+        "应用内购买",
+        "部分支持控制器",
+        "可用 HDR"
+      ],
+      "genres": [
+        "动作",
+        "冒险",
+        "大型多人在线",
+        "免费开玩"
+      ],
+      "screenshots": [
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1203220/ss_7c80e5e90fc91b6aa44055878b7f76770fa9dc9d.600x338.jpg?t=1778037276",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1203220/ss_7c9fb88fa0aae74107c8bf7d2e4c8bdd400aa1c5.600x338.jpg?t=1778037276",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1203220/ss_841eaef35b52960a4ea832b6849b3595c156d00a.600x338.jpg?t=1778037276",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1203220/ss_ec9b7ef9482db3fec5ab25dab0be168a02dc0b43.600x338.jpg?t=1778037276",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1203220/ss_e03f21bb343859edcb0b28c3950a2d6ff9ecbf48.600x338.jpg?t=1778037276",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1203220/ss_f31c96165b9384945a321fef9effbc0a0d539b90.600x338.jpg?t=1778037276"
+      ],
+      "recommendations": 197735,
+      "achievements": 40,
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "metacritic": null
+    },
+    {
+      "appid": 3978820,
+      "name": "灰境行者",
+      "cn_name": "灰境行者",
+      "developer": "Grey State Studio",
+      "publisher": "Grey State Studio",
+      "release_date": "即将宣布",
+      "is_free": true,
+      "price": "免费",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3978820/78e11f819d574de40c71732ec86411e024e333d8/header_schinese.jpg?t=1778642131",
+      "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3978820/5a163e3e10186b39438963efbb59771ba1b17a09/capsule_184x69_schinese.jpg?t=1778642131",
+      "short_description": "欢迎来到《灰境行者》，一款全新的战术射击RPG。你将操控“行者”仿生体进入神秘的“灰境”，面对扭曲的怪物与其他小队，打造你的专属构筑，杀出重围，满载而归！ 记住：一切恐怖，皆是财富。",
+      "categories": [
+        "多人",
+        "大型多人在线",
+        "玩家对战",
+        "线上玩家对战",
+        "合作",
+        "在线合作",
+        "家庭共享"
+      ],
+      "genres": [
+        "动作",
+        "冒险",
+        "角色扮演",
+        "免费开玩"
+      ],
+      "screenshots": [
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3978820/021cd602e6708373746ad677dd0d577651b6897e/ss_021cd602e6708373746ad677dd0d577651b6897e.600x338.jpg?t=1778642131",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3978820/588619646fe68f5099488437d2867577a50ec620/ss_588619646fe68f5099488437d2867577a50ec620.600x338.jpg?t=1778642131",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3978820/29cee55c93d24971ced9477b095d4653410de4d0/ss_29cee55c93d24971ced9477b095d4653410de4d0.600x338.jpg?t=1778642131",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3978820/a5ec016d42397640620130fdc4b858c65296c613/ss_a5ec016d42397640620130fdc4b858c65296c613.600x338.jpg?t=1778642131",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3978820/7841c6006e3250ce1650f75c24b06d6002aff1ef/ss_7841c6006e3250ce1650f75c24b06d6002aff1ef.600x338.jpg?t=1778642131",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3978820/621a40713b254b15708d5a03a536f3167ad1065a/ss_621a40713b254b15708d5a03a536f3167ad1065a.600x338.jpg?t=1778642131"
+      ],
+      "recommendations": 0,
+      "achievements": 0,
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "metacritic": null
+    },
+    {
+      "appid": 3850670,
+      "name": "HAUNTED: Escape the Dollhouse",
+      "cn_name": "Haunted",
+      "developer": "Coven",
+      "publisher": "Coven",
+      "release_date": "即将宣布",
+      "is_free": false,
+      "price": "免费",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3850670/0b81efc92e1dcac4054f452f142300df001fd9c1/header_schinese.jpg?t=1782261484",
+      "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3850670/3333a83d539fc4b63cac70e1eed05580544cea83/capsule_184x69_schinese.jpg?t=1782261484",
+      "short_description": "一名玩家调查神秘的玩偶屋，而朋友们则被困其中。支持2至4名玩家的合作超自然调查游戏。分享线索、破解灵异谜题，并在队友给出离谱指挥时努力保持冷静。",
+      "categories": [
+        "多人",
+        "合作",
+        "在线合作",
+        "无需应对快速反应事件",
+        "立体声",
+        "家庭共享"
+      ],
+      "genres": [
+        "动作",
+        "冒险",
+        "独立"
+      ],
+      "screenshots": [
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3850670/a194461e3ead936c2dabac1dd59b6a2b7509e2b7/ss_a194461e3ead936c2dabac1dd59b6a2b7509e2b7.600x338.jpg?t=1782261484",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3850670/df62e409999ef115c236aa905f325727deff9509/ss_df62e409999ef115c236aa905f325727deff9509.600x338.jpg?t=1782261484",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3850670/bd87ba5af6de60398afebcf4e2702e06df24c839/ss_bd87ba5af6de60398afebcf4e2702e06df24c839.600x338.jpg?t=1782261484",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3850670/3083dad16ed7821baf09fd29d1e414f45b2487b0/ss_3083dad16ed7821baf09fd29d1e414f45b2487b0.600x338.jpg?t=1782261484",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3850670/635dd2f6c375577c3fae08e1c986f4384087a32a/ss_635dd2f6c375577c3fae08e1c986f4384087a32a.600x338.jpg?t=1782261484",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3850670/3da4076d941a3dd3c38bb6f6b8a61a27f68c6cea/ss_3da4076d941a3dd3c38bb6f6b8a61a27f68c6cea.600x338.jpg?t=1782261484"
+      ],
+      "recommendations": 0,
+      "achievements": 0,
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "metacritic": null
+    },
+    {
+      "appid": 4314340,
+      "name": "The Reflection",
+      "cn_name": "The Reflection",
+      "developer": "Pinwheels Studio",
+      "publisher": "Pinwheels Studio",
+      "release_date": "2026 年第三季度",
+      "is_free": false,
+      "price": "免费",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4314340/8326f1f620512ecdd885ee65f390b100e2e9e1a7/header.jpg?t=1782806498",
+      "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4314340/2d6353a7f8947d60b2d669ad63e858807dfff7ec/capsule_184x69.jpg?t=1782806498",
+      "short_description": "The Reflection is a ritual-based co-op horror game focused on tension, teamwork, and survival. Trapped inside a cursed mansion, players must a investigate supernatural event, perform the correct rituals, and exorcise a dangerous entity before it consumes them.",
+      "categories": [
+        "多人",
+        "合作",
+        "在线合作",
+        "Steam 成就",
+        "Steam 云",
+        "家庭共享"
+      ],
+      "genres": [
+        "动作",
+        "独立"
+      ],
+      "screenshots": [
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4314340/16d7de022200a2cee2a85782052807d15a7b8f72/ss_16d7de022200a2cee2a85782052807d15a7b8f72.600x338.jpg?t=1782806498",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4314340/31d09b6b5978c7cdd39b88900a5d0e45100fe102/ss_31d09b6b5978c7cdd39b88900a5d0e45100fe102.600x338.jpg?t=1782806498",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4314340/a67c7357684fb6cdfaea22a55c37715be40aca7c/ss_a67c7357684fb6cdfaea22a55c37715be40aca7c.600x338.jpg?t=1782806498",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4314340/673b84a20e27a108226cca2cb15f290e36734bb3/ss_673b84a20e27a108226cca2cb15f290e36734bb3.600x338.jpg?t=1782806498",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4314340/9bfc61fd0a413e5f2dbd5b559025d3ceea98fe52/ss_9bfc61fd0a413e5f2dbd5b559025d3ceea98fe52.600x338.jpg?t=1782806498",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4314340/0903c2743980103ef5b7288a6779136ae50e0802/ss_0903c2743980103ef5b7288a6779136ae50e0802.600x338.jpg?t=1782806498"
+      ],
+      "recommendations": 0,
+      "achievements": 0,
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "metacritic": null
+    },
+    {
+      "appid": 3956540,
+      "name": "Radio Decay",
+      "cn_name": "Radio Decay",
+      "developer": "Rare Parrot Games",
+      "publisher": "Rare Parrot Games",
+      "release_date": "即将推出",
+      "is_free": false,
+      "price": "免费",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3956540/abbb3ab66514a9324adbe09020628b463a769337/header.jpg?t=1780783261",
+      "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3956540/4af8e6476b5c52eb3b3fe58304505eb8adc62e70/capsule_184x69.jpg?t=1780783261",
+      "short_description": "这是一款最多支持1至6人合作的生存恐怖游戏，背景设定在一个超自然的核末日世界。玩家将深入被遗弃的城市，提取放射性物质，同时在各种虫形畸变体的追猎下努力生存。用义肢重塑逐渐腐败的身体，武装自己，并通过无线电呼叫好友来帮忙。",
+      "categories": [
+        "单人",
+        "多人",
+        "合作",
+        "在线合作",
+        "视角舒适度",
+        "自定义音量控制",
+        "无需应对快速反应事件",
+        "立体声",
+        "家庭共享"
+      ],
+      "genres": [
+        "动作",
+        "冒险",
+        "独立"
+      ],
+      "screenshots": [
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3956540/7ef7a4729d3a1d52ea7f4d3ba5559e812e094b08/ss_7ef7a4729d3a1d52ea7f4d3ba5559e812e094b08.600x338.jpg?t=1780783261",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3956540/a320ae2f49b9cab0a631a3d42917eeb65e244c93/ss_a320ae2f49b9cab0a631a3d42917eeb65e244c93.600x338.jpg?t=1780783261",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3956540/5bc137687d6455afb7765a0548dfbd89a9f2bb55/ss_5bc137687d6455afb7765a0548dfbd89a9f2bb55.600x338.jpg?t=1780783261",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3956540/84ede9c91f70683b587aaba2621c5cf288eee28e/ss_84ede9c91f70683b587aaba2621c5cf288eee28e.600x338.jpg?t=1780783261",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3956540/6f047ba5ad55e1ae883a06db61a401f454df1547/ss_6f047ba5ad55e1ae883a06db61a401f454df1547.600x338.jpg?t=1780783261",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3956540/d8778ba4ebf2e8248309ce246a8f9b7ccfdcdf5f/ss_d8778ba4ebf2e8248309ce246a8f9b7ccfdcdf5f.600x338.jpg?t=1780783261"
+      ],
+      "recommendations": 0,
+      "achievements": 0,
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "metacritic": null
+    },
+    {
+      "appid": 4640600,
+      "name": "In Us",
+      "cn_name": "In Us",
+      "developer": "engawa games",
+      "publisher": "engawa games",
+      "release_date": "2026 年",
+      "is_free": false,
+      "price": "免费",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4640600/d008f2640bc80fda01db17a6792a821fcb390db1/header.jpg?t=1777125991",
+      "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4640600/b968c447a526fd078ee932bb16fe51f961826805/capsule_184x69.jpg?t=1777125991",
+      "short_description": "恶魔，就行走于我们之中——戴着人类的面孔。 揭穿它们。祓除它们。与同伴，并肩。",
+      "categories": [
+        "单人",
+        "多人",
+        "合作",
+        "在线合作",
+        "完全支持控制器",
+        "DUALSHOCK 控制器支持",
+        "DUALSHOCK 控制器支持",
+        "DUALSHOCK 控制器支持",
+        "DUALSHOCK 控制器支持",
+        "家庭共享"
+      ],
+      "genres": [
+        "动作",
+        "独立"
+      ],
+      "screenshots": [
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4640600/1ac3b12e325374ba3e1780ea7697cb541040158a/ss_1ac3b12e325374ba3e1780ea7697cb541040158a.600x338.jpg?t=1777125991",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4640600/fb16942eff7d82b52bd3858c994c07175e153569/ss_fb16942eff7d82b52bd3858c994c07175e153569.600x338.jpg?t=1777125991",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4640600/84b8795261f289e8d13c73239d932e2d120685cd/ss_84b8795261f289e8d13c73239d932e2d120685cd.600x338.jpg?t=1777125991",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4640600/cf114f8ed85df7dab4ea3a1670afac1999d0153e/ss_cf114f8ed85df7dab4ea3a1670afac1999d0153e.600x338.jpg?t=1777125991",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4640600/223016286d979fa328b7f93351a55d0dcc0945be/ss_223016286d979fa328b7f93351a55d0dcc0945be.600x338.jpg?t=1777125991",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4640600/75d92238fd997e64b06e87147fd26e037b61be2e/ss_75d92238fd997e64b06e87147fd26e037b61be2e.600x338.jpg?t=1777125991"
+      ],
+      "recommendations": 0,
+      "achievements": 0,
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "metacritic": null
+    },
+    {
+      "appid": 1181550,
+      "name": "Carnival Hunt",
+      "cn_name": "狂欢猎杀",
+      "developer": "Crytivo",
+      "publisher": "Crytivo",
+      "release_date": "2026 年 7 月 23 日",
+      "is_free": false,
+      "price": "免费",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1181550/header.jpg?t=1782246224",
+      "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1181550/fb4d120ea0f602d26197c83e78511ad0a81afe2c/capsule_184x69.jpg?t=1782246224",
+      "short_description": "Carnival Hunt is an asymmetric multiplayer horror game set inside a living, ever-shifting mechanical carnival designed by the Puppetmaster. One player becomes the Carnival Monster, while others play as puppet Bunnies struggling to survive, ascend, and escape the hunt.",
+      "categories": [
+        "多人",
+        "玩家对战",
+        "线上玩家对战",
+        "合作",
+        "在线合作",
+        "跨平台多人",
+        "Steam 成就",
+        "完全支持控制器",
+        "支持字幕",
+        "DUALSHOCK 控制器支持",
+        "DUALSHOCK 控制器支持",
+        "DUALSHOCK 控制器支持",
+        "DUALSHOCK 控制器支持",
+        "Steam 输入 API 支持",
+        "统计数据",
+        "Steam 排行榜",
+        "Steam 回合通知",
+        "包含关卡编辑器",
+        "家庭共享"
+      ],
+      "genres": [
+        "动作",
+        "独立",
+        "策略",
+        "抢先体验"
+      ],
+      "screenshots": [
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1181550/0a6c97d1f6cfc80ffb2db4e20aa3c3c7a84c7535/ss_0a6c97d1f6cfc80ffb2db4e20aa3c3c7a84c7535.600x338.jpg?t=1782246224",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1181550/6dd8fc6a39127c567be90b0c678760fbd662ab3d/ss_6dd8fc6a39127c567be90b0c678760fbd662ab3d.600x338.jpg?t=1782246224",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1181550/a6a5269fec23e3aebacfb78b8c2db76ac8e2e99a/ss_a6a5269fec23e3aebacfb78b8c2db76ac8e2e99a.600x338.jpg?t=1782246224",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1181550/da25c928f61a167d35538ac13606ceb01ef6d4b3/ss_da25c928f61a167d35538ac13606ceb01ef6d4b3.600x338.jpg?t=1782246224",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1181550/b3cc6bbdaf23690733e6e229148c3a41d0922050/ss_b3cc6bbdaf23690733e6e229148c3a41d0922050.600x338.jpg?t=1782246224",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1181550/d8d824a83f46e2ee2c85c5179caf4bccf20bd1e3/ss_d8d824a83f46e2ee2c85c5179caf4bccf20bd1e3.600x338.jpg?t=1782246224"
+      ],
+      "recommendations": 0,
+      "achievements": 0,
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "metacritic": null
+    },
+    {
+      "appid": 3219630,
+      "name": "Halloween: The Game",
+      "cn_name": "月光光心慌慌",
+      "developer": "IllFonic",
+      "publisher": "IllFonic Publishing",
+      "release_date": "2026 年 9 月 8 日",
+      "is_free": false,
+      "price": "¥ 137.00",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3219630/153ed105c4b409fe689783e4f9b6aad72c152646/header.jpg?t=1781808081",
+      "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3219630/e0507a9d9a1fed306c87b3576f608b852658dd1a/capsule_184x69.jpg?t=1781808081",
+      "short_description": "1978 年的万圣节之夜，没人能从迈克尔·迈尔斯的手中逃脱。在 Halloween 中，化身“面具杀手”，或者直面邪恶奋起反抗。",
+      "categories": [
+        "单人",
+        "多人",
+        "玩家对战",
+        "线上玩家对战",
+        "合作",
+        "在线合作",
+        "完全支持控制器",
+        "DUALSHOCK 控制器支持",
+        "DUALSHOCK 控制器支持",
+        "家庭共享"
+      ],
+      "genres": [
+        "动作"
+      ],
+      "screenshots": [
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3219630/fef848f20a2a5e857ee275662acf979b89754af7/ss_fef848f20a2a5e857ee275662acf979b89754af7.600x338.jpg?t=1781808081",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3219630/b6788a76e909167f1e599e62f52ea0a9734aa133/ss_b6788a76e909167f1e599e62f52ea0a9734aa133.600x338.jpg?t=1781808081",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3219630/7f588305048a20b69cb7adc70da39cb87a789163/ss_7f588305048a20b69cb7adc70da39cb87a789163.600x338.jpg?t=1781808081",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3219630/f4df9c361caf2c79b9d8bd4a6478941d3cf09224/ss_f4df9c361caf2c79b9d8bd4a6478941d3cf09224.600x338.jpg?t=1781808081",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3219630/a02b60b40559506117a765d651a4f9f40681efda/ss_a02b60b40559506117a765d651a4f9f40681efda.600x338.jpg?t=1781808081",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3219630/d29817fb82877b8ed4733c45ef8d94609c493317/ss_d29817fb82877b8ed4733c45ef8d94609c493317.600x338.jpg?t=1781808081"
+      ],
+      "recommendations": 0,
+      "achievements": 0,
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "metacritic": null
+    },
+    {
+      "appid": 2569760,
+      "name": "The Mound: Omen of Cthulhu",
+      "cn_name": "土丘：克苏鲁恶兆",
+      "developer": "ACE Team",
+      "publisher": "Nacon",
+      "release_date": "2026 年 7 月 15 日",
+      "is_free": false,
+      "price": "免费",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2569760/0a3d1867d5781f18cb4fd0b1151729605e892c6b/header.jpg?t=1782217302",
+      "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2569760/cd3170e5e966d284753aab1405541f3ffa07306a/capsule_184x69.jpg?t=1782217302",
+      "short_description": "最多可四人合作，组建探险者小队，踏上寻宝之旅。这片被诅咒的丛林危机四伏，怪物扭曲了现实。保持冷静，在丛林吞噬你之前征服它……",
+      "categories": [
+        "单人",
+        "多人",
+        "合作",
+        "在线合作",
+        "家庭共享"
+      ],
+      "genres": [
+        "动作",
+        "冒险"
+      ],
+      "screenshots": [
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2569760/f48693cb21dc49754514718d37ee3a85f8e60a96/ss_f48693cb21dc49754514718d37ee3a85f8e60a96.600x338.jpg?t=1782217302",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2569760/cb42e74d6b846cdbb8ba632f844adf54cabc5de5/ss_cb42e74d6b846cdbb8ba632f844adf54cabc5de5.600x338.jpg?t=1782217302",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2569760/0e238e410f6506815173807ab51a08bab98e7a26/ss_0e238e410f6506815173807ab51a08bab98e7a26.600x338.jpg?t=1782217302",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2569760/39df081534c2bcf4a5de92c21a95cf438481138e/ss_39df081534c2bcf4a5de92c21a95cf438481138e.600x338.jpg?t=1782217302",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2569760/c5969e5dbb6c052545140038d3eebd77cf00418a/ss_c5969e5dbb6c052545140038d3eebd77cf00418a.600x338.jpg?t=1782217302"
+      ],
+      "recommendations": 0,
+      "achievements": 0,
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "metacritic": null
+    },
+    {
+      "appid": 4704690,
+      "name": "MECCHA CHAMELEON",
+      "cn_name": "超级变色龙",
+      "developer": "lemorion_1224",
+      "publisher": "lemorion_1224",
+      "release_date": "2026 年 6 月 9 日",
+      "is_free": false,
+      "price": "¥ 26.00",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4704690/163e2a742e5fb8e1f5d1e3a890da98f04ab809d4/header.jpg?t=1782561846",
+      "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4704690/18d14b8bd834e30a6a25df5ccd7f0a6e644f1577/capsule_184x69.jpg?t=1782561846",
+      "short_description": "把自己涂满颜色，融入背景吧！《Meccha Chameleon》是一款全新感觉的捉迷藏游戏，玩家需要在自己纯白的身体上绘图以拟态成关卡中的样子。躲藏地点、姿势，以及最重要的“画功”是生存的关键。用连变色龙都自愧不如的技术欺骗追捕者的眼睛，在时限内逃出生天吧！您还可以轻松享受随机匹配或观众参与型直播。",
+      "categories": [
+        "多人",
+        "玩家对战",
+        "线上玩家对战",
+        "Steam 创意工坊",
+        "视角舒适度",
+        "自定义音量控制",
+        "无需应对快速反应事件",
+        "立体声",
+        "环绕声",
+        "Steam 云",
+        "家庭共享"
+      ],
+      "genres": [
+        "休闲"
+      ],
+      "screenshots": [
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4704690/6c0a47cc2fba1b160901d1553637a764198bdc98/ss_6c0a47cc2fba1b160901d1553637a764198bdc98.600x338.jpg?t=1782561846",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4704690/0383a711ed93bf8edd848df4b63b331fc44f3ad5/ss_0383a711ed93bf8edd848df4b63b331fc44f3ad5.600x338.jpg?t=1782561846",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4704690/51b0a906d1767b1b5abde623350dec64c6877c93/ss_51b0a906d1767b1b5abde623350dec64c6877c93.600x338.jpg?t=1782561846",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4704690/0a8a562016b13a349349e685f7a4d5a6cbccef3e/ss_0a8a562016b13a349349e685f7a4d5a6cbccef3e.600x338.jpg?t=1782561846",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4704690/2764a4a42c24a88d0bbb9b67e5c2bde979a24ac9/ss_2764a4a42c24a88d0bbb9b67e5c2bde979a24ac9.600x338.jpg?t=1782561846",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4704690/c0c3ab9f5f2b41e86606a1c790fef432fe2d65cf/ss_c0c3ab9f5f2b41e86606a1c790fef432fe2d65cf.600x338.jpg?t=1782561846"
+      ],
+      "recommendations": 37052,
+      "achievements": 0,
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "metacritic": null
+    },
+    {
+      "appid": 553850,
+      "name": "HELLDIVERS™ 2",
+      "cn_name": "绝地潜兵2",
+      "developer": "Arrowhead Game Studios",
+      "publisher": "PlayStation Publishing LLC",
+      "release_date": "2024 年 2 月 8 日",
+      "is_free": false,
+      "price": "¥ 148.50",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/553850/6bd1a6ecc78ada62166121da06aa84b2da831bac/header_schinese.jpg?t=1779899567",
+      "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/553850/c67d5a471db73d3dad399ba98700cce1a26287e7/capsule_184x69_schinese.jpg?t=1779899567",
+      "short_description": "银河系最后的进攻力量。投入这款紧张刺激且疯狂的第三人称射击游戏，应征成为绝地潜兵，穿越战火肆虐的星系，为自由而战。",
+      "categories": [
+        "多人",
+        "合作",
+        "在线合作",
+        "Steam 成就",
+        "应用内购买",
+        "可调整文字大小",
+        "视角舒适度",
+        "聊天语音转文字",
+        "聊天文字转语音",
+        "可选颜色",
+        "自定义音量控制",
+        "可调整难度",
+        "朗读游戏菜单",
+        "无需应对快速反应事件",
+        "DUALSHOCK 控制器支持",
+        "DUALSHOCK 控制器支持",
+        "DUALSHOCK 控制器支持",
+        "立体声",
+        "字幕选项",
+        "环绕声",
+        "部分支持控制器",
+        "家庭共享"
+      ],
+      "genres": [
+        "动作"
+      ],
+      "screenshots": [
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/553850/ss_0c79f56fc7be1bd0102f2ca1c92c8f0900daf4fb.600x338.jpg?t=1779899567",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/553850/ss_33e684e9cb2517af1599f0ca2b57d65ee82c2e51.600x338.jpg?t=1779899567",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/553850/ss_8949ed7dd24a02d5ea13b08fc5c04fab400dc4bd.600x338.jpg?t=1779899567",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/553850/ss_50afbbc4d811c38fe9f64c1fc8d7eb9d9da6d24c.600x338.jpg?t=1779899567",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/553850/ss_cb276fe9f0b09683bdbc496f82b405dbe0ffa1f1.600x338.jpg?t=1779899567",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/553850/ss_d0ac3830833a68d19d4a97c70aef0fba20bf0761.600x338.jpg?t=1779899567"
+      ],
+      "recommendations": 829704,
+      "achievements": 38,
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "metacritic": null
+    },
+    {
+      "appid": 3124540,
+      "name": "遥遥西土 Far Far West",
+      "cn_name": "遥遥西土",
+      "developer": "Evil Raptor",
+      "publisher": "Fireshine Games",
+      "release_date": "2026 年 4 月 28 日",
+      "is_free": false,
+      "price": "¥ 64.80",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3124540/584d539800958040b08013c125126c1eb2a8c0c7/header_schinese.jpg?t=1781702029",
+      "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3124540/cb743ec066ad8bf252c3fe0a8b9601becc285103/capsule_184x69_schinese.jpg?t=1781702029",
+      "short_description": "大吼咿哈快上马，西部牛仔英姿飒！《遥遥西土》是一款热闹非凡的4人合作射击游戏，你将踏上西行旅途，一路斩妖杀怪、施法念咒、完成任务、领取赏金。召集队友，完成任务，然后趁你还活着（大多数时候）赶紧拿钱走人。",
+      "categories": [
+        "单人",
+        "多人",
+        "合作",
+        "在线合作",
+        "视角舒适度",
+        "自定义音量控制",
+        "可调整难度",
+        "无需应对快速反应事件",
+        "立体声",
+        "环绕声",
+        "部分支持控制器",
+        "Steam 云",
+        "家庭共享"
+      ],
+      "genres": [
+        "动作",
+        "冒险",
+        "独立",
+        "抢先体验"
+      ],
+      "screenshots": [
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3124540/87847b9155d7cfd190852831c4792ea2c7dad8a7/ss_87847b9155d7cfd190852831c4792ea2c7dad8a7.600x338.jpg?t=1781702029",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3124540/c7dab39bc4e9110f215e2a6af98a62afbaad3ec5/ss_c7dab39bc4e9110f215e2a6af98a62afbaad3ec5.600x338.jpg?t=1781702029",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3124540/28b89f775c8e3dd6e423662b1f4bf285285339e5/ss_28b89f775c8e3dd6e423662b1f4bf285285339e5.600x338.jpg?t=1781702029",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3124540/9b25ef6d25e7ad77a167df2e369180e8d4081763/ss_9b25ef6d25e7ad77a167df2e369180e8d4081763.600x338.jpg?t=1781702029",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3124540/06beed80ffd3560c3dcb89044b1c2c12f525b66d/ss_06beed80ffd3560c3dcb89044b1c2c12f525b66d.600x338.jpg?t=1781702029",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3124540/51f2ed907135f44388a233fe2a6b2ccb2db5a2b2/ss_51f2ed907135f44388a233fe2a6b2ccb2db5a2b2.600x338.jpg?t=1781702029"
+      ],
+      "recommendations": 28713,
+      "achievements": 0,
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "metacritic": null
+    },
+    {
+      "appid": 3844970,
+      "name": "地精捣蛋团",
+      "cn_name": "地精捣蛋团",
+      "developer": "Fobri",
+      "publisher": "Fobri",
+      "release_date": "2026 年 6 月 10 日",
+      "is_free": false,
+      "price": "¥ 42.00",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3844970/d44e878d08426747cab87cd465ad1667fba5a6f8/header_schinese.jpg?t=1781100001",
+      "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3844970/16f149471b770c7fb957879e422341ff2fb72044/capsule_184x69_schinese.jpg?t=1781100001",
+      "short_description": "这是一款在线合作游戏，你将化身为一只小地精，闯入民宅制造混乱。躲避各种危险，改造偷来的家居物品，通过完成任务满足地精王的要求。制作装备并升级家园——让任务越做越顺手，捣蛋越来越成功。",
+      "categories": [
+        "单人",
+        "多人",
+        "合作",
+        "在线合作",
+        "无需应对快速反应事件",
+        "立体声",
+        "Steam 云",
+        "家庭共享"
+      ],
+      "genres": [
+        "动作",
+        "冒险"
+      ],
+      "screenshots": [
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3844970/2c1ab0bb442cb4ac91082077cb087aa870415a4b/ss_2c1ab0bb442cb4ac91082077cb087aa870415a4b.600x338.jpg?t=1781100001",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3844970/b04d965e112ecd25886d28d5c25a0669b9afd339/ss_b04d965e112ecd25886d28d5c25a0669b9afd339.600x338.jpg?t=1781100001",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3844970/fae64ea549aa50dc2cfd467409c32eb9e1400b9c/ss_fae64ea549aa50dc2cfd467409c32eb9e1400b9c.600x338.jpg?t=1781100001",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3844970/b5fd061c650a6573c9224687be9e60bd4b1b50dc/ss_b5fd061c650a6573c9224687be9e60bd4b1b50dc.600x338.jpg?t=1781100001",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3844970/3b85e0cfde11d7d4ec689eab772c46dbfa90c9ee/ss_3b85e0cfde11d7d4ec689eab772c46dbfa90c9ee.600x338.jpg?t=1781100001",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3844970/7ff827bfa3f49375c49a8e27b1d5bd658ec86ae5/ss_7ff827bfa3f49375c49a8e27b1d5bd658ec86ae5.600x338.jpg?t=1781100001"
+      ],
+      "recommendations": 2771,
+      "achievements": 0,
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "metacritic": null
+    },
+    {
+      "appid": 2211170,
+      "name": "一起开火车2：汽笛重鸣",
+      "cn_name": "一起开火车2",
+      "developer": "Indoor Astronaut",
+      "publisher": "Indoor Astronaut",
+      "release_date": "2026 年 6 月 11 日",
+      "is_free": false,
+      "price": "¥ 54.60",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2211170/e13148cadb42b138b5edce3e475045d4870ec263/header_alt_assets_6.jpg?t=1781208721",
+      "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2211170/b3f78191f2be06dc97482a641dde5389597f6250/capsule_184x69_alt_assets_6_schinese.jpg?t=1781208721",
+      "short_description": "《一起开火车》的续作来啦！快呼朋唤友再建铁轨重鸣汽笛吧！更多特色鲜明的地理环境，升级角色和引擎，选择脑洞大开的全新路线；在火车脱轨前，快将你自定义的关卡设计分享给更多轨道爱好者吧！",
+      "categories": [
+        "单人",
+        "多人",
+        "玩家对战",
+        "线上玩家对战",
+        "同屏/分屏玩家对战",
+        "合作",
+        "在线合作",
+        "同屏/分屏合作",
+        "同屏/分屏",
+        "跨平台多人",
+        "Steam 成就",
+        "完全支持控制器",
+        "Steam 集换式卡牌",
+        "推荐使用手柄",
+        "DUALSHOCK 控制器支持",
+        "DUALSHOCK 控制器支持",
+        "DUALSHOCK 控制器支持",
+        "DUALSHOCK 控制器支持",
+        "Steam 云",
+        "远程同乐",
+        "家庭共享"
+      ],
+      "genres": [
+        "动作",
+        "休闲",
+        "独立",
+        "模拟",
+        "策略"
+      ],
+      "screenshots": [
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2211170/1d2a23322eb68eddde336b7238d76f7ad545d426/ss_1d2a23322eb68eddde336b7238d76f7ad545d426.600x338.jpg?t=1781208721",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2211170/0c08c1125a7f388af23582b28c3ba418522d6db1/ss_0c08c1125a7f388af23582b28c3ba418522d6db1.600x338.jpg?t=1781208721",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2211170/a47155de9b64ad54c82cb8985db1e800fa37f903/ss_a47155de9b64ad54c82cb8985db1e800fa37f903.600x338.jpg?t=1781208721",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2211170/b7d0192015ccab40205f54d378e0e57549535505/ss_b7d0192015ccab40205f54d378e0e57549535505.600x338.jpg?t=1781208721",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2211170/33f102bb04152ab72690d5dbc8c0ead5cba8b1f2/ss_33f102bb04152ab72690d5dbc8c0ead5cba8b1f2.600x338.jpg?t=1781208721",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2211170/c237f5dff456d7f84bc8be085d722f620e520e54/ss_c237f5dff456d7f84bc8be085d722f620e520e54.600x338.jpg?t=1781208721"
+      ],
+      "recommendations": 1645,
+      "achievements": 60,
+      "platforms": {
+        "windows": true,
+        "mac": true,
+        "linux": false
+      },
+      "metacritic": null
+    },
+    {
+      "appid": 2445690,
+      "name": "失落城堡2",
+      "cn_name": "失落城堡2",
+      "developer": "Hunter Studio",
+      "publisher": "Hunter Studio",
+      "release_date": "2026 年 6 月 10 日",
+      "is_free": false,
+      "price": "¥ 47.60",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2445690/6ba48b065007d13e96a5e01a4976139ad96480ac/header_schinese.jpg?t=1782795803",
+      "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2445690/c3eab2e31c426a76b6bd8f8e3cbfb146a49decad/capsule_184x69_schinese.jpg?t=1782795803",
+      "short_description": "失落城堡2是一款2D卡通横版Rogue-Lite游戏。探寻丰富宝物道具强化自己，精通各类武器玩出花样，挑战强大魔物展现实力。新的冒险正召唤着宝藏猎人们！",
+      "categories": [
+        "单人",
+        "多人",
+        "合作",
+        "在线合作",
+        "局域网合作",
+        "同屏/分屏合作",
+        "同屏/分屏",
+        "Steam 成就",
+        "推荐使用手柄",
+        "DUALSHOCK 控制器支持",
+        "DUALSHOCK 控制器支持",
+        "DUALSHOCK 控制器支持",
+        "DUALSHOCK 控制器支持",
+        "部分支持控制器",
+        "Steam 云",
+        "统计数据",
+        "远程同乐",
+        "家庭共享"
+      ],
+      "genres": [
+        "动作",
+        "冒险",
+        "独立",
+        "角色扮演"
+      ],
+      "screenshots": [
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2445690/1a7b3cd3086710951e070b034caa54bea3df5e26/ss_1a7b3cd3086710951e070b034caa54bea3df5e26.600x338.jpg?t=1782795803",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2445690/f01ce8244957cf26a1a4ef03ff696368ef145fc3/ss_f01ce8244957cf26a1a4ef03ff696368ef145fc3.600x338.jpg?t=1782795803",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2445690/ss_17be0a623d5f404bde03d55d31e299de7f122d1d.600x338.jpg?t=1782795803",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2445690/ss_2743dda05c040097efc9c4ecbf7e8199d2ba052d.600x338.jpg?t=1782795803",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2445690/ss_73d6b8806d24993b156521807b4fab27614e7d9d.600x338.jpg?t=1782795803",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2445690/ss_aa08e8ae7cea774a66183d9cc1ec9afddcae313d.600x338.jpg?t=1782795803"
+      ],
+      "recommendations": 9817,
+      "achievements": 85,
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "metacritic": null
+    },
+    {
+      "appid": 548430,
+      "name": "深岩银河",
+      "cn_name": "深岩银河",
+      "developer": "Ghost Ship Games",
+      "publisher": "Coffee Stain Publishing",
+      "release_date": "2020 年 5 月 13 日",
+      "is_free": false,
+      "price": "¥ 32.40",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/548430/header_schinese.jpg?t=1782116973",
+      "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/548430/capsule_184x69_schinese.jpg?t=1782116973",
+      "short_description": "《深岩银河》是一款多人合作类第一人称射击游戏，有着了不起的矮人、100% 可破坏的地形、由程序生成的洞穴以及无数的外星怪物。",
+      "categories": [
+        "单人",
+        "多人",
+        "合作",
+        "在线合作",
+        "Steam 成就",
+        "完全支持控制器",
+        "Steam 集换式卡牌",
+        "支持字幕",
+        "视角舒适度",
+        "可选颜色",
+        "自定义音量控制",
+        "可调整难度",
+        "无需应对快速反应事件",
+        "立体声",
+        "字幕选项",
+        "Steam 云",
+        "在平板上远程畅玩",
+        "在电视上远程畅玩",
+        "家庭共享"
+      ],
+      "genres": [
+        "动作"
+      ],
+      "screenshots": [
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/548430/49a57d16c55b74a6f835c590421d299d417af4f8/ss_49a57d16c55b74a6f835c590421d299d417af4f8.600x338.jpg?t=1782116973",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/548430/5ffa803484da48da16db9006d7f4313db8999c2a/ss_5ffa803484da48da16db9006d7f4313db8999c2a.600x338.jpg?t=1782116973",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/548430/cf8c347fac940f99a9a256730aca3cb647cb563f/ss_cf8c347fac940f99a9a256730aca3cb647cb563f.600x338.jpg?t=1782116973",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/548430/9fad579c755e0c3ed249f581537da3c634d141bb/ss_9fad579c755e0c3ed249f581537da3c634d141bb.600x338.jpg?t=1782116973",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/548430/5de4ec4baa28c5df1cecb676be0f399f470beb75/ss_5de4ec4baa28c5df1cecb676be0f399f470beb75.600x338.jpg?t=1782116973",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/548430/03ac295f55defe10866d07a6f81329751c5abfb7/ss_03ac295f55defe10866d07a6f81329751c5abfb7.600x338.jpg?t=1782116973"
+      ],
+      "recommendations": 301111,
+      "achievements": 69,
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "metacritic": 85
+    },
+    {
+      "appid": 945360,
+      "name": "Among Us",
+      "cn_name": "Among Us",
+      "developer": "Innersloth",
+      "publisher": "Innersloth",
+      "release_date": "2018 年 11 月 16 日",
+      "is_free": false,
+      "price": "¥ 15.00",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/945360/header.jpg?t=1781287930",
+      "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/945360/capsule_184x69.jpg?t=1781287930",
+      "short_description": "这是一款可以连线或本地游玩的派对游戏，4 到 15 名玩家相互合作与背叛... 一切都发生在太空之中！",
+      "categories": [
+        "多人",
+        "玩家对战",
+        "线上玩家对战",
+        "局域网玩家对战",
+        "合作",
+        "在线合作",
+        "局域网合作",
+        "跨平台多人",
+        "Steam 成就",
+        "完全支持控制器",
+        "Steam 集换式卡牌",
+        "应用内购买",
+        "在手机上远程畅玩",
+        "在平板上远程畅玩",
+        "家庭共享"
+      ],
+      "genres": [
+        "休闲"
+      ],
+      "screenshots": [
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/945360/ss_b7374128e5b786a302a716bca038d604b00ffe46.600x338.jpg?t=1781287930",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/945360/ss_719484b5e0314cc2ae43793786448e032056a31d.600x338.jpg?t=1781287930",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/945360/ss_ffd9c8926cbd7fce3ca5e5efb4399c47bb196bc8.600x338.jpg?t=1781287930",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/945360/ss_1fbd9dc9fd6a2710d233a088ef426a6d78fcf884.600x338.jpg?t=1781287930",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/945360/ss_9d11502fa973580a82b532b25f1901b8425c28f9.600x338.jpg?t=1781287930",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/945360/ss_17be75e178e3520c986504504ada8535de19cc0d.600x338.jpg?t=1781287930"
+      ],
+      "recommendations": 648049,
+      "achievements": 33,
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "metacritic": 85
+    },
+    {
+      "appid": 1326470,
+      "name": "Sons Of The Forest",
+      "cn_name": "森林之子",
+      "developer": "Endnight Games Ltd",
+      "publisher": "Newnight ",
+      "release_date": "2024 年 2 月 22 日",
+      "is_free": false,
+      "price": "¥ 32.40",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1326470/header.jpg?t=1708624856",
+      "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1326470/capsule_184x69.jpg?t=1708624856",
+      "short_description": "你被派到了一座孤岛上，寻找一位失踪的亿万富翁，结果却发现自己深陷被食人生物占领的炼狱之地。你需要制作工具和武器、建造房屋，倾尽全力生存下去，无论独自一人还是与朋友一起——一切尽在这款新推出的开放世界恐怖生存模拟游戏中。",
+      "categories": [
+        "单人",
+        "多人",
+        "合作",
+        "在线合作",
+        "Steam 成就",
+        "完全支持控制器",
+        "DUALSHOCK 控制器支持",
+        "DUALSHOCK 控制器支持",
+        "DUALSHOCK 控制器支持",
+        "DUALSHOCK 控制器支持",
+        "Steam 云",
+        "家庭共享"
+      ],
+      "genres": [
+        "动作",
+        "冒险",
+        "独立",
+        "模拟"
+      ],
+      "screenshots": [
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1326470/ss_e6e3ab1badfb287a77fb6eef7b1589a35371496b.600x338.jpg?t=1708624856",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1326470/ss_4fa5d260318f0aa37754b00c5dc10d1b7b9b9b1d.600x338.jpg?t=1708624856",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1326470/ss_2b67491ca913adea6953429e1a567824aaa0ed54.600x338.jpg?t=1708624856",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1326470/ss_ba2c1f6e69c6c7d69f7965cbd4b78da59ec59d55.600x338.jpg?t=1708624856",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1326470/ss_2c537a8c689dd6b21643b8054a64646334ef7391.600x338.jpg?t=1708624856",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1326470/ss_b05310f659a67129e9089fbb22e445b0998d6d1d.600x338.jpg?t=1708624856"
+      ],
+      "recommendations": 276336,
+      "achievements": 32,
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "metacritic": null
+    },
+    {
+      "appid": 632360,
+      "name": "雨中冒险 2",
+      "cn_name": "雨中冒险2",
+      "developer": "Hopoo Games",
+      "publisher": "Gearbox Publishing",
+      "release_date": "2020 年 8 月 11 日",
+      "is_free": false,
+      "price": "¥ 26.40",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/632360/header_schinese.jpg?t=1782157681",
+      "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/632360/capsule_184x69_schinese.jpg?t=1782157681",
+      "short_description": "浴血奋战杀出暴戾的怪物重围，在混乱的外星球上逃过劫难。可孤军奋战，也可与好友并肩作战。 以出人意料的方式合成战利品，同时精通每个角色，直至您自己成为初次迫降时曾颇为惧怕的恐怖威胁。",
+      "categories": [
+        "单人",
+        "多人",
+        "玩家对战",
+        "线上玩家对战",
+        "合作",
+        "在线合作",
+        "完全支持控制器",
+        "Steam 集换式卡牌",
+        "可调整文字大小",
+        "视角舒适度",
+        "自定义音量控制",
+        "可调整难度",
+        "立体声",
+        "环绕声",
+        "Steam 云",
+        "Steam 排行榜",
+        "在手机上远程畅玩",
+        "在平板上远程畅玩",
+        "在电视上远程畅玩",
+        "家庭共享"
+      ],
+      "genres": [
+        "动作",
+        "独立"
+      ],
+      "screenshots": [
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/632360/ss_2bb49071317f7b241a527cf6e7aabd2cb6af055b.600x338.jpg?t=1782157681",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/632360/ss_a3f57f281813cb51cb5d919701470acb962ff297.600x338.jpg?t=1782157681",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/632360/ss_328d6fcb223f848c2a1047bb86702c4175d92317.600x338.jpg?t=1782157681",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/632360/ss_dc777b5c583794c99440b196cd1d26884fb1720b.600x338.jpg?t=1782157681",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/632360/ss_0377ff24b4d60db6a38ddc0824b7f308890b9231.600x338.jpg?t=1782157681",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/632360/ss_85548e86c50ff654c6a49235ea686a956f8ee9ec.600x338.jpg?t=1782157681"
+      ],
+      "recommendations": 237585,
+      "achievements": 171,
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "metacritic": 85
+    },
+    {
+      "appid": 1911610,
+      "name": "风中行者",
+      "cn_name": "风中行者",
+      "developer": "Motion Twin",
+      "publisher": "Motion Twin",
+      "release_date": "2024 年 10 月 24 日",
+      "is_free": false,
+      "price": "¥ 68.60",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1911610/b91bf8be5d6d4fac5aa2d12443d66dd17cc38e79/header_schinese.jpg?t=1782722895",
+      "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1911610/39aecfd8d39bff09ed6b04b94b7b102ccdd641a5/capsule_184x69_schinese.jpg?t=1782722895",
+      "short_description": "《风中行者》作为《死亡细胞》团队的全新力作，是一款节奏飞快的类 Rogue 动作游戏，支持 1–3 人联机。闯入崩毁的世界，一路畅快突进、俯冲、破坏。自由搭配装备，发动威力惊人的特殊攻击，成为抵御大气旋最后的防线。",
+      "categories": [
+        "单人",
+        "多人",
+        "合作",
+        "在线合作",
+        "Steam 成就",
+        "完全支持控制器",
+        "推荐使用手柄",
+        "DUALSHOCK 控制器支持",
+        "DUALSHOCK 控制器支持",
+        "DUALSHOCK 控制器支持",
+        "DUALSHOCK 控制器支持",
+        "Steam 云",
+        "家庭共享"
+      ],
+      "genres": [
+        "动作",
+        "独立",
+        "抢先体验"
+      ],
+      "screenshots": [
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1911610/ss_cac5261b41219363b6fa4317b40e9a85e56d136f.600x338.jpg?t=1782722895",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1911610/ss_21e3221ab8f40bfab6cbd039822b03fb6e789182.600x338.jpg?t=1782722895",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1911610/ss_866c06f75896628e610fff747f11674cc6b8d847.600x338.jpg?t=1782722895",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1911610/ss_8cc73455b8dbb9303386bba774797fab0814e914.600x338.jpg?t=1782722895",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1911610/ss_39bd91b51db816cc2fee568a7a75711f5dbc1a66.600x338.jpg?t=1782722895",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1911610/ss_893a7fdda8622fa1619547720c896db5d93508ac.600x338.jpg?t=1782722895"
+      ],
+      "recommendations": 8897,
+      "achievements": 25,
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "metacritic": null
+    },
+    {
+      "appid": 3989960,
+      "name": "青蛙小队🐸 / Frog Sqwad",
+      "cn_name": "青蛙小队",
+      "developer": "Panic Stations",
+      "publisher": "Panic Stations",
+      "release_date": "2026 年 6 月 11 日",
+      "is_free": false,
+      "price": "¥ 32.00",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3989960/907d04fa7ec0c3c264bbb75f25f75c2e361e870d/header_schinese.jpg?t=1781613814",
+      "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3989960/b4cc6caa697f2e9ec3e3d25ee511f47eb4604dc9/capsule_184x69_schinese.jpg?t=1781613814",
+      "short_description": "🐸这是一款最多支持8人合作的撤离式解谜平台游戏。你可以摆荡、跳跃、把朋友弹射出去，还能一路吃吃吃，长成超大巨蛙。快和蛙蛙伙伴组队，在下水道横冲直撞，为沼泽之王的荣耀而战吧！🐸",
+      "categories": [
+        "多人",
+        "合作",
+        "在线合作",
+        "Steam 成就",
+        "完全支持控制器",
+        "自定义音量控制",
+        "无需应对快速反应事件",
+        "DUALSHOCK 控制器支持",
+        "DUALSHOCK 控制器支持",
+        "DUALSHOCK 控制器支持",
+        "DUALSHOCK 控制器支持",
+        "立体声",
+        "家庭共享"
+      ],
+      "genres": [
+        "动作",
+        "冒险",
+        "独立"
+      ],
+      "screenshots": [
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3989960/ff8550e8fac79e8cc8a5a240bda35b56690146f5/ss_ff8550e8fac79e8cc8a5a240bda35b56690146f5.600x338.jpg?t=1781613814",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3989960/6e333fabea01c94a2235fac2050313d9a8c7efc3/ss_6e333fabea01c94a2235fac2050313d9a8c7efc3.600x338.jpg?t=1781613814",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3989960/b4cd968214eeea8f4e877ebd13b404c1077896c6/ss_b4cd968214eeea8f4e877ebd13b404c1077896c6.600x338.jpg?t=1781613814",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3989960/cee0952dc4ef97226a6b165c0e9b5e370979b592/ss_cee0952dc4ef97226a6b165c0e9b5e370979b592.600x338.jpg?t=1781613814",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3989960/8705bde1ea9cac5c24512aea3a529fd7f793692b/ss_8705bde1ea9cac5c24512aea3a529fd7f793692b.600x338.jpg?t=1781613814",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3989960/aeac757e3e9e8e43dc7bac47588e447e0b4b88d3/ss_aeac757e3e9e8e43dc7bac47588e447e0b4b88d3.600x338.jpg?t=1781613814"
+      ],
+      "recommendations": 265,
+      "achievements": 22,
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "metacritic": null
+    },
+    {
+      "appid": 4000,
+      "name": "Garry's Mod",
+      "cn_name": "盖瑞模组",
+      "developer": "Facepunch Studios",
+      "publisher": "Valve",
+      "release_date": "2006 年 11 月 29 日",
+      "is_free": false,
+      "price": "¥ 18.00",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4000/header.jpg?t=1776868682",
+      "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4000/2e52d9b905feebfdaaf2db6ad7afece10991d504/capsule_184x69.jpg?t=1776868682",
+      "short_description": "Garry's Mod is a physics sandbox. There aren't any predefined aims or goals. We give you the tools and leave you to play.",
+      "categories": [
+        "单人",
+        "多人",
+        "玩家对战",
+        "线上玩家对战",
+        "局域网玩家对战",
+        "合作",
+        "在线合作",
+        "局域网合作",
+        "跨平台多人",
+        "Steam 成就",
+        "Steam 集换式卡牌",
+        "支持字幕",
+        "Steam 创意工坊",
+        "可选颜色",
+        "自定义音量控制",
+        "可调整难度",
+        "无需应对快速反应事件",
+        "随时保存",
+        "立体声",
+        "Steam 云",
+        "已启用 Valve 反作弊保护",
+        "包含关卡编辑器",
+        "包括 Source SDK",
+        "在平板上远程畅玩",
+        "家庭共享"
+      ],
+      "genres": [
+        "休闲",
+        "独立",
+        "模拟"
+      ],
+      "screenshots": [
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4000/ss_af060d0a9aeb6598e154c9704ce250b0e63b2266.600x338.jpg?t=1776868682",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4000/ss_d314d7dba0987b3e7f49154964bda0ae74ee5161.600x338.jpg?t=1776868682",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4000/ss_3d320f333fb74413911cbc2bffae9bdda683e2ec.600x338.jpg?t=1776868682",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4000/ss_12741a4344b5cfee33726ae219476c8634517f7d.600x338.jpg?t=1776868682",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4000/ss_74a181b4584a04c88ee316df31a850ab2810fb79.600x338.jpg?t=1776868682",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4000/ss_a6133770663ff34d535adf050f2af64ab47a6974.600x338.jpg?t=1776868682"
+      ],
+      "recommendations": 1075866,
+      "achievements": 29,
+      "platforms": {
+        "windows": true,
+        "mac": true,
+        "linux": true
+      },
+      "metacritic": null
+    },
+    {
+      "appid": 1782210,
+      "name": "Crab Game",
+      "cn_name": "螃蟹游戏",
+      "developer": "Dani",
+      "publisher": "Dani",
+      "release_date": "2021 年 10 月 29 日",
+      "is_free": true,
+      "price": "免费",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1782210/header.jpg?t=1638221608",
+      "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1782210/capsule_184x69.jpg?t=1638221608",
+      "short_description": "Crab Game is a First-Person Multiplayer game where you play through several different minigames based on children's games, until only one player stands victorious.",
+      "categories": [
+        "多人",
+        "玩家对战",
+        "线上玩家对战",
+        "合作",
+        "在线合作",
+        "家庭共享"
+      ],
+      "genres": [
+        "动作",
+        "休闲",
+        "免费开玩",
+        "独立",
+        "竞速"
+      ],
+      "screenshots": [
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1782210/ss_335391df766a29348223d1093551a52c0695b06c.600x338.jpg?t=1638221608",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1782210/ss_fef8f54f0447e49d62564ca8f1cbfdb73801d2f2.600x338.jpg?t=1638221608",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1782210/ss_68030009c572cb7a4f6824e18fcc56d9becb5b28.600x338.jpg?t=1638221608",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1782210/ss_6fd12552e2216d1d02f9f82b97fb3c3f65106e81.600x338.jpg?t=1638221608",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1782210/ss_fe41849b5606af46fb2748780860588af800955f.600x338.jpg?t=1638221608",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1782210/ss_eeccaa822648c450ad432637c2ec1b4ae4052e67.600x338.jpg?t=1638221608"
+      ],
+      "recommendations": 0,
+      "achievements": 0,
+      "platforms": {
+        "windows": true,
+        "mac": true,
+        "linux": true
+      },
+      "metacritic": null
+    },
+    {
+      "appid": 381210,
+      "name": "黎明杀机",
+      "cn_name": "黎明杀机",
+      "developer": "Behaviour Interactive Inc.",
+      "publisher": "Behaviour Interactive Inc.",
+      "release_date": "2016 年 6 月 14 日",
+      "is_free": false,
+      "price": "¥ 37.50",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/381210/66727e8249aae119400352d4b1d84928f924939c/header_alt_assets_8.jpg?t=1782395976",
+      "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/381210/738c546b967d2c340c918fb33bb503d7c794c530/capsule_184x69_alt_assets_8.jpg?t=1782395976",
+      "short_description": "10年恐惧相伴。10年的惊吓与刺激体验。10年的残暴献祭与惊险逃脱。 永久困于邪恶的幻境之中，即使死亡也无法逃脱，这是一场需要勇气和智慧的较量，四名意志坚定的逃生者在残忍对局中面对嗜血杀手。选择一方，进入多人非对称竞技游戏世界，获得最佳恐怖游戏体验。",
+      "categories": [
+        "多人",
+        "玩家对战",
+        "线上玩家对战",
+        "合作",
+        "在线合作",
+        "跨平台多人",
+        "Steam 成就",
+        "完全支持控制器",
+        "Steam 集换式卡牌",
+        "可选颜色",
+        "自定义音量控制",
+        "Steam 输入 API 支持",
+        "立体声",
+        "字幕选项",
+        "环绕声",
+        "Steam 云",
+        "在手机上远程畅玩",
+        "在平板上远程畅玩",
+        "在电视上远程畅玩",
+        "家庭共享"
+      ],
+      "genres": [
+        "动作"
+      ],
+      "screenshots": [
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/381210/5355ac410e985cac27f04b877280a984be4d28a6/ss_5355ac410e985cac27f04b877280a984be4d28a6.600x338.jpg?t=1782395976",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/381210/76776660827b2b6b73afc4a506c1267462cc70ff/ss_76776660827b2b6b73afc4a506c1267462cc70ff.600x338.jpg?t=1782395976",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/381210/141a099b39afb31b864e8eda9570c344ad0c70f5/ss_141a099b39afb31b864e8eda9570c344ad0c70f5.600x338.jpg?t=1782395976",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/381210/30fa7d276001c8b33a60dc1cd8683c6aae5c20b6/ss_30fa7d276001c8b33a60dc1cd8683c6aae5c20b6.600x338.jpg?t=1782395976",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/381210/49c6658339950517b19f36fb49e6922cfaec8ef0/ss_49c6658339950517b19f36fb49e6922cfaec8ef0.600x338.jpg?t=1782395976",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/381210/7a898338890f6e0aabf1c8c424a4f33c56c4e1e1/ss_7a898338890f6e0aabf1c8c424a4f33c56c4e1e1.600x338.jpg?t=1782395976"
+      ],
+      "recommendations": 668819,
+      "achievements": 303,
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "metacritic": null
+    }
+  ]
+}

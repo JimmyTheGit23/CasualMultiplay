@@ -561,6 +561,122 @@
             color: var(--text-primary, #0F172A);
         }
 
+        .gd-hero {
+            width: 100%;
+            height: 240px;
+            overflow: hidden;
+            border-radius: 8px;
+            background: #1a1a1a;
+            margin-bottom: 16px;
+        }
+        .gd-hero img {
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
+        }
+        .gd-hero-placeholder {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            color: #94A3B8;
+            font-size: 48px;
+        }
+        .gd-body {
+            padding: 0 4px;
+        }
+        .gd-title {
+            font-size: 22px;
+            font-weight: 500;
+            margin: 0 0 4px 0;
+            color: var(--text-primary, #0F172A);
+        }
+        .gd-star {
+            color: #EF9F27;
+        }
+        .gd-subtitle {
+            font-size: 12px;
+            color: var(--text-muted, #64748B);
+            margin-bottom: 12px;
+        }
+        .gd-tags {
+            display: flex;
+            gap: 6px;
+            flex-wrap: wrap;
+            margin-bottom: 12px;
+        }
+        .gd-metrics {
+            display: grid;
+            grid-template-columns: repeat(4, 1fr);
+            gap: 10px;
+            margin-bottom: 20px;
+        }
+        .gd-metric {
+            background: var(--bg-secondary, #F8FAFC);
+            border-radius: 6px;
+            padding: 10px 12px;
+        }
+        .gd-metric-label {
+            display: block;
+            font-size: 10px;
+            color: var(--text-muted, #64748B);
+            margin-bottom: 4px;
+        }
+        .gd-metric-value {
+            display: block;
+            font-size: 16px;
+            font-weight: 500;
+            color: var(--text-primary, #0F172A);
+        }
+        .gd-section {
+            margin-bottom: 20px;
+        }
+        .gd-section-title {
+            font-size: 13px;
+            font-weight: 500;
+            color: var(--text-primary, #0F172A);
+            margin: 0 0 8px 0;
+            padding-bottom: 6px;
+            border-bottom: 0.5px solid var(--card-border, #E2E8F0);
+        }
+        .gd-desc {
+            font-size: 13px;
+            line-height: 1.6;
+            color: var(--text-primary, #0F172A);
+            margin: 0;
+        }
+        .gd-shots {
+            display: grid;
+            grid-template-columns: repeat(4, 1fr);
+            gap: 8px;
+        }
+        .gd-shots img {
+            width: 100%;
+            height: 90px;
+            object-fit: cover;
+            border-radius: 4px;
+            border: 0.5px solid var(--card-border, #E2E8F0);
+        }
+        .gd-sources {
+            display: flex;
+            gap: 6px;
+            flex-wrap: wrap;
+        }
+        .gd-source-pill {
+            display: inline-block;
+            padding: 4px 10px;
+            font-size: 11px;
+            background: var(--bg-secondary, #F8FAFC);
+            color: var(--text-primary, #0F172A);
+            border: 0.5px solid var(--card-border, #E2E8F0);
+            border-radius: 12px;
+            text-decoration: none;
+        }
+        .gd-source-pill:hover {
+            background: #FEF2F2;
+            border-color: #991B1B;
+            color: #991B1B;
+        }
+
 </style>
     <script>
         tailwind.config = {
@@ -3142,6 +3258,7 @@ If you want to know what happened next, let’s listen to the explanation next t
         let historyData = {};
         let steamNewsData = {};
         let gameRegistry = null;
+        let steamRichData = {};
         let currentSelectedGame = null;
         let activeTagFilter = 'all';
         let currentLbDim = 'ccu';
@@ -3510,6 +3627,18 @@ If you want to know what happened next, let’s listen to the explanation next t
                 gameRegistry = await regResp.json();
             } catch(e) {
                 console.warn('注册表加载失败:', e);
+            }
+
+            // 加载富数据(封面图、截图、介绍等)
+            try {
+                const richResp = await fetch('./data/steam_rich_data.json' + suffix);
+                const richData = await richResp.json();
+                steamRichData = {};
+                (richData.games || []).forEach(g => {
+                    steamRichData[g.appid] = g;
+                });
+            } catch(e) {
+                console.warn('富数据加载失败:', e);
             }
 
             renderAll();
@@ -3916,14 +4045,22 @@ If you want to know what happened next, let’s listen to the explanation next t
 
         function selectGame(gameKey) {
             currentSelectedGame = gameKey;
-            // 隐藏所有子面板
+            // 隐藏所有子面板和动态视图
             document.querySelectorAll('.game-subpanel').forEach(el => {
                 el.classList.add('hidden');
             });
-            // 显示对应的子面板
+            const dynamicView = document.getElementById('game-dynamic-view');
+            if (dynamicView) dynamicView.classList.add('hidden');
+
+            // 查找对应游戏
+            const game = findGameByKey(gameKey);
             const target = document.getElementById('section-' + gameKey);
             if (target) {
+                // 有自定义子面板的游戏(chaoziran/repo/dbd)
                 target.classList.remove('hidden');
+            } else if (game) {
+                // 其他游戏用富数据动态渲染
+                renderGameDetailView(game);
             }
             // 更新列表选中状态
             document.querySelectorAll('.game-list-item').forEach(el => {
@@ -3934,6 +4071,77 @@ If you want to know what happened next, let’s listen to the explanation next t
                 if (window._ccuChart) window._ccuChart.resize();
                 if (window._trendChart) window._trendChart.resize();
             });
+        }
+
+        function findGameByKey(key) {
+            if (!gameRegistry || !gameRegistry.games) return null;
+            return gameRegistry.games.find(g => (g.steam_key || g.name) === key);
+        }
+
+        function getRichData(appid) {
+            return steamRichData[appid] || null;
+        }
+
+        function renderGameDetailView(game) {
+            const container = document.getElementById('game-detail-container');
+            if (!container) return;
+            const rich = getRichData(game.appid);
+            const headerImg = rich && rich.header_image ? rich.header_image : '';
+            const screenshots = rich ? rich.screenshots : [];
+            const shortDesc = rich ? rich.short_description : '';
+            const developer = rich ? rich.developer : game.dev || '';
+            const publisher = rich ? rich.publisher : '';
+            const price = rich ? rich.price : '';
+            const release = rich ? rich.release_date : game.release || '';
+            const categories = rich ? rich.categories : [];
+            const genres = rich ? rich.genres : [];
+            const recs = rich ? rich.recommendations : 0;
+            const tagDefs = gameRegistry.tag_definitions || {};
+            const tagChips = (game.tags || []).map(t => {
+                const td = tagDefs[t];
+                return td ? `<span class="gc-tag">${td.zh}</span>` : '';
+            }).join('');
+            const hero = headerImg
+                ? `<div class="gd-hero"><img src="${headerImg}" alt="${game.cn_name || game.name}" referrerpolicy="no-referrer" onerror="this.style.display='none'"></div>`
+                : `<div class="gd-hero gd-hero-placeholder">${(game.cn_name || game.name).charAt(0)}</div>`;
+            const shots = screenshots.slice(0, 4).map(s => `<img src="${s}" referrerpolicy="no-referrer" loading="lazy" onerror="this.style.display='none'">`).join('');
+            const ccu = getGameCCU(game);
+            const positive = getGamePositive(game);
+            const wishlist = game.wishlist_count ? `<div class="gd-metric"><span class="gd-metric-label">愿望单</span><span class="gd-metric-value">${game.wishlist_count >= 10000 ? Math.floor(game.wishlist_count/10000)+'w' : game.wishlist_count}</span></div>` : '';
+            const dynId = 'game-dynamic-view';
+            let html = `<div id="${dynId}">
+                ${hero}
+                <div class="gd-body">
+                    <h2 class="gd-title">${game.cn_name || game.name}${game.pinned ? ' <span class="gd-star">★</span>' : ''}</h2>
+                    <div class="gd-subtitle">${developer}${publisher && publisher !== developer ? ' · ' + publisher : ''} · ${release}</div>
+                    <div class="gd-tags">${tagChips}</div>
+                    <div class="gd-metrics">
+                        <div class="gd-metric"><span class="gd-metric-label">CCU</span><span class="gd-metric-value">${ccu > 0 ? ccu.toLocaleString() : '-'}</span></div>
+                        <div class="gd-metric"><span class="gd-metric-label">好评率</span><span class="gd-metric-value">${positive > 0 ? positive + '%' : '-'}</span></div>
+                        ${wishlist}
+                        <div class="gd-metric"><span class="gd-metric-label">价格</span><span class="gd-metric-value">${price || '-'}</span></div>
+                    </div>
+                    <div class="gd-section">
+                        <h3 class="gd-section-title">游戏介绍</h3>
+                        <p class="gd-desc">${shortDesc || game.intro_zh || '暂无介绍'}</p>
+                    </div>
+                    ${shots ? `<div class="gd-section"><h3 class="gd-section-title">游戏截图</h3><div class="gd-shots">${shots}</div></div>` : ''}
+                    ${game.intro_zh && rich && rich.short_description ? `<div class="gd-section"><h3 class="gd-section-title">编辑点评</h3><p class="gd-desc">${game.intro_zh}</p></div>` : ''}
+                    <div class="gd-section">
+                        <h3 class="gd-section-title">数据来源</h3>
+                        <div class="gd-sources">
+                            <a href="${game.store_url}" target="_blank" class="gd-source-pill">Steam 商店 [S]</a>
+                            <a href="https://steamdb.info/app/${game.appid}/" target="_blank" class="gd-source-pill">SteamDB [A]</a>
+                            ${recs ? `<span class="gd-source-pill">推荐数 ${recs.toLocaleString()}</span>` : ''}
+                        </div>
+                    </div>
+                </div>
+            </div>`;
+            // 移除旧的动态视图,插入新的
+            const old = document.getElementById(dynId);
+            if (old) old.remove();
+            container.insertAdjacentHTML('beforeend', html);
+        }
         }
 
         // ========== 发现页：标签筛选 + 卡片网格 ==========
@@ -4026,8 +4234,12 @@ If you want to know what happened next, let’s listen to the explanation next t
                 }).join('');
                 const priCls = 'gc-pri-' + (g.priority || 'P2');
                 const pinnedCls = g.pinned ? ' pinned' : '';
+                // 优先使用 steamRichData 的封面图
+                const rich = steamRichData[g.appid];
                 let coverHtml = '';
-                if (g.steam_key && steamData[g.steam_key] && steamData[g.steam_key].store && steamData[g.steam_key].store.header_image) {
+                if (rich && rich.header_image) {
+                    coverHtml = `<img class="gc-cover" src="${rich.header_image}" alt="${g.cn_name || g.name}" loading="lazy" referrerpolicy="no-referrer" onerror="this.style.display='none';this.nextElementSibling.style.display='flex'"><div class="gc-cover-placeholder" style="display:none">${(g.cn_name || g.name).charAt(0)}</div>`;
+                } else if (g.steam_key && steamData[g.steam_key] && steamData[g.steam_key].store && steamData[g.steam_key].store.header_image) {
                     const img = steamData[g.steam_key].store.header_image;
                     coverHtml = `<img class="gc-cover" src="${img}" alt="${g.cn_name || g.name}" loading="lazy" onerror="this.style.display='none';this.nextElementSibling.style.display='flex'"><div class="gc-cover-placeholder" style="display:none">${(g.cn_name || g.name).charAt(0)}</div>`;
                 } else {
