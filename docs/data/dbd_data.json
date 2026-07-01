@@ -1,10 +1,10 @@
 {
-  "snapshot_date": "2026-06-30T09:55:44+08:00",
+  "snapshot_date": "2026-07-01T04:01:39+08:00",
   "hero": {
     "name": "黎明杀机",
-    "current_players": 83660,
+    "current_players": 73260,
     "positive_rate": 78.5,
-    "reviews_total": 912592,
+    "reviews_total": 913107,
     "price_label": "¥ 37.50",
     "release_date": "2016 年 6 月 14 日",
     "genres": [
@@ -13,7 +13,18 @@
   },
   "operations": [
     {
-      "date": "2026-06-27",
+      "date": "2026-06-30",
+      "timestamp": 1782810000,
+      "title": "Steam Global Top Sellers for week of 23 Jun — 30 June 2026",
+      "url": "https://steamstore-a.akamaihd.net/news/externalpost/SteamDB/1836506165562533",
+      "author": "SteamDB",
+      "feed_label": "SteamDB",
+      "feed_type": "媒体",
+      "is_patch": false,
+      "contents": "<a href=\"https://steamdb.info/topsellers/2026W27/?utm_source=Steam&utm_medium=Steam&utm_campaign=SteamRSS\"> </a> * <a href=\"https://steamdb.info/app/4704690/charts/?utm_source=Steam&utm_medium=Steam&u"
+    },
+    {
+      "date": "2026-06-26",
       "timestamp": 1782509641,
       "title": "Ice Nine Kills X Dead by Daylight Merch",
       "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165555270",
@@ -68,7 +79,7 @@
       "contents": "Dead by Daylight is a game developer's dream (or nightmare) come true. Akin to Warframe, it launched to somewhat lukewarm reviews, but has continued to expand as the years have gone on, cementing itse"
     },
     {
-      "date": "2026-06-17",
+      "date": "2026-06-16",
       "timestamp": 1781633759,
       "title": "The Jason Chapter is now available on Steam!",
       "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1835236783575227",
@@ -88,17 +99,6 @@
       "feed_type": "官方",
       "is_patch": false,
       "contents": "ContentNEW KILLER: THE SLASHERPOWER: OMNIPRESENT EVILPress the Active Ability button to activate Omnipresent Evil. The Slasher becomes invisible and gains Undetectable, but cannot see Survivors or the"
-    },
-    {
-      "date": "2026-06-16",
-      "timestamp": 1781539568,
-      "title": "Stats | Celebrating 10 Years In The Fog",
-      "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1835236783570987",
-      "author": "Goblin_BHVR",
-      "feed_label": "Community Announcements",
-      "feed_type": "官方",
-      "is_patch": false,
-      "contents": "Happy 10th Anniversary, everyone! Whether you visited us in Montreal or celebrated with us online, thank you from the bottom of our hearts for making this anniversary and the livestream a time to reme"
     }
   ],
   "patches": [],
@@ -159,11 +159,11 @@
     ]
   },
   "reviews": {
-    "total_reviews": 912592,
-    "positive": 716110,
-    "negative": 196482,
+    "total_reviews": 913107,
+    "positive": 716473,
+    "negative": 196634,
     "positive_rate": 78.5
   },
-  "ccu": 83660,
-  "crawled_at": "2026-06-30T09:55:44.135143"
+  "ccu": 73260,
+  "crawled_at": "2026-07-01T04:01:39.521534"
 }
