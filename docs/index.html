@@ -303,6 +303,126 @@
 
         .top-nav-bar, .top-tab-bar { display: none !important; }
 
+        .gamedetail-layout {
+            display: flex;
+            gap: 16px;
+            align-items: flex-start;
+        }
+        .game-selector-panel {
+            width: 200px;
+            flex-shrink: 0;
+            background: var(--card-bg, #FFFFFF);
+            border: 0.5px solid var(--card-border, #E2E8F0);
+            border-radius: 8px;
+            padding: 12px;
+            position: sticky;
+            top: 16px;
+            max-height: calc(100vh - 120px);
+            overflow-y: auto;
+        }
+        .selector-search input {
+            width: 100%;
+            padding: 6px 10px;
+            font-size: 12px;
+            border: 0.5px solid var(--card-border, #E2E8F0);
+            border-radius: 6px;
+            background: var(--bg-secondary, #F8FAFC);
+            color: var(--text-primary, #0F172A);
+            box-sizing: border-box;
+        }
+        .selector-tag-chip {
+            font-size: 10px;
+            padding: 2px 8px;
+            border-radius: 10px;
+            border: 0.5px solid var(--card-border, #E2E8F0);
+            background: transparent;
+            color: var(--text-muted, #64748B);
+            cursor: pointer;
+            user-select: none;
+        }
+        .selector-tag-chip.active {
+            background: #991B1B;
+            color: #FFFFFF;
+            border-color: #991B1B;
+        }
+        .game-list-item {
+            padding: 8px 10px;
+            border-radius: 6px;
+            cursor: pointer;
+            margin-bottom: 4px;
+            border: 0.5px solid transparent;
+        }
+        .game-list-item:hover {
+            background: var(--bg-secondary, #F8FAFC);
+        }
+        .game-list-item.active {
+            background: #FEF2F2;
+            border-color: #991B1B;
+        }
+        .game-list-item .gi-name {
+            font-size: 12px;
+            font-weight: 500;
+            color: var(--text-primary, #0F172A);
+            white-space: nowrap;
+            overflow: hidden;
+            text-overflow: ellipsis;
+        }
+        .game-list-item .gi-meta {
+            font-size: 10px;
+            color: var(--text-muted, #64748B);
+            margin-top: 2px;
+        }
+        .game-list-item.pinned .gi-name::before {
+            content: '★ ';
+            color: #EF9F27;
+        }
+        .game-detail-container {
+            flex: 1;
+            min-width: 0;
+        }
+        .game-subpanel {
+            animation: none;
+        }
+        .game-subpanel:not(.hidden) {
+            display: block;
+        }
+        .leaderboard-table {
+            width: 100%;
+            border-collapse: collapse;
+            font-size: 12px;
+        }
+        .leaderboard-table th {
+            text-align: left;
+            padding: 8px 12px;
+            border-bottom: 1px solid var(--card-border, #E2E8F0);
+            font-weight: 500;
+            color: var(--text-muted, #64748B);
+            font-size: 11px;
+        }
+        .leaderboard-table td {
+            padding: 8px 12px;
+            border-bottom: 0.5px solid var(--card-border, #E2E8F0);
+            color: var(--text-primary, #0F172A);
+        }
+        .leaderboard-table tr:hover td {
+            background: var(--bg-secondary, #F8FAFC);
+        }
+        .lb-rank {
+            width: 32px;
+            color: var(--text-muted, #64748B);
+            font-weight: 500;
+        }
+        .src-badge {
+            font-size: 9px;
+            padding: 1px 4px;
+            border-radius: 3px;
+            margin-left: 4px;
+            font-weight: 400;
+        }
+        .src-S { background: #E1F5EE; color: #085041; }
+        .src-A { background: #E6F1FB; color: #0C447C; }
+        .src-B { background: #F1EFE8; color: #5F5E5A; }
+
 </style>
     <script>
         tailwind.config = {
@@ -357,19 +477,15 @@
 
             <button class="sidebar-nav-item active" data-nav="overview" onclick="navTo('overview')">
                 <span class="nav-icon">◈</span>
-                <span data-i18n="tab_overview">总览</span>
+                <span data-i18n="tab_discover">发现</span>
             </button>
-            <button class="sidebar-nav-item" data-nav="chaoziran" onclick="navTo('chaoziran')">
+            <button class="sidebar-nav-item" data-nav="leaderboard" onclick="navTo('leaderboard')">
+                <span class="nav-icon">◈</span>
+                <span data-i18n="tab_leaderboard">排行榜</span>
+            </button>
+            <button class="sidebar-nav-item" data-nav="gamedetail" onclick="navTo('gamedetail')">
                 <span class="nav-icon" style="color:var(--accent);">◆</span>
-                <span data-i18n="tab_chaoziran">超自然行动组</span>
-            </button>
-            <button class="sidebar-nav-item" data-nav="repo" onclick="navTo('repo')">
-                <span class="nav-icon">◈</span>
-                <span>R.E.P.O.</span>
-            </button>
-            <button class="sidebar-nav-item" data-nav="dbd" onclick="navTo('dbd')">
-                <span class="nav-icon">◈</span>
-                <span data-i18n="tab_dbd">Dead by Daylight</span>
+                <span data-i18n="tab_gamedetail">游戏详情</span>
             </button>
             <button class="sidebar-nav-item" data-nav="competitors" onclick="navTo('competitors')">
                 <span class="nav-icon">◈</span>
@@ -413,10 +529,9 @@
     <!-- 标签页导航 — Rounded Pills + Crimson Underline -->
     <div class="top-tab-bar max-w-7xl mx-auto px-6 pt-5">
         <div class="flex gap-1 border-b" style="border-color:var(--card-border);">
-            <button class="tab-btn tab-active pb-3 px-4 text-xs transition shrink-0 font-medium rounded-t-lg" data-tab="overview" onclick="switchTab('overview')" data-i18n="tab_overview">总览</button>
-            <button class="tab-btn pb-3 px-4 text-xs transition shrink-0 font-medium rounded-t-lg" style="color:var(--text-muted);" data-tab="chaoziran" onclick="switchTab('chaoziran')" data-i18n="tab_chaoziran">超自然行动组</button>
-            <button class="tab-btn pb-3 px-4 text-xs transition shrink-0 font-medium rounded-t-lg" style="color:var(--text-muted);" data-tab="repo" onclick="switchTab('repo')">R.E.P.O.</button>
-            <button class="tab-btn pb-3 px-4 text-xs transition shrink-0 font-medium rounded-t-lg" style="color:var(--text-muted);" data-tab="dbd" onclick="switchTab('dbd')" data-i18n="tab_dbd">Dead by Daylight</button>
+            <button class="tab-btn tab-active pb-3 px-4 text-xs transition shrink-0 font-medium rounded-t-lg" data-tab="overview" onclick="switchTab('overview')" data-i18n="tab_discover">发现</button>
+            <button class="tab-btn pb-3 px-4 text-xs transition shrink-0 font-medium rounded-t-lg" style="color:var(--text-muted);" data-tab="leaderboard" onclick="switchTab('leaderboard')" data-i18n="tab_leaderboard">排行榜</button>
+            <button class="tab-btn pb-3 px-4 text-xs transition shrink-0 font-medium rounded-t-lg" style="color:var(--text-muted);" data-tab="gamedetail" onclick="switchTab('gamedetail')" data-i18n="tab_gamedetail">游戏详情</button>
             <button class="tab-btn pb-3 px-4 text-xs transition shrink-0 font-medium rounded-t-lg" style="color:var(--text-muted);" data-tab="competitors" onclick="switchTab('competitors')" data-i18n="tab_competitors">竞品对比</button>
         </div>
     </div>
@@ -486,8 +601,50 @@
             </div>
         </section>
 
+        <!-- ========== 排行榜页 ========== -->
+        <section id="section-leaderboard" class="content-section fade-in" data-section="leaderboard">
+            <div class="mb-6">
+                <h2 class="text-xl font-bold mb-2" data-i18n="lb_title">排行榜</h2>
+                <p class="text-xs" style="color:var(--text-muted);" data-i18n="lb_subtitle">多维度排名 · 每列标注数据来源</p>
+            </div>
+            <div class="leaderboard-dim-bar flex gap-1 mb-4 border-b" style="border-color:var(--card-border);" id="lb-dim-bar">
+                <button class="lb-dim-btn tab-active pb-3 px-4 text-xs font-medium rounded-t-lg" data-dim="ccu" onclick="switchLbDim('ccu')" data-i18n="lb_dim_ccu">CCU</button>
+                <button class="lb-dim-btn pb-3 px-4 text-xs font-medium rounded-t-lg" style="color:var(--text-muted);" data-dim="wishlist" onclick="switchLbDim('wishlist')" data-i18n="lb_dim_wishlist">愿望单</button>
+                <button class="lb-dim-btn pb-3 px-4 text-xs font-medium rounded-t-lg" style="color:var(--text-muted);" data-dim="positive" onclick="switchLbDim('positive')" data-i18n="lb_dim_positive">好评率</button>
+                <button class="lb-dim-btn pb-3 px-4 text-xs font-medium rounded-t-lg" style="color:var(--text-muted);" data-dim="release" onclick="switchLbDim('release')" data-i18n="lb_dim_release">发售日</button>
+            </div>
+            <div id="leaderboard-table-wrap" class="overflow-x-auto"></div>
+        </section>
+
+        <!-- ========== 游戏详情页（单页内嵌选择器） ========== -->
+        <section id="section-gamedetail" class="content-section fade-in" data-section="gamedetail">
+            <div class="gamedetail-layout">
+                <!-- 左侧游戏选择器 -->
+                <aside class="game-selector-panel">
+                    <div class="selector-search">
+                        <input type="text" id="game-search-input" placeholder="搜索游戏..." oninput="filterGameList()">
+                    </div>
+                    <div class="selector-tags flex flex-wrap gap-1 mb-2" id="selector-tags"></div>
+                    <div class="selector-sort flex items-center gap-2 mb-2">
+                        <span class="text-[11px]" style="color:var(--text-muted);" data-i18n="sort_label">排序</span>
+                        <select id="selector-sort" onchange="renderGameList()" class="text-[11px]" style="background:transparent;border:1px solid var(--card-border);border-radius:6px;padding:2px 6px;">
+                            <option value="priority" data-i18n="sort_priority">优先关注</option>
+                            <option value="ccu">CCU</option>
+                            <option value="wishlist" data-i18n="sort_wishlist">愿望单</option>
+                            <option value="release" data-i18n="sort_release">发售日</option>
+                            <option value="positive" data-i18n="sort_positive">好评率</option>
+                        </select>
+                    </div>
+                    <div class="selector-count text-[11px] mb-2" id="selector-count" style="color:var(--text-muted);"></div>
+                    <div class="game-list" id="game-list"></div>
+                </aside>
+                <!-- 右侧详情容器（子面板由 JS 注入） -->
+                <div class="game-detail-container" id="game-detail-container"></div>
+            </div>
+        </section>
+
         <!-- ========== 超自然行动组页 ========== -->
-        <section id="section-chaoziran" class="content-section fade-in" data-section="chaoziran">
+        <section id="section-chaoziran" class="game-subpanel hidden" data-game="chaoziran">
             <!-- 顶部横幅 -->
             <div class="mb-6 pt-2">
                 <div class="hero-banner hero-banner--czr" style="min-height:220px;">
@@ -718,7 +875,7 @@
         </section>
 
         <!-- ========== R.E.P.O. 页 ========== -->
-        <section id="section-repo" class="content-section fade-in" data-section="repo">
+        <section id="section-repo" class="game-subpanel hidden" data-game="repo">
             <div class="mb-6 pt-2">
                 <div class="hero-banner hero-banner--repo" style="min-height:220px;">
                     <img id="repo-hero-banner" src="images/repo-header.jpg" alt="R.E.P.O." referrerpolicy="no-referrer">
@@ -958,7 +1115,7 @@
         </section>
 
         <!-- ========== Dead by Daylight 页 ========== -->
-        <section id="section-dbd" class="content-section fade-in" data-section="dbd">
+        <section id="section-dbd" class="game-subpanel hidden" data-game="dbd">
             <div id="dbd-content" style="color:var(--text-muted);">加载中...</div>
         </section>
 
@@ -2884,6 +3041,10 @@ If you want to know what happened next, let’s listen to the explanation next t
         let chaoziranData = {};
         let historyData = {};
         let steamNewsData = {};
+        let gameRegistry = null;
+        let currentSelectedGame = null;
+        let activeTagFilter = 'all';
+        let currentLbDim = 'ccu';
 
         let DBD_DATA = {
             "snapshot_date": "2026-06-29T09:57:10+08:00",
@@ -3243,7 +3404,17 @@ If you want to know what happened next, let’s listen to the explanation next t
                 console.warn('超自然海外数据加载失败:', e);
             }
 
+            // 加载游戏注册表
+            try {
+                const regResp = await fetch('./data/game_registry.json' + suffix);
+                gameRegistry = await regResp.json();
+            } catch(e) {
+                console.warn('注册表加载失败:', e);
+            }
+
             renderAll();
+            initGameDetailPage();
+            renderLeaderboard();
         }
 
         function toggleTombBusters() {
@@ -3498,6 +3669,247 @@ If you want to know what happened next, let’s listen to the explanation next t
             renderRepo();
             renderDBD();
             renderCompetitors();
+        }
+
+        // ========== 游戏详情页：选择器 + 子面板切换 ==========
+        function initGameDetailPage() {
+            if (!gameRegistry) return;
+            renderSelectorTags();
+            renderGameList();
+            // 移动三个子面板到详情容器
+            const container = document.getElementById('game-detail-container');
+            if (container) {
+                ['chaoziran', 'repo', 'dbd'].forEach(key => {
+                    const panel = document.getElementById('section-' + key);
+                    if (panel && panel.parentElement !== container) {
+                        container.appendChild(panel);
+                    }
+                });
+            }
+            // 默认选中第一个 pinned 或 P0
+            const firstGame = getSortedGames()[0];
+            if (firstGame) selectGame(firstGame.steam_key || firstGame.name);
+        }
+
+        function getSortedGames() {
+            if (!gameRegistry || !gameRegistry.games) return [];
+            const sortKey = document.getElementById('selector-sort') ? document.getElementById('selector-sort').value : 'priority';
+            let games = [...gameRegistry.games];
+            // 标签过滤
+            if (activeTagFilter !== 'all') {
+                games = games.filter(g => g.tags && g.tags.includes(activeTagFilter));
+            }
+            // 搜索过滤
+            const searchInput = document.getElementById('game-search-input');
+            const q = searchInput ? searchInput.value.trim().toLowerCase() : '';
+            if (q) {
+                games = games.filter(g =>
+                    g.name.toLowerCase().includes(q) ||
+                    (g.cn_name && g.cn_name.toLowerCase().includes(q))
+                );
+            }
+            // 排序
+            const priorityOrder = { 'P0': 0, 'P1': 1, 'P2': 2 };
+            games.sort((a, b) => {
+                // pinned 最优先
+                const ap = a.pinned ? 1 : 0;
+                const bp = b.pinned ? 1 : 0;
+                if (ap !== bp) return bp - ap;
+                if (sortKey === 'priority') {
+                    const pa = priorityOrder[a.priority] || 9;
+                    const pb = priorityOrder[b.priority] || 9;
+                    if (pa !== pb) return pa - pb;
+                    return (a.name || '').localeCompare(b.name || '');
+                } else if (sortKey === 'ccu') {
+                    return getGameCCU(b) - getGameCCU(a);
+                } else if (sortKey === 'wishlist') {
+                    return (b.wishlist_count || 0) - (a.wishlist_count || 0);
+                } else if (sortKey === 'release') {
+                    return (a.release || '').localeCompare(b.release || '');
+                } else if (sortKey === 'positive') {
+                    return getGamePositive(b) - getGamePositive(a);
+                }
+                return 0;
+            });
+            return games;
+        }
+
+        function getGameCCU(game) {
+            if (!game.steam_key || !steamData[game.steam_key]) return 0;
+            const d = steamData[game.steam_key];
+            return (d.steamspy && d.steamspy.ccu) || (d.store && d.store.ccu) || 0;
+        }
+
+        function getGamePositive(game) {
+            if (!game.steam_key || !steamData[game.steam_key]) return 0;
+            const d = steamData[game.steam_key];
+            if (d.steamspy && d.steamspy.positive) {
+                const pos = d.steamspy.positive;
+                const neg = d.steamspy.negative || 0;
+                const total = pos + neg;
+                return total > 0 ? Math.round(pos / total * 100) : 0;
+            }
+            return 0;
+        }
+
+        function renderSelectorTags() {
+            if (!gameRegistry || !gameRegistry.tag_definitions) return;
+            const wrap = document.getElementById('selector-tags');
+            if (!wrap) return;
+            const tags = gameRegistry.tag_definitions;
+            let html = '<span class="selector-tag-chip active" data-tag="all" onclick="setTagFilter(\'all\')">全部</span>';
+            // 只显示有游戏的标签
+            const usedTags = new Set();
+            (gameRegistry.games || []).forEach(g => {
+                (g.tags || []).forEach(t => usedTags.add(t));
+            });
+            for (const [key, info] of Object.entries(tags)) {
+                if (!usedTags.has(key)) continue;
+                html += `<span class="selector-tag-chip" data-tag="${key}" onclick="setTagFilter('${key}')">${info.zh}</span>`;
+            }
+            wrap.innerHTML = html;
+        }
+
+        function setTagFilter(tag) {
+            activeTagFilter = tag;
+            document.querySelectorAll('.selector-tag-chip').forEach(el => {
+                el.classList.toggle('active', el.dataset.tag === tag);
+            });
+            renderGameList();
+        }
+
+        function renderGameList() {
+            const listEl = document.getElementById('game-list');
+            if (!listEl) return;
+            const games = getSortedGames();
+            const countEl = document.getElementById('selector-count');
+            if (countEl) countEl.textContent = `共 ${games.length} 款`;
+            if (games.length === 0) {
+                listEl.innerHTML = '<div style="text-align:center;padding:20px;font-size:11px;color:var(--text-muted);">无匹配游戏</div>';
+                return;
+            }
+            listEl.innerHTML = games.map(g => {
+                const isActive = currentSelectedGame === (g.steam_key || g.name);
+                const pinnedCls = g.pinned ? ' pinned' : '';
+                const activeCls = isActive ? ' active' : '';
+                const key = g.steam_key || g.name;
+                let meta = '';
+                if (g.priority) meta += g.priority;
+                const ccu = getGameCCU(g);
+                if (ccu > 0) {
+                    meta += (meta ? ' · ' : '') + 'CCU ' + ccu.toLocaleString();
+                } else if (g.wishlist_count) {
+                    meta += (meta ? ' · ' : '') + 'WL ' + (g.wishlist_count >= 10000 ? Math.floor(g.wishlist_count / 10000) + 'w' : g.wishlist_count);
+                } else if (g.status) {
+                    meta += (meta ? ' · ' : '') + g.status;
+                }
+                return `<div class="game-list-item${pinnedCls}${activeCls}" onclick="selectGame('${key}')" data-game-key="${key}">
+                    <div class="gi-name">${g.cn_name || g.name}</div>
+                    ${meta ? `<div class="gi-meta">${meta}</div>` : ''}
+                </div>`;
+            }).join('');
+        }
+
+        function filterGameList() {
+            renderGameList();
+        }
+
+        function selectGame(gameKey) {
+            currentSelectedGame = gameKey;
+            // 隐藏所有子面板
+            document.querySelectorAll('.game-subpanel').forEach(el => {
+                el.classList.add('hidden');
+            });
+            // 显示对应的子面板
+            const target = document.getElementById('section-' + gameKey);
+            if (target) {
+                target.classList.remove('hidden');
+            }
+            // 更新列表选中状态
+            document.querySelectorAll('.game-list-item').forEach(el => {
+                el.classList.toggle('active', el.dataset.gameKey === gameKey);
+            });
+            // 重算图表
+            requestAnimationFrame(() => {
+                if (window._ccuChart) window._ccuChart.resize();
+                if (window._trendChart) window._trendChart.resize();
+            });
+        }
+
+        // ========== 排行榜 ==========
+        function switchLbDim(dim) {
+            currentLbDim = dim;
+            document.querySelectorAll('.lb-dim-btn').forEach(el => {
+                el.classList.toggle('tab-active', el.dataset.dim === dim);
+                el.style.color = el.dataset.dim === dim ? '' : 'var(--text-muted)';
+            });
+            renderLeaderboard();
+        }
+
+        function renderLeaderboard() {
+            const wrap = document.getElementById('leaderboard-table-wrap');
+            if (!wrap) return;
+            if (!gameRegistry || !gameRegistry.games) {
+                wrap.innerHTML = '<p style="color:var(--text-muted);font-size:12px;">加载中...</p>';
+                return;
+            }
+            let games = [...gameRegistry.games];
+            // 按当前维度排序
+            if (currentLbDim === 'ccu') {
+                games.sort((a, b) => getGameCCU(b) - getGameCCU(a));
+            } else if (currentLbDim === 'wishlist') {
+                games.sort((a, b) => (b.wishlist_count || 0) - (a.wishlist_count || 0));
+            } else if (currentLbDim === 'positive') {
+                games.sort((a, b) => getGamePositive(b) - getGamePositive(a));
+            } else if (currentLbDim === 'release') {
+                games.sort((a, b) => (b.release || '').localeCompare(a.release || ''));
+            }
+            const dimLabel = {
+                ccu: 'CCU',
+                wishlist: '愿望单',
+                positive: '好评率',
+                release: '发售日'
+            }[currentLbDim];
+            const dimTier = {
+                ccu: 'S',
+                wishlist: 'A',
+                positive: 'S',
+                release: 'S'
+            }[currentLbDim];
+            let html = '<table class="leaderboard-table"><thead><tr>';
+            html += '<th class="lb-rank">#</th>';
+            html += '<th>游戏</th>';
+            html += '<th>开发商</th>';
+            html += '<th>标签</th>';
+            html += `<th>${dimLabel}<span class="src-badge src-${dimTier}">[${dimTier}]</span></th>`;
+            html += '</tr></thead><tbody>';
+            games.forEach((g, i) => {
+                let val = '-';
+                if (currentLbDim === 'ccu') {
+                    const c = getGameCCU(g);
+                    val = c > 0 ? c.toLocaleString() : '-';
+                } else if (currentLbDim === 'wishlist') {
+                    val = g.wishlist_count ? g.wishlist_count.toLocaleString() : '-';
+                } else if (currentLbDim === 'positive') {
+                    const p = getGamePositive(g);
+                    val = p > 0 ? p + '%' : '-';
+                } else if (currentLbDim === 'release') {
+                    val = g.release || '-';
+                }
+                const tags = (g.tags || []).slice(0, 3).map(t => {
+                    const td = gameRegistry.tag_definitions[t];
+                    return td ? td.zh : t;
+                }).join(' ');
+                html += `<tr onclick="navTo('gamedetail');setTimeout(()=>selectGame('${g.steam_key || g.name}'),100)" style="cursor:pointer;">`;
+                html += `<td class="lb-rank">${i + 1}</td>`;
+                html += `<td>${g.cn_name || g.name}${g.pinned ? ' ★' : ''}</td>`;
+                html += `<td style="color:var(--text-muted);">${g.dev || '-'}</td>`;
+                html += `<td style="font-size:10px;color:var(--text-muted);">${tags}</td>`;
+                html += `<td style="font-weight:500;">${val}</td>`;
+                html += '</tr>';
+            });
+            html += '</tbody></table>';
+            wrap.innerHTML = html;
         }
 
         function renderLastUpdate() {
@@ -5942,10 +6354,21 @@ If you want to know what happened next, let’s listen to the explanation next t
             refresh: { zh: '刷新数据', en: 'Refresh' },
             loading: { zh: '加载中...', en: 'Loading...' },
             // 标签页
-            tab_overview: { zh: '总览', en: 'Overview' },
-            tab_chaoziran: { zh: '超自然行动组', en: 'Supernatural' },
-            tab_dbd: { zh: 'Dead by Daylight', en: 'Dead by Daylight' },
+            tab_discover: { zh: '发现', en: 'Discover' },
+            tab_leaderboard: { zh: '排行榜', en: 'Leaderboard' },
+            tab_gamedetail: { zh: '游戏详情', en: 'Game Detail' },
             tab_competitors: { zh: '竞品对比', en: 'Competitors' },
+            lb_title: { zh: '排行榜', en: 'Leaderboard' },
+            lb_subtitle: { zh: '多维度排名 · 每列标注数据来源', en: 'Multi-dim ranking · source per column' },
+            lb_dim_ccu: { zh: 'CCU', en: 'CCU' },
+            lb_dim_wishlist: { zh: '愿望单', en: 'Wishlist' },
+            lb_dim_positive: { zh: '好评率', en: 'Positive %' },
+            lb_dim_release: { zh: '发售日', en: 'Release' },
+            sort_label: { zh: '排序', en: 'Sort' },
+            sort_priority: { zh: '优先关注', en: 'Priority' },
+            sort_wishlist: { zh: '愿望单', en: 'Wishlist' },
+            sort_release: { zh: '发售日', en: 'Release' },
+            sort_positive: { zh: '好评率', en: 'Positive %' },
             // 总览KPI
             czr_dau: { zh: '超自然行动组 DAU', en: 'Supernatural DAU' },
             overseas_live: { zh: '海外版已上线', en: 'Overseas ver. live' },
