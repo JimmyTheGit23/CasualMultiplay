@@ -249,7 +249,7 @@
       "is_official": true,
       "contents": "Hey hey semibots! Here is yet another small update with some fixes and balancing! CHANGES BALANCING FIXES CHANGES Item Melee Weapons - Handling now properly scales with strength and should feel firmer"
     },
-    "crawled_at": "2026-07-01T04:01:39.624377"
+    "crawled_at": "2026-07-02T03:42:10.494057"
   },
   "Lethal Company": {
     "appid": 1966720,
@@ -501,7 +501,7 @@
       "is_official": true,
       "contents": "Hello, long time no see! Version 80 is out in beta for you to test. You can access it by opting into the public beta branch for Lethal Company on Steam. V80 brings a complete rework of March's exterio"
     },
-    "crawled_at": "2026-07-01T04:01:40.796202"
+    "crawled_at": "2026-07-02T03:42:11.655642"
   },
   "Phasmophobia": {
     "appid": 739630,
@@ -753,7 +753,7 @@
       "is_official": true,
       "contents": "Welcome back, Ghost Hunters.Today we have released a hotfix for Phasmophobia, addressing two issues raised by the community this week. The update is now available across all platforms.Patch notes:Fixe"
     },
-    "crawled_at": "2026-07-01T04:01:41.964278"
+    "crawled_at": "2026-07-02T03:42:12.859557"
   },
   "Content Warning": {
     "appid": 2881650,
@@ -1005,7 +1005,7 @@
       "is_official": true,
       "contents": "Hello Spööktubers! Thank you for your patience as we're fixing bugs on all platforms.Here's a new patch fixing some stuff!For those of you wondering when crossplay between Switch 1 & 2 and other platf"
     },
-    "crawled_at": "2026-07-01T04:01:43.282808"
+    "crawled_at": "2026-07-02T03:42:14.055426"
   },
   "FEEDERS": {
     "appid": 4408510,
@@ -1256,12 +1256,34 @@
       "is_official": true,
       "contents": "Gave the HUD a fresh redesign. New look across the board — the status bars (Health, Stamina, Radiation) and the bottom belt all got reworked. Same info, cleaner read. More guns coming with new solo ex"
     },
-    "crawled_at": "2026-07-01T04:01:44.470321"
+    "crawled_at": "2026-07-02T03:42:15.226050"
   },
   "NARAKA: BLADEPOINT": {
     "appid": 1203220,
     "all": [
       {
+        "date": "2026-07-02",
+        "datetime": "2026-07-02T03:07:29",
+        "title": "Celebrate NARAKA: BLADEPOINT's 5th Anniversary NOW!",
+        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165566927",
+        "author": "Misty",
+        "feed_label": "Community Announcements",
+        "is_patch": false,
+        "is_official": true,
+        "contents": "Beneath the Waves, a New Battlefield AwakensAs the highlight of the anniversary update, Wanchu takes the battle royale action underwater for the first time. Built around a dedicated underwater combat "
+      },
+      {
+        "date": "2026-07-01",
+        "datetime": "2026-07-01T13:55:15",
+        "title": "NARAKA: BLADEPOINT Banned Players List July 1st",
+        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165565482",
+        "author": "Yeeeeee",
+        "feed_label": "Community Announcements",
+        "is_patch": false,
+        "is_official": true,
+        "contents": "Dear players, NARAKA: BLADEPOINT is committed to creating a fair and healthy competitive environment. We have not only used new anti-cheat technologies, but also established special cheat-reporting re"
+      },
+      {
         "date": "2026-06-24",
         "datetime": "2026-06-24T14:23:22",
         "title": "NARAKA: BLADEPOINT Banned Players List June 24th",
@@ -1348,33 +1370,33 @@
         "is_patch": false,
         "is_official": true,
         "contents": "Dear players, NARAKA: BLADEPOINT is committed to creating a fair and healthy competitive environment. We have not only used new anti-cheat technologies, but also established special cheat-reporting re"
-      },
-      {
-        "date": "2026-04-29",
-        "datetime": "2026-04-29T12:52:38",
-        "title": "NARAKA: BLADEPOINT Banned Players List April 29th",
-        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1831432155565065",
-        "author": "Yeeeeee",
-        "feed_label": "Community Announcements",
-        "is_patch": false,
-        "is_official": true,
-        "contents": "Dear players, NARAKA: BLADEPOINT is committed to creating a fair and healthy competitive environment. We have not only used new anti-cheat technologies, but also established special cheat-reporting re"
-      },
-      {
-        "date": "2026-04-28",
-        "datetime": "2026-04-28T16:23:17",
-        "title": "NARAKA: BLADEPOINT Update – April 29th, 2026",
-        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1830797770245894",
-        "author": "Yeeeeee",
-        "feed_label": "Community Announcements",
-        "is_patch": false,
-        "is_official": true,
-        "contents": "Dear players,The servers of NARAKA: BLADEPOINT will be suspended for maintenance from April 28th, 2026 at 23:00 (UTC) to April 29th, 2026 at 04:00 (UTC). We suggest you log out in advance and enter th"
       }
     ],
     "patches": [],
     "announcements": [
       {
+        "date": "2026-07-02",
+        "datetime": "2026-07-02T03:07:29",
+        "title": "Celebrate NARAKA: BLADEPOINT's 5th Anniversary NOW!",
+        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165566927",
+        "author": "Misty",
+        "feed_label": "Community Announcements",
+        "is_patch": false,
+        "is_official": true,
+        "contents": "Beneath the Waves, a New Battlefield AwakensAs the highlight of the anniversary update, Wanchu takes the battle royale action underwater for the first time. Built around a dedicated underwater combat "
+      },
+      {
+        "date": "2026-07-01",
+        "datetime": "2026-07-01T13:55:15",
+        "title": "NARAKA: BLADEPOINT Banned Players List July 1st",
+        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165565482",
+        "author": "Yeeeeee",
+        "feed_label": "Community Announcements",
+        "is_patch": false,
+        "is_official": true,
+        "contents": "Dear players, NARAKA: BLADEPOINT is committed to creating a fair and healthy competitive environment. We have not only used new anti-cheat technologies, but also established special cheat-reporting re"
+      },
+      {
         "date": "2026-06-24",
         "datetime": "2026-06-24T14:23:22",
         "title": "NARAKA: BLADEPOINT Banned Players List June 24th",
@@ -1461,43 +1483,21 @@
         "is_patch": false,
         "is_official": true,
         "contents": "Dear players, NARAKA: BLADEPOINT is committed to creating a fair and healthy competitive environment. We have not only used new anti-cheat technologies, but also established special cheat-reporting re"
-      },
-      {
-        "date": "2026-04-29",
-        "datetime": "2026-04-29T12:52:38",
-        "title": "NARAKA: BLADEPOINT Banned Players List April 29th",
-        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1831432155565065",
-        "author": "Yeeeeee",
-        "feed_label": "Community Announcements",
-        "is_patch": false,
-        "is_official": true,
-        "contents": "Dear players, NARAKA: BLADEPOINT is committed to creating a fair and healthy competitive environment. We have not only used new anti-cheat technologies, but also established special cheat-reporting re"
-      },
-      {
-        "date": "2026-04-28",
-        "datetime": "2026-04-28T16:23:17",
-        "title": "NARAKA: BLADEPOINT Update – April 29th, 2026",
-        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1830797770245894",
-        "author": "Yeeeeee",
-        "feed_label": "Community Announcements",
-        "is_patch": false,
-        "is_official": true,
-        "contents": "Dear players,The servers of NARAKA: BLADEPOINT will be suspended for maintenance from April 28th, 2026 at 23:00 (UTC) to April 29th, 2026 at 04:00 (UTC). We suggest you log out in advance and enter th"
       }
     ],
     "latest": {
-      "date": "2026-06-24",
-      "datetime": "2026-06-24T14:23:22",
-      "title": "NARAKA: BLADEPOINT Banned Players List June 24th",
-      "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165546160",
-      "author": "Yeeeeee",
+      "date": "2026-07-02",
+      "datetime": "2026-07-02T03:07:29",
+      "title": "Celebrate NARAKA: BLADEPOINT's 5th Anniversary NOW!",
+      "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165566927",
+      "author": "Misty",
       "feed_label": "Community Announcements",
       "is_patch": false,
       "is_official": true,
-      "contents": "Dear players,   NARAKA: BLADEPOINT is committed to creating a fair and healthy competitive environment. We have not only used new anti-cheat technologies, but also established special cheat-reporting "
+      "contents": "Beneath the Waves, a New Battlefield AwakensAs the highlight of the anniversary update, Wanchu takes the battle royale action underwater for the first time. Built around a dedicated underwater combat "
     },
     "latest_patch": null,
-    "crawled_at": "2026-07-01T04:01:45.651977"
+    "crawled_at": "2026-07-02T03:42:16.444554"
   },
   "Dead by Daylight": {
     "appid": 381210,
@@ -1738,6 +1738,6 @@
       "contents": "<a href=\"https://steamdb.info/topsellers/2026W27/?utm_source=Steam&utm_medium=Steam&utm_campaign=SteamRSS\"> </a> * <a href=\"https://steamdb.info/app/4704690/charts/?utm_source=Steam&utm_medium=Steam&u"
     },
     "latest_patch": null,
-    "crawled_at": "2026-07-01T04:01:46.870388"
+    "crawled_at": "2026-07-02T03:42:17.636493"
   }
 }
