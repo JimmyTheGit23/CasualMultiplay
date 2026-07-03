@@ -130,11 +130,11 @@ def main():
     
     for i, dev_name in enumerate(sorted(developers_set)):
         print(f'[{i+1}/{len(developers_set)}] {dev_name}...', end=' ')
-        
+
         # 用 Steam search 反查
         appids = get_developer_apps(dev_name)
         print(f'找到 {len(appids)} 个作品')
-        
+
         # 只抓前 10 个（避免太多请求）
         apps = []
         for appid in appids[:10]:
@@ -142,22 +142,46 @@ def main():
             if brief:
                 apps.append(brief)
             time.sleep(0.5)
-        
+
         result['developers'][dev_name] = {
             'name': dev_name,
             'total_apps_on_steam': len(appids),
             'sampled_apps': len(apps),
             'apps': apps,
-            'is_first_game': len(appids) == 1
+            'is_first_game': False  # 先标记 False,后面用反向索引重算
         }
-        
+
         time.sleep(1)
-    
+
+    # 第二轮: 用反向索引重算 is_first_game
+    # dev_name -> [appid1, appid2, ...]
+    dev_to_apps = {}
+    for dev_name, info in result['developers'].items():
+        for app in info['apps']:
+            # 只算 game 类型,不把 dlc/soundtrack 算进去
+            if app.get('type') != 'game':
+                continue
+            devs_list = app.get('developers', [])
+            for d in devs_list:
+                d = d.strip()
+                if d:
+                    dev_to_apps.setdefault(d, set()).add(app['appid'])
+
+    for dev_name, info in result['developers'].items():
+        # 用 dev 自身 + 各种大小写变体匹配 (Steam 大小写可能不一致)
+        matched_apps = set()
+        for key, apps_set in dev_to_apps.items():
+            if key.lower() == dev_name.lower():
+                matched_apps.update(apps_set)
+        info['is_first_game'] = len(matched_apps) == 1
+        # 也存下该 dev 实际参与过的游戏
+        info['actual_dev_apps'] = sorted(matched_apps)
+
     with open(OUTPUT_PATH, 'w', encoding='utf-8') as f:
         json.dump(result, f, ensure_ascii=False, indent=2)
-    
+
     print(f'\n已保存到 {OUTPUT_PATH}')
-    
+
     # 统计
     first_game_devs = [d for d, info in result['developers'].items() if info['is_first_game']]
     print(f'\n=== 统计 ===')

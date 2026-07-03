@@ -4449,27 +4449,34 @@ If you want to know what happened next, let’s listen to the explanation next t
         // --- 团队潜力 ---
         function renderInsight_first_game(wrap) {
             if (!developersData.developers) { wrap.innerHTML = '<p class="text-xs" style="color:var(--text-muted);">开发者数据加载中...</p>'; return; }
-            const firstDevs = Object.entries(developersData.developers)
-                .filter(([k,v]) => v.is_first_game)
-                .map(([k,v]) => v)
-                .filter(v => v.apps && v.apps.length > 0);
+            // 按 appid 去重 (同一款合作作品按游戏展示一次)
+            const seen = new Set();
+            const firstDevs = [];
+            for (const [k,v] of Object.entries(developersData.developers)) {
+                if (!v.is_first_game) continue;
+                if (!v.apps || v.apps.length === 0) continue;
+                const app = v.apps[0];
+                if (seen.has(app.appid)) continue;
+                seen.add(app.appid);
+                firstDevs.push({ dev: k, app });
+            }
             // 按当前 CCU 排序
             firstDevs.sort((a,b) => {
-                const ca = getGameCCUByAppid(parseInt(a.apps[0].appid)) || 0;
-                const cb = getGameCCUByAppid(parseInt(b.apps[0].appid)) || 0;
+                const ca = getGameCCUByAppid(parseInt(a.app.appid)) || 0;
+                const cb = getGameCCUByAppid(parseInt(b.app.appid)) || 0;
                 return cb - ca;
             });
-            wrap.innerHTML = `<p class="text-xs mb-3" style="color:var(--text-muted);">开发者历史作品数 = 1，按当前 CCU 排序。共 ${firstDevs.length} 位首作开发者。</p>` +
+            wrap.innerHTML = `<p class="text-xs mb-3" style="color:var(--text-muted);">开发者历史作品数 = 1，按当前 CCU 排序。共 ${firstDevs.length} 位首作开发者（合作作品按游戏去重）。</p>` +
                 firstDevs.map(d => {
-                    const app = d.apps[0];
+                    const app = d.app;
                     const ccu = getGameCCUByAppid(parseInt(app.appid)) || 0;
                     const rich = steamRichData[parseInt(app.appid)];
                     const cover = rich && rich.header_image ? `<img class="gc-cover" src="${rich.header_image}" loading="lazy" referrerpolicy="no-referrer" style="height:80px;width:142px;">` : `<div class="gc-cover-placeholder" style="height:80px;width:142px;">${(app.name||'?').charAt(0)}</div>`;
-                    return `<div class="insight-row" onclick="navTo('gamedetail');setTimeout(()=>selectGameByKey(document.querySelector('[data-game-key=\\\'${app.appid}\\\']')||document.createElement('div')),100)" style="display:flex;gap:12px;padding:10px;border:0.5px solid var(--card-border);border-radius:8px;margin-bottom:8px;cursor:pointer;">
+                    return `<div class="insight-row" style="display:flex;gap:12px;padding:10px;border:0.5px solid var(--card-border);border-radius:8px;margin-bottom:8px;">
                         ${cover}
                         <div style="flex:1;">
                             <div style="font-size:13px;font-weight:500;">${app.name}</div>
-                            <div style="font-size:11px;color:var(--text-muted);">开发者: ${d.name} · 发售: ${app.release_date}</div>
+                            <div style="font-size:11px;color:var(--text-muted);">开发者: ${d.dev} · 发售: ${app.release_date}</div>
                             <div style="font-size:11px;margin-top:4px;">CCU: <b style="color:#991B1B;">${ccu > 0 ? ccu.toLocaleString() : '-'}</b></div>
                         </div>
                         <span class="insight-badge">首作</span>

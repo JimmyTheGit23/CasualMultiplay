@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "fetched_at": "2026-07-03T13:28:32.036659+08:00",
+    "fetched_at": "2026-07-03T13:58:33.948486+08:00",
     "total_developers": 42
   },
   "developers": {
@@ -75,14 +75,18 @@
           "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2732000/header_schinese.jpg?t=1767857569"
         }
       ],
-      "is_first_game": false
+      "is_first_game": true,
+      "actual_dev_apps": [
+        "1203220"
+      ]
     },
     "24 Entertainment（网易）": {
       "name": "24 Entertainment（网易）",
       "total_apps_on_steam": 0,
       "sampled_apps": 0,
       "apps": [],
-      "is_first_game": false
+      "is_first_game": false,
+      "actual_dev_apps": []
     },
     "ACE Team": {
       "name": "ACE Team",
@@ -222,14 +226,22 @@
           "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2186310/header.jpg?t=1678352501"
         }
       ],
-      "is_first_game": false
+      "is_first_game": false,
+      "actual_dev_apps": [
+        "1101360",
+        "1430680",
+        "353700",
+        "434460",
+        "865680"
+      ]
     },
     "Aggro Crab + Landfall": {
       "name": "Aggro Crab + Landfall",
       "total_apps_on_steam": 0,
       "sampled_apps": 0,
       "apps": [],
-      "is_first_game": false
+      "is_first_game": false,
+      "actual_dev_apps": []
     },
     "Arrowhead Game Studios": {
       "name": "Arrowhead Game Studios",
@@ -276,7 +288,11 @@
           "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2765950/header.jpg?t=1734026350"
         }
       ],
-      "is_first_game": false
+      "is_first_game": false,
+      "actual_dev_apps": [
+        "394510",
+        "553850"
+      ]
     },
     "Beer Night Studio": {
       "name": "Beer Night Studio",
@@ -311,7 +327,11 @@
           "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1181550/header.jpg?t=1782246224"
         }
       ],
-      "is_first_game": false
+      "is_first_game": false,
+      "actual_dev_apps": [
+        "1181550",
+        "1184210"
+      ]
     },
     "Behaviour Interactive Inc.": {
       "name": "Behaviour Interactive Inc.",
@@ -441,7 +461,10 @@
           "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1324970/header.jpg?t=1681934376"
         }
       ],
-      "is_first_game": false
+      "is_first_game": true,
+      "actual_dev_apps": [
+        "381210"
+      ]
     },
     "COVEN": {
       "name": "COVEN",
@@ -491,7 +514,12 @@
           "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3453900/a544dcc94e76d18b61e7fd7b3f03ad85b7670040/header.jpg?t=1781027408"
         }
       ],
-      "is_first_game": false
+      "is_first_game": false,
+      "actual_dev_apps": [
+        "2885690",
+        "3453900",
+        "3850670"
+      ]
     },
     "Clock Wizard Games": {
       "name": "Clock Wizard Games",
@@ -551,7 +579,12 @@
           "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2302560/header.jpg?t=1678409556"
         }
       ],
-      "is_first_game": false
+      "is_first_game": false,
+      "actual_dev_apps": [
+        "1450180",
+        "1929610",
+        "2943670"
+      ]
     },
     "Coven": {
       "name": "Coven",
@@ -572,7 +605,12 @@
           "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3850670/0b81efc92e1dcac4054f452f142300df001fd9c1/header_schinese.jpg?t=1782261484"
         }
       ],
-      "is_first_game": true
+      "is_first_game": false,
+      "actual_dev_apps": [
+        "2885690",
+        "3453900",
+        "3850670"
+      ]
     },
     "Crytek": {
       "name": "Crytek",
@@ -710,7 +748,13 @@
           "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3204800/header.jpg?t=1782896565"
         }
       ],
-      "is_first_game": false
+      "is_first_game": false,
+      "actual_dev_apps": [
+        "1715130",
+        "2096600",
+        "2096610",
+        "594650"
+      ]
     },
     "Crytivo": {
       "name": "Crytivo",
@@ -731,6 +775,19 @@
           "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/352720/header.jpg?t=1778858616"
         },
         {
+          "appid": "895160",
+          "name": "Autonomica",
+          "release_date": "即将推出",
+          "type": "game",
+          "developers": [
+            "Crytivo"
+          ],
+          "publishers": [
+            "Crytivo"
+          ],
+          "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/895160/4f1546ad7fd13157e1c76918a55d8af8de200001/header.jpg?t=1782919340"
+        },
+        {
           "appid": "1181550",
           "name": "Carnival Hunt",
           "release_date": "2026 年 7 月 23 日",
@@ -743,29 +800,22 @@
             "Crytivo"
           ],
           "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1181550/header.jpg?t=1782246224"
-        },
-        {
-          "appid": "895160",
-          "name": "Autonomica",
-          "release_date": "即将推出",
-          "type": "game",
-          "developers": [
-            "Crytivo"
-          ],
-          "publishers": [
-            "Crytivo"
-          ],
-          "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/895160/4f1546ad7fd13157e1c76918a55d8af8de200001/header.jpg?t=1782919340"
         }
       ],
-      "is_first_game": false
+      "is_first_game": false,
+      "actual_dev_apps": [
+        "1181550",
+        "352720",
+        "895160"
+      ]
     },
     "Dani": {
       "name": "Dani",
       "total_apps_on_steam": 0,
       "sampled_apps": 0,
       "apps": [],
-      "is_first_game": false
+      "is_first_game": false,
+      "actual_dev_apps": []
     },
     "ENGAWA GAMES": {
       "name": "ENGAWA GAMES",
@@ -788,7 +838,11 @@
           "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3623330/05dbfb537f0c7aabdf708016c8fc0bc7bb64ecc6/header_schinese.jpg?t=1765870136"
         }
       ],
-      "is_first_game": true
+      "is_first_game": false,
+      "actual_dev_apps": [
+        "3623330",
+        "4640600"
+      ]
     },
     "Endnight Games Ltd": {
       "name": "Endnight Games Ltd",
@@ -822,7 +876,11 @@
           "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/242760/header.jpg?t=1699381053"
         }
       ],
-      "is_first_game": false
+      "is_first_game": false,
+      "actual_dev_apps": [
+        "1326470",
+        "242760"
+      ]
     },
     "Evil Raptor": {
       "name": "Evil Raptor",
@@ -870,7 +928,12 @@
           "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1186640/header.jpg?t=1760540939"
         }
       ],
-      "is_first_game": false
+      "is_first_game": false,
+      "actual_dev_apps": [
+        "1186640",
+        "1843540",
+        "3124540"
+      ]
     },
     "Facepunch Studios": {
       "name": "Facepunch Studios",
@@ -982,7 +1045,11 @@
           "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1659290/header.jpg?t=1624559174"
         }
       ],
-      "is_first_game": false
+      "is_first_game": false,
+      "actual_dev_apps": [
+        "252490",
+        "4000"
+      ]
     },
     "Fobri": {
       "name": "Fobri",
@@ -1003,7 +1070,10 @@
           "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3844970/d44e878d08426747cab87cd465ad1667fba5a6f8/header_schinese.jpg?t=1781100001"
         }
       ],
-      "is_first_game": true
+      "is_first_game": true,
+      "actual_dev_apps": [
+        "3844970"
+      ]
     },
     "Ghost Ship Games": {
       "name": "Ghost Ship Games",
@@ -1078,19 +1148,6 @@
           "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2291670/header.jpg?t=1740397993"
         },
         {
-          "appid": "2934390",
-          "name": "深岩银河 - 深渊骑士团皮肤包",
-          "release_date": "2024 年 6 月 13 日",
-          "type": "dlc",
-          "developers": [
-            "Ghost Ship Games"
-          ],
-          "publishers": [
-            "Coffee Stain Publishing"
-          ],
-          "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2934390/header.jpg?t=1772707065"
-        },
-        {
           "appid": "4630280",
           "name": "Deep Rock Galactic: Rogue Core Soundtrack",
           "release_date": "2026 年 5 月 20 日",
@@ -1103,6 +1160,19 @@
             "Coffee Stain Publishing"
           ],
           "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4630280/f492b1412e18d45420ce75c7d808a653e1fa4320/header.jpg?t=1779292947"
+        },
+        {
+          "appid": "2934390",
+          "name": "深岩银河 - 深渊骑士团皮肤包",
+          "release_date": "2024 年 6 月 13 日",
+          "type": "dlc",
+          "developers": [
+            "Ghost Ship Games"
+          ],
+          "publishers": [
+            "Coffee Stain Publishing"
+          ],
+          "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2934390/header.jpg?t=1772707065"
         },
         {
           "appid": "1283091",
@@ -1144,7 +1214,11 @@
           "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1283090/header.jpg?t=1740394534"
         }
       ],
-      "is_first_game": false
+      "is_first_game": false,
+      "actual_dev_apps": [
+        "2605790",
+        "548430"
+      ]
     },
     "Grey State Studio": {
       "name": "Grey State Studio",
@@ -1165,7 +1239,10 @@
           "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3978820/78e11f819d574de40c71732ec86411e024e333d8/header_schinese.jpg?t=1778642131"
         }
       ],
-      "is_first_game": true
+      "is_first_game": true,
+      "actual_dev_apps": [
+        "3978820"
+      ]
     },
     "Hopoo Games": {
       "name": "Hopoo Games",
@@ -1254,7 +1331,11 @@
           "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2673200/header.jpg?t=1721124127"
         }
       ],
-      "is_first_game": false
+      "is_first_game": false,
+      "actual_dev_apps": [
+        "1337520",
+        "632360"
+      ]
     },
     "Hunter Studio": {
       "name": "Hunter Studio",
@@ -1341,7 +1422,12 @@
           "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1072910/header_schinese.jpg?t=1723617949"
         }
       ],
-      "is_first_game": false
+      "is_first_game": false,
+      "actual_dev_apps": [
+        "1072910",
+        "2445690",
+        "434650"
+      ]
     },
     "IllFonic": {
       "name": "IllFonic",
@@ -1416,14 +1502,24 @@
           "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2477760/header.jpg?t=1773153512"
         }
       ],
-      "is_first_game": false
+      "is_first_game": false,
+      "actual_dev_apps": [
+        "1515640",
+        "1556100",
+        "3219630"
+      ]
     },
     "Illfonic": {
       "name": "Illfonic",
       "total_apps_on_steam": 0,
       "sampled_apps": 0,
       "apps": [],
-      "is_first_game": false
+      "is_first_game": false,
+      "actual_dev_apps": [
+        "1515640",
+        "1556100",
+        "3219630"
+      ]
     },
     "Indoor Astronaut": {
       "name": "Indoor Astronaut",
@@ -1528,7 +1624,11 @@
           "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2352250/header.jpg?t=1679321648"
         }
       ],
-      "is_first_game": false
+      "is_first_game": false,
+      "actual_dev_apps": [
+        "1016920",
+        "2211170"
+      ]
     },
     "Innersloth": {
       "name": "Innersloth",
@@ -1578,7 +1678,12 @@
           "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1849900/748bb45cd8c76fa5c7b2b0ff08154c7553082cde/header.jpg?t=1775581026"
         }
       ],
-      "is_first_game": false
+      "is_first_game": false,
+      "actual_dev_apps": [
+        "1849900",
+        "3168600",
+        "945360"
+      ]
     },
     "Kinetic Games": {
       "name": "Kinetic Games",
@@ -1599,7 +1704,10 @@
           "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/739630/c227a2855aba60f3657bc0c3a46515b8c41fb2b6/header.jpg?t=1782311537"
         }
       ],
-      "is_first_game": true
+      "is_first_game": true,
+      "actual_dev_apps": [
+        "739630"
+      ]
     },
     "Luvi Technologies": {
       "name": "Luvi Technologies",
@@ -1620,7 +1728,10 @@
           "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4408510/989cbd9100fe7246a3b6241dc7df43fece58e74a/header.jpg?t=1779542430"
         }
       ],
-      "is_first_game": true
+      "is_first_game": true,
+      "actual_dev_apps": [
+        "4408510"
+      ]
     },
     "Motion Twin": {
       "name": "Motion Twin",
@@ -1724,7 +1835,11 @@
           "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1046440/header.jpg?t=1716800379"
         }
       ],
-      "is_first_game": false
+      "is_first_game": false,
+      "actual_dev_apps": [
+        "1911610",
+        "588650"
+      ]
     },
     "Panic Stations": {
       "name": "Panic Stations",
@@ -1797,7 +1912,11 @@
           "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4311530/c0ffd4ad80e7810e7a07da1781e2cf57e9831fe5/header.jpg?t=1782723724"
         }
       ],
-      "is_first_game": false
+      "is_first_game": false,
+      "actual_dev_apps": [
+        "3989960",
+        "4311530"
+      ]
     },
     "Philip": {
       "name": "Philip",
@@ -1822,21 +1941,26 @@
           "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2881650/header_schinese.jpg?t=1775640428"
         }
       ],
-      "is_first_game": true
+      "is_first_game": true,
+      "actual_dev_apps": [
+        "2881650"
+      ]
     },
     "Pinwheels Studio": {
       "name": "Pinwheels Studio",
       "total_apps_on_steam": 0,
       "sampled_apps": 0,
       "apps": [],
-      "is_first_game": false
+      "is_first_game": false,
+      "actual_dev_apps": []
     },
     "Rare Parrot Games": {
       "name": "Rare Parrot Games",
       "total_apps_on_steam": 0,
       "sampled_apps": 0,
       "apps": [],
-      "is_first_game": false
+      "is_first_game": false,
+      "actual_dev_apps": []
     },
     "Red Barrels": {
       "name": "Red Barrels",
@@ -1951,7 +2075,11 @@
           "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3805260/0153eca035f68b8918a3ac2f30a0d0021589084f/header.jpg?t=1765317148"
         }
       ],
-      "is_first_game": false
+      "is_first_game": false,
+      "actual_dev_apps": [
+        "1304930",
+        "414700"
+      ]
     },
     "Team PEAK": {
       "name": "Team PEAK",
@@ -1973,7 +2101,10 @@
           "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3527290/31bac6b2eccf09b368f5e95ce510bae2baf3cfcd/header.jpg?t=1775581133"
         }
       ],
-      "is_first_game": true
+      "is_first_game": true,
+      "actual_dev_apps": [
+        "3527290"
+      ]
     },
     "Wilnyl": {
       "name": "Wilnyl",
@@ -1998,7 +2129,10 @@
           "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2881650/header_schinese.jpg?t=1775640428"
         }
       ],
-      "is_first_game": true
+      "is_first_game": true,
+      "actual_dev_apps": [
+        "2881650"
+      ]
     },
     "Zeekerss": {
       "name": "Zeekerss",
@@ -2019,7 +2153,8 @@
           "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1918860/header.jpg?t=1648691101"
         }
       ],
-      "is_first_game": true
+      "is_first_game": false,
+      "actual_dev_apps": []
     },
     "Zorro": {
       "name": "Zorro",
@@ -2044,7 +2179,10 @@
           "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2881650/header_schinese.jpg?t=1775640428"
         }
       ],
-      "is_first_game": true
+      "is_first_game": true,
+      "actual_dev_apps": [
+        "2881650"
+      ]
     },
     "engawa games": {
       "name": "engawa games",
@@ -2065,7 +2203,11 @@
           "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4640600/d008f2640bc80fda01db17a6792a821fcb390db1/header.jpg?t=1777125991"
         }
       ],
-      "is_first_game": true
+      "is_first_game": false,
+      "actual_dev_apps": [
+        "3623330",
+        "4640600"
+      ]
     },
     "lemorion_1224": {
       "name": "lemorion_1224",
@@ -2164,21 +2306,31 @@
           "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3369400/header.jpg?t=1745405205"
         }
       ],
-      "is_first_game": false
+      "is_first_game": false,
+      "actual_dev_apps": [
+        "3103750",
+        "3369390",
+        "3435600",
+        "3648240",
+        "3969510",
+        "4704690"
+      ]
     },
     "semiwork": {
       "name": "semiwork",
       "total_apps_on_steam": 0,
       "sampled_apps": 0,
       "apps": [],
-      "is_first_game": false
+      "is_first_game": false,
+      "actual_dev_apps": []
     },
     "腾讯北极光": {
       "name": "腾讯北极光",
       "total_apps_on_steam": 0,
       "sampled_apps": 0,
       "apps": [],
-      "is_first_game": false
+      "is_first_game": false,
+      "actual_dev_apps": []
     }
   }
 }
