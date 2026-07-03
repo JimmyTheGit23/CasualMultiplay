@@ -4788,9 +4788,59 @@ If you want to know what happened next, let’s listen to the explanation next t
         function renderInsight_fusion(wrap) {
             if (!gameRegistry || !gameRegistry.games) { wrap.innerHTML = '<p class="text-xs" style="color:var(--text-muted);">加载中...</p>'; return; }
             const fusion = gameRegistry.games.filter(g => (g.tags || []).length >= 3);
+
+            // 洞察 1: 按标签组合聚合,算"组合总 CCU"和"代表游戏"
+            const comboStats = {};
+            for (const g of fusion) {
+                const tags = (g.tags || []).slice().sort();
+                const key = tags.join(' + ');
+                if (!comboStats[key]) comboStats[key] = { count: 0, ccu: 0, tags: tags, games: [] };
+                comboStats[key].count++;
+                comboStats[key].ccu += getGameCCU(g);
+                if (comboStats[key].games.length < 3) comboStats[key].games.push(g);
+            }
+            const comboSorted = Object.entries(comboStats)
+                .filter(([k,v]) => v.ccu > 0)
+                .sort((a,b) => b[1].ccu - a[1].ccu);
+
+            // 洞察 2: 散点图 X=标签数, Y=CCU, 气泡=潜力分, 找出"高融合高 CCU"黑马
+            const fusionScatter = fusion.filter(g => getGameCCU(g) > 0).map(g => {
+                const pot = potentialScores.find(p => p.appid === g.appid);
+                return {
+                    value: [(g.tags||[]).length, getGameCCU(g), pot ? pot.score : 0, g.cn_name || g.name, g.dev],
+                    name: g.cn_name || g.name
+                };
+            });
+
+            // 表格按 CCU 排(原版本)
             fusion.sort((a,b) => getGameCCU(b) - getGameCCU(a));
-            wrap.innerHTML = `<p class="text-xs mb-3" style="color:var(--text-muted);">3 个以上标签的游戏，按 CCU 排序。识别跨品类融合方向。</p>` +
-                fusion.slice(0, 20).map(g => {
+
+            wrap.innerHTML = `<p class="text-xs mb-3" style="color:var(--text-muted);">3+ 标签的融合玩法游戏。融合不等于成功——散点图右上角才是真融合爆款。</p>
+                <div class="mb-4">
+                    <div class="insight-chart-title">融合度 × CCU 散点图</div>
+                    <div class="insight-chart-sub">X=标签数, Y=CCU, 气泡大小=潜力分。右上象限=真融合爆款</div>
+                    <div id="echart-fusion-scatter" style="width:100%;height:400px;"></div>
+                </div>
+                <div class="mb-4">
+                    <div class="insight-chart-title">Top 10 标签组合热度榜</div>
+                    <div class="insight-chart-sub">按组合总 CCU 排序(聚合多个游戏)。看哪个"标签配方"最赚钱</div>
+                </div>` +
+                comboSorted.slice(0, 10).map(([combo, s]) => {
+                    const tagLabels = s.tags.map(t => { const td = gameRegistry.tag_definitions[t]; return td ? td.zh : t; }).join(' + ');
+                    return `<div class="insight-row" style="padding:10px;border:0.5px solid var(--card-border);border-radius:8px;margin-bottom:8px;">
+                        <div style="display:flex;gap:8px;align-items:center;margin-bottom:6px;">
+                            <div style="font-size:12px;font-weight:500;">${tagLabels}</div>
+                            <span class="insight-badge">${s.count} 款</span>
+                        </div>
+                        <div style="font-size:10px;color:var(--text-muted);">代表: ${s.games.map(g => g.cn_name || g.name).join(' / ')}</div>
+                        <div style="display:flex;gap:12px;margin-top:6px;font-size:11px;">
+                            <span>总 CCU: <b style="color:#991B1B;">${s.ccu.toLocaleString()}</b></span>
+                            <span>平均: <b>${Math.round(s.ccu/s.count).toLocaleString()}</b></span>
+                        </div>
+                    </div>`;
+                }).join('') +
+                '<p class="text-xs mb-2 mt-4" style="color:var(--text-muted);">融合游戏 Top 15 详情:</p>' +
+                fusion.slice(0, 15).map(g => {
                     const ccu = getGameCCU(g);
                     const tags = (g.tags || []).map(t => { const td = gameRegistry.tag_definitions[t]; return td ? `<span class="gc-tag">${td.zh}</span>` : ''; }).join('');
                     return `<div class="insight-row" style="display:flex;gap:12px;padding:10px;border:0.5px solid var(--card-border);border-radius:8px;margin-bottom:8px;">
@@ -4805,23 +4855,87 @@ If you want to know what happened next, let’s listen to the explanation next t
                         </div>
                     </div>`;
                 }).join('');
+
+            // 散点图
+            setTimeout(() => {
+                const chartEl = document.getElementById('echart-fusion-scatter');
+                if (!chartEl || typeof echarts === 'undefined') return;
+                const chart = echarts.init(chartEl);
+                chart.setOption({
+                    backgroundColor: 'transparent',
+                    grid: { left: 60, right: 30, top: 30, bottom: 50 },
+                    tooltip: { trigger: 'item', formatter: function(p) { const v = p.value; return `<b>${v[3]}</b><br/>开发者: ${v[4]}<br/>标签数: ${v[0]}<br/>CCU: ${v[1].toLocaleString()}<br/>潜力分: ${v[2]}`; } },
+                    xAxis: { name: '标签数', nameLocation: 'middle', nameGap: 25, type: 'value', min: 3, max: 7, axisLabel: { fontSize: 11 } },
+                    yAxis: { name: 'CCU', type: 'value', min: 0, axisLabel: { fontSize: 11 } },
+                    series: [{
+                        type: 'scatter',
+                        data: fusionScatter,
+                        symbolSize: function(d) { return Math.max(14, d[2] * 0.8); },
+                        itemStyle: { color: '#991B1B', opacity: 0.7 },
+                        emphasis: { itemStyle: { color: '#7F1D1D', opacity: 1 } },
+                        label: { show: true, formatter: function(p) { return p.value[3]; }, position: 'top', fontSize: 9, color: '#334155' },
+                        labelLayout: { hideOverlap: true }
+                    }]
+                });
+                window.addEventListener('resize', () => chart.resize());
+            }, 100);
         }
 
         function renderInsight_emerging(wrap) {
             if (!gameRegistry || !gameRegistry.games) { wrap.innerHTML = '<p class="text-xs" style="color:var(--text-muted);">加载中...</p>'; return; }
-            // 找近 12 个月发售的游戏，统计标签组合
-            const recent = gameRegistry.games.filter(g => {
-                const r = g.release || '';
-                return r.includes('2025') || r.includes('2026') || r === 'TBA';
-            });
-            wrap.innerHTML = `<p class="text-xs mb-3" style="color:var(--text-muted);">2025-2026 发售游戏的标签组合。共 ${recent.length} 款。</p>` +
-                recent.slice(0, 20).map(g => {
+
+            // 洞察: 找"新组合"——半年内首次出现且之前没有的标签组合
+            const allSorted = [...gameRegistry.games].sort((a,b) => (a.release||'').localeCompare(b.release||''));
+            const comboFirstSeen = {};
+            for (const g of allSorted) {
+                if (!g.tags || g.tags.length < 2) continue;
+                const tags = g.tags.slice().sort();
+                const key = tags.join('+');
+                if (!comboFirstSeen[key]) comboFirstSeen[key] = { key, tags, firstRelease: g.release, games: [], ccu: 0 };
+                comboFirstSeen[key].games.push(g);
+                comboFirstSeen[key].ccu += getGameCCU(g);
+            }
+            // 半年内首次出现 = firstRelease 包含 2025/2026
+            const emerging = Object.values(comboFirstSeen)
+                .filter(c => (c.firstRelease || '').match(/202[56]/))
+                .sort((a,b) => b.ccu - a.ccu);
+
+            const recentWithDate = gameRegistry.games.filter(g => g.release && g.release !== 'TBA' && g.release.match(/202[56]/)).sort((a,b) => (a.release||'').localeCompare(b.release||''));
+
+            wrap.innerHTML = `<p class="text-xs mb-3" style="color:var(--text-muted);">新组合 = 2025-2026 年首次出现的标签组合(之前从未出现过)。识别赛道新方向。</p>
+                <div class="mb-4">
+                    <div class="insight-chart-title">新组合热度榜</div>
+                    <div class="insight-chart-sub">按组合总 CCU 排序。看哪些"新配方"已经被市场验证</div>
+                </div>` +
+                (emerging.length === 0 ? '<p class="text-xs" style="color:var(--text-muted);">暂无新组合数据</p>' :
+                emerging.slice(0, 12).map(c => {
+                    const tagLabels = c.tags.map(t => { const td = gameRegistry.tag_definitions[t]; return td ? td.zh : t; }).join(' + ');
+                    return `<div class="insight-row" style="padding:10px;border:0.5px solid var(--card-border);border-radius:8px;margin-bottom:8px;">
+                        <div style="display:flex;gap:8px;align-items:center;margin-bottom:6px;">
+                            <div style="font-size:12px;font-weight:500;">${tagLabels}</div>
+                            <span class="insight-badge" style="background:#DBEAFE;color:#1E40AF;">新</span>
+                            <span style="font-size:10px;color:var(--text-muted);">首发: ${c.firstRelease}</span>
+                        </div>
+                        <div style="font-size:10px;color:var(--text-muted);">代表游戏: ${c.games.slice(0,3).map(g => g.cn_name || g.name).join(' / ')}</div>
+                        <div style="display:flex;gap:12px;margin-top:6px;font-size:11px;">
+                            <span>总 CCU: <b style="color:#991B1B;">${c.ccu > 0 ? c.ccu.toLocaleString() : '暂无数据'}</b></span>
+                            <span>${c.games.length} 款</span>
+                        </div>
+                    </div>`;
+                }).join('')) +
+                '<p class="text-xs mb-2 mt-4" style="color:var(--text-muted);">2025-2026 发售的融合游戏:</p>' +
+                recentWithDate.slice(0, 15).map(g => {
+                    const ccu = getGameCCU(g);
                     const tags = (g.tags || []).map(t => { const td = gameRegistry.tag_definitions[t]; return td ? `<span class="gc-tag">${td.zh}</span>` : ''; }).join('');
                     return `<div class="insight-row" style="display:flex;gap:12px;padding:10px;border:0.5px solid var(--card-border);border-radius:8px;margin-bottom:8px;">
                         <div style="flex:1;">
                             <div style="font-size:13px;font-weight:500;">${g.cn_name || g.name}</div>
                             <div style="font-size:11px;color:var(--text-muted);">${g.dev} · ${g.release} · ${g.status}</div>
                             <div class="gc-tags" style="margin-top:4px;">${tags}</div>
+                        </div>
+                        <div style="text-align:right;">
+                            <div style="font-size:16px;font-weight:500;">${ccu > 0 ? ccu.toLocaleString() : '-'}</div>
+                            <div style="font-size:10px;color:var(--text-muted);">${(g.tags||[]).length} 标签</div>
                         </div>
                     </div>`;
                 }).join('');
