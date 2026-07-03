@@ -1,0 +1,121 @@
+{
+  "_meta": {
+    "validated_at": "2026-07-03T15:40:09.987913+08:00",
+    "date": "2026-07-03",
+    "passed": true,
+    "total_checks": 18,
+    "pass_count": 18,
+    "warn_count": 0,
+    "error_count": 0
+  },
+  "checks": [
+    {
+      "name": "文件存在性",
+      "status": "PASS",
+      "message": "6 个数据文件全部存在",
+      "details": []
+    },
+    {
+      "name": "JSON 解析",
+      "status": "PASS",
+      "message": "6 个文件全部可解析",
+      "details": []
+    },
+    {
+      "name": "registry 游戏数",
+      "status": "PASS",
+      "message": "34 款游戏",
+      "details": []
+    },
+    {
+      "name": "steam_data 游戏数",
+      "status": "PASS",
+      "message": "20 款游戏有实时数据",
+      "details": []
+    },
+    {
+      "name": "rich_data 游戏数",
+      "status": "PASS",
+      "message": "33 款游戏有富数据",
+      "details": []
+    },
+    {
+      "name": "developers 数量",
+      "status": "PASS",
+      "message": "42 个开发者",
+      "details": []
+    },
+    {
+      "name": "potential_scores 数量",
+      "status": "PASS",
+      "message": "34 个潜力分",
+      "details": []
+    },
+    {
+      "name": "CCU 数值范围",
+      "status": "PASS",
+      "message": "全部在合理范围 (0-5M)",
+      "details": []
+    },
+    {
+      "name": "潜力分范围",
+      "status": "PASS",
+      "message": "全部在 0-100 范围",
+      "details": []
+    },
+    {
+      "name": "wishlist 范围",
+      "status": "PASS",
+      "message": "全部在合理范围",
+      "details": []
+    },
+    {
+      "name": "registry → rich_data",
+      "status": "PASS",
+      "message": "所有有 appid 的游戏都有富数据",
+      "details": []
+    },
+    {
+      "name": "registry → steam_data",
+      "status": "PASS",
+      "message": "所有已发售游戏都有实时数据",
+      "details": []
+    },
+    {
+      "name": "registry → ccu_history",
+      "status": "PASS",
+      "message": "所有游戏都有 CCU 历史",
+      "details": []
+    },
+    {
+      "name": "CCU 突变检测",
+      "status": "PASS",
+      "message": "无 >50% 突变",
+      "details": []
+    },
+    {
+      "name": "已发售 CCU=0",
+      "status": "PASS",
+      "message": "所有已发售游戏 CCU > 0",
+      "details": []
+    },
+    {
+      "name": "潜力分=0 占比",
+      "status": "PASS",
+      "message": "仅 0 个游戏潜力分为 0",
+      "details": []
+    },
+    {
+      "name": "history 最新日期",
+      "status": "PASS",
+      "message": "今天 (2026-07-03) 数据已入库",
+      "details": []
+    },
+    {
+      "name": "history 空记录",
+      "status": "PASS",
+      "message": "所有 appid 都有历史",
+      "details": []
+    }
+  ]
+}

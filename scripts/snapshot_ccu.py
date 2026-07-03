@@ -131,11 +131,15 @@ def snapshot():
     
     # 打印一些统计
     print('\n=== CCU 快照统计 ===')
-    for appid, entries in sorted(history.items(), key=lambda x: x[1][-1].get('ccu', 0) if x[1] else 0, reverse=True)[:10]:
-        if entries:
-            latest = entries[-1]
-            days = len(entries)
-            print(f'  {latest.get("name", appid):30s} | CCU: {latest["ccu"]:>8,} | {days} days history')
+    sorted_entries = sorted(
+        ((appid, entries) for appid, entries in history.items() if isinstance(entries, list) and entries),
+        key=lambda x: x[1][-1].get('ccu', 0),
+        reverse=True
+    )[:10]
+    for appid, entries in sorted_entries:
+        latest = entries[-1]
+        days = len(entries)
+        print(f'  {latest.get("name", appid):30s} | CCU: {latest["ccu"]:>8,} | {days} days history')
 
 if __name__ == '__main__':
     snapshot()

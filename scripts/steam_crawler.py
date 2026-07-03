@@ -25,6 +25,12 @@ STEAM_GAMES = {
     "Sons Of The Forest": 1326470,
     "Risk of Rain 2": 632360,
     "Windblown": 1911610,
+    "Peak": 3527290,
+    "Far Far West": 3124540,
+    "Burglin' Gnomes": 3844970,
+    "Lost Castle 2": 2445690,
+    "Garry's Mod": 4000,
+    "Crab Game": 1782210,
 }
 
 

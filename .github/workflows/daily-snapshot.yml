@@ -46,10 +46,27 @@ jobs:
         run: |
           python scripts/calc_potential.py
       
+      - name: Run DataValidator
+        id: validate
+        continue-on-error: true
+        run: |
+          python scripts/validate_data.py
+      
       - name: Commit and push
+        if: steps.validate.outcome == 'success'
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add docs/data/
-          git diff --staged --quiet || git commit -m "chore: daily data snapshot $(date -u +%Y-%m-%d)"
+          git diff --staged --quiet || git commit -m "chore: daily data snapshot $(date -u +%Y-%m-%d) [PASS]"
           git push
+      
+      - name: Commit failed validation (still push data, flag issues)
+        if: steps.validate.outcome == 'failure'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add docs/data/
+          git diff --staged --quiet || git commit -m "chore: daily data snapshot $(date -u +%Y-%m-%d) [VALIDATION FAILED - check report]"
+          git push
+          echo "::warning::DataValidator 发现 ERROR,详见 docs/data/validation_report.json"
