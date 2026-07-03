@@ -9,6 +9,7 @@
     <title>休闲多人游戏聚合情报</title>
     <script src="https://cdn.tailwindcss.com"></script>
     <script src="https://cdn.jsdelivr.net/npm/chart.js@4"></script>
+    <script src="https://cdn.jsdelivr.net/npm/echarts@5/dist/echarts.min.js"></script>
     <style>
         @import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&family=Noto+Sans+SC:wght@300;400;500;700&display=swap');
         
@@ -4508,7 +4509,6 @@ If you want to know what happened next, let’s listen to the explanation next t
 
         function renderInsight_small_team_big_hit(wrap) {
             if (!developersData.developers || !gameRegistry) { wrap.innerHTML = '<p class="text-xs" style="color:var(--text-muted);">加载中...</p>'; return; }
-            // CCU / 开发者作品数
             const rows = [];
             for (const g of gameRegistry.games) {
                 const dev = g.dev || '';
@@ -4517,11 +4517,13 @@ If you want to know what happened next, let’s listen to the explanation next t
                 const ccu = getGameCCU(g);
                 if (ccu === 0) continue;
                 const ratio = ccu / Math.max(1, devAppCount);
-                rows.push({ game: g, dev, devAppCount, ccu, ratio });
+                const potScore = potentialScores.find(p => p.appid === g.appid);
+                const pot = potScore ? potScore.score : 0;
+                rows.push({ game: g, dev, devAppCount, ccu, ratio, pot });
             }
             rows.sort((a,b) => b.ratio - a.ratio);
-            wrap.innerHTML = `<p class="text-xs mb-3" style="color:var(--text-muted);">CCU ÷ 开发者作品数。比值越高越值得看。</p>` +
-                rows.slice(0, 15).map(r => `<div class="insight-row" style="display:flex;gap:12px;padding:10px;border:0.5px solid var(--card-border);border-radius:8px;margin-bottom:8px;">
+            wrap.innerHTML = `<p class="text-xs mb-3" style="color:var(--text-muted);">气泡图: X=开发者作品数, Y=CCU, 气泡大小=潜力分。右上角 = 黑马(作品少 CCU 高)。</p><div id="echart-small-team" style="width:100%;height:480px;"></div>` +
+                '<div class="mt-4">' + rows.slice(0, 10).map(r => `<div class="insight-row" style="display:flex;gap:12px;padding:10px;border:0.5px solid var(--card-border);border-radius:8px;margin-bottom:8px;">
                     <div style="flex:1;">
                         <div style="font-size:13px;font-weight:500;">${r.game.cn_name || r.game.name}</div>
                         <div style="font-size:11px;color:var(--text-muted);">${r.dev} · ${r.devAppCount} 作品</div>
@@ -4530,7 +4532,39 @@ If you want to know what happened next, let’s listen to the explanation next t
                         <div style="font-size:16px;font-weight:500;color:#991B1B;">${r.ratio.toFixed(0)}</div>
                         <div style="font-size:10px;color:var(--text-muted);">CCU/作品数</div>
                     </div>
-                </div>`).join('');
+                </div>`).join('') + '</div>';
+            // ECharts 气泡图
+            setTimeout(() => {
+                const chartEl = document.getElementById('echart-small-team');
+                if (!chartEl || typeof echarts === 'undefined') return;
+                const chart = echarts.init(chartEl);
+                const data = rows.map(r => ({
+                    value: [r.devAppCount, r.ccu, r.pot, r.game.cn_name || r.game.name, r.dev],
+                    name: r.game.cn_name || r.game.name
+                }));
+                chart.setOption({
+                    backgroundColor: 'transparent',
+                    grid: { left: 60, right: 30, top: 30, bottom: 60 },
+                    tooltip: {
+                        trigger: 'item',
+                        formatter: function(p) {
+                            const v = p.value;
+                            return `<b>${v[3]}</b><br/>开发者: ${v[4]}<br/>作品数: ${v[0]}<br/>CCU: ${v[1].toLocaleString()}<br/>潜力分: ${v[2]}`;
+                        }
+                    },
+                    xAxis: { name: '开发者作品数', nameLocation: 'middle', nameGap: 30, type: 'value', min: 0 },
+                    yAxis: { name: 'CCU', type: 'value', min: 0 },
+                    series: [{
+                        type: 'scatter',
+                        data: data,
+                        symbolSize: function(d) { return Math.max(15, d[2] * 0.8); },
+                        itemStyle: { color: '#991B1B', opacity: 0.7 },
+                        emphasis: { itemStyle: { color: '#7F1D1D', opacity: 1, shadowBlur: 10, shadowColor: 'rgba(0,0,0,0.3)' } },
+                        label: { show: true, formatter: function(p) { return p.value[3]; }, position: 'top', fontSize: 10, color: '#334155' }
+                    }]
+                });
+                window.addEventListener('resize', () => chart.resize());
+            }, 100);
         }
 
         function renderInsight_dev_profile(wrap) {
@@ -4606,8 +4640,8 @@ If you want to know what happened next, let’s listen to the explanation next t
                 }
             }
             const sorted = Object.entries(tagStats).sort((a,b) => b[1].ccu - a[1].ccu);
-            wrap.innerHTML = `<p class="text-xs mb-3" style="color:var(--text-muted);">每个标签的总 CCU 和游戏数。看哪个品类在抬头。</p>` +
-                sorted.map(([tag, stats]) => {
+            wrap.innerHTML = `<p class="text-xs mb-3" style="color:var(--text-muted);">横向条形图: 标签按总 CCU 排序。积累历史后可显示增速曲线。</p><div id="echart-tag-growth" style="width:100%;height:500px;"></div>` +
+                '<div class="mt-4">' + sorted.map(([tag, stats]) => {
                     const td = gameRegistry.tag_definitions[tag];
                     const zh = td ? td.zh : tag;
                     return `<div class="insight-row" style="display:flex;gap:12px;padding:10px;border:0.5px solid var(--card-border);border-radius:8px;margin-bottom:8px;">
@@ -4620,32 +4654,106 @@ If you want to know what happened next, let’s listen to the explanation next t
                             <div style="font-size:10px;color:var(--text-muted);">总 CCU</div>
                         </div>
                     </div>`;
-                }).join('');
+                }).join('') + '</div>';
+            setTimeout(() => {
+                const chartEl = document.getElementById('echart-tag-growth');
+                if (!chartEl || typeof echarts === 'undefined') return;
+                const chart = echarts.init(chartEl);
+                chart.setOption({
+                    backgroundColor: 'transparent',
+                    grid: { left: 100, right: 60, top: 20, bottom: 40 },
+                    tooltip: { trigger: 'axis', axisPointer: { type: 'shadow' } },
+                    xAxis: { type: 'value', name: '总 CCU' },
+                    yAxis: { type: 'category', data: sorted.map(([t,s]) => { const td = gameRegistry.tag_definitions[t]; return td ? td.zh : t; }).reverse(), axisLabel: { fontSize: 11 } },
+                    series: [{
+                        type: 'bar',
+                        data: sorted.map(([t,s]) => s.ccu).reverse(),
+                        itemStyle: {
+                            color: function(p) {
+                                const colors = ['#991B1B','#B91C1C','#DC2626','#EF4444','#F87171','#FCA5A5','#FECACA','#E2E8F0','#94A3B8','#64748B','#475569','#334155','#1E293B','#0F172A'];
+                                return colors[p.dataIndex % colors.length];
+                            }
+                        },
+                        label: { show: true, position: 'right', fontSize: 10 }
+                    }]
+                });
+                window.addEventListener('resize', () => chart.resize());
+            }, 100);
         }
 
         function renderInsight_cooccurrence(wrap) {
             if (!gameRegistry || !gameRegistry.games) { wrap.innerHTML = '<p class="text-xs" style="color:var(--text-muted);">加载中...</p>'; return; }
+            // 收集所有标签 + 共现矩阵
+            const tagSet = new Set();
             const pairs = {};
             for (const g of gameRegistry.games) {
                 const tags = g.tags || [];
+                tags.forEach(t => tagSet.add(t));
                 for (let i = 0; i < tags.length; i++) {
                     for (let j = i+1; j < tags.length; j++) {
-                        const key = [tags[i], tags[j]].sort().join(' + ');
+                        const key = [tags[i], tags[j]].sort().join('+');
                         pairs[key] = (pairs[key] || 0) + 1;
                     }
                 }
             }
-            const sorted = Object.entries(pairs).filter(([k,v]) => v >= 2).sort((a,b) => b[1] - a[1]);
-            wrap.innerHTML = `<p class="text-xs mb-3" style="color:var(--text-muted);">标签两两共现次数。出现 2 次以上的组合。</p>` +
-                sorted.map(([pair, count]) => {
-                    const [a, b] = pair.split(' + ');
+            const tagList = [...tagSet];
+            const tagLabels = tagList.map(t => { const td = gameRegistry.tag_definitions[t]; return td ? td.zh : t; });
+            // 构建矩阵数据
+            const matrixData = [];
+            for (let i = 0; i < tagList.length; i++) {
+                for (let j = 0; j < tagList.length; j++) {
+                    if (i === j) {
+                        // 对角线 = 标签出现次数
+                        let count = 0;
+                        for (const g of gameRegistry.games) { if ((g.tags||[]).includes(tagList[i])) count++; }
+                        matrixData.push([i, j, count]);
+                    } else {
+                        const key = [tagList[i], tagList[j]].sort().join('+');
+                        matrixData.push([i, j, pairs[key] || 0]);
+                    }
+                }
+            }
+            const sortedPairs = Object.entries(pairs).filter(([k,v]) => v >= 2).sort((a,b) => b[1] - a[1]);
+            wrap.innerHTML = `<p class="text-xs mb-3" style="color:var(--text-muted);">热力图: 标签两两共现次数。对角线=标签自身出现次数。色深=组合越频繁。</p><div id="echart-cooccurrence" style="width:100%;height:500px;"></div>` +
+                '<div class="mt-4"><p class="text-xs mb-2" style="color:var(--text-muted);">共现 2 次以上的组合:</p>' + sortedPairs.map(([pair, count]) => {
+                    const [a, b] = pair.split('+');
                     const tdA = gameRegistry.tag_definitions[a];
                     const tdB = gameRegistry.tag_definitions[b];
                     return `<div class="insight-row" style="display:flex;gap:12px;padding:8px 10px;border:0.5px solid var(--card-border);border-radius:8px;margin-bottom:6px;">
                         <div style="flex:1;font-size:13px;">${tdA ? tdA.zh : a} + ${tdB ? tdB.zh : b}</div>
                         <div style="font-size:13px;font-weight:500;color:#991B1B;">${count}</div>
                     </div>`;
-                }).join('');
+                }).join('') + '</div>';
+            setTimeout(() => {
+                const chartEl = document.getElementById('echart-cooccurrence');
+                if (!chartEl || typeof echarts === 'undefined') return;
+                const chart = echarts.init(chartEl);
+                const maxVal = Math.max(...matrixData.map(d => d[2]));
+                chart.setOption({
+                    backgroundColor: 'transparent',
+                    tooltip: {
+                        position: 'top',
+                        formatter: function(p) {
+                            return `${tagLabels[p.value[0]]} × ${tagLabels[p.value[1]]}<br/>共现: ${p.value[2]} 次`;
+                        }
+                    },
+                    grid: { left: 100, right: 30, top: 30, bottom: 80 },
+                    xAxis: { type: 'category', data: tagLabels, axisLabel: { rotate: 45, fontSize: 10 } },
+                    yAxis: { type: 'category', data: tagLabels, axisLabel: { fontSize: 10 } },
+                    visualMap: {
+                        min: 0, max: maxVal, calculable: true, orient: 'horizontal',
+                        left: 'center', bottom: 0,
+                        inRange: { color: ['#F8FAFC', '#FECACA', '#991B1B'] }
+                    },
+                    series: [{
+                        type: 'heatmap',
+                        data: matrixData,
+                        label: { show: true, fontSize: 9 },
+                        emphasis: { itemStyle: { shadowBlur: 10, shadowColor: 'rgba(0,0,0,0.5)' } }
+                    }]
+                });
+                window.addEventListener('resize', () => chart.resize());
+            }, 100);
         }
 
         // --- 趋势前瞻 ---
@@ -4702,8 +4810,8 @@ If you want to know what happened next, let’s listen to the explanation next t
 
         function renderInsight_potential_score(wrap) {
             if (!potentialScores || potentialScores.length === 0) { wrap.innerHTML = '<p class="text-xs" style="color:var(--text-muted);">加载中...</p>'; return; }
-            wrap.innerHTML = `<p class="text-xs mb-3" style="color:var(--text-muted);">综合 CCU增速(30%) + 好评率(20%) + wishlist(30%) + 标签新颖度(20%)。积累 7 天数据后 CCU 增速生效。</p>` +
-                potentialScores.slice(0, 20).map((s, i) => {
+            wrap.innerHTML = `<p class="text-xs mb-3" style="color:var(--text-muted);">散点图: X=当前 CCU, Y=潜力分(0-100), 气泡大小=wishlist。左上=既有数据又高潜力(最值得跟进)。</p><div id="echart-potential" style="width:100%;height:480px;"></div>` +
+                '<div class="mt-4">' + potentialScores.slice(0, 20).map((s, i) => {
                     const b = s.breakdown;
                     const color = s.score >= 60 ? '#991B1B' : s.score >= 40 ? '#92400E' : 'var(--text-muted)';
                     return `<div class="insight-row" style="display:flex;gap:12px;padding:10px;border:0.5px solid var(--card-border);border-radius:8px;margin-bottom:8px;">
@@ -4716,7 +4824,48 @@ If you want to know what happened next, let’s listen to the explanation next t
                             <div style="font-size:20px;font-weight:600;color:${color};">${s.score}</div>
                         </div>
                     </div>`;
-                }).join('');
+                }).join('') + '</div>';
+            setTimeout(() => {
+                const chartEl = document.getElementById('echart-potential');
+                if (!chartEl || typeof echarts === 'undefined') return;
+                const chart = echarts.init(chartEl);
+                const data = potentialScores.map(s => {
+                    const g = gameRegistry.games.find(g => g.appid === s.appid);
+                    const ccu = g ? getGameCCU(g) : 0;
+                    const wl = g ? (g.wishlist_count || 0) : 0;
+                    return { value: [ccu, s.score, wl, s.name, s.is_ea, s.status], name: s.name };
+                });
+                chart.setOption({
+                    backgroundColor: 'transparent',
+                    grid: { left: 60, right: 30, top: 30, bottom: 60 },
+                    tooltip: {
+                        trigger: 'item',
+                        formatter: function(p) {
+                            const v = p.value;
+                            return `<b>${v[3]}</b><br/>CCU: ${v[0].toLocaleString()}<br/>潜力分: ${v[1]}<br/>Wishlist: ${v[2].toLocaleString()}<br/>状态: ${v[5]}`;
+                        }
+                    },
+                    xAxis: { name: '当前 CCU', nameLocation: 'middle', nameGap: 30, type: 'value', min: 0 },
+                    yAxis: { name: '潜力分', type: 'value', min: 0, max: 100 },
+                    series: [{
+                        type: 'scatter',
+                        data: data,
+                        symbolSize: function(d) { return Math.max(12, Math.sqrt(d[2]) / 8); },
+                        itemStyle: {
+                            color: function(p) {
+                                const v = p.value;
+                                if (v[1] >= 60) return '#991B1B';
+                                if (v[1] >= 40) return '#92400E';
+                                return '#94A3B8';
+                            },
+                            opacity: 0.75
+                        },
+                        emphasis: { itemStyle: { opacity: 1, shadowBlur: 10 } },
+                        label: { show: true, formatter: function(p) { return p.value[3]; }, position: 'top', fontSize: 9, color: '#334155' }
+                    }]
+                });
+                window.addEventListener('resize', () => chart.resize());
+            }, 100);
         }
 
         function getGameCCUByAppid(appid) {
