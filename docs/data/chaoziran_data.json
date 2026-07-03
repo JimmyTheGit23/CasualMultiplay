@@ -2,26 +2,120 @@
   "chaoziran": {
     "bwiki_updates": [
       {
-        "title": "价值三百万铲铲币【九龙九凤冠】！",
+        "title": "当我在虫谷最深处的房间看到十个宝箱时....",
         "source": "TapTap官方",
         "url": "https://www.taptap.cn/app/714123/topic?type=official",
         "link_status": "unknown",
         "category": "other",
         "content_tags": [],
         "priority": "low",
-        "title_en": "Worth three million shovel coins [Nine Dragons and Nine Phoenix Crown]!",
+        "title_en": "When I saw ten treasure chests in the deepest room of Worm Valley....",
         "source_en": "TapTap Official",
         "content_tags_en": []
       },
       {
-        "title": "传说当它现世，召出的红轿有戏傀开路，百鬼随行，万邪退避......",
+        "title": "7月2日更新——鬼吹灯联动地图【云南虫谷】上线！",
+        "source": "TapTap官方",
+        "url": "https://www.taptap.cn/app/714123/topic?type=official",
+        "link_status": "unknown",
+        "category": "pr",
+        "content_tags": [
+          "品牌联动",
+          "IP授权"
+        ],
+        "priority": "low",
+        "title_en": "Updated on July 2nd - The Ghost Blowing Lantern linkage map [Yunnan Worm Valley] is online!",
+        "source_en": "TapTap Official",
+        "content_tags_en": [
+          "Brand Collab",
+          "IP License"
+        ]
+      },
+      {
+        "title": "新地图、新赛季、新怪物、新的回收物\n全新联动时装【艾伦-胡八一】登录就领！\n还有双人主页等你装扮~\n超多更新一图速览——",
+        "source": "TapTap官方",
+        "url": "https://www.taptap.cn/app/714123/topic?type=official",
+        "link_status": "unknown",
+        "category": "cosmetic",
+        "content_tags": [
+          "新时装"
+        ],
+        "priority": "medium",
+        "title_en": "New maps, new seasons, new monsters, new recyclables\nThe new linked fashion [Ellen-Hu Bayi] can be obtained by logging in!\nThere are also two-person homepages waiting for you to dress up~\nA quick overview of many updates——",
+        "source_en": "TapTap Official",
+        "content_tags_en": [
+          "New Outfit"
+        ]
+      },
+      {
+        "title": "新地图、新赛季、新怪物、新的回收物\n全新联动时装【艾伦-胡八一】登录就领！\n还有双人主页等你装扮~\n...",
+        "source": "TapTap官方",
+        "url": "https://www.taptap.cn/app/714123/topic?type=official",
+        "link_status": "unknown",
+        "category": "cosmetic",
+        "content_tags": [
+          "新时装"
+        ],
+        "priority": "medium",
+        "title_en": "New maps, new seasons, new monsters, new recyclables\nThe new linked fashion [Ellen-Hu Bayi] can be obtained by logging in!\nThere are also two-person homepages waiting for you to dress up~\n...",
+        "source_en": "TapTap Official",
+        "content_tags_en": [
+          "New Outfit"
+        ]
+      },
+      {
+        "title": "新怪物【戏偶】于虫谷出没中，静待工友登台",
+        "source": "TapTap官方",
+        "url": "https://www.taptap.cn/app/714123/topic?type=official",
+        "link_status": "unknown",
+        "category": "new_content",
+        "content_tags": [
+          "新怪物"
+        ],
+        "priority": "high",
+        "title_en": "The new monster [Puppet] appears in Worm Valley, waiting for the workers to take the stage",
+        "source_en": "TapTap Official",
+        "content_tags_en": [
+          "New Monster"
+        ]
+      },
+      {
+        "title": "千万不要攻击他，千万......",
         "source": "TapTap官方",
         "url": "https://www.taptap.cn/app/714123/topic?type=official",
         "link_status": "unknown",
         "category": "other",
         "content_tags": [],
         "priority": "low",
-        "title_en": "Legend has it that when it appears in the world, the red sedan summoned will have a puppet to open the way, followed by hundreds of ghosts, and all evil will retreat...",
+        "title_en": "Never attack him, never...",
+        "source_en": "TapTap Official",
+        "content_tags_en": []
+      },
+      {
+        "title": "你的恐怖标题呢？将来是不是还得给怪物出皮肤？每个人视角里的怪物还长得不一样",
+        "source": "TapTap官方",
+        "url": "https://www.taptap.cn/app/714123/topic?type=official",
+        "link_status": "unknown",
+        "category": "cosmetic",
+        "content_tags": [
+          "新皮肤"
+        ],
+        "priority": "medium",
+        "title_en": "What about your horror title? Will we still have to give skins to monsters in the future? The monsters look different from everyone’s perspective",
+        "source_en": "TapTap Official",
+        "content_tags_en": [
+          "New Skin"
+        ]
+      },
+      {
+        "title": "【零-角色PV预热】——被计划的生命，长出计划外的灵魂",
+        "source": "TapTap官方",
+        "url": "https://www.taptap.cn/app/714123/topic?type=official",
+        "link_status": "unknown",
+        "category": "other",
+        "content_tags": [],
+        "priority": "low",
+        "title_en": "[Zero-Character PV Warm-up]——A planned life grows an unplanned soul",
         "source_en": "TapTap Official",
         "content_tags_en": []
       },
@@ -52,95 +146,13 @@
         "title_en": "I thought I was so angry last night that I stayed up all night",
         "source_en": "TapTap Official",
         "content_tags_en": []
-      },
-      {
-        "title": "千万不要攻击他，千万......",
-        "source": "TapTap官方",
-        "url": "https://www.taptap.cn/app/714123/topic?type=official",
-        "link_status": "unknown",
-        "category": "other",
-        "content_tags": [],
-        "priority": "low",
-        "title_en": "Never attack him, never...",
-        "source_en": "TapTap Official",
-        "content_tags_en": []
-      },
-      {
-        "title": "你的恐怖标题呢？将来是不是还得给怪物出皮肤？每个人视角里的怪物还长得不一样",
-        "source": "TapTap官方",
-        "url": "https://www.taptap.cn/app/714123/topic?type=official",
-        "link_status": "unknown",
-        "category": "cosmetic",
-        "content_tags": [
-          "新皮肤"
-        ],
-        "priority": "medium",
-        "title_en": "What about your scary title? Will we still have to give skins to monsters in the future? The monsters look different from everyone’s perspective",
-        "source_en": "TapTap Official",
-        "content_tags_en": [
-          "New Skin"
-        ]
-      },
-      {
-        "title": "鬼吹灯联动地图【云南虫谷】定于7月2日更新后上线！",
-        "source": "TapTap官方",
-        "url": "https://www.taptap.cn/app/714123/topic?type=official",
-        "link_status": "unknown",
-        "category": "pr",
-        "content_tags": [
-          "品牌联动",
-          "IP授权"
-        ],
-        "priority": "low",
-        "title_en": "The Ghost Blowing Lantern linkage map [Yunnan Worm Valley] is scheduled to be launched after the update on July 2!",
-        "source_en": "TapTap Official",
-        "content_tags_en": [
-          "Brand Collab",
-          "IP License"
-        ]
-      },
-      {
-        "title": "诡异的戏台，散落的傩面，门后世界究竟隐藏着什么？一切谜底，等你来揭晓",
-        "source": "TapTap官方",
-        "url": "https://www.taptap.cn/app/714123/topic?type=official",
-        "link_status": "unknown",
-        "category": "other",
-        "content_tags": [],
-        "priority": "low",
-        "title_en": "The weird stage, the scattered Nuo noodles, what is hidden in the world behind the door? All the answers are waiting for you to reveal them",
-        "source_en": "TapTap Official",
-        "content_tags_en": []
-      },
-      {
-        "title": "【蝎灵儿】与【纸娃娃】确认于云南虫谷出没",
-        "source": "TapTap官方",
-        "url": "https://www.taptap.cn/app/714123/topic?type=official",
-        "link_status": "unknown",
-        "category": "other",
-        "content_tags": [],
-        "priority": "low",
-        "title_en": "[Scorpion Ling'er] and [Paper Doll] are confirmed to be present in Yunnan Worm Valley",
-        "source_en": "TapTap Official",
-        "content_tags_en": []
-      },
-      {
-        "title": "新员工&新道具使用体验调研！完成问卷送灵契~",
-        "source": "TapTap官方",
-        "url": "https://www.taptap.cn/app/714123/topic?type=official",
-        "link_status": "unknown",
-        "category": "other",
-        "content_tags": [],
-        "priority": "low",
-        "title_en": "Survey on the use experience of new employees & new props! Complete the questionnaire and receive a spiritual deed~",
-        "source_en": "TapTap Official",
-        "content_tags_en": []
       }
     ],
     "taptap": {
       "app_id": 714123,
       "source": "taptap_webpage",
-      "fans_count": 11559472,
-      "review_count": 32797,
+      "fans_count": 11576328,
+      "review_count": 32988,
       "score": "7.0",
       "description": "超自然行动组是一款合作游戏，TapTap 提供超自然行动组最新版官方正版下载，一个人玩是恐怖游戏，两个人玩是冒险游戏，三个人玩是寻宝游戏，...",
       "score_display": 7.0,
@@ -291,6 +303,15 @@
           "source_en": "TapTap Forum"
         },
         {
+          "title": "当我在虫谷最深处的房间看到十个宝箱时....",
+          "source": "TapTap论坛",
+          "url": "https://www.taptap.cn/app/714123/topic",
+          "link_status": "unknown",
+          "sentiment": "neutral",
+          "title_en": "When I saw ten treasure chests in the deepest room of Worm Valley....",
+          "source_en": "TapTap Forum"
+        },
+        {
           "title": "7月2日晚更新后，叫上你的亲密好友，一起美美出片吧~",
           "source": "TapTap论坛",
           "url": "https://www.taptap.cn/app/714123/topic",
@@ -309,57 +330,48 @@
           "source_en": "TapTap Forum"
         },
         {
-          "title": "千万不要攻击他，千万......",
+          "title": "7月2日更新——鬼吹灯联动地图【云南虫谷】上线！",
           "source": "TapTap论坛",
           "url": "https://www.taptap.cn/app/714123/topic",
           "link_status": "unknown",
           "sentiment": "neutral",
-          "title_en": "Never attack him, never...",
+          "title_en": "Updated on July 2nd - The Ghost Blowing Lantern linkage map [Yunnan Worm Valley] is online!",
           "source_en": "TapTap Forum"
         },
         {
-          "title": "你的恐怖标题呢？将来是不是还得给怪物出皮肤？每个人视角里的怪物还长得不一样",
+          "title": "新地图、新赛季、新怪物、新的回收物\n全新联动时装【艾伦-胡八一】登录就领！\n还有双人主页等你装扮~\n超多更新一图速览——",
           "source": "TapTap论坛",
           "url": "https://www.taptap.cn/app/714123/topic",
           "link_status": "unknown",
           "sentiment": "neutral",
-          "title_en": "What about your scary title? Will we still have to give skins to monsters in the future? The monsters look different from everyone’s perspective",
+          "title_en": "New maps, new seasons, new monsters, new recyclables\nThe new linked fashion [Ellen-Hu Bayi] can be obtained by logging in!\nThere are also two-person homepages waiting for you to dress up~\nA quick overview of many updates——",
           "source_en": "TapTap Forum"
         },
         {
-          "title": "价值三百万铲铲币【九龙九凤冠】！",
+          "title": "新地图、新赛季、新怪物、新的回收物\n全新联动时装【艾伦-胡八一】登录就领！\n还有双人主页等你装扮~\n...",
           "source": "TapTap论坛",
           "url": "https://www.taptap.cn/app/714123/topic",
           "link_status": "unknown",
           "sentiment": "neutral",
-          "title_en": "Worth three million shovel coins [Nine Dragons and Nine Phoenix Crown]!",
+          "title_en": "New maps, new seasons, new monsters, new recyclables\nThe new linked fashion [Ellen-Hu Bayi] can be obtained by logging in!\nThere are also two-person homepages waiting for you to dress up~\n...",
           "source_en": "TapTap Forum"
         },
         {
-          "title": "传说当它现世，召出的红轿有戏傀开路，百鬼随行，万邪退避......",
+          "title": "云南虫谷有没有无敌抓怪点？跟我说一下，我去试了有用的话，说下名字送怪。",
           "source": "TapTap论坛",
           "url": "https://www.taptap.cn/app/714123/topic",
           "link_status": "unknown",
           "sentiment": "neutral",
-          "title_en": "Legend has it that when it appears in the world, the red sedan summoned will have a puppet to open the way, followed by hundreds of ghosts, and all evil will retreat...",
+          "title_en": "Is there an invincible monster catching spot in Yunnan Worm Valley? Tell me, I'll try some useful words and tell them their names to send monsters away.",
           "source_en": "TapTap Forum"
         },
         {
-          "title": "来一个兔子，要求四队会吃，不要那些只知道捡红牛，不知道捡枪的，别来了，四队赢的胜率百分之98，四队我...",
+          "title": "房间外面有位置可以卡蛇妖，他在哪里突不上来，我扇子打了半天打不死只能传送走了",
           "source": "TapTap论坛",
           "url": "https://www.taptap.cn/app/714123/topic",
           "link_status": "unknown",
-          "sentiment": "positive",
-          "title_en": "Here comes a rabbit and asks the four teams to know how to eat it. Don’t come here. Those who only know how to pick up red bulls and don’t know how to pick up guns, don’t come. The winning rate of the four teams is 98%. The four teams I...",
-          "source_en": "TapTap Forum"
-        },
-        {
-          "title": "四队98胜率，疑似有挂狗不打自招",
-          "source": "TapTap论坛",
-          "url": "https://www.taptap.cn/app/714123/topic",
-          "link_status": "unknown",
-          "sentiment": "neutral",
-          "title_en": "The four teams have a winning rate of 98. It is suspected that they are cheating on themselves.",
+          "sentiment": "negative",
+          "title_en": "There is a place outside the room where you can block the snake monster, but he can't pop up anywhere. I fanned for a long time and couldn't kill him, so I had to teleport away.",
           "source_en": "TapTap Forum"
         }
       ],
@@ -373,7 +385,7 @@
             "title": "南瓜入侵，幽魂大运来了！",
             "bvid": "BV1xCkfBjENz",
             "url": "https://www.bilibili.com/video/BV1xCkfBjENz",
-            "play": 5788926,
+            "play": 5789024,
             "like": 34712,
             "danmaku": 186,
             "author": "張某人ZSS",
@@ -386,8 +398,8 @@
             "title": "教会你们如何在超自然找到大佬",
             "bvid": "BV1d2tGz2E3Z",
             "url": "https://www.bilibili.com/video/BV1d2tGz2E3Z",
-            "play": 4731174,
-            "like": 31932,
+            "play": 4731401,
+            "like": 31938,
             "danmaku": 393,
             "author": "中二的小溢",
             "duration": "5:45",
@@ -399,8 +411,8 @@
             "title": "超自然行动组怪物图鉴第六期「小熊猫」",
             "bvid": "BV1QCjiz2Evq",
             "url": "https://www.bilibili.com/video/BV1QCjiz2Evq",
-            "play": 3709730,
-            "like": 16707,
+            "play": 3710178,
+            "like": 16708,
             "danmaku": 222,
             "author": "就是黄大毛",
             "duration": "1:45",
@@ -412,8 +424,8 @@
             "title": "本来想卖掉大鹅、看到眼神心软了",
             "bvid": "BV1Wv6bBWEmn",
             "url": "https://www.bilibili.com/video/BV1Wv6bBWEmn",
-            "play": 3507865,
-            "like": 115412,
+            "play": 3508043,
+            "like": 115421,
             "danmaku": 1687,
             "author": "虎熊寺",
             "duration": "1:24",
@@ -425,8 +437,8 @@
             "title": "搜打撤黑马？！《超自然行动组》凭什么能爆火？",
             "bvid": "BV11hsheJE5i",
             "url": "https://www.bilibili.com/video/BV11hsheJE5i",
-            "play": 2928341,
-            "like": 31661,
+            "play": 2928355,
+            "like": 31660,
             "danmaku": 45,
             "author": "白馆长丶",
             "duration": "4:39",
@@ -438,7 +450,7 @@
             "title": "为什么幸福的人不会来到超自然行动组？",
             "bvid": "BV1Zqu4z5ETn",
             "url": "https://www.bilibili.com/video/BV1Zqu4z5ETn",
-            "play": 2790272,
+            "play": 2790313,
             "like": 9005,
             "danmaku": 146,
             "author": "白白鸭游戏",
@@ -465,8 +477,8 @@
       "regions_data": {
         "us": {
           "name": "美国",
-          "rating": 4.55,
-          "rating_count": 708,
+          "rating": 4.56,
+          "rating_count": 710,
           "current_version": "1.30.2",
           "price": "Free",
           "genre": "Games",
@@ -475,7 +487,7 @@
         "jp": {
           "name": "日本",
           "rating": 4.43,
-          "rating_count": 1876,
+          "rating_count": 1887,
           "current_version": "1.30.2",
           "price": "無料",
           "genre": "Games",
@@ -483,8 +495,8 @@
         },
         "kr": {
           "name": "韩国",
-          "rating": 0,
-          "rating_count": 0,
+          "rating": 3.84,
+          "rating_count": 264,
           "current_version": "1.30.2",
           "price": "무료",
           "genre": "Games",
@@ -503,9 +515,9 @@
           "name_en": "Hong Kong, China"
         }
       },
-      "app_store_rating": 4.49,
-      "total_ratings": 2584,
-      "updated": "2026-07-02 03:42",
+      "app_store_rating": 4.28,
+      "total_ratings": 2861,
+      "updated": "2026-07-03 03:23",
       "name_en": "Tomb Busters"
     },
     "app_store_rankings": {
@@ -515,7 +527,7 @@
         "free_games": null,
         "grossing_overall": null,
         "grossing_games": null,
-        "updated": "2026-07-02 03:42",
+        "updated": "2026-07-03 03:23",
         "name_en": "US"
       },
       "jp": {
@@ -524,7 +536,7 @@
         "free_games": null,
         "grossing_overall": null,
         "grossing_games": null,
-        "updated": "2026-07-02 03:42",
+        "updated": "2026-07-03 03:23",
         "name_en": "Japan"
       },
       "kr": {
@@ -533,7 +545,7 @@
         "free_games": null,
         "grossing_overall": null,
         "grossing_games": null,
-        "updated": "2026-07-02 03:42",
+        "updated": "2026-07-03 03:23",
         "name_en": "South Korea"
       },
       "tw": {
@@ -542,7 +554,7 @@
         "free_games": null,
         "grossing_overall": null,
         "grossing_games": null,
-        "updated": "2026-07-02 03:42",
+        "updated": "2026-07-03 03:23",
         "name_en": "Taiwan, China"
       },
       "hk": {
@@ -551,7 +563,7 @@
         "free_games": null,
         "grossing_overall": null,
         "grossing_games": null,
-        "updated": "2026-07-02 03:42",
+        "updated": "2026-07-03 03:23",
         "name_en": "Hong Kong, China"
       }
     },
@@ -560,10 +572,10 @@
         "name": "中国",
         "name_en": "China",
         "free_overall": null,
-        "free_games": 24,
-        "grossing_overall": 65,
-        "grossing_games": 36,
-        "updated": "2026-07-02 03:42",
+        "free_games": 23,
+        "grossing_overall": 53,
+        "grossing_games": 29,
+        "updated": "2026-07-03 03:23",
         "peak_grossing_games": 19,
         "peak_free_overall": null
       }
@@ -571,57 +583,35 @@
     "stock_price": {
       "code": "SZ002558",
       "name": "巨人网络",
-      "price": 28.16,
-      "prev_close": 28.11,
-      "change_pct": 0.18,
-      "change_amt": 0.05,
-      "updated": "2026-07-02 03:42",
+      "price": 26.96,
+      "prev_close": 27.71,
+      "change_pct": -2.71,
+      "change_amt": -0.75,
+      "updated": "2026-07-03 03:23",
       "name_en": "Giant Network"
     },
     "new_content_tracker": [
       {
-        "id": "角色重做",
-        "name": "角色重做",
-        "status": "announced",
-        "first_seen": "2026-07-02",
-        "launch_date": null,
-        "tags": [
-          "角色重做"
-        ],
-        "announcements": [
-          {
-            "title": "阿念重做登场！",
-            "date": "2026-07-02",
-            "source": "官网",
-            "url": "https://www.chaoziran.com/news/538",
-            "title_en": "A Nian’s rework is here!",
-            "source_en": "Official Site",
-            "link_status": "valid"
-          }
-        ],
-        "player_reactions": {
-          "positive": 0,
-          "neutral": 0,
-          "negative": 0
-        },
-        "name_en": "Character Rework",
-        "tags_en": [
-          "Character Rework"
-        ]
-      },
-      {
         "id": "新怪物",
         "name": "新怪物",
         "status": "teased",
-        "first_seen": "2026-07-02",
+        "first_seen": "2026-07-03",
         "launch_date": null,
         "tags": [
           "新怪物"
         ],
         "announcements": [
           {
+            "title": "新怪物【戏偶】于虫谷出没中，静待工友登台",
+            "date": "2026-07-03",
+            "source": "TapTap官方",
+            "url": "https://www.taptap.cn/app/714123/topic?type=official",
+            "title_en": "The new monster [Puppet] appears in Worm Valley, waiting for the workers to take the stage",
+            "source_en": "TapTap Official"
+          },
+          {
             "title": "新怪物【鸭子】实机展示，追上了命都给你哦",
-            "date": "2026-07-02",
+            "date": "2026-07-03",
             "source": "官网",
             "url": "https://www.chaoziran.com/news/535",
             "title_en": "The new monster [Duck] is shown in action. If you catch up, you will be given life.",
@@ -638,8 +628,38 @@
         "tags_en": [
           "New Monster"
         ]
+      },
+      {
+        "id": "角色重做",
+        "name": "角色重做",
+        "status": "announced",
+        "first_seen": "2026-07-03",
+        "launch_date": null,
+        "tags": [
+          "角色重做"
+        ],
+        "announcements": [
+          {
+            "title": "阿念重做登场！",
+            "date": "2026-07-03",
+            "source": "官网",
+            "url": "https://www.chaoziran.com/news/538",
+            "title_en": "A Nian’s rework is here!",
+            "source_en": "Official Site",
+            "link_status": "valid"
+          }
+        ],
+        "player_reactions": {
+          "positive": 0,
+          "neutral": 0,
+          "negative": 0
+        },
+        "name_en": "Character Rework",
+        "tags_en": [
+          "Character Rework"
+        ]
       }
     ],
-    "crawled_at": "2026-07-02T03:42:40.180150"
+    "crawled_at": "2026-07-03T03:23:17.246791"
   }
 }
