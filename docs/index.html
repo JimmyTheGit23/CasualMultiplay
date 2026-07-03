@@ -461,6 +461,23 @@
             white-space: nowrap;
             align-self: flex-start;
         }
+        .insight-chart-card {
+            background: #FFFFFF;
+            border: 0.5px solid var(--card-border, #E2E8F0);
+            border-radius: 8px;
+            padding: 12px;
+        }
+        .insight-chart-title {
+            font-size: 12px;
+            font-weight: 500;
+            color: var(--text-primary, #0F172A);
+            margin-bottom: 2px;
+        }
+        .insight-chart-sub {
+            font-size: 10px;
+            color: var(--text-muted, #64748B);
+            margin-bottom: 8px;
+        }
 
         .discover-toolbar {
             display: flex;
@@ -4522,8 +4539,73 @@ If you want to know what happened next, let’s listen to the explanation next t
                 rows.push({ game: g, dev, devAppCount, ccu, ratio, pot });
             }
             rows.sort((a,b) => b.ratio - a.ratio);
-            wrap.innerHTML = `<p class="text-xs mb-3" style="color:var(--text-muted);">气泡图: X=开发者作品数, Y=CCU, 气泡大小=潜力分。右上角 = 黑马(作品少 CCU 高)。</p><div id="echart-small-team" style="width:100%;height:480px;"></div>` +
-                '<div class="mt-4">' + rows.slice(0, 10).map(r => `<div class="insight-row" style="display:flex;gap:12px;padding:10px;border:0.5px solid var(--card-border);border-radius:8px;margin-bottom:8px;">
+
+            // 计算标签共现矩阵
+            const tagSet = new Set();
+            const pairs = {};
+            for (const g of gameRegistry.games) {
+                const tags = g.tags || [];
+                tags.forEach(t => tagSet.add(t));
+                for (let i = 0; i < tags.length; i++) {
+                    for (let j = i+1; j < tags.length; j++) {
+                        const key = [tags[i], tags[j]].sort().join('+');
+                        pairs[key] = (pairs[key] || 0) + 1;
+                    }
+                }
+            }
+            const tagList = [...tagSet];
+            const tagLabels = tagList.map(t => { const td = gameRegistry.tag_definitions[t]; return td ? td.zh : t; });
+            const matrixData = [];
+            for (let i = 0; i < tagList.length; i++) {
+                for (let j = 0; j < tagList.length; j++) {
+                    if (i === j) {
+                        let count = 0;
+                        for (const g of gameRegistry.games) { if ((g.tags||[]).includes(tagList[i])) count++; }
+                        matrixData.push([i, j, count]);
+                    } else {
+                        const key = [tagList[i], tagList[j]].sort().join('+');
+                        matrixData.push([i, j, pairs[key] || 0]);
+                    }
+                }
+            }
+
+            // 品类增速数据
+            const tagStats = {};
+            for (const g of gameRegistry.games) {
+                for (const t of (g.tags || [])) {
+                    if (!tagStats[t]) tagStats[t] = { count: 0, ccu: 0 };
+                    tagStats[t].count++;
+                    tagStats[t].ccu += getGameCCU(g);
+                }
+            }
+            const tagSorted = Object.entries(tagStats).sort((a,b) => b[1].ccu - a[1].ccu);
+
+            // 4 个图 2x2 网格
+            wrap.innerHTML = `<p class="text-xs mb-3" style="color:var(--text-muted);">4 个核心分析图表: 小团队大爆款(气泡图) / 标签共现(热力图) / 品类增速(横向条形图) / 潜力分布(散点图)。</p>
+                <div style="display:grid;grid-template-columns:1fr 1fr;gap:16px;margin-bottom:16px;">
+                    <div class="insight-chart-card">
+                        <div class="insight-chart-title">小团队大爆款 (气泡图)</div>
+                        <div class="insight-chart-sub">X=开发者作品数, Y=CCU, 气泡=潜力分。右上角=黑马</div>
+                        <div id="echart-small-team" style="width:100%;height:340px;"></div>
+                    </div>
+                    <div class="insight-chart-card">
+                        <div class="insight-chart-title">标签共现 (热力图)</div>
+                        <div class="insight-chart-sub">12×12 矩阵, 色深=共现次数, 对角线=标签自身</div>
+                        <div id="echart-cooccurrence" style="width:100%;height:340px;"></div>
+                    </div>
+                    <div class="insight-chart-card">
+                        <div class="insight-chart-title">品类增速 (横向条形图)</div>
+                        <div class="insight-chart-sub">各标签的总 CCU 排序, 渐变色=热度</div>
+                        <div id="echart-tag-growth" style="width:100%;height:340px;"></div>
+                    </div>
+                    <div class="insight-chart-card">
+                        <div class="insight-chart-title">潜力分布 (散点图)</div>
+                        <div class="insight-chart-sub">X=当前 CCU, Y=潜力分, 气泡=wishlist</div>
+                        <div id="echart-potential" style="width:100%;height:340px;"></div>
+                    </div>
+                </div>
+                <p class="text-xs mb-2 mt-4" style="color:var(--text-muted);">小团队大爆款 Top 10 详情:</p>` +
+                rows.slice(0, 10).map(r => `<div class="insight-row" style="display:flex;gap:12px;padding:10px;border:0.5px solid var(--card-border);border-radius:8px;margin-bottom:8px;">
                     <div style="flex:1;">
                         <div style="font-size:13px;font-weight:500;">${r.game.cn_name || r.game.name}</div>
                         <div style="font-size:11px;color:var(--text-muted);">${r.dev} · ${r.devAppCount} 作品</div>
@@ -4532,38 +4614,71 @@ If you want to know what happened next, let’s listen to the explanation next t
                         <div style="font-size:16px;font-weight:500;color:#991B1B;">${r.ratio.toFixed(0)}</div>
                         <div style="font-size:10px;color:var(--text-muted);">CCU/作品数</div>
                     </div>
-                </div>`).join('') + '</div>';
-            // ECharts 气泡图
+                </div>`).join('');
+
+            // 初始化 4 个图表
             setTimeout(() => {
-                const chartEl = document.getElementById('echart-small-team');
-                if (!chartEl || typeof echarts === 'undefined') return;
-                const chart = echarts.init(chartEl);
-                const data = rows.map(r => ({
-                    value: [r.devAppCount, r.ccu, r.pot, r.game.cn_name || r.game.name, r.dev],
-                    name: r.game.cn_name || r.game.name
-                }));
-                chart.setOption({
-                    backgroundColor: 'transparent',
-                    grid: { left: 60, right: 30, top: 30, bottom: 60 },
-                    tooltip: {
-                        trigger: 'item',
-                        formatter: function(p) {
-                            const v = p.value;
-                            return `<b>${v[3]}</b><br/>开发者: ${v[4]}<br/>作品数: ${v[0]}<br/>CCU: ${v[1].toLocaleString()}<br/>潜力分: ${v[2]}`;
-                        }
-                    },
-                    xAxis: { name: '开发者作品数', nameLocation: 'middle', nameGap: 30, type: 'value', min: 0 },
-                    yAxis: { name: 'CCU', type: 'value', min: 0 },
-                    series: [{
-                        type: 'scatter',
-                        data: data,
-                        symbolSize: function(d) { return Math.max(15, d[2] * 0.8); },
-                        itemStyle: { color: '#991B1B', opacity: 0.7 },
-                        emphasis: { itemStyle: { color: '#7F1D1D', opacity: 1, shadowBlur: 10, shadowColor: 'rgba(0,0,0,0.3)' } },
-                        label: { show: true, formatter: function(p) { return p.value[3]; }, position: 'top', fontSize: 10, color: '#334155' }
-                    }]
-                });
-                window.addEventListener('resize', () => chart.resize());
+                if (typeof echarts === 'undefined') return;
+                // 1. 小团队大爆款气泡图
+                const e1 = document.getElementById('echart-small-team');
+                if (e1) {
+                    const chart = echarts.init(e1);
+                    const data = rows.map(r => ({ value: [r.devAppCount, r.ccu, r.pot, r.game.cn_name || r.game.name, r.dev], name: r.game.cn_name || r.game.name }));
+                    chart.setOption({
+                        backgroundColor: 'transparent',
+                        grid: { left: 50, right: 20, top: 20, bottom: 50 },
+                        tooltip: { trigger: 'item', formatter: function(p) { const v = p.value; return `<b>${v[3]}</b><br/>开发者: ${v[4]}<br/>作品数: ${v[0]}<br/>CCU: ${v[1].toLocaleString()}<br/>潜力分: ${v[2]}`; } },
+                        xAxis: { name: '作品数', nameGap: 22, nameLocation: 'middle', type: 'value', min: 0, axisLabel: { fontSize: 10 } },
+                        yAxis: { name: 'CCU', type: 'value', min: 0, axisLabel: { fontSize: 10 } },
+                        series: [{ type: 'scatter', data: data, symbolSize: function(d) { return Math.max(12, d[2] * 0.7); }, itemStyle: { color: '#991B1B', opacity: 0.7 }, emphasis: { itemStyle: { color: '#7F1D1D', opacity: 1 } }, label: { show: true, formatter: function(p) { return p.value[3]; }, position: 'top', fontSize: 9, color: '#334155' } }]
+                    });
+                    window.addEventListener('resize', () => chart.resize());
+                }
+                // 2. 标签共现热力图
+                const e2 = document.getElementById('echart-cooccurrence');
+                if (e2) {
+                    const chart = echarts.init(e2);
+                    const maxVal = Math.max(...matrixData.map(d => d[2]));
+                    chart.setOption({
+                        backgroundColor: 'transparent',
+                        tooltip: { position: 'top', formatter: function(p) { return `${tagLabels[p.value[0]]} × ${tagLabels[p.value[1]]}<br/>共现: ${p.value[2]} 次`; } },
+                        grid: { left: 80, right: 20, top: 20, bottom: 60 },
+                        xAxis: { type: 'category', data: tagLabels, axisLabel: { rotate: 45, fontSize: 9 } },
+                        yAxis: { type: 'category', data: tagLabels, axisLabel: { fontSize: 9 } },
+                        visualMap: { min: 0, max: maxVal, calculable: true, orient: 'horizontal', left: 'center', bottom: 0, inRange: { color: ['#F8FAFC', '#FECACA', '#991B1B'] } },
+                        series: [{ type: 'heatmap', data: matrixData, label: { show: true, fontSize: 9 } }]
+                    });
+                    window.addEventListener('resize', () => chart.resize());
+                }
+                // 3. 品类增速横向条形图
+                const e3 = document.getElementById('echart-tag-growth');
+                if (e3) {
+                    const chart = echarts.init(e3);
+                    chart.setOption({
+                        backgroundColor: 'transparent',
+                        grid: { left: 80, right: 40, top: 15, bottom: 30 },
+                        tooltip: { trigger: 'axis', axisPointer: { type: 'shadow' } },
+                        xAxis: { type: 'value', axisLabel: { fontSize: 10 } },
+                        yAxis: { type: 'category', data: tagSorted.map(([t,s]) => { const td = gameRegistry.tag_definitions[t]; return td ? td.zh : t; }).reverse(), axisLabel: { fontSize: 10 } },
+                        series: [{ type: 'bar', data: tagSorted.map(([t,s]) => s.ccu).reverse(), itemStyle: { color: function(p) { const colors = ['#991B1B','#B91C1C','#DC2626','#EF4444','#F87171','#FCA5A5','#FECACA','#E2E8F0','#94A3B8','#64748B','#475569','#334155','#1E293B','#0F172A']; return colors[p.dataIndex % colors.length]; } }, label: { show: true, position: 'right', fontSize: 9 } }]
+                    });
+                    window.addEventListener('resize', () => chart.resize());
+                }
+                // 4. 潜力分散点图
+                const e4 = document.getElementById('echart-potential');
+                if (e4 && potentialScores.length > 0) {
+                    const chart = echarts.init(e4);
+                    const data = potentialScores.map(s => { const g = gameRegistry.games.find(g => g.appid === s.appid); const ccu = g ? getGameCCU(g) : 0; const wl = g ? (g.wishlist_count || 0) : 0; return { value: [ccu, s.score, wl, s.name, s.is_ea, s.status], name: s.name }; });
+                    chart.setOption({
+                        backgroundColor: 'transparent',
+                        grid: { left: 50, right: 20, top: 20, bottom: 50 },
+                        tooltip: { trigger: 'item', formatter: function(p) { const v = p.value; return `<b>${v[3]}</b><br/>CCU: ${v[0].toLocaleString()}<br/>潜力分: ${v[1]}<br/>Wishlist: ${v[2].toLocaleString()}<br/>状态: ${v[5]}`; } },
+                        xAxis: { name: '当前 CCU', nameGap: 22, nameLocation: 'middle', type: 'value', min: 0, axisLabel: { fontSize: 10 } },
+                        yAxis: { name: '潜力分', type: 'value', min: 0, max: 100, axisLabel: { fontSize: 10 } },
+                        series: [{ type: 'scatter', data: data, symbolSize: function(d) { return Math.max(10, Math.sqrt(d[2]) / 8); }, itemStyle: { color: function(p) { const v = p.value; if (v[1] >= 60) return '#991B1B'; if (v[1] >= 40) return '#92400E'; return '#94A3B8'; }, opacity: 0.75 }, emphasis: { itemStyle: { opacity: 1 } }, label: { show: true, formatter: function(p) { return p.value[3]; }, position: 'top', fontSize: 8, color: '#334155' } }]
+                    });
+                    window.addEventListener('resize', () => chart.resize());
+                }
             }, 100);
         }
 
