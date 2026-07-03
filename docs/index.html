@@ -4861,21 +4861,25 @@ If you want to know what happened next, let’s listen to the explanation next t
                 const chartEl = document.getElementById('echart-fusion-scatter');
                 if (!chartEl || typeof echarts === 'undefined') return;
                 const chart = echarts.init(chartEl);
+                // 过滤 CCU=0 的 wishlist 游戏(它们会堆在 Y=0)
+                const plotData = fusionScatter.filter(d => d.value[1] > 1);
                 chart.setOption({
                     backgroundColor: 'transparent',
                     grid: { left: 60, right: 30, top: 30, bottom: 50 },
                     tooltip: { trigger: 'item', formatter: function(p) { const v = p.value; return `<b>${v[3]}</b><br/>开发者: ${v[4]}<br/>标签数: ${v[0]}<br/>CCU: ${v[1].toLocaleString()}<br/>潜力分: ${v[2]}`; } },
                     xAxis: { name: '标签数', nameLocation: 'middle', nameGap: 25, type: 'value', min: 3, max: 7, axisLabel: { fontSize: 11 } },
-                    yAxis: { name: 'CCU', type: 'value', min: 0, axisLabel: { fontSize: 11 } },
-                    series: [{
-                        type: 'scatter',
-                        data: fusionScatter,
-                        symbolSize: function(d) { return Math.max(14, d[2] * 0.8); },
-                        itemStyle: { color: '#991B1B', opacity: 0.7 },
-                        emphasis: { itemStyle: { color: '#7F1D1D', opacity: 1 } },
-                        label: { show: true, formatter: function(p) { return p.value[3]; }, position: 'top', fontSize: 9, color: '#334155' },
-                        labelLayout: { hideOverlap: true }
-                    }]
+                    yAxis: { name: 'CCU (对数轴)', type: 'log', min: 1, axisLabel: { fontSize: 11, formatter: function(v) { return v >= 1000 ? (v/1000)+'k' : v; } } },
+                    series: [
+                        // 4 个象限背景
+                        { type: 'scatter', markArea: { silent: true, itemStyle: { opacity: 0.08 }, data: [
+                            [{ name: '真融合爆款', xAxis: 4, yAxis: 10000, itemStyle: { color: '#991B1B' }, label: { color: '#991B1B', fontSize: 10, position: 'insideTop', fontWeight: 600 } }, { xAxis: 7, yAxis: 200000 }],
+                            [{ name: '单纯爆款', xAxis: 3, yAxis: 10000, itemStyle: { color: '#3B82F6' }, label: { color: '#3B82F6', fontSize: 10, position: 'insideTop' } }, { xAxis: 4, yAxis: 200000 }],
+                            [{ name: '融合但没火', xAxis: 4, yAxis: 1, itemStyle: { color: '#F59E0B' }, label: { color: '#F59E0B', fontSize: 10, position: 'insideTop' } }, { xAxis: 7, yAxis: 10000 }],
+                            [{ name: '待观察', xAxis: 3, yAxis: 1, itemStyle: { color: '#94A3B8' }, label: { color: '#94A3B8', fontSize: 10, position: 'insideTop' } }, { xAxis: 4, yAxis: 10000 }]
+                        ]}, data: [] },
+                        // 实际散点
+                        { type: 'scatter', data: plotData, symbolSize: function(d) { return Math.max(14, Math.log10(d[2]+1) * 5 + 14); }, itemStyle: { color: '#991B1B', opacity: 0.85 }, emphasis: { itemStyle: { color: '#7F1D1D', opacity: 1 } }, label: { show: true, formatter: function(p) { return p.value[3]; }, position: 'right', fontSize: 9, color: '#334155' }, labelLayout: { hideOverlap: true, moveOverlap: 'shiftY' } }
+                    ]
                 });
                 window.addEventListener('resize', () => chart.resize());
             }, 100);
