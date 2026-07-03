@@ -1,0 +1,756 @@
+{
+  "_meta": {
+    "calculated_at": "2026-07-03T13:33:09.369087+08:00",
+    "total_games": 34,
+    "note": "潜力分 0-100, 综合CCU增速/好评率/wishlist/标签新颖度。积累7天后CCU增速生效。"
+  },
+  "scores": [
+    {
+      "appid": 2569760,
+      "name": "土丘：克苏鲁恶兆",
+      "score": 47.9,
+      "breakdown": {
+        "ccu_growth_pct": 0.0,
+        "ccu_score": 33.3,
+        "positive_pct": 0.0,
+        "positive_score": 0.0,
+        "wishlist_score": 95.6,
+        "tag_novelty": 46.1
+      },
+      "is_ea": false,
+      "status": "WISHLIST",
+      "priority": "P1",
+      "tags": [
+        "horror",
+        "coop",
+        "extraction",
+        "looter"
+      ],
+      "note": "潜力分基于有限数据(历史<7天),CCU增速暂为0。积累7天后增速生效。"
+    },
+    {
+      "appid": 3978820,
+      "name": "灰境行者",
+      "score": 43.3,
+      "breakdown": {
+        "ccu_growth_pct": 0.0,
+        "ccu_score": 33.3,
+        "positive_pct": 0.0,
+        "positive_score": 0.0,
+        "wishlist_score": 73.2,
+        "tag_novelty": 56.5
+      },
+      "is_ea": false,
+      "status": "WISHLIST",
+      "priority": "P1",
+      "tags": [
+        "pvp",
+        "asymmetric"
+      ],
+      "note": "潜力分基于有限数据(历史<7天),CCU增速暂为0。积累7天后增速生效。"
+    },
+    {
+      "appid": 1181550,
+      "name": "狂欢猎杀",
+      "score": 41.7,
+      "breakdown": {
+        "ccu_growth_pct": 0.0,
+        "ccu_score": 33.3,
+        "positive_pct": 0.0,
+        "positive_score": 0.0,
+        "wishlist_score": 68.1,
+        "tag_novelty": 56.5
+      },
+      "is_ea": false,
+      "status": "WISHLIST",
+      "priority": "P2",
+      "tags": [
+        "pvp",
+        "asymmetric"
+      ],
+      "note": "潜力分基于有限数据(历史<7天),CCU增速暂为0。积累7天后增速生效。"
+    },
+    {
+      "appid": 3219630,
+      "name": "月光光心慌慌",
+      "score": 39.8,
+      "breakdown": {
+        "ccu_growth_pct": 0.0,
+        "ccu_score": 33.3,
+        "positive_pct": 0.0,
+        "positive_score": 0.0,
+        "wishlist_score": 64.4,
+        "tag_novelty": 52.5
+      },
+      "is_ea": false,
+      "status": "WISHLIST",
+      "priority": "P1",
+      "tags": [
+        "pvp",
+        "asymmetric",
+        "horror"
+      ],
+      "note": "潜力分基于有限数据(历史<7天),CCU增速暂为0。积累7天后增速生效。"
+    },
+    {
+      "appid": 3956540,
+      "name": "Radio Decay",
+      "score": 29.2,
+      "breakdown": {
+        "ccu_growth_pct": 0.0,
+        "ccu_score": 33.3,
+        "positive_pct": 0.0,
+        "positive_score": 0.0,
+        "wishlist_score": 31.6,
+        "tag_novelty": 48.7
+      },
+      "is_ea": false,
+      "status": "WISHLIST",
+      "priority": "P2",
+      "tags": [
+        "horror",
+        "coop",
+        "extraction",
+        "survival"
+      ],
+      "note": "潜力分基于有限数据(历史<7天),CCU增速暂为0。积累7天后增速生效。"
+    },
+    {
+      "appid": 4640600,
+      "name": "In Us",
+      "score": 27.3,
+      "breakdown": {
+        "ccu_growth_pct": 0.0,
+        "ccu_score": 33.3,
+        "positive_pct": 0.0,
+        "positive_score": 0.0,
+        "wishlist_score": 27.7,
+        "tag_novelty": 45.0
+      },
+      "is_ea": false,
+      "status": "WISHLIST",
+      "priority": "P2",
+      "tags": [
+        "horror",
+        "coop",
+        "social_deduction"
+      ],
+      "note": "潜力分基于有限数据(历史<7天),CCU增速暂为0。积累7天后增速生效。"
+    },
+    {
+      "appid": 3850670,
+      "name": "Haunted",
+      "score": 25.6,
+      "breakdown": {
+        "ccu_growth_pct": 0.0,
+        "ccu_score": 33.3,
+        "positive_pct": 0.0,
+        "positive_score": 0.0,
+        "wishlist_score": 22.3,
+        "tag_novelty": 44.3
+      },
+      "is_ea": false,
+      "status": "WISHLIST",
+      "priority": "P2",
+      "tags": [
+        "horror",
+        "coop",
+        "ghost_hunt"
+      ],
+      "note": "潜力分基于有限数据(历史<7天),CCU增速暂为0。积累7天后增速生效。"
+    },
+    {
+      "appid": 4704690,
+      "name": "超级变色龙",
+      "score": 22.9,
+      "breakdown": {
+        "ccu_growth_pct": 0.0,
+        "ccu_score": 33.3,
+        "positive_pct": 0.0,
+        "positive_score": 0.0,
+        "wishlist_score": 0.0,
+        "tag_novelty": 64.7
+      },
+      "is_ea": false,
+      "status": "已发售",
+      "priority": "P0",
+      "tags": [
+        "party",
+        "pvp",
+        "social_deduction",
+        "hide_and_seek"
+      ],
+      "note": "潜力分基于有限数据(历史<7天),CCU增速暂为0。积累7天后增速生效。"
+    },
+    {
+      "appid": 594650,
+      "name": "猎杀：对决",
+      "score": 22.2,
+      "breakdown": {
+        "ccu_growth_pct": 0.0,
+        "ccu_score": 33.3,
+        "positive_pct": 0.0,
+        "positive_score": 0.0,
+        "wishlist_score": 0.0,
+        "tag_novelty": 60.8
+      },
+      "is_ea": false,
+      "status": "已发售",
+      "priority": "P1",
+      "tags": [
+        "pvp",
+        "survival",
+        "asymmetric"
+      ],
+      "note": "潜力分基于有限数据(历史<7天),CCU增速暂为0。积累7天后增速生效。"
+    },
+    {
+      "appid": 945360,
+      "name": "Among Us",
+      "score": 22.0,
+      "breakdown": {
+        "ccu_growth_pct": 0.0,
+        "ccu_score": 33.3,
+        "positive_pct": 0.0,
+        "positive_score": 0.0,
+        "wishlist_score": 0.0,
+        "tag_novelty": 60.1
+      },
+      "is_ea": false,
+      "status": "已发售",
+      "priority": "P1",
+      "tags": [
+        "party",
+        "social_deduction",
+        "pvp"
+      ],
+      "note": "潜力分基于有限数据(历史<7天),CCU增速暂为0。积累7天后增速生效。"
+    },
+    {
+      "appid": 4314340,
+      "name": "The Reflection",
+      "score": 21.9,
+      "breakdown": {
+        "ccu_growth_pct": 0.0,
+        "ccu_score": 33.3,
+        "positive_pct": 0.0,
+        "positive_score": 0.0,
+        "wishlist_score": 10.0,
+        "tag_novelty": 44.3
+      },
+      "is_ea": false,
+      "status": "WISHLIST",
+      "priority": "P2",
+      "tags": [
+        "horror",
+        "coop",
+        "ghost_hunt"
+      ],
+      "note": "潜力分基于有限数据(历史<7天),CCU增速暂为0。积累7天后增速生效。"
+    },
+    {
+      "appid": 4000,
+      "name": "盖瑞模组",
+      "score": 21.9,
+      "breakdown": {
+        "ccu_growth_pct": 0.0,
+        "ccu_score": 33.3,
+        "positive_pct": 0.0,
+        "positive_score": 0.0,
+        "wishlist_score": 0.0,
+        "tag_novelty": 59.4
+      },
+      "is_ea": false,
+      "status": "已发售",
+      "priority": "P2",
+      "tags": [
+        "party",
+        "pvp",
+        "physics"
+      ],
+      "note": "潜力分基于有限数据(历史<7天),CCU增速暂为0。积累7天后增速生效。"
+    },
+    {
+      "appid": 1782210,
+      "name": "螃蟹游戏",
+      "score": 20.9,
+      "breakdown": {
+        "ccu_growth_pct": 0.0,
+        "ccu_score": 33.3,
+        "positive_pct": 0.0,
+        "positive_score": 0.0,
+        "wishlist_score": 0.0,
+        "tag_novelty": 54.5
+      },
+      "is_ea": false,
+      "status": "已发售",
+      "priority": "P2",
+      "tags": [
+        "party",
+        "pvp"
+      ],
+      "note": "潜力分基于有限数据(历史<7天),CCU增速暂为0。积累7天后增速生效。"
+    },
+    {
+      "appid": 1203220,
+      "name": "永劫无间",
+      "score": 20.5,
+      "breakdown": {
+        "ccu_growth_pct": 0.0,
+        "ccu_score": 33.3,
+        "positive_pct": 0.0,
+        "positive_score": 0.0,
+        "wishlist_score": 0.0,
+        "tag_novelty": 52.4
+      },
+      "is_ea": false,
+      "status": "已发售",
+      "priority": "P1",
+      "tags": [
+        "pvp",
+        "looter"
+      ],
+      "note": "潜力分基于有限数据(历史<7天),CCU增速暂为0。积累7天后增速生效。"
+    },
+    {
+      "appid": 3124540,
+      "name": "遥遥西土",
+      "score": 20.5,
+      "breakdown": {
+        "ccu_growth_pct": 0.0,
+        "ccu_score": 33.3,
+        "positive_pct": 0.0,
+        "positive_score": 0.0,
+        "wishlist_score": 0.0,
+        "tag_novelty": 52.3
+      },
+      "is_ea": false,
+      "status": "已发售",
+      "priority": "P1",
+      "tags": [
+        "coop",
+        "extraction",
+        "looter",
+        "roguelike"
+      ],
+      "note": "潜力分基于有限数据(历史<7天),CCU增速暂为0。积累7天后增速生效。"
+    },
+    {
+      "appid": 381210,
+      "name": "黎明杀机",
+      "score": 20.5,
+      "breakdown": {
+        "ccu_growth_pct": 0.0,
+        "ccu_score": 33.3,
+        "positive_pct": 0.0,
+        "positive_score": 0.0,
+        "wishlist_score": 0.0,
+        "tag_novelty": 52.5
+      },
+      "is_ea": false,
+      "status": "已发售",
+      "priority": "P0",
+      "tags": [
+        "horror",
+        "pvp",
+        "asymmetric"
+      ],
+      "note": "潜力分基于有限数据(历史<7天),CCU增速暂为0。积累7天后增速生效。"
+    },
+    {
+      "appid": 3241660,
+      "name": "R.E.P.O.",
+      "score": 20.1,
+      "breakdown": {
+        "ccu_growth_pct": 0.0,
+        "ccu_score": 33.3,
+        "positive_pct": 0.0,
+        "positive_score": 0.0,
+        "wishlist_score": 0.0,
+        "tag_novelty": 50.5
+      },
+      "is_ea": true,
+      "status": "EA",
+      "priority": "P0",
+      "tags": [
+        "horror",
+        "coop",
+        "physics",
+        "extraction",
+        "looter"
+      ],
+      "note": "潜力分基于有限数据(历史<7天),CCU增速暂为0。积累7天后增速生效。"
+    },
+    {
+      "appid": 3844970,
+      "name": "地精捣蛋团",
+      "score": 20.1,
+      "breakdown": {
+        "ccu_growth_pct": 0.0,
+        "ccu_score": 33.3,
+        "positive_pct": 0.0,
+        "positive_score": 0.0,
+        "wishlist_score": 0.0,
+        "tag_novelty": 50.5
+      },
+      "is_ea": false,
+      "status": "已发售",
+      "priority": "P1",
+      "tags": [
+        "coop",
+        "party",
+        "physics"
+      ],
+      "note": "潜力分基于有限数据(历史<7天),CCU增速暂为0。积累7天后增速生效。"
+    },
+    {
+      "appid": 3989960,
+      "name": "青蛙小队",
+      "score": 20.1,
+      "breakdown": {
+        "ccu_growth_pct": 0.0,
+        "ccu_score": 33.3,
+        "positive_pct": 0.0,
+        "positive_score": 0.0,
+        "wishlist_score": 0.0,
+        "tag_novelty": 50.5
+      },
+      "is_ea": false,
+      "status": "已发售",
+      "priority": "P2",
+      "tags": [
+        "coop",
+        "party",
+        "physics"
+      ],
+      "note": "潜力分基于有限数据(历史<7天),CCU增速暂为0。积累7天后增速生效。"
+    },
+    {
+      "appid": 0,
+      "name": "超自然行动组",
+      "score": 19.2,
+      "breakdown": {
+        "ccu_growth_pct": 0.0,
+        "ccu_score": 33.3,
+        "positive_pct": 0.0,
+        "positive_score": 0.0,
+        "wishlist_score": 0.0,
+        "tag_novelty": 46.1
+      },
+      "is_ea": false,
+      "status": "在研",
+      "priority": "P0",
+      "tags": [
+        "horror",
+        "coop",
+        "extraction",
+        "looter"
+      ],
+      "note": "潜力分基于有限数据(历史<7天),CCU增速暂为0。积累7天后增速生效。"
+    },
+    {
+      "appid": 1966720,
+      "name": "致命公司",
+      "score": 19.2,
+      "breakdown": {
+        "ccu_growth_pct": 0.0,
+        "ccu_score": 33.3,
+        "positive_pct": 0.0,
+        "positive_score": 0.0,
+        "wishlist_score": 0.0,
+        "tag_novelty": 46.1
+      },
+      "is_ea": true,
+      "status": "EA",
+      "priority": "P0",
+      "tags": [
+        "horror",
+        "coop",
+        "extraction",
+        "looter"
+      ],
+      "note": "潜力分基于有限数据(历史<7天),CCU增速暂为0。积累7天后增速生效。"
+    },
+    {
+      "appid": 4408510,
+      "name": "饲养者",
+      "score": 19.2,
+      "breakdown": {
+        "ccu_growth_pct": 0.0,
+        "ccu_score": 33.3,
+        "positive_pct": 0.0,
+        "positive_score": 0.0,
+        "wishlist_score": 0.0,
+        "tag_novelty": 46.1
+      },
+      "is_ea": true,
+      "status": "EA",
+      "priority": "P1",
+      "tags": [
+        "horror",
+        "coop",
+        "extraction",
+        "looter"
+      ],
+      "note": "潜力分基于有限数据(历史<7天),CCU增速暂为0。积累7天后增速生效。"
+    },
+    {
+      "appid": 548430,
+      "name": "深岩银河",
+      "score": 19.1,
+      "breakdown": {
+        "ccu_growth_pct": 0.0,
+        "ccu_score": 33.3,
+        "positive_pct": 0.0,
+        "positive_score": 0.0,
+        "wishlist_score": 0.0,
+        "tag_novelty": 45.7
+      },
+      "is_ea": false,
+      "status": "已发售",
+      "priority": "P0",
+      "tags": [
+        "coop",
+        "extraction",
+        "looter"
+      ],
+      "note": "潜力分基于有限数据(历史<7天),CCU增速暂为0。积累7天后增速生效。"
+    },
+    {
+      "appid": 739630,
+      "name": "恐鬼症",
+      "score": 18.9,
+      "breakdown": {
+        "ccu_growth_pct": 0.0,
+        "ccu_score": 33.3,
+        "positive_pct": 0.0,
+        "positive_score": 0.0,
+        "wishlist_score": 0.0,
+        "tag_novelty": 44.3
+      },
+      "is_ea": true,
+      "status": "EA",
+      "priority": "P0",
+      "tags": [
+        "horror",
+        "coop",
+        "ghost_hunt"
+      ],
+      "note": "潜力分基于有限数据(历史<7天),CCU增速暂为0。积累7天后增速生效。"
+    },
+    {
+      "appid": 1929610,
+      "name": "驱魔人",
+      "score": 18.9,
+      "breakdown": {
+        "ccu_growth_pct": 0.0,
+        "ccu_score": 33.3,
+        "positive_pct": 0.0,
+        "positive_score": 0.0,
+        "wishlist_score": 0.0,
+        "tag_novelty": 44.3
+      },
+      "is_ea": true,
+      "status": "EA",
+      "priority": "P2",
+      "tags": [
+        "horror",
+        "coop",
+        "ghost_hunt"
+      ],
+      "note": "潜力分基于有限数据(历史<7天),CCU增速暂为0。积累7天后增速生效。"
+    },
+    {
+      "appid": 553850,
+      "name": "绝地潜兵2",
+      "score": 18.9,
+      "breakdown": {
+        "ccu_growth_pct": 0.0,
+        "ccu_score": 33.3,
+        "positive_pct": 0.0,
+        "positive_score": 0.0,
+        "wishlist_score": 0.0,
+        "tag_novelty": 44.3
+      },
+      "is_ea": false,
+      "status": "已发售",
+      "priority": "P0",
+      "tags": [
+        "coop",
+        "pvp",
+        "looter"
+      ],
+      "note": "潜力分基于有限数据(历史<7天),CCU增速暂为0。积累7天后增速生效。"
+    },
+    {
+      "appid": 1326470,
+      "name": "森林之子",
+      "score": 18.9,
+      "breakdown": {
+        "ccu_growth_pct": 0.0,
+        "ccu_score": 33.3,
+        "positive_pct": 0.0,
+        "positive_score": 0.0,
+        "wishlist_score": 0.0,
+        "tag_novelty": 44.3
+      },
+      "is_ea": false,
+      "status": "已发售",
+      "priority": "P1",
+      "tags": [
+        "horror",
+        "coop",
+        "survival"
+      ],
+      "note": "潜力分基于有限数据(历史<7天),CCU增速暂为0。积累7天后增速生效。"
+    },
+    {
+      "appid": 3527290,
+      "name": "巅峰梦序",
+      "score": 18.8,
+      "breakdown": {
+        "ccu_growth_pct": 0.0,
+        "ccu_score": 33.3,
+        "positive_pct": 0.0,
+        "positive_score": 0.0,
+        "wishlist_score": 0.0,
+        "tag_novelty": 44.2
+      },
+      "is_ea": false,
+      "status": "已发售",
+      "priority": "P1",
+      "tags": [
+        "coop",
+        "survival"
+      ],
+      "note": "潜力分基于有限数据(历史<7天),CCU增速暂为0。积累7天后增速生效。"
+    },
+    {
+      "appid": 2445690,
+      "name": "失落城堡2",
+      "score": 18.8,
+      "breakdown": {
+        "ccu_growth_pct": 0.0,
+        "ccu_score": 33.3,
+        "positive_pct": 0.0,
+        "positive_score": 0.0,
+        "wishlist_score": 0.0,
+        "tag_novelty": 44.2
+      },
+      "is_ea": false,
+      "status": "已发售",
+      "priority": "P1",
+      "tags": [
+        "coop",
+        "roguelike"
+      ],
+      "note": "潜力分基于有限数据(历史<7天),CCU增速暂为0。积累7天后增速生效。"
+    },
+    {
+      "appid": 632360,
+      "name": "雨中冒险2",
+      "score": 18.8,
+      "breakdown": {
+        "ccu_growth_pct": 0.0,
+        "ccu_score": 33.3,
+        "positive_pct": 0.0,
+        "positive_score": 0.0,
+        "wishlist_score": 0.0,
+        "tag_novelty": 44.2
+      },
+      "is_ea": false,
+      "status": "已发售",
+      "priority": "P1",
+      "tags": [
+        "coop",
+        "roguelike"
+      ],
+      "note": "潜力分基于有限数据(历史<7天),CCU增速暂为0。积累7天后增速生效。"
+    },
+    {
+      "appid": 1911610,
+      "name": "风中行者",
+      "score": 18.8,
+      "breakdown": {
+        "ccu_growth_pct": 0.0,
+        "ccu_score": 33.3,
+        "positive_pct": 0.0,
+        "positive_score": 0.0,
+        "wishlist_score": 0.0,
+        "tag_novelty": 44.2
+      },
+      "is_ea": false,
+      "status": "已发售",
+      "priority": "P1",
+      "tags": [
+        "coop",
+        "roguelike"
+      ],
+      "note": "潜力分基于有限数据(历史<7天),CCU增速暂为0。积累7天后增速生效。"
+    },
+    {
+      "appid": 2881650,
+      "name": "内容警告",
+      "score": 18.2,
+      "breakdown": {
+        "ccu_growth_pct": 0.0,
+        "ccu_score": 33.3,
+        "positive_pct": 0.0,
+        "positive_score": 0.0,
+        "wishlist_score": 0.0,
+        "tag_novelty": 40.9
+      },
+      "is_ea": false,
+      "status": "已发售",
+      "priority": "P1",
+      "tags": [
+        "horror",
+        "coop",
+        "extraction"
+      ],
+      "note": "潜力分基于有限数据(历史<7天),CCU增速暂为0。积累7天后增速生效。"
+    },
+    {
+      "appid": 2211170,
+      "name": "一起开火车2",
+      "score": 18.2,
+      "breakdown": {
+        "ccu_growth_pct": 0.0,
+        "ccu_score": 33.3,
+        "positive_pct": 0.0,
+        "positive_score": 0.0,
+        "wishlist_score": 0.0,
+        "tag_novelty": 41.1
+      },
+      "is_ea": false,
+      "status": "已发售",
+      "priority": "P1",
+      "tags": [
+        "coop",
+        "party"
+      ],
+      "note": "潜力分基于有限数据(历史<7天),CCU增速暂为0。积累7天后增速生效。"
+    },
+    {
+      "appid": 1304930,
+      "name": "逃生：试炼",
+      "score": 16.4,
+      "breakdown": {
+        "ccu_growth_pct": 0.0,
+        "ccu_score": 33.3,
+        "positive_pct": 0.0,
+        "positive_score": 0.0,
+        "wishlist_score": 0.0,
+        "tag_novelty": 31.8
+      },
+      "is_ea": false,
+      "status": "已发售",
+      "priority": "P1",
+      "tags": [
+        "horror",
+        "coop"
+      ],
+      "note": "潜力分基于有限数据(历史<7天),CCU增速暂为0。积累7天后增速生效。"
+    }
+  ]
+}

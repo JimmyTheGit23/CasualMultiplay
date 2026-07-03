@@ -426,6 +426,41 @@
         .src-A { background: #E6F1FB; color: #0C447C; }
         .src-B { background: #F1EFE8; color: #5F5E5A; }
 
+        .insight-main-tab {
+            cursor: pointer;
+            border-bottom: 2px solid transparent;
+            transition: border-color 0.15s;
+        }
+        .insight-main-tab.tab-active {
+            border-bottom-color: #991B1B;
+            color: #0F172A;
+        }
+        .insight-subtab {
+            font-size: 11px;
+            padding: 4px 12px;
+            border-radius: 12px;
+            border: 0.5px solid var(--card-border, #E2E8F0);
+            background: transparent;
+            color: var(--text-muted, #64748B);
+            cursor: pointer;
+            user-select: none;
+            display: inline-block;
+        }
+        .insight-subtab.active {
+            background: #991B1B;
+            color: #FFFFFF;
+            border-color: #991B1B;
+        }
+        .insight-badge {
+            font-size: 9px;
+            padding: 2px 6px;
+            border-radius: 4px;
+            background: #FEF3C7;
+            color: #92400E;
+            white-space: nowrap;
+            align-self: flex-start;
+        }
+
         .discover-toolbar {
             display: flex;
             align-items: center;
@@ -743,6 +778,10 @@
             <button class="sidebar-nav-item" data-nav="gamedetail" onclick="navTo('gamedetail')">
                 <span class="nav-icon" style="color:var(--accent);">◆</span>
                 <span data-i18n="tab_gamedetail">游戏详情</span>
+            </button>
+            <button class="sidebar-nav-item" data-nav="insights" onclick="navTo('insights')">
+                <span class="nav-icon">◈</span>
+                <span>洞察</span>
             </button>
             <button class="sidebar-nav-item" data-nav="competitors" onclick="navTo('competitors')">
                 <span class="nav-icon">◈</span>
@@ -1336,6 +1375,24 @@
         <!-- ========== Dead by Daylight 页 ========== -->
         <section id="section-dbd" class="game-subpanel hidden" data-game="dbd">
             <div id="dbd-content" style="color:var(--text-muted);">加载中...</div>
+        </section>
+
+        <!-- ========== 洞察页 ========== -->
+        <section id="section-insights" class="content-section fade-in" data-section="insights">
+            <div class="mb-4">
+                <h2 class="text-xl font-bold mb-1">洞察</h2>
+                <p class="text-xs" style="color:var(--text-muted);">团队潜力 · 玩法雷达 · 趋势前瞻</p>
+            </div>
+            <!-- 大标签切换 -->
+            <div class="insight-main-tabs flex gap-1 mb-4 border-b" style="border-color:var(--card-border);">
+                <button class="insight-main-tab tab-active pb-2 px-4 text-xs font-medium" data-itab="team" onclick="switchInsightTab('team')">团队潜力</button>
+                <button class="insight-main-tab pb-2 px-4 text-xs font-medium" style="color:var(--text-muted);" data-itab="gameplay" onclick="switchInsightTab('gameplay')">玩法雷达</button>
+                <button class="insight-main-tab pb-2 px-4 text-xs font-medium" style="color:var(--text-muted);" data-itab="trend" onclick="switchInsightTab('trend')">趋势前瞻</button>
+            </div>
+            <!-- 子标签容器 -->
+            <div id="insight-subtabs"></div>
+            <!-- 内容区 -->
+            <div id="insight-content" class="mt-4"></div>
         </section>
 
         <!-- ========== 竞品对比页 ========== -->
@@ -3262,9 +3319,14 @@ If you want to know what happened next, let’s listen to the explanation next t
         let steamNewsData = {};
         let gameRegistry = null;
         let steamRichData = {};
+        let ccuHistoryData = {};
+        let developersData = {};
+        let potentialScores = [];
         let currentSelectedGame = null;
         let activeTagFilter = 'all';
         let currentLbDim = 'ccu';
+        let currentInsightMainTab = 'team';
+        let currentInsightSubTab = 'first_game';
 
         let DBD_DATA = {
             "snapshot_date": "2026-06-29T09:57:10+08:00",
@@ -3644,9 +3706,35 @@ If you want to know what happened next, let’s listen to the explanation next t
                 console.warn('富数据加载失败:', e);
             }
 
+            // 加载 CCU 历史
+            try {
+                const histResp = await fetch('./data/ccu_history.json' + suffix);
+                ccuHistoryData = await histResp.json();
+            } catch(e) {
+                console.warn('CCU历史加载失败:', e);
+            }
+
+            // 加载开发者数据
+            try {
+                const devResp = await fetch('./data/developers.json' + suffix);
+                developersData = await devResp.json();
+            } catch(e) {
+                console.warn('开发者数据加载失败:', e);
+            }
+
+            // 加载潜力分
+            try {
+                const potResp = await fetch('./data/potential_scores.json' + suffix);
+                const potData = await potResp.json();
+                potentialScores = potData.scores || [];
+            } catch(e) {
+                console.warn('潜力分加载失败:', e);
+            }
+
             renderAll();
             initGameDetailPage();
             renderLeaderboard();
+            renderInsights();
         }
 
         function toggleTombBusters() {
@@ -4288,6 +4376,346 @@ If you want to know what happened next, let’s listen to the explanation next t
             const key = el.dataset.gameKey;
             navTo('gamedetail');
             setTimeout(() => selectGame(key), 100);
+        }
+
+        // ========== 洞察页 ==========
+        const INSIGHT_TABS = {
+            team: [
+                { id: 'first_game', label: '首作即爆款' },
+                { id: 'ea_breakout', label: 'EA 突围榜' },
+                { id: 'small_team_big_hit', label: '小团队大爆款' },
+                { id: 'dev_profile', label: '开发者档案' }
+            ],
+            gameplay: [
+                { id: 'fusion', label: '融合玩法榜' },
+                { id: 'emerging', label: '新兴组合' },
+                { id: 'tag_growth', label: '品类增速' },
+                { id: 'cooccurrence', label: '标签共现' }
+            ],
+            trend: [
+                { id: 'upcoming', label: '未发售潜力榜' },
+                { id: 'timeline', label: '6个月赛道图' },
+                { id: 'big_publisher', label: '大厂布局' },
+                { id: 'potential_score', label: '潜力分榜' }
+            ]
+        };
+
+        function switchInsightTab(mainTab) {
+            currentInsightMainTab = mainTab;
+            currentInsightSubTab = INSIGHT_TABS[mainTab][0].id;
+            // 更新大标签样式
+            document.querySelectorAll('.insight-main-tab').forEach(el => {
+                const active = el.dataset.itab === mainTab;
+                el.classList.toggle('tab-active', active);
+                el.style.color = active ? '' : 'var(--text-muted)';
+            });
+            renderInsightSubTabs();
+            renderInsightContent();
+        }
+
+        function switchInsightSubTab(subTab) {
+            currentInsightSubTab = subTab;
+            document.querySelectorAll('.insight-subtab').forEach(el => {
+                el.classList.toggle('active', el.dataset.subtab === subTab);
+            });
+            renderInsightContent();
+        }
+
+        function renderInsights() {
+            renderInsightSubTabs();
+            renderInsightContent();
+        }
+
+        function renderInsightSubTabs() {
+            const wrap = document.getElementById('insight-subtabs');
+            if (!wrap) return;
+            const tabs = INSIGHT_TABS[currentInsightMainTab] || [];
+            wrap.innerHTML = `<div class="flex gap-1 mb-4 flex-wrap">${tabs.map(t =>
+                `<span class="insight-subtab ${t.id === currentInsightSubTab ? 'active' : ''}" data-subtab="${t.id}" onclick="switchInsightSubTab('${t.id}')">${t.label}</span>`
+            ).join('')}</div>`;
+        }
+
+        function renderInsightContent() {
+            const wrap = document.getElementById('insight-content');
+            if (!wrap) return;
+            const fn = 'renderInsight_' + currentInsightSubTab;
+            if (typeof window[fn] === 'function') {
+                try { window[fn](wrap); } catch(e) { wrap.innerHTML = '<p style="color:red;font-size:12px;">渲染失败: ' + e.message + '</p>'; }
+            } else {
+                wrap.innerHTML = '<p style="color:var(--text-muted);font-size:12px;">待实现</p>';
+            }
+        }
+
+        // --- 团队潜力 ---
+        function renderInsight_first_game(wrap) {
+            if (!developersData.developers) { wrap.innerHTML = '<p class="text-xs" style="color:var(--text-muted);">开发者数据加载中...</p>'; return; }
+            const firstDevs = Object.entries(developersData.developers)
+                .filter(([k,v]) => v.is_first_game)
+                .map(([k,v]) => v)
+                .filter(v => v.apps && v.apps.length > 0);
+            // 按当前 CCU 排序
+            firstDevs.sort((a,b) => {
+                const ca = getGameCCUByAppid(parseInt(a.apps[0].appid)) || 0;
+                const cb = getGameCCUByAppid(parseInt(b.apps[0].appid)) || 0;
+                return cb - ca;
+            });
+            wrap.innerHTML = `<p class="text-xs mb-3" style="color:var(--text-muted);">开发者历史作品数 = 1，按当前 CCU 排序。共 ${firstDevs.length} 位首作开发者。</p>` +
+                firstDevs.map(d => {
+                    const app = d.apps[0];
+                    const ccu = getGameCCUByAppid(parseInt(app.appid)) || 0;
+                    const rich = steamRichData[parseInt(app.appid)];
+                    const cover = rich && rich.header_image ? `<img class="gc-cover" src="${rich.header_image}" loading="lazy" referrerpolicy="no-referrer" style="height:80px;width:142px;">` : `<div class="gc-cover-placeholder" style="height:80px;width:142px;">${(app.name||'?').charAt(0)}</div>`;
+                    return `<div class="insight-row" onclick="navTo('gamedetail');setTimeout(()=>selectGameByKey(document.querySelector('[data-game-key=\\\'${app.appid}\\\']')||document.createElement('div')),100)" style="display:flex;gap:12px;padding:10px;border:0.5px solid var(--card-border);border-radius:8px;margin-bottom:8px;cursor:pointer;">
+                        ${cover}
+                        <div style="flex:1;">
+                            <div style="font-size:13px;font-weight:500;">${app.name}</div>
+                            <div style="font-size:11px;color:var(--text-muted);">开发者: ${d.name} · 发售: ${app.release_date}</div>
+                            <div style="font-size:11px;margin-top:4px;">CCU: <b style="color:#991B1B;">${ccu > 0 ? ccu.toLocaleString() : '-'}</b></div>
+                        </div>
+                        <span class="insight-badge">首作</span>
+                    </div>`;
+                }).join('');
+        }
+
+        function renderInsight_ea_breakout(wrap) {
+            if (!gameRegistry || !gameRegistry.games) { wrap.innerHTML = '<p class="text-xs" style="color:var(--text-muted);">加载中...</p>'; return; }
+            const eaGames = gameRegistry.games.filter(g => g.status === 'EA');
+            eaGames.sort((a,b) => getGameCCU(b) - getGameCCU(a));
+            wrap.innerHTML = `<p class="text-xs mb-3" style="color:var(--text-muted);">EA 状态游戏按当前 CCU 排序。历史快照积累 7 天后可算增速。</p>` +
+                eaGames.map(g => {
+                    const ccu = getGameCCU(g);
+                    const hist = ccuHistoryData?.data?.[String(g.appid)] || [];
+                    return `<div class="insight-row" style="display:flex;gap:12px;padding:10px;border:0.5px solid var(--card-border);border-radius:8px;margin-bottom:8px;">
+                        <div style="flex:1;">
+                            <div style="font-size:13px;font-weight:500;">${g.cn_name || g.name}</div>
+                            <div style="font-size:11px;color:var(--text-muted);">${g.dev} · ${g.release}</div>
+                        </div>
+                        <div style="text-align:right;">
+                            <div style="font-size:16px;font-weight:500;">${ccu > 0 ? ccu.toLocaleString() : '-'}</div>
+                            <div style="font-size:10px;color:var(--text-muted);">CCU · ${hist.length}天历史</div>
+                        </div>
+                        <span class="insight-badge">EA</span>
+                    </div>`;
+                }).join('');
+        }
+
+        function renderInsight_small_team_big_hit(wrap) {
+            if (!developersData.developers || !gameRegistry) { wrap.innerHTML = '<p class="text-xs" style="color:var(--text-muted);">加载中...</p>'; return; }
+            // CCU / 开发者作品数
+            const rows = [];
+            for (const g of gameRegistry.games) {
+                const dev = g.dev || '';
+                const devInfo = developersData.developers[dev];
+                const devAppCount = devInfo ? devInfo.total_apps_on_steam : 1;
+                const ccu = getGameCCU(g);
+                if (ccu === 0) continue;
+                const ratio = ccu / Math.max(1, devAppCount);
+                rows.push({ game: g, dev, devAppCount, ccu, ratio });
+            }
+            rows.sort((a,b) => b.ratio - a.ratio);
+            wrap.innerHTML = `<p class="text-xs mb-3" style="color:var(--text-muted);">CCU ÷ 开发者作品数。比值越高越值得看。</p>` +
+                rows.slice(0, 15).map(r => `<div class="insight-row" style="display:flex;gap:12px;padding:10px;border:0.5px solid var(--card-border);border-radius:8px;margin-bottom:8px;">
+                    <div style="flex:1;">
+                        <div style="font-size:13px;font-weight:500;">${r.game.cn_name || r.game.name}</div>
+                        <div style="font-size:11px;color:var(--text-muted);">${r.dev} · ${r.devAppCount} 作品</div>
+                    </div>
+                    <div style="text-align:right;">
+                        <div style="font-size:16px;font-weight:500;color:#991B1B;">${r.ratio.toFixed(0)}</div>
+                        <div style="font-size:10px;color:var(--text-muted);">CCU/作品数</div>
+                    </div>
+                </div>`).join('');
+        }
+
+        function renderInsight_dev_profile(wrap) {
+            if (!developersData.developers) { wrap.innerHTML = '<p class="text-xs" style="color:var(--text-muted);">加载中...</p>'; return; }
+            const devs = Object.entries(developersData.developers)
+                .map(([k,v]) => v)
+                .filter(v => v.total_apps_on_steam > 0)
+                .sort((a,b) => b.total_apps_on_steam - a.total_apps_on_steam);
+            wrap.innerHTML = `<p class="text-xs mb-3" style="color:var(--text-muted);">开发者按 Steam 作品数排序。共 ${devs.length} 位。</p>` +
+                devs.slice(0, 20).map(d => `<div class="insight-row" style="display:flex;gap:12px;padding:10px;border:0.5px solid var(--card-border);border-radius:8px;margin-bottom:8px;">
+                    <div style="flex:1;">
+                        <div style="font-size:13px;font-weight:500;">${d.name}</div>
+                        <div style="font-size:11px;color:var(--text-muted);">${d.sampled_apps} 已采样 · 首作: ${d.is_first_game ? '是' : '否'}</div>
+                    </div>
+                    <div style="text-align:right;">
+                        <div style="font-size:16px;font-weight:500;">${d.total_apps_on_steam}</div>
+                        <div style="font-size:10px;color:var(--text-muted);">Steam 作品</div>
+                    </div>
+                </div>`).join('');
+        }
+
+        // --- 玩法雷达 ---
+        function renderInsight_fusion(wrap) {
+            if (!gameRegistry || !gameRegistry.games) { wrap.innerHTML = '<p class="text-xs" style="color:var(--text-muted);">加载中...</p>'; return; }
+            const fusion = gameRegistry.games.filter(g => (g.tags || []).length >= 3);
+            fusion.sort((a,b) => getGameCCU(b) - getGameCCU(a));
+            wrap.innerHTML = `<p class="text-xs mb-3" style="color:var(--text-muted);">3 个以上标签的游戏，按 CCU 排序。识别跨品类融合方向。</p>` +
+                fusion.slice(0, 20).map(g => {
+                    const ccu = getGameCCU(g);
+                    const tags = (g.tags || []).map(t => { const td = gameRegistry.tag_definitions[t]; return td ? `<span class="gc-tag">${td.zh}</span>` : ''; }).join('');
+                    return `<div class="insight-row" style="display:flex;gap:12px;padding:10px;border:0.5px solid var(--card-border);border-radius:8px;margin-bottom:8px;">
+                        <div style="flex:1;">
+                            <div style="font-size:13px;font-weight:500;">${g.cn_name || g.name}</div>
+                            <div style="font-size:11px;color:var(--text-muted);">${g.dev}</div>
+                            <div class="gc-tags" style="margin-top:4px;">${tags}</div>
+                        </div>
+                        <div style="text-align:right;">
+                            <div style="font-size:16px;font-weight:500;">${ccu > 0 ? ccu.toLocaleString() : '-'}</div>
+                            <div style="font-size:10px;color:var(--text-muted);">${(g.tags||[]).length} 标签</div>
+                        </div>
+                    </div>`;
+                }).join('');
+        }
+
+        function renderInsight_emerging(wrap) {
+            if (!gameRegistry || !gameRegistry.games) { wrap.innerHTML = '<p class="text-xs" style="color:var(--text-muted);">加载中...</p>'; return; }
+            // 找近 12 个月发售的游戏，统计标签组合
+            const recent = gameRegistry.games.filter(g => {
+                const r = g.release || '';
+                return r.includes('2025') || r.includes('2026') || r === 'TBA';
+            });
+            wrap.innerHTML = `<p class="text-xs mb-3" style="color:var(--text-muted);">2025-2026 发售游戏的标签组合。共 ${recent.length} 款。</p>` +
+                recent.slice(0, 20).map(g => {
+                    const tags = (g.tags || []).map(t => { const td = gameRegistry.tag_definitions[t]; return td ? `<span class="gc-tag">${td.zh}</span>` : ''; }).join('');
+                    return `<div class="insight-row" style="display:flex;gap:12px;padding:10px;border:0.5px solid var(--card-border);border-radius:8px;margin-bottom:8px;">
+                        <div style="flex:1;">
+                            <div style="font-size:13px;font-weight:500;">${g.cn_name || g.name}</div>
+                            <div style="font-size:11px;color:var(--text-muted);">${g.dev} · ${g.release} · ${g.status}</div>
+                            <div class="gc-tags" style="margin-top:4px;">${tags}</div>
+                        </div>
+                    </div>`;
+                }).join('');
+        }
+
+        function renderInsight_tag_growth(wrap) {
+            if (!gameRegistry || !gameRegistry.games) { wrap.innerHTML = '<p class="text-xs" style="color:var(--text-muted);">加载中...</p>'; return; }
+            const tagStats = {};
+            for (const g of gameRegistry.games) {
+                for (const t of (g.tags || [])) {
+                    if (!tagStats[t]) tagStats[t] = { count: 0, ccu: 0 };
+                    tagStats[t].count++;
+                    tagStats[t].ccu += getGameCCU(g);
+                }
+            }
+            const sorted = Object.entries(tagStats).sort((a,b) => b[1].ccu - a[1].ccu);
+            wrap.innerHTML = `<p class="text-xs mb-3" style="color:var(--text-muted);">每个标签的总 CCU 和游戏数。看哪个品类在抬头。</p>` +
+                sorted.map(([tag, stats]) => {
+                    const td = gameRegistry.tag_definitions[tag];
+                    const zh = td ? td.zh : tag;
+                    return `<div class="insight-row" style="display:flex;gap:12px;padding:10px;border:0.5px solid var(--card-border);border-radius:8px;margin-bottom:8px;">
+                        <div style="flex:1;">
+                            <div style="font-size:13px;font-weight:500;">${zh}</div>
+                            <div style="font-size:11px;color:var(--text-muted);">${stats.count} 款游戏</div>
+                        </div>
+                        <div style="text-align:right;">
+                            <div style="font-size:16px;font-weight:500;">${stats.ccu.toLocaleString()}</div>
+                            <div style="font-size:10px;color:var(--text-muted);">总 CCU</div>
+                        </div>
+                    </div>`;
+                }).join('');
+        }
+
+        function renderInsight_cooccurrence(wrap) {
+            if (!gameRegistry || !gameRegistry.games) { wrap.innerHTML = '<p class="text-xs" style="color:var(--text-muted);">加载中...</p>'; return; }
+            const pairs = {};
+            for (const g of gameRegistry.games) {
+                const tags = g.tags || [];
+                for (let i = 0; i < tags.length; i++) {
+                    for (let j = i+1; j < tags.length; j++) {
+                        const key = [tags[i], tags[j]].sort().join(' + ');
+                        pairs[key] = (pairs[key] || 0) + 1;
+                    }
+                }
+            }
+            const sorted = Object.entries(pairs).filter(([k,v]) => v >= 2).sort((a,b) => b[1] - a[1]);
+            wrap.innerHTML = `<p class="text-xs mb-3" style="color:var(--text-muted);">标签两两共现次数。出现 2 次以上的组合。</p>` +
+                sorted.map(([pair, count]) => {
+                    const [a, b] = pair.split(' + ');
+                    const tdA = gameRegistry.tag_definitions[a];
+                    const tdB = gameRegistry.tag_definitions[b];
+                    return `<div class="insight-row" style="display:flex;gap:12px;padding:8px 10px;border:0.5px solid var(--card-border);border-radius:8px;margin-bottom:6px;">
+                        <div style="flex:1;font-size:13px;">${tdA ? tdA.zh : a} + ${tdB ? tdB.zh : b}</div>
+                        <div style="font-size:13px;font-weight:500;color:#991B1B;">${count}</div>
+                    </div>`;
+                }).join('');
+        }
+
+        // --- 趋势前瞻 ---
+        function renderInsight_upcoming(wrap) {
+            if (!gameRegistry || !gameRegistry.games) { wrap.innerHTML = '<p class="text-xs" style="color:var(--text-muted);">加载中...</p>'; return; }
+            const upcoming = gameRegistry.games.filter(g => g.status === 'WISHLIST' || g.status === '在研');
+            upcoming.sort((a,b) => (b.wishlist_count || 0) - (a.wishlist_count || 0));
+            wrap.innerHTML = `<p class="text-xs mb-3" style="color:var(--text-muted);">未发售游戏按 wishlist 排序。积累历史后可算周增速。</p>` +
+                upcoming.map(g => `<div class="insight-row" style="display:flex;gap:12px;padding:10px;border:0.5px solid var(--card-border);border-radius:8px;margin-bottom:8px;">
+                    <div style="flex:1;">
+                        <div style="font-size:13px;font-weight:500;">${g.cn_name || g.name}</div>
+                        <div style="font-size:11px;color:var(--text-muted);">${g.dev} · 发售: ${g.release}</div>
+                    </div>
+                    <div style="text-align:right;">
+                        <div style="font-size:16px;font-weight:500;">${g.wishlist_count ? g.wishlist_count.toLocaleString() : '-'}</div>
+                        <div style="font-size:10px;color:var(--text-muted);">wishlist</div>
+                    </div>
+                </div>`).join('');
+        }
+
+        function renderInsight_timeline(wrap) {
+            if (!gameRegistry || !gameRegistry.games) { wrap.innerHTML = '<p class="text-xs" style="color:var(--text-muted);">加载中...</p>'; return; }
+            const withDates = gameRegistry.games.filter(g => g.release && g.release !== 'TBA' && g.release !== '未公布').sort((a,b) => (a.release||'').localeCompare(b.release||''));
+            wrap.innerHTML = `<p class="text-xs mb-3" style="color:var(--text-muted);">按发售日排序，看哪个时段扎堆。</p>` +
+                withDates.map(g => {
+                    const tags = (g.tags || []).slice(0,2).map(t => { const td = gameRegistry.tag_definitions[t]; return td ? td.zh : ''; }).join(' ');
+                    return `<div class="insight-row" style="display:flex;gap:12px;padding:8px 10px;border:0.5px solid var(--card-border);border-radius:8px;margin-bottom:6px;">
+                        <div style="width:80px;font-size:11px;color:var(--text-muted);">${g.release}</div>
+                        <div style="flex:1;font-size:13px;">${g.cn_name || g.name} <span style="font-size:10px;color:var(--text-muted);">${tags}</span></div>
+                    </div>`;
+                }).join('');
+        }
+
+        function renderInsight_big_publisher(wrap) {
+            if (!gameRegistry || !gameRegistry.games) { wrap.innerHTML = '<p class="text-xs" style="color:var(--text-muted);">加载中...</p>'; return; }
+            const bigPubs = ['腾讯', '网易', 'Embracer', 'Landfall', 'Aggro Crab', 'Crytek', 'Red Barrels', 'Square Enix', 'Illfonic'];
+            const rows = gameRegistry.games.filter(g => {
+                const dev = g.dev || '';
+                return bigPubs.some(p => dev.toLowerCase().includes(p.toLowerCase()));
+            });
+            wrap.innerHTML = `<p class="text-xs mb-3" style="color:var(--text-muted);">大厂/知名发行商的作品布局。</p>` +
+                rows.map(g => {
+                    const tags = (g.tags || []).map(t => { const td = gameRegistry.tag_definitions[t]; return td ? `<span class="gc-tag">${td.zh}</span>` : ''; }).join('');
+                    return `<div class="insight-row" style="display:flex;gap:12px;padding:10px;border:0.5px solid var(--card-border);border-radius:8px;margin-bottom:8px;">
+                        <div style="flex:1;">
+                            <div style="font-size:13px;font-weight:500;">${g.cn_name || g.name}</div>
+                            <div style="font-size:11px;color:var(--text-muted);">${g.dev} · ${g.release}</div>
+                            <div class="gc-tags" style="margin-top:4px;">${tags}</div>
+                        </div>
+                        <span class="insight-badge">${g.status}</span>
+                    </div>`;
+                }).join('');
+        }
+
+        function renderInsight_potential_score(wrap) {
+            if (!potentialScores || potentialScores.length === 0) { wrap.innerHTML = '<p class="text-xs" style="color:var(--text-muted);">加载中...</p>'; return; }
+            wrap.innerHTML = `<p class="text-xs mb-3" style="color:var(--text-muted);">综合 CCU增速(30%) + 好评率(20%) + wishlist(30%) + 标签新颖度(20%)。积累 7 天数据后 CCU 增速生效。</p>` +
+                potentialScores.slice(0, 20).map((s, i) => {
+                    const b = s.breakdown;
+                    const color = s.score >= 60 ? '#991B1B' : s.score >= 40 ? '#92400E' : 'var(--text-muted)';
+                    return `<div class="insight-row" style="display:flex;gap:12px;padding:10px;border:0.5px solid var(--card-border);border-radius:8px;margin-bottom:8px;">
+                        <div style="width:24px;text-align:center;font-size:13px;font-weight:500;color:var(--text-muted);">${i+1}</div>
+                        <div style="flex:1;">
+                            <div style="font-size:13px;font-weight:500;">${s.name} ${s.score >= 60 ? '🔥' : ''}</div>
+                            <div style="font-size:10px;color:var(--text-muted);">CCU增速 ${b.ccu_growth_pct}% · 好评 ${b.positive_pct}% · WL分 ${b.wishlist_score} · 新颖 ${b.tag_novelty}</div>
+                        </div>
+                        <div style="text-align:right;">
+                            <div style="font-size:20px;font-weight:600;color:${color};">${s.score}</div>
+                        </div>
+                    </div>`;
+                }).join('');
+        }
+
+        function getGameCCUByAppid(appid) {
+            if (!gameRegistry || !gameRegistry.games) return 0;
+            const g = gameRegistry.games.find(g => g.appid === appid);
+            return g ? getGameCCU(g) : 0;
         }
 
         // ========== 排行榜 ==========

@@ -1,0 +1,55 @@
+name: Daily Snapshot
+
+on:
+  schedule:
+    # 每天 06:00 UTC+8 = 22:00 UTC 前一天
+    - cron: '0 22 * * *'
+  workflow_dispatch: # 手动触发
+
+jobs:
+  snapshot:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    
+    steps:
+      - uses: actions/checkout@v4
+      
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.13'
+      
+      - name: Install dependencies
+        run: |
+          pip install requests pillow
+      
+      - name: Run steam crawler
+        run: |
+          python scripts/steam_crawler.py
+      
+      - name: Run CCU snapshot
+        run: |
+          python scripts/snapshot_ccu.py
+      
+      - name: Run fetch developers
+        run: |
+          python scripts/fetch_developers.py
+        continue-on-error: true
+      
+      - name: Run fetch rich data
+        run: |
+          python scripts/fetch_rich_data.py
+        continue-on-error: true
+      
+      - name: Run potential calculator
+        run: |
+          python scripts/calc_potential.py
+      
+      - name: Commit and push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add docs/data/
+          git diff --staged --quiet || git commit -m "chore: daily data snapshot $(date -u +%Y-%m-%d)"
+          git push
