@@ -4580,28 +4580,28 @@ If you want to know what happened next, let’s listen to the explanation next t
             }
             const tagSorted = Object.entries(tagStats).sort((a,b) => b[1].ccu - a[1].ccu);
 
-            // 4 个图 2x2 网格
-            wrap.innerHTML = `<p class="text-xs mb-3" style="color:var(--text-muted);">4 个核心分析图表: 小团队大爆款(气泡图) / 标签共现(热力图) / 品类增速(横向条形图) / 潜力分布(散点图)。</p>
-                <div style="display:grid;grid-template-columns:1fr 1fr;gap:16px;margin-bottom:16px;">
+            // 4 个图垂直堆叠,单列布局,每个图占满全宽
+            wrap.innerHTML = `<p class="text-xs mb-3" style="color:var(--text-muted);">4 个核心分析图表: 小团队大爆款 / 标签共现 / 品类增速 / 潜力分布。每个图独立全宽显示,避免拥挤。</p>
+                <div style="display:flex;flex-direction:column;gap:20px;margin-bottom:16px;">
                     <div class="insight-chart-card">
                         <div class="insight-chart-title">小团队大爆款 (气泡图)</div>
-                        <div class="insight-chart-sub">X=开发者作品数, Y=CCU, 气泡=潜力分。右上角=黑马</div>
-                        <div id="echart-small-team" style="width:100%;height:340px;"></div>
+                        <div class="insight-chart-sub">X=开发者作品数, Y=CCU, 气泡大小=潜力分。右上角=黑马(作品少 CCU 高)</div>
+                        <div id="echart-small-team" style="width:100%;height:480px;"></div>
                     </div>
                     <div class="insight-chart-card">
                         <div class="insight-chart-title">标签共现 (热力图)</div>
                         <div class="insight-chart-sub">12×12 矩阵, 色深=共现次数, 对角线=标签自身</div>
-                        <div id="echart-cooccurrence" style="width:100%;height:340px;"></div>
+                        <div id="echart-cooccurrence" style="width:100%;height:560px;"></div>
                     </div>
                     <div class="insight-chart-card">
                         <div class="insight-chart-title">品类增速 (横向条形图)</div>
-                        <div class="insight-chart-sub">各标签的总 CCU 排序, 渐变色=热度</div>
-                        <div id="echart-tag-growth" style="width:100%;height:340px;"></div>
+                        <div class="insight-chart-sub">各标签按总 CCU 排序, 渐变色=热度</div>
+                        <div id="echart-tag-growth" style="width:100%;height:520px;"></div>
                     </div>
                     <div class="insight-chart-card">
                         <div class="insight-chart-title">潜力分布 (散点图)</div>
-                        <div class="insight-chart-sub">X=当前 CCU, Y=潜力分, 气泡=wishlist</div>
-                        <div id="echart-potential" style="width:100%;height:340px;"></div>
+                        <div class="insight-chart-sub">X=当前 CCU, Y=潜力分, 气泡大小=wishlist</div>
+                        <div id="echart-potential" style="width:100%;height:480px;"></div>
                     </div>
                 </div>
                 <p class="text-xs mb-2 mt-4" style="color:var(--text-muted);">小团队大爆款 Top 10 详情:</p>` +
