@@ -4242,10 +4242,12 @@ If you want to know what happened next, let’s listen to the explanation next t
                 }).join('');
                 const priCls = 'gc-pri-' + (g.priority || 'P2');
                 const pinnedCls = g.pinned ? ' pinned' : '';
-                // 优先使用 steamRichData 的封面图
+                // 优先使用: 1) registry 的 local_cover  2) steamRichData  3) steamData store  4) 占位符
                 const rich = steamRichData[g.appid];
                 let coverHtml = '';
-                if (rich && rich.header_image) {
+                if (g.local_cover) {
+                    coverHtml = `<img class="gc-cover" src="${g.local_cover}" alt="${g.cn_name || g.name}" loading="lazy" onerror="this.style.display='none';this.nextElementSibling.style.display='flex'"><div class="gc-cover-placeholder" style="display:none">${(g.cn_name || g.name).charAt(0)}</div>`;
+                } else if (rich && rich.header_image) {
                     coverHtml = `<img class="gc-cover" src="${rich.header_image}" alt="${g.cn_name || g.name}" loading="lazy" referrerpolicy="no-referrer" onerror="this.style.display='none';this.nextElementSibling.style.display='flex'"><div class="gc-cover-placeholder" style="display:none">${(g.cn_name || g.name).charAt(0)}</div>`;
                 } else if (g.steam_key && steamData[g.steam_key] && steamData[g.steam_key].store && steamData[g.steam_key].store.header_image) {
                     const img = steamData[g.steam_key].store.header_image;
