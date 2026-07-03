@@ -17,6 +17,14 @@ STEAM_GAMES = {
     "Content Warning": 2881650,
     "FEEDERS": 4408510,
     "NARAKA: BLADEPOINT": 1203220,
+    "MECCHA CHAMELEON": 4704690,
+    "HELLDIVERS 2": 553850,
+    "Deep Rock Galactic": 548430,
+    "Dead by Daylight": 381210,
+    "Among Us": 945360,
+    "Sons Of The Forest": 1326470,
+    "Risk of Rain 2": 632360,
+    "Windblown": 1911610,
 }
 
 
@@ -227,8 +235,12 @@ def crawl_steam():
 
 
 if __name__ == "__main__":
+    import os
     data = crawl_steam()
-    output_path = "data/steam_data.json"
+    output_dir = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), "docs", "data")
+    os.makedirs(output_dir, exist_ok=True)
+    output_path = os.path.join(output_dir, "steam_data.json")
     with open(output_path, "w", encoding="utf-8") as f:
         json.dump(data, f, ensure_ascii=False, indent=2)
     print(f"\nSteam数据已保存到 {output_path}")
+    print(f"游戏数: {len(data)}")
