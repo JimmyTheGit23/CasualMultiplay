@@ -4038,7 +4038,8 @@ If you want to know what happened next, let’s listen to the explanation next t
                 } else if (g.status) {
                     meta += (meta ? ' · ' : '') + g.status;
                 }
-                return `<div class="game-list-item${pinnedCls}${activeCls}" onclick="selectGame('${key}')" data-game-key="${key}">
+                const safeKey = key.replace(/&/g,'&amp;').replace(/"/g,'&quot;').replace(/'/g,'&#39;');
+                return `<div class="game-list-item${pinnedCls}${activeCls}" onclick="selectGameByKey(this)" data-game-key="${safeKey}">
                     <div class="gi-name">${g.cn_name || g.name}</div>
                     ${meta ? `<div class="gi-meta">${meta}</div>` : ''}
                 </div>`;
@@ -4148,7 +4149,6 @@ If you want to know what happened next, let’s listen to the explanation next t
             if (old) old.remove();
             container.insertAdjacentHTML('beforeend', html);
         }
-        }
 
         // ========== 发现页：标签筛选 + 卡片网格 ==========
         let discoverTagFilter = 'all';
@@ -4184,8 +4184,9 @@ If you want to know what happened next, let’s listen to the explanation next t
 
         function renderDiscoverGrid() {
             const gridEl = document.getElementById('discover-grid');
-            if (!gridEl) return;
+            if (!gridEl) { console.error('discover-grid not found'); return; }
             if (!gameRegistry || !gameRegistry.games) {
+                console.log('registry not ready, len=' + (gameRegistry?.games?.length || 0));
                 gridEl.innerHTML = '<p style="color:var(--text-muted);font-size:12px;">加载中...</p>';
                 return;
             }
@@ -4230,7 +4231,8 @@ If you want to know what happened next, let’s listen to the explanation next t
                 gridEl.innerHTML = '<div style="text-align:center;padding:40px;font-size:12px;color:var(--text-muted);">无匹配游戏</div>';
                 return;
             }
-            gridEl.innerHTML = games.map(g => {
+            try {
+                gridEl.innerHTML = games.map(g => {
                 const key = g.steam_key || g.name;
                 const ccu = getGameCCU(g);
                 const positive = getGamePositive(g);
@@ -4251,7 +4253,7 @@ If you want to know what happened next, let’s listen to the explanation next t
                 } else {
                     coverHtml = `<div class="gc-cover-placeholder">${(g.cn_name || g.name).charAt(0)}</div>`;
                 }
-                return `<div class="game-card${pinnedCls}" onclick="navTo('gamedetail');setTimeout(()=>selectGame('${key}'),100)">
+                return `<div class="game-card${pinnedCls}" data-game-key="${key.replace(/&/g,'&amp;').replace(/"/g,'&quot;').replace(/'/g,'&#39;')}" onclick="selectGameByKey(this)">
                     ${coverHtml}
                     <div class="gc-body">
                         <div class="gc-title-row">
@@ -4274,6 +4276,16 @@ If you want to know what happened next, let’s listen to the explanation next t
                     </div>
                 </div>`;
             }).join('');
+            } catch (e) {
+                console.error('renderDiscoverGrid error:', e);
+                gridEl.innerHTML = '<p style="color:red;font-size:12px;">渲染失败: ' + e.message + '</p>';
+            }
+        }
+
+        function selectGameByKey(el) {
+            const key = el.dataset.gameKey;
+            navTo('gamedetail');
+            setTimeout(() => selectGame(key), 100);
         }
 
         // ========== 排行榜 ==========
@@ -4340,7 +4352,8 @@ If you want to know what happened next, let’s listen to the explanation next t
                     const td = gameRegistry.tag_definitions[t];
                     return td ? td.zh : t;
                 }).join(' ');
-                html += `<tr onclick="navTo('gamedetail');setTimeout(()=>selectGame('${g.steam_key || g.name}'),100)" style="cursor:pointer;">`;
+                const lbKey = (g.steam_key || g.name).replace(/&/g,'&amp;').replace(/"/g,'&quot;').replace(/'/g,'&#39;');
+                html += `<tr onclick="selectGameByKey(this)" data-game-key="${lbKey}" style="cursor:pointer;">`;
                 html += `<td class="lb-rank">${i + 1}</td>`;
                 html += `<td>${g.cn_name || g.name}${g.pinned ? ' ★' : ''}</td>`;
                 html += `<td style="color:var(--text-muted);">${g.dev || '-'}</td>`;
