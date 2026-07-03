@@ -461,11 +461,8 @@
             white-space: nowrap;
             align-self: flex-start;
         }
-        .insight-chart-card {
-            background: #FFFFFF;
-            border: 0.5px solid var(--card-border, #E2E8F0);
-            border-radius: 8px;
-            padding: 12px;
+        .insight-dev-header:hover {
+            background: #F8FAFC;
         }
         .insight-chart-title {
             font-size: 12px;
@@ -477,6 +474,12 @@
             font-size: 10px;
             color: var(--text-muted, #64748B);
             margin-bottom: 8px;
+        }
+        .insight-dev-header {
+            transition: background 0.15s;
+        }
+        .insight-dev-header:hover {
+            background: #F8FAFC !important;
         }
 
         .discover-toolbar {
@@ -4594,16 +4597,20 @@ If you want to know what happened next, let’s listen to the explanation next t
                     <div id="chart-category" style="width:100%;height:540px;display:none;"></div>
                     <div id="chart-potential" style="width:100%;height:540px;display:none;"></div>
                 </div>
-                <p class="text-xs mb-2 mt-4" style="color:var(--text-muted);">小团队大爆款 Top 10 详情:</p>` +
-                rows.slice(0, 10).map(r => `<div class="insight-row" style="display:flex;gap:12px;padding:10px;border:0.5px solid var(--card-border);border-radius:8px;margin-bottom:8px;">
-                    <div style="flex:1;">
-                        <div style="font-size:13px;font-weight:500;">${r.game.cn_name || r.game.name}</div>
-                        <div style="font-size:11px;color:var(--text-muted);">${r.dev} · ${r.devAppCount} 作品</div>
+                <p class="text-xs mb-2 mt-4" style="color:var(--text-muted);">Top 10 开发者 · 点击展开过往作品:</p>` +
+                rows.slice(0, 10).map((r, i) => `<div class="insight-dev-block" data-dev-idx="${i}" style="border:0.5px solid var(--card-border);border-radius:8px;margin-bottom:8px;overflow:hidden;">
+                    <div class="insight-dev-header" onclick="toggleDevApps(this)" style="display:flex;gap:12px;padding:10px;cursor:pointer;background:#FFFFFF;">
+                        <div style="flex:1;">
+                            <div style="font-size:13px;font-weight:500;">${r.dev} <span style="font-size:10px;color:var(--text-muted);font-weight:400;">→ ${r.game.cn_name || r.game.name}</span></div>
+                            <div style="font-size:11px;color:var(--text-muted);">代表作 · ${r.devAppCount} 作品</div>
+                        </div>
+                        <div style="text-align:right;">
+                            <div style="font-size:16px;font-weight:500;color:#991B1B;">${r.ratio.toFixed(0)}</div>
+                            <div style="font-size:10px;color:var(--text-muted);">CCU/作品数</div>
+                        </div>
+                        <div style="align-self:center;color:var(--text-muted);font-size:14px;transition:transform 0.2s;" data-toggle-icon>▾</div>
                     </div>
-                    <div style="text-align:right;">
-                        <div style="font-size:16px;font-weight:500;color:#991B1B;">${r.ratio.toFixed(0)}</div>
-                        <div style="font-size:10px;color:var(--text-muted);">CCU/作品数</div>
-                    </div>
+                    <div class="insight-dev-apps" data-dev-name="${r.dev}" style="display:none;padding:12px;background:#F8FAFC;border-top:0.5px solid var(--card-border);"></div>
                 </div>`).join('');
 
             // 初始化 4 个图表
@@ -4702,17 +4709,79 @@ If you want to know what happened next, let’s listen to the explanation next t
                 .map(([k,v]) => v)
                 .filter(v => v.total_apps_on_steam > 0)
                 .sort((a,b) => b.total_apps_on_steam - a.total_apps_on_steam);
-            wrap.innerHTML = `<p class="text-xs mb-3" style="color:var(--text-muted);">开发者按 Steam 作品数排序。共 ${devs.length} 位。</p>` +
-                devs.slice(0, 20).map(d => `<div class="insight-row" style="display:flex;gap:12px;padding:10px;border:0.5px solid var(--card-border);border-radius:8px;margin-bottom:8px;">
-                    <div style="flex:1;">
-                        <div style="font-size:13px;font-weight:500;">${d.name}</div>
-                        <div style="font-size:11px;color:var(--text-muted);">${d.sampled_apps} 已采样 · 首作: ${d.is_first_game ? '是' : '否'}</div>
+            wrap.innerHTML = `<p class="text-xs mb-3" style="color:var(--text-muted);">开发者按 Steam 作品数排序 · 点击行展开过往作品。共 ${devs.length} 位。</p>` +
+                devs.slice(0, 20).map((d, i) => `<div class="insight-dev-block" data-dev-idx="${i}" style="border:0.5px solid var(--card-border);border-radius:8px;margin-bottom:8px;overflow:hidden;">
+                    <div class="insight-dev-header" onclick="toggleDevApps(this)" style="display:flex;gap:12px;padding:10px;cursor:pointer;background:#FFFFFF;">
+                        <div style="flex:1;">
+                            <div style="font-size:13px;font-weight:500;">${d.name}</div>
+                            <div style="font-size:11px;color:var(--text-muted);">${d.sampled_apps} 已采样 · 首作: ${d.is_first_game ? '是' : '否'}</div>
+                        </div>
+                        <div style="text-align:right;">
+                            <div style="font-size:16px;font-weight:500;">${d.total_apps_on_steam}</div>
+                            <div style="font-size:10px;color:var(--text-muted);">Steam 作品</div>
+                        </div>
+                        <div style="align-self:center;color:var(--text-muted);font-size:14px;transition:transform 0.2s;" data-toggle-icon>▾</div>
                     </div>
-                    <div style="text-align:right;">
-                        <div style="font-size:16px;font-weight:500;">${d.total_apps_on_steam}</div>
-                        <div style="font-size:10px;color:var(--text-muted);">Steam 作品</div>
-                    </div>
+                    <div class="insight-dev-apps" data-dev-name="${d.name}" style="display:none;padding:12px;background:#F8FAFC;border-top:0.5px solid var(--card-border);"></div>
                 </div>`).join('');
+        }
+
+        // 展开/收起开发者的作品列表
+        function toggleDevApps(headerEl) {
+            const block = headerEl.parentElement;
+            const appsEl = block.querySelector('.insight-dev-apps');
+            const icon = block.querySelector('[data-toggle-icon]');
+            const isOpen = appsEl.style.display !== 'none';
+            if (isOpen) {
+                appsEl.style.display = 'none';
+                icon.style.transform = 'rotate(0deg)';
+            } else {
+                appsEl.style.display = 'block';
+                icon.style.transform = 'rotate(180deg)';
+                // 只在第一次展开时加载
+                if (!appsEl.dataset.loaded) {
+                    renderDevApps(appsEl.dataset.devName, appsEl);
+                    appsEl.dataset.loaded = '1';
+                }
+            }
+        }
+
+        function renderDevApps(devName, container) {
+            const devInfo = developersData.developers[devName];
+            if (!devInfo || !devInfo.apps || devInfo.apps.length === 0) {
+                container.innerHTML = '<p class="text-xs" style="color:var(--text-muted);">无作品数据</p>';
+                return;
+            }
+            const apps = devInfo.apps;
+            container.innerHTML = `
+                <div class="mb-2" style="display:flex;gap:8px;align-items:center;">
+                    <span class="text-xs" style="color:var(--text-muted);">共 ${devInfo.total_apps_on_steam} 个作品(已采样 ${apps.length}) · 数据源: Steam Store API</span>
+                </div>
+                <div style="display:grid;grid-template-columns:repeat(auto-fill,minmax(280px,1fr));gap:8px;">
+                    ${apps.map(a => {
+                        const cover = a.header_image
+                            ? `<img src="${a.header_image}" referrerpolicy="no-referrer" loading="lazy" style="width:100%;height:80px;object-fit:cover;border-radius:4px;" onerror="this.style.display='none'">`
+                            : `<div style="width:100%;height:80px;background:linear-gradient(135deg,#E2E8F0,#CBD5E1);display:flex;align-items:center;justify-content:center;color:#64748B;font-size:24px;font-weight:600;border-radius:4px;">${(a.name||'?').charAt(0)}</div>`;
+                        const storeUrl = `https://store.steampowered.com/app/${a.appid}`;
+                        const steamdbUrl = `https://steamdb.info/app/${a.appid}`;
+                        const typeBadge = a.type === 'dlc' ? '<span class="insight-badge" style="background:#DBEAFE;color:#1E40AF;">DLC</span>'
+                            : a.type === 'soundtrack' ? '<span class="insight-badge" style="background:#FEF3C7;color:#92400E;">原声</span>'
+                            : '<span class="insight-badge" style="background:#D1FAE5;color:#065F46;">游戏</span>';
+                        return `<a href="${storeUrl}" target="_blank" rel="noopener" style="display:flex;gap:8px;padding:8px;border:0.5px solid var(--card-border);border-radius:6px;background:#FFFFFF;text-decoration:none;color:inherit;transition:border-color 0.15s;" onmouseover="this.style.borderColor='#991B1B'" onmouseout="this.style.borderColor='var(--card-border)'">
+                            <div style="width:120px;flex-shrink:0;">${cover}</div>
+                            <div style="flex:1;min-width:0;">
+                                <div style="font-size:12px;font-weight:500;line-height:1.3;overflow:hidden;text-overflow:ellipsis;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;">${a.name}</div>
+                                <div style="font-size:10px;color:var(--text-muted);margin-top:2px;">${a.release_date || '未知'}</div>
+                                <div style="margin-top:4px;">${typeBadge}</div>
+                                <div style="font-size:10px;margin-top:4px;display:flex;gap:6px;">
+                                    <span style="color:#991B1B;">[Steam]</span>
+                                    <a href="${steamdbUrl}" target="_blank" rel="noopener" onclick="event.stopPropagation()" style="color:#64748B;text-decoration:underline;">[SteamDB]</a>
+                                </div>
+                            </div>
+                        </a>`;
+                    }).join('')}
+                </div>
+            `;
         }
 
         // --- 玩法雷达 ---

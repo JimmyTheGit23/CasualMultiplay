@@ -97,7 +97,7 @@ def main():
     
     # 从 registry + rich_data 收集所有开发者
     developers_set = set()
-    
+
     if os.path.exists(REGISTRY_PATH):
         with open(REGISTRY_PATH, 'r', encoding='utf-8') as f:
             registry = json.load(f)
@@ -108,6 +108,12 @@ def main():
                 for d in dev.split('/'):
                     d = d.strip()
                     if d:
+                        # 去掉中文括号及其内容,如 "24 Entertainment（网易）" → "24 Entertainment"
+                        import re
+                        d_clean = re.sub(r'[（(][^）)]*[）)]', '', d).strip()
+                        if d_clean:
+                            developers_set.add(d_clean)
+                        # 原始名也加(可能在 Steam 上能搜到,比如个别游戏真有 "(网易)" 后缀)
                         developers_set.add(d)
     
     if os.path.exists(RICH_DATA_PATH):
@@ -152,6 +158,24 @@ def main():
         }
 
         time.sleep(1)
+
+    # 补全: registry 里带中文括号的 dev(如 "24 Entertainment（网易）") 搜不到,
+    # 但清理后的名字("24 Entertainment")能搜到。把数据复制一份给原始 key
+    import re
+    for dev_name in list(result['developers'].keys()):
+        info = result['developers'][dev_name]
+        if '（' not in dev_name and '(' not in dev_name:
+            continue
+        clean = re.sub(r'[（(][^）)]*[）)]', '', dev_name).strip()
+        if clean and clean in result['developers']:
+            result['developers'][dev_name] = {
+                'name': dev_name,
+                'total_apps_on_steam': result['developers'][clean]['total_apps_on_steam'],
+                'sampled_apps': result['developers'][clean]['sampled_apps'],
+                'apps': result['developers'][clean]['apps'],
+                'is_first_game': result['developers'][clean]['is_first_game'],
+                'aliased_to': clean
+            }
 
     # 第二轮: 用反向索引重算 is_first_game
     # dev_name -> [appid1, appid2, ...]
