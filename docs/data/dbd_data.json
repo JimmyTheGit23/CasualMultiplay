@@ -1,10 +1,10 @@
 {
-  "snapshot_date": "2026-07-06T03:39:38+08:00",
+  "snapshot_date": "2026-07-07T03:30:48+08:00",
   "hero": {
     "name": "黎明杀机",
-    "current_players": 77041,
+    "current_players": 79905,
     "positive_rate": 78.5,
-    "reviews_total": 915183,
+    "reviews_total": 915790,
     "price_label": "¥ 37.50",
     "release_date": "2016 年 6 月 14 日",
     "genres": [
@@ -12,6 +12,28 @@
     ]
   },
   "operations": [
+    {
+      "date": "2026-07-06",
+      "timestamp": 1783348216,
+      "title": "10.0.2 | Bugfix Patch",
+      "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165576085",
+      "author": "Donnary21st",
+      "feed_label": "Community Announcements",
+      "feed_type": "官方",
+      "is_patch": false,
+      "contents": "ImportantThe Doctor has been re-enabled in the 10th Anniversary Event queue.ContentKiller Add-on UpdatesThe Slasher's add-onsDeputy's Badge (Very Rare)While in Omnipresent Evil, passing within 2m of a"
+    },
+    {
+      "date": "2026-07-06",
+      "timestamp": 1783333363,
+      "title": "Limmy has finally been banned from Dead by Daylight, but he'll be back very soon",
+      "url": "https://steamstore-a.akamaihd.net/news/externalpost/PCGamesN/1836506165575869",
+      "author": "editor@pcgamesn.com",
+      "feed_label": "PCGamesN",
+      "feed_type": "媒体",
+      "is_patch": false,
+      "contents": "\"It has finally happened,\" Limmy says. \"Hello everybody; I have been banned from Dead by Daylight for having a laugh.\" It's official: Limmy has, indeed, been banned from playing Behaviour's iconic hor"
+    },
     {
       "date": "2026-06-30",
       "timestamp": 1782810000,
@@ -77,28 +99,6 @@
       "feed_type": "媒体",
       "is_patch": false,
       "contents": "Dead by Daylight is a game developer's dream (or nightmare) come true. Akin to Warframe, it launched to somewhat lukewarm reviews, but has continued to expand as the years have gone on, cementing itse"
-    },
-    {
-      "date": "2026-06-16",
-      "timestamp": 1781633759,
-      "title": "The Jason Chapter is now available on Steam!",
-      "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1835236783575227",
-      "author": "CatBHVR",
-      "feed_label": "Community Announcements",
-      "feed_type": "官方",
-      "is_patch": false,
-      "contents": "Dead by Daylight’s Jason includes a new Killer, The Slasher. Purchasing this add-on unlocks the Hockey Mask badge and the Misty Cabin banner.The new Killer is The Slasher. The Jason Chapter includes:N"
-    },
-    {
-      "date": "2026-06-16",
-      "timestamp": 1781620286,
-      "title": "10.0.0 | Jason Patch Notes",
-      "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1835236783574550",
-      "author": "Goblin_BHVR",
-      "feed_label": "Community Announcements",
-      "feed_type": "官方",
-      "is_patch": false,
-      "contents": "ContentNEW KILLER: THE SLASHERPOWER: OMNIPRESENT EVILPress the Active Ability button to activate Omnipresent Evil. The Slasher becomes invisible and gains Undetectable, but cannot see Survivors or the"
     }
   ],
   "patches": [],
@@ -159,11 +159,11 @@
     ]
   },
   "reviews": {
-    "total_reviews": 915183,
-    "positive": 718011,
-    "negative": 197172,
+    "total_reviews": 915790,
+    "positive": 718497,
+    "negative": 197293,
     "positive_rate": 78.5
   },
-  "ccu": 77041,
-  "crawled_at": "2026-07-06T03:39:38.432051"
+  "ccu": 79905,
+  "crawled_at": "2026-07-07T03:30:48.223404"
 }

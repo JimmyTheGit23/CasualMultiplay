@@ -4,10 +4,10 @@
     "source": "Google Play",
     "url": "https://play.google.com/store/apps/details?id=com.game.tombbusters",
     "rating": 3.8,
-    "review_count": 625,
+    "review_count": 626,
     "description": "Hilarious Co-op Horror Extraction",
     "category": "FAMILY",
-    "crawled_at": "2026-07-06 03:39"
+    "crawled_at": "2026-07-07 03:30"
   },
   "google_play_reviews": [
     {
@@ -33,16 +33,25 @@
       "title": "TOMB RAIDER Gameplay Walkthrough Part 1 FULL GAME [4K 60FPS PC ULTRA] - No Commentary",
       "video_id": "hT-LKGp-bMo",
       "url": "https://www.youtube.com/watch?v=hT-LKGp-bMo",
-      "views": "2,713,444 views",
+      "views": "2,717,036 views",
       "channel": "MKIceAndFire",
       "published": "2 years ago",
       "duration": "6:26:06"
     },
     {
+      "title": "Ghost Buster Pakdenge Bhoot in Phasmophobia🛑",
+      "video_id": "MhvKYidexA8",
+      "url": "https://www.youtube.com/watch?v=MhvKYidexA8",
+      "views": "2,670,137 views",
+      "channel": "Live Insaan",
+      "published": "Streamed 9 months ago",
+      "duration": "3:49:16"
+    },
+    {
       "title": "Tomb Busters - Nogla Won't Stay Away From Me!",
       "video_id": "EnuSSZ8nN4I",
       "url": "https://www.youtube.com/watch?v=EnuSSZ8nN4I",
-      "views": "461,916 views",
+      "views": "462,683 views",
       "channel": "VanossGaming",
       "published": "1 month ago",
       "duration": "27:18"
@@ -51,7 +60,7 @@
       "title": "A game based on 'The Snapshot Serial Killer'",
       "video_id": "2bIUhc95Orc",
       "url": "https://www.youtube.com/watch?v=2bIUhc95Orc",
-      "views": "417,078 views",
+      "views": "417,235 views",
       "channel": "8-BitRyan",
       "published": "1 year ago",
       "duration": "54:50"
@@ -60,16 +69,16 @@
       "title": "THIS MOBILE LETHAL-LIKE IS ACTUALLY HILARIOUS!!! | Tomb Busters (w/ Kyle & Squirrel)",
       "video_id": "O_JjLJQdGh0",
       "url": "https://www.youtube.com/watch?v=O_JjLJQdGh0",
-      "views": "413,247 views",
+      "views": "418,967 views",
       "channel": "CaRtOoNz",
-      "published": "8 days ago",
+      "published": "9 days ago",
       "duration": "1:26:18"
     },
     {
       "title": "Tomb Busters | Launch Gameplay Trailer",
       "video_id": "SozbL_ez72Y",
       "url": "https://www.youtube.com/watch?v=SozbL_ez72Y",
-      "views": "425,026 views",
+      "views": "425,053 views",
       "channel": "Tomb Busters",
       "published": "1 month ago",
       "duration": "0:56"
@@ -78,7 +87,7 @@
       "title": "Goofy Gang Explores SCARY TOMBS... (Tomb Busters)",
       "video_id": "l9WdUDC67bY",
       "url": "https://www.youtube.com/watch?v=l9WdUDC67bY",
-      "views": "144,989 views",
+      "views": "145,587 views",
       "channel": "Goofy Gang",
       "published": "4 weeks ago",
       "duration": "20:27"
@@ -87,7 +96,7 @@
       "title": "Three Idiots VS Funniest New Horror Game",
       "video_id": "m6ENmCcWhBc",
       "url": "https://www.youtube.com/watch?v=m6ENmCcWhBc",
-      "views": "137,305 views",
+      "views": "137,677 views",
       "channel": "SeeReax",
       "published": "1 month ago",
       "duration": "43:39"
@@ -96,7 +105,7 @@
       "title": "MARCEL KNOWS HIS FRIENDS TOO WELL!",
       "video_id": "QPOYv5LH884",
       "url": "https://www.youtube.com/watch?v=QPOYv5LH884",
-      "views": "220,881 views",
+      "views": "221,060 views",
       "channel": "Terroriser",
       "published": "2 weeks ago",
       "duration": "23:43"
@@ -105,19 +114,10 @@
       "title": "Tomb Raider apk download? #tombraider #gamingcommunity #tombraider2013gameplay #fpsgames ",
       "video_id": "RatbS4ym8QM",
       "url": "https://www.youtube.com/watch?v=RatbS4ym8QM",
-      "views": "116,521 views",
+      "views": "116,917 views",
       "channel": "Android Arena",
       "published": "4 months ago",
       "duration": "1:15"
-    },
-    {
-      "title": "Three Idiots vs Monster Game",
-      "video_id": "aLCnmer5Kcs",
-      "url": "https://www.youtube.com/watch?v=aLCnmer5Kcs",
-      "views": "105,115 views",
-      "channel": "Rhymestyle",
-      "published": "1 month ago",
-      "duration": "24:34"
     }
   ],
   "official_news_en": [],
@@ -211,6 +211,6 @@
       "rating_count": 0
     }
   },
-  "crawled_at": "2026-07-06T03:39:32.835284",
-  "crawled_date": "2026-07-06"
+  "crawled_at": "2026-07-07T03:30:42.150960",
+  "crawled_date": "2026-07-07"
 }
