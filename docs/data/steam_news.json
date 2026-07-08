@@ -249,7 +249,7 @@
       "is_official": true,
       "contents": "Hey hey semibots! Here is yet another small update with some fixes and balancing! CHANGES BALANCING FIXES CHANGES Item Melee Weapons - Handling now properly scales with strength and should feel firmer"
     },
-    "crawled_at": "2026-07-07T03:30:48.415413"
+    "crawled_at": "2026-07-08T02:47:06.828288"
   },
   "Lethal Company": {
     "appid": 1966720,
@@ -501,7 +501,7 @@
       "is_official": true,
       "contents": "Hello, long time no see! Version 80 is out in beta for you to test. You can access it by opting into the public beta branch for Lethal Company on Steam. V80 brings a complete rework of March's exterio"
     },
-    "crawled_at": "2026-07-07T03:30:49.554851"
+    "crawled_at": "2026-07-08T02:47:07.972597"
   },
   "Phasmophobia": {
     "appid": 739630,
@@ -753,7 +753,7 @@
       "is_official": true,
       "contents": "Welcome back, Ghost Hunters.Today we have released a hotfix for Phasmophobia, addressing two issues raised by the community this week. The update is now available across all platforms.Patch notes:Fixe"
     },
-    "crawled_at": "2026-07-07T03:30:50.748233"
+    "crawled_at": "2026-07-08T02:47:09.234092"
   },
   "Content Warning": {
     "appid": 2881650,
@@ -1005,7 +1005,7 @@
       "is_official": true,
       "contents": "Hello Spööktubers! Thank you for your patience as we're fixing bugs on all platforms.Here's a new patch fixing some stuff!For those of you wondering when crossplay between Switch 1 & 2 and other platf"
     },
-    "crawled_at": "2026-07-07T03:30:51.885614"
+    "crawled_at": "2026-07-08T02:47:10.359745"
   },
   "FEEDERS": {
     "appid": 4408510,
@@ -1256,12 +1256,23 @@
       "is_official": true,
       "contents": "Gave the HUD a fresh redesign. New look across the board — the status bars (Health, Stamina, Radiation) and the bottom belt all got reworked. Same info, cleaner read. More guns coming with new solo ex"
     },
-    "crawled_at": "2026-07-07T03:30:53.048351"
+    "crawled_at": "2026-07-08T02:47:11.484258"
   },
   "NARAKA: BLADEPOINT": {
     "appid": 1203220,
     "all": [
       {
+        "date": "2026-07-07",
+        "datetime": "2026-07-07T13:58:59",
+        "title": "NARAKA: BLADEPOINT Banned Players List July 7th",
+        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165578106",
+        "author": "Yeeeeee",
+        "feed_label": "Community Announcements",
+        "is_patch": false,
+        "is_official": true,
+        "contents": "Dear players, NARAKA: BLADEPOINT is committed to creating a fair and healthy competitive environment. We have not only used new anti-cheat technologies, but also established special cheat-reporting re"
+      },
+      {
         "date": "2026-07-02",
         "datetime": "2026-07-02T03:45:18",
         "title": "NARAKA: BLADEPOINT Update – July 2nd, 2026",
@@ -1359,22 +1370,22 @@
         "is_patch": false,
         "is_official": true,
         "contents": "Dear players, NARAKA: BLADEPOINT is committed to creating a fair and healthy competitive environment. We have not only used new anti-cheat technologies, but also established special cheat-reporting re"
-      },
-      {
-        "date": "2026-05-19",
-        "datetime": "2026-05-19T13:26:08",
-        "title": "NARAKA: BLADEPOINT Update – May 20th, 2026",
-        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1832700592800973",
-        "author": "Yeeeeee",
-        "feed_label": "Community Announcements",
-        "is_patch": false,
-        "is_official": true,
-        "contents": "Dear players,The servers of NARAKA: BLADEPOINT will be suspended for maintenance from May 19th, 2026 23:00 (UTC) to May 20th, 2026 04:00 (UTC). We suggest you log out in advance and enter the game aga"
       }
     ],
     "patches": [],
     "announcements": [
       {
+        "date": "2026-07-07",
+        "datetime": "2026-07-07T13:58:59",
+        "title": "NARAKA: BLADEPOINT Banned Players List July 7th",
+        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165578106",
+        "author": "Yeeeeee",
+        "feed_label": "Community Announcements",
+        "is_patch": false,
+        "is_official": true,
+        "contents": "Dear players, NARAKA: BLADEPOINT is committed to creating a fair and healthy competitive environment. We have not only used new anti-cheat technologies, but also established special cheat-reporting re"
+      },
+      {
         "date": "2026-07-02",
         "datetime": "2026-07-02T03:45:18",
         "title": "NARAKA: BLADEPOINT Update – July 2nd, 2026",
@@ -1472,37 +1483,37 @@
         "is_patch": false,
         "is_official": true,
         "contents": "Dear players, NARAKA: BLADEPOINT is committed to creating a fair and healthy competitive environment. We have not only used new anti-cheat technologies, but also established special cheat-reporting re"
-      },
-      {
-        "date": "2026-05-19",
-        "datetime": "2026-05-19T13:26:08",
-        "title": "NARAKA: BLADEPOINT Update – May 20th, 2026",
-        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1832700592800973",
-        "author": "Yeeeeee",
-        "feed_label": "Community Announcements",
-        "is_patch": false,
-        "is_official": true,
-        "contents": "Dear players,The servers of NARAKA: BLADEPOINT will be suspended for maintenance from May 19th, 2026 23:00 (UTC) to May 20th, 2026 04:00 (UTC). We suggest you log out in advance and enter the game aga"
       }
     ],
     "latest": {
-      "date": "2026-07-02",
-      "datetime": "2026-07-02T03:45:18",
-      "title": "NARAKA: BLADEPOINT Update – July 2nd, 2026",
-      "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165566988",
+      "date": "2026-07-07",
+      "datetime": "2026-07-07T13:58:59",
+      "title": "NARAKA: BLADEPOINT Banned Players List July 7th",
+      "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165578106",
       "author": "Yeeeeee",
       "feed_label": "Community Announcements",
       "is_patch": false,
       "is_official": true,
-      "contents": "Dear players,The servers of NARAKA: BLADEPOINT will be suspended for maintenance from Jul. 1, 2026 23:00 (UTC) to Jul. 2, 2026 04:00 (UTC). We suggest you log out in advance and enter the game again a"
+      "contents": "Dear players, NARAKA: BLADEPOINT is committed to creating a fair and healthy competitive environment. We have not only used new anti-cheat technologies, but also established special cheat-reporting re"
     },
     "latest_patch": null,
-    "crawled_at": "2026-07-07T03:30:54.201218"
+    "crawled_at": "2026-07-08T02:47:12.692730"
   },
   "Dead by Daylight": {
     "appid": 381210,
     "all": [
       {
+        "date": "2026-07-07",
+        "datetime": "2026-07-07T09:00:00",
+        "title": "Steam Global Top Sellers for week of 30 Jun — 7 July 2026",
+        "url": "https://steamstore-a.akamaihd.net/news/externalpost/SteamDB/1836506165578059",
+        "author": "SteamDB",
+        "feed_label": "SteamDB",
+        "is_patch": false,
+        "is_official": false,
+        "contents": "<a href=\"https://steamdb.info/topsellers/2026W28/?utm_source=Steam&utm_medium=Steam&utm_campaign=SteamRSS\"> </a> * <a href=\"https://steamdb.info/app/4704690/charts/?utm_source=Steam&utm_medium=Steam&u"
+      },
+      {
         "date": "2026-07-06",
         "datetime": "2026-07-06T14:30:16",
         "title": "10.0.2 | Bugfix Patch",
@@ -1600,22 +1611,22 @@
         "is_patch": false,
         "is_official": true,
         "contents": "Dead by Daylight’s Jason includes a new Killer, The Slasher. Purchasing this add-on unlocks the Hockey Mask badge and the Misty Cabin banner.The new Killer is The Slasher. The Jason Chapter includes:N"
-      },
-      {
-        "date": "2026-06-16",
-        "datetime": "2026-06-16T14:31:26",
-        "title": "10.0.0 | Jason Patch Notes",
-        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1835236783574550",
-        "author": "Goblin_BHVR",
-        "feed_label": "Community Announcements",
-        "is_patch": false,
-        "is_official": true,
-        "contents": "ContentNEW KILLER: THE SLASHERPOWER: OMNIPRESENT EVILPress the Active Ability button to activate Omnipresent Evil. The Slasher becomes invisible and gains Undetectable, but cannot see Survivors or the"
       }
     ],
     "patches": [],
     "announcements": [
       {
+        "date": "2026-07-07",
+        "datetime": "2026-07-07T09:00:00",
+        "title": "Steam Global Top Sellers for week of 30 Jun — 7 July 2026",
+        "url": "https://steamstore-a.akamaihd.net/news/externalpost/SteamDB/1836506165578059",
+        "author": "SteamDB",
+        "feed_label": "SteamDB",
+        "is_patch": false,
+        "is_official": false,
+        "contents": "<a href=\"https://steamdb.info/topsellers/2026W28/?utm_source=Steam&utm_medium=Steam&utm_campaign=SteamRSS\"> </a> * <a href=\"https://steamdb.info/app/4704690/charts/?utm_source=Steam&utm_medium=Steam&u"
+      },
+      {
         "date": "2026-07-06",
         "datetime": "2026-07-06T14:30:16",
         "title": "10.0.2 | Bugfix Patch",
@@ -1713,31 +1724,20 @@
         "is_patch": false,
         "is_official": true,
         "contents": "Dead by Daylight’s Jason includes a new Killer, The Slasher. Purchasing this add-on unlocks the Hockey Mask badge and the Misty Cabin banner.The new Killer is The Slasher. The Jason Chapter includes:N"
-      },
-      {
-        "date": "2026-06-16",
-        "datetime": "2026-06-16T14:31:26",
-        "title": "10.0.0 | Jason Patch Notes",
-        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1835236783574550",
-        "author": "Goblin_BHVR",
-        "feed_label": "Community Announcements",
-        "is_patch": false,
-        "is_official": true,
-        "contents": "ContentNEW KILLER: THE SLASHERPOWER: OMNIPRESENT EVILPress the Active Ability button to activate Omnipresent Evil. The Slasher becomes invisible and gains Undetectable, but cannot see Survivors or the"
       }
     ],
     "latest": {
-      "date": "2026-07-06",
-      "datetime": "2026-07-06T14:30:16",
-      "title": "10.0.2 | Bugfix Patch",
-      "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165576085",
-      "author": "Donnary21st",
-      "feed_label": "Community Announcements",
+      "date": "2026-07-07",
+      "datetime": "2026-07-07T09:00:00",
+      "title": "Steam Global Top Sellers for week of 30 Jun — 7 July 2026",
+      "url": "https://steamstore-a.akamaihd.net/news/externalpost/SteamDB/1836506165578059",
+      "author": "SteamDB",
+      "feed_label": "SteamDB",
       "is_patch": false,
-      "is_official": true,
-      "contents": "ImportantThe Doctor has been re-enabled in the 10th Anniversary Event queue.ContentKiller Add-on UpdatesThe Slasher's add-onsDeputy's Badge (Very Rare)While in Omnipresent Evil, passing within 2m of a"
+      "is_official": false,
+      "contents": "<a href=\"https://steamdb.info/topsellers/2026W28/?utm_source=Steam&utm_medium=Steam&utm_campaign=SteamRSS\"> </a> * <a href=\"https://steamdb.info/app/4704690/charts/?utm_source=Steam&utm_medium=Steam&u"
     },
     "latest_patch": null,
-    "crawled_at": "2026-07-07T03:30:55.364193"
+    "crawled_at": "2026-07-08T02:47:13.941086"
   }
 }

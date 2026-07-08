@@ -1,10 +1,10 @@
 {
-  "snapshot_date": "2026-07-07T03:30:48+08:00",
+  "snapshot_date": "2026-07-08T02:47:06+08:00",
   "hero": {
     "name": "黎明杀机",
-    "current_players": 79905,
+    "current_players": 82333,
     "positive_rate": 78.5,
-    "reviews_total": 915790,
+    "reviews_total": 916270,
     "price_label": "¥ 37.50",
     "release_date": "2016 年 6 月 14 日",
     "genres": [
@@ -12,6 +12,17 @@
     ]
   },
   "operations": [
+    {
+      "date": "2026-07-07",
+      "timestamp": 1783414800,
+      "title": "Steam Global Top Sellers for week of 30 Jun — 7 July 2026",
+      "url": "https://steamstore-a.akamaihd.net/news/externalpost/SteamDB/1836506165578059",
+      "author": "SteamDB",
+      "feed_label": "SteamDB",
+      "feed_type": "媒体",
+      "is_patch": false,
+      "contents": "<a href=\"https://steamdb.info/topsellers/2026W28/?utm_source=Steam&utm_medium=Steam&utm_campaign=SteamRSS\"> </a> * <a href=\"https://steamdb.info/app/4704690/charts/?utm_source=Steam&utm_medium=Steam&u"
+    },
     {
       "date": "2026-07-06",
       "timestamp": 1783348216,
@@ -88,17 +99,6 @@
       "feed_type": "官方",
       "is_patch": false,
       "contents": "Featuring PaulieEsther! Watch the full Twitch replay via this link: https://www.twitch.tv/videos/2798058939"
-    },
-    {
-      "date": "2026-06-17",
-      "timestamp": 1781691700,
-      "title": "Dead by Daylight hits new all-time peak player count, proving live service isn't dead",
-      "url": "https://steamstore-a.akamaihd.net/news/externalpost/PCGamesN/1835871199300390",
-      "author": "editor@pcgamesn.com",
-      "feed_label": "PCGamesN",
-      "feed_type": "媒体",
-      "is_patch": false,
-      "contents": "Dead by Daylight is a game developer's dream (or nightmare) come true. Akin to Warframe, it launched to somewhat lukewarm reviews, but has continued to expand as the years have gone on, cementing itse"
     }
   ],
   "patches": [],
@@ -159,11 +159,11 @@
     ]
   },
   "reviews": {
-    "total_reviews": 915790,
-    "positive": 718497,
-    "negative": 197293,
+    "total_reviews": 916270,
+    "positive": 718879,
+    "negative": 197391,
     "positive_rate": 78.5
   },
-  "ccu": 79905,
-  "crawled_at": "2026-07-07T03:30:48.223404"
+  "ccu": 82333,
+  "crawled_at": "2026-07-08T02:47:06.665226"
 }
