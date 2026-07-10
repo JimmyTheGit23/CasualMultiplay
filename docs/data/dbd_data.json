@@ -1,11 +1,11 @@
 {
-  "snapshot_date": "2026-07-09T03:24:01+08:00",
+  "snapshot_date": "2026-07-10T03:26:09+08:00",
   "hero": {
     "name": "黎明杀机",
-    "current_players": 77402,
+    "current_players": 75707,
     "positive_rate": 78.5,
-    "reviews_total": 916802,
-    "price_label": "¥ 37.50",
+    "reviews_total": 917242,
+    "price_label": "¥ 93.75",
     "release_date": "2016 年 6 月 14 日",
     "genres": [
       "动作"
@@ -139,15 +139,15 @@
     "name_en": "Dead by Daylight",
     "short_description": "10年恐惧相伴。10年的惊吓与刺激体验。10年的残暴献祭与惊险逃脱。 永久困于邪恶的幻境之中，即使死亡也无法逃脱，这是一场需要勇气和智慧的较量，四名意志坚定的逃生者在残忍对局中面对嗜血杀手。选择一方，进入多人非对称竞技游戏世界，获得最佳恐怖游戏体验。",
     "short_description_en": "10 years of horror. 10 years of jump scares and close calls. 10 years of brutal sacrifices and thrilling escapes. Trapped forever in a realm of eldritch evil where even death is not an escape, four determined Survivors face a bloodthirsty Killer in a vicious game of nerve and wits.",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/381210/66727e8249aae119400352d4b1d84928f924939c/header_alt_assets_8.jpg?t=1782395976",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/381210/header.jpg?t=1783618189",
     "developers": [
       "Behaviour Interactive Inc."
     ],
     "publishers": [
       "Behaviour Interactive Inc."
     ],
-    "price": "¥ 37.50",
-    "price_en": "$7.99",
+    "price": "¥ 93.75",
+    "price_en": "$19.99",
     "release_date": "2016 年 6 月 14 日",
     "platforms": {
       "windows": true,
@@ -159,11 +159,11 @@
     ]
   },
   "reviews": {
-    "total_reviews": 916802,
-    "positive": 719277,
-    "negative": 197525,
+    "total_reviews": 917242,
+    "positive": 719621,
+    "negative": 197621,
     "positive_rate": 78.5
   },
-  "ccu": 77402,
-  "crawled_at": "2026-07-09T03:24:01.541223"
+  "ccu": 75707,
+  "crawled_at": "2026-07-10T03:26:09.418743"
 }
