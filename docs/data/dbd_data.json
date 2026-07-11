@@ -1,10 +1,10 @@
 {
-  "snapshot_date": "2026-07-10T03:26:09+08:00",
+  "snapshot_date": "2026-07-11T02:44:42+08:00",
   "hero": {
     "name": "黎明杀机",
-    "current_players": 75707,
+    "current_players": 77850,
     "positive_rate": 78.5,
-    "reviews_total": 917242,
+    "reviews_total": 917667,
     "price_label": "¥ 93.75",
     "release_date": "2016 年 6 月 14 日",
     "genres": [
@@ -12,6 +12,17 @@
     ]
   },
   "operations": [
+    {
+      "date": "2026-07-10",
+      "timestamp": 1783696538,
+      "title": "Unkillable: inside Dead by Daylight's incredible decade of scares",
+      "url": "https://steamstore-a.akamaihd.net/news/externalpost/PCGamesN/1837955055357223",
+      "author": "editor@pcgamesn.com",
+      "feed_label": "PCGamesN",
+      "feed_type": "媒体",
+      "is_patch": false,
+      "contents": "Dead by Daylight has been terrifying players for ten years now, so I caught up with Behaviour to chat about DBD's legacy, and its future. Read the full story on PCGamesN: <a href=\"https://www.pcgamesn"
+    },
     {
       "date": "2026-07-07",
       "timestamp": 1783414800,
@@ -88,17 +99,6 @@
       "feed_type": "媒体",
       "is_patch": false,
       "contents": "<a href=\"https://steamdb.info/topsellers/2026W26/?utm_source=Steam&utm_medium=Steam&utm_campaign=SteamRSS\"> </a> * <a href=\"https://steamdb.info/app/4704690/charts/?utm_source=Steam&utm_medium=Steam&u"
-    },
-    {
-      "date": "2026-06-18",
-      "timestamp": 1781792187,
-      "title": "Dead by Daylight | Jason launch stream, Featuring PaulieEsther (replay)",
-      "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1835871199304397",
-      "author": "mahdi.roy",
-      "feed_label": "Community Announcements",
-      "feed_type": "官方",
-      "is_patch": false,
-      "contents": "Featuring PaulieEsther! Watch the full Twitch replay via this link: https://www.twitch.tv/videos/2798058939"
     }
   ],
   "patches": [],
@@ -159,11 +159,11 @@
     ]
   },
   "reviews": {
-    "total_reviews": 917242,
-    "positive": 719621,
-    "negative": 197621,
+    "total_reviews": 917667,
+    "positive": 719959,
+    "negative": 197708,
     "positive_rate": 78.5
   },
-  "ccu": 75707,
-  "crawled_at": "2026-07-10T03:26:09.418743"
+  "ccu": 77850,
+  "crawled_at": "2026-07-11T02:44:42.312440"
 }
