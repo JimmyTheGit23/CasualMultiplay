@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "validated_at": "2026-07-03T17:36:22.766470+08:00",
-    "date": "2026-07-03",
+    "validated_at": "2026-07-13T10:33:16.709301+08:00",
+    "date": "2026-07-13",
     "passed": true,
     "total_checks": 18,
     "pass_count": 18,
@@ -30,7 +30,7 @@
     {
       "name": "steam_data 游戏数",
       "status": "PASS",
-      "message": "20 款游戏有实时数据",
+      "message": "33 款游戏有实时数据",
       "details": []
     },
     {
@@ -108,7 +108,7 @@
     {
       "name": "history 最新日期",
       "status": "PASS",
-      "message": "今天 (2026-07-03) 数据已入库",
+      "message": "今天 (2026-07-13) 数据已入库",
       "details": []
     },
     {

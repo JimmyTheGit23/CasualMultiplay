@@ -7,31 +7,37 @@ import json
 import urllib.request
 import urllib.error
 import time
+import os
 from datetime import datetime
 
-# 追踪的Steam游戏列表
-STEAM_GAMES = {
-    "R.E.P.O.": 3241660,
-    "Lethal Company": 1966720,
-    "Phasmophobia": 739630,
-    "Content Warning": 2881650,
-    "FEEDERS": 4408510,
-    "NARAKA: BLADEPOINT": 1203220,
-    "MECCHA CHAMELEON": 4704690,
-    "HELLDIVERS 2": 553850,
-    "Deep Rock Galactic": 548430,
-    "Dead by Daylight": 381210,
-    "Among Us": 945360,
-    "Sons Of The Forest": 1326470,
-    "Risk of Rain 2": 632360,
-    "Windblown": 1911610,
-    "Peak": 3527290,
-    "Far Far West": 3124540,
-    "Burglin' Gnomes": 3844970,
-    "Lost Castle 2": 2445690,
-    "Garry's Mod": 4000,
-    "Crab Game": 1782210,
-}
+BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+REGISTRY_PATH = os.path.join(BASE_DIR, "docs", "data", "game_registry.json")
+
+
+def build_steam_games_from_registry():
+    """从 registry 自动构建 STEAM_GAMES,覆盖所有有 appid 的游戏"""
+    if not os.path.exists(REGISTRY_PATH):
+        return {}
+    with open(REGISTRY_PATH, 'r', encoding='utf-8') as f:
+        registry = json.load(f)
+    games = {}
+    for g in registry.get('games', []):
+        appid = g.get('appid', 0)
+        if not appid or appid == 0:
+            continue
+        # key 用 steam_key 优先,否则用 cn_name
+        key = g.get('steam_key') or g.get('cn_name') or g.get('name')
+        if not key:
+            continue
+        if key in games:
+            # 已存在则不覆盖(避免重复)
+            continue
+        games[key] = appid
+    return games
+
+
+# 追踪的Steam游戏列表(自动从 registry 构建,缺哪个手动加)
+STEAM_GAMES = build_steam_games_from_registry()
 
 
 def fetch_json(url, retries=3):

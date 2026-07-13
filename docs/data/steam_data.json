@@ -14,12 +14,12 @@
       "publishers": [
         "semiwork"
       ],
-      "price": "¥ 22.75",
-      "price_en": "¥ 22.75",
+      "price": "¥ 35.00",
+      "price_en": "¥ 35.00",
       "release_date": "2025 年 2 月 26 日",
       "release_date_en": "26 Feb, 2025",
       "metacritic": null,
-      "recommendations": 326986,
+      "recommendations": 329317,
       "platforms": {
         "windows": true,
         "mac": false,
@@ -59,16 +59,16 @@
       ]
     },
     "steamspy": {
-      "ccu": 17031
+      "ccu": 26202
     },
     "reviews": {
-      "total_reviews": 15115,
-      "positive": 14017,
-      "negative": 1098,
-      "positive_rate": 92.7
+      "total_reviews": 15309,
+      "positive": 14178,
+      "negative": 1131,
+      "positive_rate": 92.6
     },
-    "ccu": 17031,
-    "crawled_at": "2026-07-03T15:37:33.137999"
+    "ccu": 26202,
+    "crawled_at": "2026-07-13T10:27:49.336549"
   },
   "Lethal Company": {
     "appid": 1966720,
@@ -90,7 +90,7 @@
       "release_date": "2023 年 10 月 23 日",
       "release_date_en": "23 Oct, 2023",
       "metacritic": null,
-      "recommendations": 410391,
+      "recommendations": 410580,
       "platforms": {
         "windows": true,
         "mac": false,
@@ -130,113 +130,16 @@
       ]
     },
     "steamspy": {
-      "ccu": 1862
+      "ccu": 4175
     },
     "reviews": {
-      "total_reviews": 17647,
-      "positive": 16397,
-      "negative": 1250,
+      "total_reviews": 17657,
+      "positive": 16405,
+      "negative": 1252,
       "positive_rate": 92.9
     },
-    "ccu": 1862,
-    "crawled_at": "2026-07-03T15:37:39.620641"
-  },
-  "Phasmophobia": {
-    "appid": 739630,
-    "store": {
-      "name": "Phasmophobia 恐鬼症",
-      "name_en": "Phasmophobia",
-      "type": "game",
-      "short_description": "Phasmophobia is a 4 player online co-op psychological horror. Paranormal activity is on the rise and it’s up to you and your team to use all the ghost-hunting equipment at your disposal in order to gather as much evidence as you can.",
-      "short_description_en": "Phasmophobia is a 4 player online co-op psychological horror. Paranormal activity is on the rise and it’s up to you and your team to use all the ghost-hunting equipment at your disposal in order to gather as much evidence as you can.",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/739630/c227a2855aba60f3657bc0c3a46515b8c41fb2b6/header.jpg?t=1782311537",
-      "developers": [
-        "Kinetic Games"
-      ],
-      "publishers": [
-        "Kinetic Games"
-      ],
-      "price": "¥ 47.60",
-      "price_en": "¥ 47.60",
-      "release_date": "2020 年 9 月 18 日",
-      "release_date_en": "18 Sep, 2020",
-      "metacritic": null,
-      "recommendations": 678712,
-      "platforms": {
-        "windows": true,
-        "mac": false,
-        "linux": false
-      },
-      "categories": [
-        "单人",
-        "多人",
-        "合作",
-        "在线合作",
-        "Steam 成就",
-        "完全支持控制器",
-        "定位控制器支持",
-        "已支持 VR",
-        "Steam 集换式卡牌",
-        "视角舒适度",
-        "可调整难度",
-        "无需应对快速反应事件",
-        "DUALSHOCK 控制器支持",
-        "DUALSHOCK 控制器支持",
-        "DUALSHOCK 控制器支持",
-        "DUALSHOCK 控制器支持",
-        "立体声",
-        "环绕声",
-        "Steam 云",
-        "在手机上远程畅玩",
-        "在平板上远程畅玩",
-        "家庭共享"
-      ],
-      "categories_en": [
-        "Single-player",
-        "Multi-player",
-        "Co-op",
-        "Online Co-op",
-        "Steam Achievements",
-        "Full controller support",
-        "Tracked Controller Support",
-        "VR Supported",
-        "Steam Trading Cards",
-        "Camera Comfort",
-        "Adjustable Difficulty",
-        "Playable without Timed Input",
-        "DualShock Controller Support",
-        "DualShock Controller Support",
-        "DualShock Controller Support",
-        "DualShock Controller Support",
-        "Stereo Sound",
-        "Surround Sound",
-        "Steam Cloud",
-        "Remote Play on Phone",
-        "Remote Play on Tablet",
-        "Family Sharing"
-      ],
-      "genres": [
-        "动作",
-        "独立",
-        "抢先体验"
-      ],
-      "genres_en": [
-        "Action",
-        "Indie",
-        "Early Access"
-      ]
-    },
-    "steamspy": {
-      "ccu": 4975
-    },
-    "reviews": {
-      "total_reviews": 26879,
-      "positive": 24359,
-      "negative": 2520,
-      "positive_rate": 90.6
-    },
-    "ccu": 4975,
-    "crawled_at": "2026-07-03T15:37:46.140532"
+    "ccu": 4175,
+    "crawled_at": "2026-07-13T10:27:55.590336"
   },
   "Content Warning": {
     "appid": 2881650,
@@ -257,12 +160,12 @@
       "publishers": [
         "Evil Landfall?"
       ],
-      "price": "¥ 20.46",
-      "price_en": "¥ 20.46",
+      "price": "¥ 16.50",
+      "price_en": "¥ 16.50",
       "release_date": "2024 年 4 月 1 日",
       "release_date_en": "1 Apr, 2024",
       "metacritic": null,
-      "recommendations": 70118,
+      "recommendations": 70395,
       "platforms": {
         "windows": true,
         "mac": false,
@@ -273,7 +176,7 @@
         "合作",
         "在线合作",
         "DUALSHOCK 控制器支持",
-        "DUALSHOCK 控制器支持",
+        "DualSense 控制器支持",
         "部分支持控制器",
         "Steam 云",
         "家庭共享"
@@ -283,7 +186,7 @@
         "Co-op",
         "Online Co-op",
         "DualShock Controller Support",
-        "DualShock Controller Support",
+        "DualSense Controller Support",
         "Partial Controller Support",
         "Steam Cloud",
         "Family Sharing"
@@ -300,16 +203,16 @@
       ]
     },
     "steamspy": {
-      "ccu": 653
+      "ccu": 1513
     },
     "reviews": {
-      "total_reviews": 6854,
-      "positive": 6158,
-      "negative": 696,
+      "total_reviews": 6875,
+      "positive": 6173,
+      "negative": 702,
       "positive_rate": 89.8
     },
-    "ccu": 653,
-    "crawled_at": "2026-07-03T15:37:52.603187"
+    "ccu": 1513,
+    "crawled_at": "2026-07-13T10:28:02.121835"
   },
   "FEEDERS": {
     "appid": 4408510,
@@ -376,7 +279,395 @@
       "positive_rate": 64.3
     },
     "ccu": 0,
-    "crawled_at": "2026-07-03T15:38:04.967159"
+    "crawled_at": "2026-07-13T10:28:14.181566"
+  },
+  "Peak": {
+    "appid": 3527290,
+    "store": {
+      "name": "PEAK",
+      "name_en": "PEAK",
+      "type": "game",
+      "short_description": "《PEAK》是一款需要细致合作的登山游戏，作为流落神秘岛屿的童子军探险家，无论单人独闯抑或团队协力，你们唯一获救的希望便是登上岛中那座巍峨的山峰，自然荒野险途漫漫，稍有不慎便会大难临头。顶峰在望，你有魄力能征服它吗？",
+      "short_description_en": "PEAK is a co-op climbing game where the slightest mistake can spell your doom. Either solo or as a group of lost nature scouts, your only hope of rescue from a mysterious island is to scale the mountain at its center. Do you have what it takes to reach the PEAK?",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3527290/31bac6b2eccf09b368f5e95ce510bae2baf3cfcd/header.jpg?t=1775581133",
+      "developers": [
+        "Team PEAK"
+      ],
+      "publishers": [
+        "Aggro Crab",
+        "Evil Landfall?"
+      ],
+      "price": "¥ 33.00",
+      "price_en": "¥ 33.00",
+      "release_date": "2025 年 6 月 16 日",
+      "release_date_en": "16 Jun, 2025",
+      "metacritic": null,
+      "recommendations": 273691,
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "categories": [
+        "单人",
+        "多人",
+        "合作",
+        "在线合作",
+        "Steam 成就",
+        "完全支持控制器",
+        "Steam 集换式卡牌",
+        "DUALSHOCK 控制器支持",
+        "DUALSHOCK 控制器支持",
+        "DualSense 控制器支持",
+        "DualSense 控制器支持",
+        "家庭共享"
+      ],
+      "categories_en": [
+        "Single-player",
+        "Multi-player",
+        "Co-op",
+        "Online Co-op",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Trading Cards",
+        "DualShock Controller Support",
+        "DualShock Controller Support",
+        "DualSense Controller Support",
+        "DualSense Controller Support",
+        "Family Sharing"
+      ],
+      "genres": [
+        "动作",
+        "冒险",
+        "独立"
+      ],
+      "genres_en": [
+        "Action",
+        "Adventure",
+        "Indie"
+      ]
+    },
+    "steamspy": {
+      "ccu": 16283
+    },
+    "reviews": {
+      "total_reviews": 19642,
+      "positive": 16369,
+      "negative": 3273,
+      "positive_rate": 83.3
+    },
+    "ccu": 16283,
+    "crawled_at": "2026-07-13T10:28:21.050558"
+  },
+  "Phasmophobia": {
+    "appid": 739630,
+    "store": {
+      "name": "Phasmophobia 恐鬼症",
+      "name_en": "Phasmophobia",
+      "type": "game",
+      "short_description": "Phasmophobia is a 4 player online co-op psychological horror. Paranormal activity is on the rise and it’s up to you and your team to use all the ghost-hunting equipment at your disposal in order to gather as much evidence as you can.",
+      "short_description_en": "Phasmophobia is a 4 player online co-op psychological horror. Paranormal activity is on the rise and it’s up to you and your team to use all the ghost-hunting equipment at your disposal in order to gather as much evidence as you can.",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/739630/c227a2855aba60f3657bc0c3a46515b8c41fb2b6/header.jpg?t=1782311537",
+      "developers": [
+        "Kinetic Games"
+      ],
+      "publishers": [
+        "Kinetic Games"
+      ],
+      "price": "¥ 68.00",
+      "price_en": "¥ 68.00",
+      "release_date": "2020 年 9 月 18 日",
+      "release_date_en": "18 Sep, 2020",
+      "metacritic": null,
+      "recommendations": 679418,
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "categories": [
+        "单人",
+        "多人",
+        "合作",
+        "在线合作",
+        "Steam 成就",
+        "完全支持控制器",
+        "定位控制器支持",
+        "已支持 VR",
+        "Steam 集换式卡牌",
+        "视角舒适度",
+        "可调整难度",
+        "无需应对快速反应事件",
+        "DUALSHOCK 控制器支持",
+        "DUALSHOCK 控制器支持",
+        "DualSense 控制器支持",
+        "DualSense 控制器支持",
+        "立体声",
+        "环绕声",
+        "Steam 云",
+        "在手机上远程畅玩",
+        "在平板上远程畅玩",
+        "家庭共享"
+      ],
+      "categories_en": [
+        "Single-player",
+        "Multi-player",
+        "Co-op",
+        "Online Co-op",
+        "Steam Achievements",
+        "Full controller support",
+        "Tracked Controller Support",
+        "VR Supported",
+        "Steam Trading Cards",
+        "Camera Comfort",
+        "Adjustable Difficulty",
+        "Playable without Timed Input",
+        "DualShock Controller Support",
+        "DualShock Controller Support",
+        "DualSense Controller Support",
+        "DualSense Controller Support",
+        "Stereo Sound",
+        "Surround Sound",
+        "Steam Cloud",
+        "Remote Play on Phone",
+        "Remote Play on Tablet",
+        "Family Sharing"
+      ],
+      "genres": [
+        "动作",
+        "独立",
+        "抢先体验"
+      ],
+      "genres_en": [
+        "Action",
+        "Indie",
+        "Early Access"
+      ]
+    },
+    "steamspy": {
+      "ccu": 8789
+    },
+    "reviews": {
+      "total_reviews": 26940,
+      "positive": 24409,
+      "negative": 2531,
+      "positive_rate": 90.6
+    },
+    "ccu": 8789,
+    "crawled_at": "2026-07-13T10:28:27.558821"
+  },
+  "驱魔人": {
+    "appid": 1929610,
+    "store": {
+      "name": "Demonologist",
+      "name_en": "Demonologist",
+      "type": "game",
+      "short_description": "恶魔学家是一款合作式恐怖游戏，可由至少1名和最多4名玩家一起玩。你的目标是识别被诅咒的地方的恶灵类型，并使用你的设备将其驱除，无论是单独还是与你的团队合作。",
+      "short_description_en": "Demonologist is a Co-Op horror game that can be played with at least 1 and up to 4 players. Your goal is to identify the type of evil spirit in cursed places and exorcise it using your equipment, either alone or with your team.",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1929610/header.jpg?t=1761136310",
+      "developers": [
+        "Clock Wizard Games"
+      ],
+      "publishers": [
+        "Clock Wizard Games"
+      ],
+      "price": "¥ 76.00",
+      "price_en": "¥ 76.00",
+      "release_date": "2023 年 9 月 25 日",
+      "release_date_en": "25 Sep, 2023",
+      "metacritic": null,
+      "recommendations": 18617,
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "categories": [
+        "单人",
+        "多人",
+        "合作",
+        "在线合作",
+        "Steam 成就",
+        "Steam 云",
+        "家庭共享"
+      ],
+      "categories_en": [
+        "Single-player",
+        "Multi-player",
+        "Co-op",
+        "Online Co-op",
+        "Steam Achievements",
+        "Steam Cloud",
+        "Family Sharing"
+      ],
+      "genres": [
+        "动作",
+        "冒险",
+        "独立"
+      ],
+      "genres_en": [
+        "Action",
+        "Adventure",
+        "Indie"
+      ]
+    },
+    "steamspy": {
+      "ccu": 381
+    },
+    "reviews": {
+      "total_reviews": 441,
+      "positive": 340,
+      "negative": 101,
+      "positive_rate": 77.1
+    },
+    "ccu": 381,
+    "crawled_at": "2026-07-13T10:28:33.854692"
+  },
+  "逃生：试炼": {
+    "appid": 1304930,
+    "store": {
+      "name": "The Outlast Trials",
+      "name_en": "The Outlast Trials",
+      "type": "game",
+      "short_description": "Red Barrels invites you to experience mind-numbing terror, this time with friends. Whether you go through the trials alone or in teams, if you survive long enough and complete the therapy, Murkoff will happily let you leave… but will you be the same?",
+      "short_description_en": "Red Barrels invites you to experience mind-numbing terror, this time with friends. Whether you go through the trials alone or in teams, if you survive long enough and complete the therapy, Murkoff will happily let you leave… but will you be the same?",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1304930/5a49938b6562464d06a9b7155bae9c435bb71093/header_alt_assets_2.jpg?t=1779221190",
+      "developers": [
+        "Red Barrels"
+      ],
+      "publishers": [
+        "Red Barrels"
+      ],
+      "price": "¥ 136.00",
+      "price_en": "¥ 136.00",
+      "release_date": "2024 年 3 月 5 日",
+      "release_date_en": "5 Mar, 2024",
+      "metacritic": null,
+      "recommendations": 87053,
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "categories": [
+        "单人",
+        "多人",
+        "合作",
+        "在线合作",
+        "完全支持控制器",
+        "DUALSHOCK 控制器支持",
+        "DUALSHOCK 控制器支持",
+        "DualSense 控制器支持",
+        "DualSense 控制器支持",
+        "家庭共享"
+      ],
+      "categories_en": [
+        "Single-player",
+        "Multi-player",
+        "Co-op",
+        "Online Co-op",
+        "Full controller support",
+        "DualShock Controller Support",
+        "DualShock Controller Support",
+        "DualSense Controller Support",
+        "DualSense Controller Support",
+        "Family Sharing"
+      ],
+      "genres": [
+        "动作",
+        "冒险",
+        "独立"
+      ],
+      "genres_en": [
+        "Action",
+        "Adventure",
+        "Indie"
+      ]
+    },
+    "steamspy": {
+      "ccu": 5724
+    },
+    "reviews": {
+      "total_reviews": 13504,
+      "positive": 11927,
+      "negative": 1577,
+      "positive_rate": 88.3
+    },
+    "ccu": 5724,
+    "crawled_at": "2026-07-13T10:28:40.990702"
+  },
+  "猎杀：对决": {
+    "appid": 594650,
+    "store": {
+      "name": "猎杀：对决 1896",
+      "name_en": "Hunt: Showdown 1896",
+      "type": "game",
+      "short_description": "《猎杀：对决 1896》是一款硬核高回报的撤离式射击游戏。追踪畸变怪物，在残酷的PvP对抗中生还。深入被历史遗忘的腐化荒泽，夺取悬赏赏金。组队协作，才能求得生存。一无所有葬身荒野，或是满载物资全身而退，都在一念之间。",
+      "short_description_en": "Hunt: Showdown 1896 is the brutally rewarding extraction shooter. Track twisted monsters and overcome ruthless PvP. Take bounties in corrupted backwaters lost to history. With a team, you might survive. Die with nothing or get out with everything.",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/594650/6b21392c2e731ea04b965cbfe196058efdbd330e/header_alt_assets_26.jpg?t=1783433975",
+      "developers": [
+        "Crytek"
+      ],
+      "publishers": [
+        "Crytek"
+      ],
+      "price": "¥ 128.00",
+      "price_en": "¥ 128.00",
+      "release_date": "2019 年 8 月 27 日",
+      "release_date_en": "27 Aug, 2019",
+      "metacritic": 81,
+      "recommendations": 210880,
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "categories": [
+        "多人",
+        "玩家对战",
+        "线上玩家对战",
+        "合作",
+        "在线合作",
+        "Steam 成就",
+        "完全支持控制器",
+        "Steam 集换式卡牌",
+        "应用内购买",
+        "Steam 排行榜",
+        "在平板上远程畅玩",
+        "在电视上远程畅玩"
+      ],
+      "categories_en": [
+        "Multi-player",
+        "PvP",
+        "Online PvP",
+        "Co-op",
+        "Online Co-op",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Trading Cards",
+        "In-App Purchases",
+        "Steam Leaderboards",
+        "Remote Play on Tablet",
+        "Remote Play on TV"
+      ],
+      "genres": [
+        "动作"
+      ],
+      "genres_en": [
+        "Action"
+      ]
+    },
+    "steamspy": {
+      "ccu": 10075
+    },
+    "reviews": {
+      "total_reviews": 45627,
+      "positive": 28094,
+      "negative": 17533,
+      "positive_rate": 61.6
+    },
+    "ccu": 10075,
+    "crawled_at": "2026-07-13T10:28:47.997817"
   },
   "NARAKA: BLADEPOINT": {
     "appid": 1203220,
@@ -386,7 +677,7 @@
       "type": "game",
       "short_description": "风靡全球的中式竞技大作！来这里舞利刃、端火枪，享受远近结合的华丽战斗！驾驭风沙、机甲，化身野兽、大佛，体验风格迥异的英雄能力！",
       "short_description_en": "Dive into the legends of the Far East in NARAKA: BLADEPOINT; team up with friends in fast-paced melee fights for a Battle Royale experience unlike any other. Find your playstyle with a varied cast of heroes with unique skills. More than 40 million players have already joined the fray, play free now!",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1203220/2272894267520c46470064cc4b9e86e7957499bb/header_schinese.jpg?t=1782972143",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1203220/2272894267520c46470064cc4b9e86e7957499bb/header_schinese.jpg?t=1783344476",
       "developers": [
         "24 Entertainment"
       ],
@@ -398,7 +689,7 @@
       "release_date": "2021 年 8 月 11 日",
       "release_date_en": "11 Aug, 2021",
       "metacritic": null,
-      "recommendations": 197752,
+      "recommendations": 197802,
       "platforms": {
         "windows": true,
         "mac": false,
@@ -438,16 +729,590 @@
       ]
     },
     "steamspy": {
-      "ccu": 33433
+      "ccu": 23379
     },
     "reviews": {
-      "total_reviews": 251041,
-      "positive": 180671,
-      "negative": 70370,
+      "total_reviews": 251290,
+      "positive": 180818,
+      "negative": 70472,
       "positive_rate": 72.0
     },
-    "ccu": 33433,
-    "crawled_at": "2026-07-03T15:38:11.621344"
+    "ccu": 23379,
+    "crawled_at": "2026-07-13T10:28:54.523251"
+  },
+  "灰境行者": {
+    "appid": 3978820,
+    "store": {
+      "name": "灰境行者",
+      "name_en": "Rules of Engagement: The Grey State",
+      "type": "game",
+      "short_description": "欢迎来到《灰境行者》，一款全新的战术射击RPG。你将操控“行者”仿生体进入神秘的“灰境”，面对扭曲的怪物与其他小队，打造你的专属构筑，杀出重围，满载而归！ 记住：一切恐怖，皆是财富。",
+      "short_description_en": "A new gold rush has begun. In this Tactical RPG Shooter, you are a Strider, an elite operative sent into the Grey State to retrieve priceless artifacts. Craft your own build, survive nightmarish creatures and rival squads, and get paid. This isn't about saving the world. It's just business.",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3978820/78e11f819d574de40c71732ec86411e024e333d8/header_schinese.jpg?t=1778642131",
+      "developers": [
+        "Grey State Studio"
+      ],
+      "publishers": [
+        "Grey State Studio"
+      ],
+      "price": "免费",
+      "price_en": "Free To Play",
+      "release_date": "即将宣布",
+      "release_date_en": "To be announced",
+      "metacritic": null,
+      "recommendations": 0,
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "categories": [
+        "多人",
+        "大型多人在线",
+        "玩家对战",
+        "线上玩家对战",
+        "合作",
+        "在线合作",
+        "家庭共享"
+      ],
+      "categories_en": [
+        "Multi-player",
+        "MMO",
+        "PvP",
+        "Online PvP",
+        "Co-op",
+        "Online Co-op",
+        "Family Sharing"
+      ],
+      "genres": [
+        "动作",
+        "冒险",
+        "角色扮演",
+        "免费开玩"
+      ],
+      "genres_en": [
+        "Action",
+        "Adventure",
+        "RPG",
+        "Free To Play"
+      ]
+    },
+    "steamspy": null,
+    "reviews": {
+      "total_reviews": 0,
+      "positive": 0,
+      "negative": 0,
+      "positive_rate": 0.0
+    },
+    "ccu": 0,
+    "crawled_at": "2026-07-13T10:29:10.923239"
+  },
+  "Haunted": {
+    "appid": 3850670,
+    "store": {
+      "name": "HAUNTED: Escape the Dollhouse",
+      "name_en": "HAUNTED: Escape the Dollhouse",
+      "type": "game",
+      "short_description": "一名玩家调查神秘的玩偶屋，而朋友们则被困其中。支持2至4名玩家的合作超自然调查游戏。分享线索、破解灵异谜题，并在队友给出离谱指挥时努力保持冷静。",
+      "short_description_en": "One player investigates a mysterious dollhouse while their friends are trapped inside it. A chaotic and highly replayable co-op paranormal investigation for 2–4 players. Share clues, solve occult puzzles, and try not to panic when your friends give terrible directions.",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3850670/0b81efc92e1dcac4054f452f142300df001fd9c1/header_schinese.jpg?t=1782261484",
+      "developers": [
+        "Coven"
+      ],
+      "publishers": [
+        "Coven"
+      ],
+      "price": "免费",
+      "price_en": "Free To Play",
+      "release_date": "即将宣布",
+      "release_date_en": "To be announced",
+      "metacritic": null,
+      "recommendations": 0,
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "categories": [
+        "多人",
+        "合作",
+        "在线合作",
+        "无需应对快速反应事件",
+        "立体声",
+        "家庭共享"
+      ],
+      "categories_en": [
+        "Multi-player",
+        "Co-op",
+        "Online Co-op",
+        "Playable without Timed Input",
+        "Stereo Sound",
+        "Family Sharing"
+      ],
+      "genres": [
+        "动作",
+        "冒险",
+        "独立"
+      ],
+      "genres_en": [
+        "Action",
+        "Adventure",
+        "Indie"
+      ]
+    },
+    "steamspy": null,
+    "reviews": {
+      "total_reviews": 0,
+      "positive": 0,
+      "negative": 0,
+      "positive_rate": 0.0
+    },
+    "ccu": 0,
+    "crawled_at": "2026-07-13T10:29:27.877981"
+  },
+  "The Reflection": {
+    "appid": 4314340,
+    "store": {
+      "name": "The Reflection",
+      "name_en": "The Reflection",
+      "type": "game",
+      "short_description": "The Reflection is a ritual-based co-op horror game focused on tension, teamwork, and survival. Trapped inside a cursed mansion, players must a investigate supernatural event, perform the correct rituals, and exorcise a dangerous entity before it consumes them.",
+      "short_description_en": "The Reflection is a ritual-based co-op horror game focused on tension, teamwork, and survival. Trapped inside a cursed mansion, players must a investigate supernatural event, perform the correct rituals, and exorcise a dangerous entity before it consumes them.",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4314340/8326f1f620512ecdd885ee65f390b100e2e9e1a7/header.jpg?t=1783619717",
+      "developers": [
+        "Pinwheels Studio"
+      ],
+      "publishers": [
+        "Pinwheels Studio"
+      ],
+      "price": "免费",
+      "price_en": "Free To Play",
+      "release_date": "2026 年第三季度",
+      "release_date_en": "Q3 2026",
+      "metacritic": null,
+      "recommendations": 0,
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "categories": [
+        "多人",
+        "合作",
+        "在线合作",
+        "Steam 成就",
+        "Steam 云",
+        "家庭共享"
+      ],
+      "categories_en": [
+        "Multi-player",
+        "Co-op",
+        "Online Co-op",
+        "Steam Achievements",
+        "Steam Cloud",
+        "Family Sharing"
+      ],
+      "genres": [
+        "动作",
+        "独立"
+      ],
+      "genres_en": [
+        "Action",
+        "Indie"
+      ]
+    },
+    "steamspy": null,
+    "reviews": {
+      "total_reviews": 0,
+      "positive": 0,
+      "negative": 0,
+      "positive_rate": 0.0
+    },
+    "ccu": 0,
+    "crawled_at": "2026-07-13T10:29:44.381845"
+  },
+  "Radio Decay": {
+    "appid": 3956540,
+    "store": {
+      "name": "Radio Decay",
+      "name_en": "Radio Decay",
+      "type": "game",
+      "short_description": "这是一款最多支持1至6人合作的生存恐怖游戏，背景设定在一个超自然的核末日世界。玩家将深入被遗弃的城市，提取放射性物质，同时在各种虫形畸变体的追猎下努力生存。用义肢重塑逐渐腐败的身体，武装自己，并通过无线电呼叫好友来帮忙。",
+      "short_description_en": "A 1-6 player co-op survival horror set in a supernatural nuclear apocalypse. Drop-pod into an abandoned city to extract radioactive artifacts while being hunted by giant bug-like monsters. Rebuild your decaying body with prosthetic limbs, arm yourself, and radio your friends for help.",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3956540/abbb3ab66514a9324adbe09020628b463a769337/header.jpg?t=1780783261",
+      "developers": [
+        "Rare Parrot Games"
+      ],
+      "publishers": [
+        "Rare Parrot Games"
+      ],
+      "price": "免费",
+      "price_en": "Free To Play",
+      "release_date": "即将推出",
+      "release_date_en": "Coming soon",
+      "metacritic": null,
+      "recommendations": 0,
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "categories": [
+        "单人",
+        "多人",
+        "合作",
+        "在线合作",
+        "视角舒适度",
+        "自定义音量控制",
+        "无需应对快速反应事件",
+        "立体声",
+        "家庭共享"
+      ],
+      "categories_en": [
+        "Single-player",
+        "Multi-player",
+        "Co-op",
+        "Online Co-op",
+        "Camera Comfort",
+        "Custom Volume Controls",
+        "Playable without Timed Input",
+        "Stereo Sound",
+        "Family Sharing"
+      ],
+      "genres": [
+        "动作",
+        "冒险",
+        "独立"
+      ],
+      "genres_en": [
+        "Action",
+        "Adventure",
+        "Indie"
+      ]
+    },
+    "steamspy": null,
+    "reviews": {
+      "total_reviews": 0,
+      "positive": 0,
+      "negative": 0,
+      "positive_rate": 0.0
+    },
+    "ccu": 0,
+    "crawled_at": "2026-07-13T10:30:01.065584"
+  },
+  "In Us": {
+    "appid": 4640600,
+    "store": {
+      "name": "In Us",
+      "name_en": "In Us",
+      "type": "game",
+      "short_description": "恶魔，就行走于我们之中——戴着人类的面孔。 揭穿它们。祓除它们。与同伴，并肩。",
+      "short_description_en": "The devil wears a human face. Unmask and exorcise it—with friends. A 4-player co-op horror game where you hunt demons lurking in a village. Observe behavior, detect environmental shifts, and use items to expose the truth. But beware: should you misjudge, the consequences will be severe.",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4640600/d008f2640bc80fda01db17a6792a821fcb390db1/header.jpg?t=1777125991",
+      "developers": [
+        "engawa games"
+      ],
+      "publishers": [
+        "engawa games"
+      ],
+      "price": "免费",
+      "price_en": "Free To Play",
+      "release_date": "2026 年",
+      "release_date_en": "2026",
+      "metacritic": null,
+      "recommendations": 0,
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "categories": [
+        "单人",
+        "多人",
+        "合作",
+        "在线合作",
+        "完全支持控制器",
+        "DUALSHOCK 控制器支持",
+        "DUALSHOCK 控制器支持",
+        "DualSense 控制器支持",
+        "DualSense 控制器支持",
+        "家庭共享"
+      ],
+      "categories_en": [
+        "Single-player",
+        "Multi-player",
+        "Co-op",
+        "Online Co-op",
+        "Full controller support",
+        "DualShock Controller Support",
+        "DualShock Controller Support",
+        "DualSense Controller Support",
+        "DualSense Controller Support",
+        "Family Sharing"
+      ],
+      "genres": [
+        "动作",
+        "独立"
+      ],
+      "genres_en": [
+        "Action",
+        "Indie"
+      ]
+    },
+    "steamspy": null,
+    "reviews": {
+      "total_reviews": 0,
+      "positive": 0,
+      "negative": 0,
+      "positive_rate": 0.0
+    },
+    "ccu": 0,
+    "crawled_at": "2026-07-13T10:30:17.688051"
+  },
+  "狂欢猎杀": {
+    "appid": 1181550,
+    "store": {
+      "name": "Carnival Hunt",
+      "name_en": "Carnival Hunt",
+      "type": "game",
+      "short_description": "Carnival Hunt is an asymmetric multiplayer horror game set inside a living, ever-shifting mechanical carnival designed by the Puppetmaster. One player becomes the Carnival Monster, while others play as puppet Bunnies struggling to survive, ascend, and escape the hunt.",
+      "short_description_en": "Carnival Hunt is an asymmetric multiplayer horror game set inside a living, ever-shifting mechanical carnival designed by the Puppetmaster. One player becomes the Carnival Monster, while others play as puppet Bunnies struggling to survive, ascend, and escape the hunt.",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1181550/header.jpg?t=1783611959",
+      "developers": [
+        "Crytivo",
+        "Beer Night Studio"
+      ],
+      "publishers": [
+        "Crytivo"
+      ],
+      "price": "免费",
+      "price_en": "Free To Play",
+      "release_date": "2026 年 7 月 23 日",
+      "release_date_en": "23 Jul, 2026",
+      "metacritic": null,
+      "recommendations": 0,
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "categories": [
+        "多人",
+        "玩家对战",
+        "线上玩家对战",
+        "合作",
+        "在线合作",
+        "跨平台多人",
+        "Steam 成就",
+        "完全支持控制器",
+        "支持字幕",
+        "DUALSHOCK 控制器支持",
+        "DUALSHOCK 控制器支持",
+        "DualSense 控制器支持",
+        "DualSense 控制器支持",
+        "统计数据",
+        "Steam 排行榜",
+        "Steam 回合通知",
+        "包含关卡编辑器",
+        "家庭共享"
+      ],
+      "categories_en": [
+        "Multi-player",
+        "PvP",
+        "Online PvP",
+        "Co-op",
+        "Online Co-op",
+        "Cross-Platform Multiplayer",
+        "Steam Achievements",
+        "Full controller support",
+        "Captions available",
+        "DualShock Controller Support",
+        "DualShock Controller Support",
+        "DualSense Controller Support",
+        "DualSense Controller Support",
+        "Stats",
+        "Steam Leaderboards",
+        "Steam Turn Notifications",
+        "Includes level editor",
+        "Family Sharing"
+      ],
+      "genres": [
+        "动作",
+        "独立",
+        "策略",
+        "抢先体验"
+      ],
+      "genres_en": [
+        "Action",
+        "Indie",
+        "Strategy",
+        "Early Access"
+      ]
+    },
+    "steamspy": null,
+    "reviews": {
+      "total_reviews": 0,
+      "positive": 0,
+      "negative": 0,
+      "positive_rate": 0.0
+    },
+    "ccu": 0,
+    "crawled_at": "2026-07-13T10:30:34.263641"
+  },
+  "月光光心慌慌": {
+    "appid": 3219630,
+    "store": {
+      "name": "Halloween: The Game",
+      "name_en": "Halloween: The Game",
+      "type": "game",
+      "short_description": "1978 年的万圣节之夜，没人能从迈克尔·迈尔斯的手中逃脱。在 Halloween 中，化身“面具杀手”，或者直面邪恶奋起反抗。",
+      "short_description_en": "On Halloween night, 1978, no one is safe from Michael Myers. Become the Boogeyman or fight back against the face of evil itself in Halloween.",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3219630/153ed105c4b409fe689783e4f9b6aad72c152646/header.jpg?t=1781808081",
+      "developers": [
+        "IllFonic"
+      ],
+      "publishers": [
+        "IllFonic Publishing",
+        "Co-Publisher: Gun Interactive"
+      ],
+      "price": "¥ 137.00",
+      "price_en": "¥ 137.00",
+      "release_date": "2026 年 9 月 8 日",
+      "release_date_en": "8 Sep, 2026",
+      "metacritic": null,
+      "recommendations": 0,
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "categories": [
+        "单人",
+        "多人",
+        "玩家对战",
+        "线上玩家对战",
+        "合作",
+        "在线合作",
+        "完全支持控制器",
+        "DUALSHOCK 控制器支持",
+        "DualSense 控制器支持",
+        "家庭共享"
+      ],
+      "categories_en": [
+        "Single-player",
+        "Multi-player",
+        "PvP",
+        "Online PvP",
+        "Co-op",
+        "Online Co-op",
+        "Full controller support",
+        "DualShock Controller Support",
+        "DualSense Controller Support",
+        "Family Sharing"
+      ],
+      "genres": [
+        "动作"
+      ],
+      "genres_en": [
+        "Action"
+      ]
+    },
+    "steamspy": null,
+    "reviews": {
+      "total_reviews": 0,
+      "positive": 0,
+      "negative": 0,
+      "positive_rate": 0.0
+    },
+    "ccu": 0,
+    "crawled_at": "2026-07-13T10:30:51.055688"
+  },
+  "土丘：克苏鲁恶兆": {
+    "appid": 2569760,
+    "store": {
+      "name": "The Mound: Omen of Cthulhu",
+      "name_en": "The Mound: Omen of Cthulhu",
+      "type": "game",
+      "short_description": "最多可四人合作，组建探险者小队，踏上寻宝之旅。这片被诅咒的丛林危机四伏，怪物扭曲了现实。保持冷静，在丛林吞噬你之前征服它……",
+      "short_description_en": "In up to four player co-op, form a group of explorers searching for treasure. In this cursed jungle, danger is everywhere and monstrous creatures alter reality. Stay clear-headed and tame the jungle before it devours you…",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2569760/0a3d1867d5781f18cb4fd0b1151729605e892c6b/header.jpg?t=1783713354",
+      "developers": [
+        "ACE Team"
+      ],
+      "publishers": [
+        "Nacon"
+      ],
+      "price": "免费",
+      "price_en": "Free To Play",
+      "release_date": "2026 年 7 月 15 日",
+      "release_date_en": "15 Jul, 2026",
+      "metacritic": null,
+      "recommendations": 0,
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "categories": [
+        "单人",
+        "多人",
+        "合作",
+        "在线合作",
+        "Steam 成就",
+        "完全支持控制器",
+        "Steam 集换式卡牌",
+        "视角舒适度",
+        "自定义音量控制",
+        "无需应对快速反应事件",
+        "DUALSHOCK 控制器支持",
+        "DUALSHOCK 控制器支持",
+        "DualSense 控制器支持",
+        "DualSense 控制器支持",
+        "立体声",
+        "字幕选项",
+        "环绕声",
+        "Steam 云",
+        "家庭共享"
+      ],
+      "categories_en": [
+        "Single-player",
+        "Multi-player",
+        "Co-op",
+        "Online Co-op",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Trading Cards",
+        "Camera Comfort",
+        "Custom Volume Controls",
+        "Playable without Timed Input",
+        "DualShock Controller Support",
+        "DualShock Controller Support",
+        "DualSense Controller Support",
+        "DualSense Controller Support",
+        "Stereo Sound",
+        "Subtitle Options",
+        "Surround Sound",
+        "Steam Cloud",
+        "Family Sharing"
+      ],
+      "genres": [
+        "动作",
+        "冒险"
+      ],
+      "genres_en": [
+        "Action",
+        "Adventure"
+      ]
+    },
+    "steamspy": null,
+    "reviews": {
+      "total_reviews": 0,
+      "positive": 0,
+      "negative": 0,
+      "positive_rate": 0.0
+    },
+    "ccu": 0,
+    "crawled_at": "2026-07-13T10:31:07.536458"
   },
   "MECCHA CHAMELEON": {
     "appid": 4704690,
@@ -469,7 +1334,7 @@
       "release_date": "2026 年 6 月 9 日",
       "release_date_en": "9 Jun, 2026",
       "metacritic": null,
-      "recommendations": 41390,
+      "recommendations": 56695,
       "platforms": {
         "windows": true,
         "mac": false,
@@ -509,16 +1374,16 @@
       ]
     },
     "steamspy": {
-      "ccu": 60876
+      "ccu": 81328
     },
     "reviews": {
-      "total_reviews": 4414,
-      "positive": 2539,
-      "negative": 1875,
-      "positive_rate": 57.5
+      "total_reviews": 5182,
+      "positive": 3114,
+      "negative": 2068,
+      "positive_rate": 60.1
     },
-    "ccu": 60876,
-    "crawled_at": "2026-07-03T15:38:18.068477"
+    "ccu": 81328,
+    "crawled_at": "2026-07-13T10:31:14.061064"
   },
   "HELLDIVERS 2": {
     "appid": 553850,
@@ -535,12 +1400,12 @@
       "publishers": [
         "PlayStation Publishing LLC"
       ],
-      "price": "¥ 148.50",
-      "price_en": "¥ 148.50",
+      "price": "¥ 198.00",
+      "price_en": "¥ 198.00",
       "release_date": "2024 年 2 月 8 日",
       "release_date_en": "8 Feb, 2024",
       "metacritic": null,
-      "recommendations": 829953,
+      "recommendations": 831037,
       "platforms": {
         "windows": true,
         "mac": false,
@@ -562,8 +1427,8 @@
         "朗读游戏菜单",
         "无需应对快速反应事件",
         "DUALSHOCK 控制器支持",
-        "DUALSHOCK 控制器支持",
-        "DUALSHOCK 控制器支持",
+        "DualSense 控制器支持",
+        "DualSense 控制器支持",
         "立体声",
         "字幕选项",
         "环绕声",
@@ -586,8 +1451,8 @@
         "Narrated Game Menus",
         "Playable without Timed Input",
         "DualShock Controller Support",
-        "DualShock Controller Support",
-        "DualShock Controller Support",
+        "DualSense Controller Support",
+        "DualSense Controller Support",
         "Stereo Sound",
         "Subtitle Options",
         "Surround Sound",
@@ -602,16 +1467,355 @@
       ]
     },
     "steamspy": {
-      "ccu": 18998
+      "ccu": 27507
     },
     "reviews": {
-      "total_reviews": 114946,
-      "positive": 36055,
-      "negative": 78891,
+      "total_reviews": 115208,
+      "positive": 36231,
+      "negative": 78977,
       "positive_rate": 31.4
     },
-    "ccu": 18998,
-    "crawled_at": "2026-07-03T15:38:24.504699"
+    "ccu": 27507,
+    "crawled_at": "2026-07-13T10:31:20.476247"
+  },
+  "Far Far West": {
+    "appid": 3124540,
+    "store": {
+      "name": "遥遥西土 Far Far West",
+      "name_en": "Far Far West",
+      "type": "game",
+      "short_description": "大吼咿哈快上马，西部牛仔英姿飒！《遥遥西土》是一款热闹非凡的4人合作射击游戏，你将踏上西行旅途，一路斩妖杀怪、施法念咒、完成任务、领取赏金。召集队友，完成任务，然后趁你还活着（大多数时候）赶紧拿钱走人。",
+      "short_description_en": "Yee-haw, Cowboys! Team up in this chaotic 1-4 player co-op shooter. Journey to the Far Far West to blast monsters, sling spells, complete missions, and collect bounties. Work as a team to get in, get paid and get out (mostly) alive.",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3124540/584d539800958040b08013c125126c1eb2a8c0c7/header_schinese.jpg?t=1781702029",
+      "developers": [
+        "Evil Raptor"
+      ],
+      "publishers": [
+        "Fireshine Games"
+      ],
+      "price": "¥ 72.00",
+      "price_en": "¥ 72.00",
+      "release_date": "2026 年 4 月 28 日",
+      "release_date_en": "28 Apr, 2026",
+      "metacritic": null,
+      "recommendations": 29154,
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "categories": [
+        "单人",
+        "多人",
+        "合作",
+        "在线合作",
+        "视角舒适度",
+        "自定义音量控制",
+        "可调整难度",
+        "无需应对快速反应事件",
+        "立体声",
+        "环绕声",
+        "部分支持控制器",
+        "Steam 云",
+        "家庭共享"
+      ],
+      "categories_en": [
+        "Single-player",
+        "Multi-player",
+        "Co-op",
+        "Online Co-op",
+        "Camera Comfort",
+        "Custom Volume Controls",
+        "Adjustable Difficulty",
+        "Playable without Timed Input",
+        "Stereo Sound",
+        "Surround Sound",
+        "Partial Controller Support",
+        "Steam Cloud",
+        "Family Sharing"
+      ],
+      "genres": [
+        "动作",
+        "冒险",
+        "独立",
+        "抢先体验"
+      ],
+      "genres_en": [
+        "Action",
+        "Adventure",
+        "Indie",
+        "Early Access"
+      ]
+    },
+    "steamspy": {
+      "ccu": 1737
+    },
+    "reviews": {
+      "total_reviews": 1053,
+      "positive": 710,
+      "negative": 343,
+      "positive_rate": 67.4
+    },
+    "ccu": 1737,
+    "crawled_at": "2026-07-13T10:31:26.793691"
+  },
+  "Burglin' Gnomes": {
+    "appid": 3844970,
+    "store": {
+      "name": "地精捣蛋团",
+      "name_en": "Burglin' Gnomes",
+      "type": "game",
+      "short_description": "这是一款在线合作游戏，你将化身为一只小地精，闯入民宅制造混乱。躲避各种危险，改造偷来的家居物品，通过完成任务满足地精王的要求。制作装备并升级家园——让任务越做越顺手，捣蛋越来越成功。",
+      "short_description_en": "An online Co-op game about breaking into houses and causing havoc as a tiny gnome. Avoid danger, repurpose stolen household items, and complete tasks to meet the High-Gnome’s demands. Craft equipment and upgrade your home to make your missions easier and more successful.",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3844970/d44e878d08426747cab87cd465ad1667fba5a6f8/header_schinese.jpg?t=1781100001",
+      "developers": [
+        "Fobri"
+      ],
+      "publishers": [
+        "Fobri"
+      ],
+      "price": "¥ 42.00",
+      "price_en": "¥ 42.00",
+      "release_date": "2026 年 6 月 10 日",
+      "release_date_en": "10 Jun, 2026",
+      "metacritic": null,
+      "recommendations": 3178,
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "categories": [
+        "单人",
+        "多人",
+        "合作",
+        "在线合作",
+        "无需应对快速反应事件",
+        "立体声",
+        "Steam 云",
+        "家庭共享"
+      ],
+      "categories_en": [
+        "Single-player",
+        "Multi-player",
+        "Co-op",
+        "Online Co-op",
+        "Playable without Timed Input",
+        "Stereo Sound",
+        "Steam Cloud",
+        "Family Sharing"
+      ],
+      "genres": [
+        "动作",
+        "冒险"
+      ],
+      "genres_en": [
+        "Action",
+        "Adventure"
+      ]
+    },
+    "steamspy": {
+      "ccu": 1801
+    },
+    "reviews": {
+      "total_reviews": 116,
+      "positive": 84,
+      "negative": 32,
+      "positive_rate": 72.4
+    },
+    "ccu": 1801,
+    "crawled_at": "2026-07-13T10:31:33.237883"
+  },
+  "一起开火车2": {
+    "appid": 2211170,
+    "store": {
+      "name": "一起开火车2：汽笛重鸣",
+      "name_en": "Unrailed 2: Back on Track",
+      "type": "game",
+      "short_description": "《一起开火车》的续作来啦！快呼朋唤友再建铁轨重鸣汽笛吧！更多特色鲜明的地理环境，升级角色和引擎，选择脑洞大开的全新路线；在火车脱轨前，快将你自定义的关卡设计分享给更多轨道爱好者吧！",
+      "short_description_en": "The chaotic co-op railroad construction game is back! Team up with your friends to build a railroad through procedurally generated worlds with new biomes and bosses. Permanently upgrade your character and engine, even create your own levels - just don‘t let your train derail!",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2211170/e13148cadb42b138b5edce3e475045d4870ec263/header_alt_assets_6.jpg?t=1782895685",
+      "developers": [
+        "Indoor Astronaut"
+      ],
+      "publishers": [
+        "Indoor Astronaut",
+        "Kepler Ghost"
+      ],
+      "price": "¥ 78.00",
+      "price_en": "¥ 78.00",
+      "release_date": "2026 年 6 月 11 日",
+      "release_date_en": "11 Jun, 2026",
+      "metacritic": null,
+      "recommendations": 1672,
+      "platforms": {
+        "windows": true,
+        "mac": true,
+        "linux": false
+      },
+      "categories": [
+        "单人",
+        "多人",
+        "玩家对战",
+        "线上玩家对战",
+        "同屏/分屏玩家对战",
+        "合作",
+        "在线合作",
+        "同屏/分屏合作",
+        "同屏/分屏",
+        "跨平台多人",
+        "Steam 成就",
+        "完全支持控制器",
+        "Steam 集换式卡牌",
+        "推荐使用手柄",
+        "DUALSHOCK 控制器支持",
+        "DUALSHOCK 控制器支持",
+        "DualSense 控制器支持",
+        "DualSense 控制器支持",
+        "Steam 云",
+        "远程同乐",
+        "家庭共享"
+      ],
+      "categories_en": [
+        "Single-player",
+        "Multi-player",
+        "PvP",
+        "Online PvP",
+        "Shared/Split Screen PvP",
+        "Co-op",
+        "Online Co-op",
+        "Shared/Split Screen Co-op",
+        "Shared/Split Screen",
+        "Cross-Platform Multiplayer",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Trading Cards",
+        "Gamepad Recommended",
+        "DualShock Controller Support",
+        "DualShock Controller Support",
+        "DualSense Controller Support",
+        "DualSense Controller Support",
+        "Steam Cloud",
+        "Remote Play Together",
+        "Family Sharing"
+      ],
+      "genres": [
+        "动作",
+        "休闲",
+        "独立",
+        "模拟",
+        "策略"
+      ],
+      "genres_en": [
+        "Action",
+        "Casual",
+        "Indie",
+        "Simulation",
+        "Strategy"
+      ]
+    },
+    "steamspy": {
+      "ccu": 123
+    },
+    "reviews": {
+      "total_reviews": 379,
+      "positive": 286,
+      "negative": 93,
+      "positive_rate": 75.5
+    },
+    "ccu": 123,
+    "crawled_at": "2026-07-13T10:31:39.800415"
+  },
+  "Lost Castle 2": {
+    "appid": 2445690,
+    "store": {
+      "name": "失落城堡2",
+      "name_en": "Lost Castle 2",
+      "type": "game",
+      "short_description": "失落城堡2是一款2D卡通横版Rogue-Lite游戏。探寻丰富宝物道具强化自己，精通各类武器玩出花样，挑战强大魔物展现实力。新的冒险正召唤着宝藏猎人们！",
+      "short_description_en": "&quot;Lost Castle 2&quot; is a 2D Beat'em up Rogue-Lite game. Explore abundant treasures and items to enhance yourself, master various weapons to showcase your skills, and challenge powerful monsters to demonstrate your strength. A new adventure is calling for treasure hunters!",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2445690/6ba48b065007d13e96a5e01a4976139ad96480ac/header_schinese.jpg?t=1783421439",
+      "developers": [
+        "Hunter Studio"
+      ],
+      "publishers": [
+        "Hunter Studio"
+      ],
+      "price": "¥ 68.00",
+      "price_en": "¥ 68.00",
+      "release_date": "2026 年 6 月 10 日",
+      "release_date_en": "10 Jun, 2026",
+      "metacritic": 83,
+      "recommendations": 10140,
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "categories": [
+        "单人",
+        "多人",
+        "合作",
+        "在线合作",
+        "局域网合作",
+        "同屏/分屏合作",
+        "同屏/分屏",
+        "Steam 成就",
+        "推荐使用手柄",
+        "DUALSHOCK 控制器支持",
+        "DUALSHOCK 控制器支持",
+        "DualSense 控制器支持",
+        "DualSense 控制器支持",
+        "部分支持控制器",
+        "Steam 云",
+        "统计数据",
+        "远程同乐",
+        "家庭共享"
+      ],
+      "categories_en": [
+        "Single-player",
+        "Multi-player",
+        "Co-op",
+        "Online Co-op",
+        "LAN Co-op",
+        "Shared/Split Screen Co-op",
+        "Shared/Split Screen",
+        "Steam Achievements",
+        "Gamepad Recommended",
+        "DualShock Controller Support",
+        "DualShock Controller Support",
+        "DualSense Controller Support",
+        "DualSense Controller Support",
+        "Partial Controller Support",
+        "Steam Cloud",
+        "Stats",
+        "Remote Play Together",
+        "Family Sharing"
+      ],
+      "genres": [
+        "动作",
+        "冒险",
+        "独立",
+        "角色扮演"
+      ],
+      "genres_en": [
+        "Action",
+        "Adventure",
+        "Indie",
+        "RPG"
+      ]
+    },
+    "steamspy": {
+      "ccu": 2432
+    },
+    "reviews": {
+      "total_reviews": 10343,
+      "positive": 7838,
+      "negative": 2505,
+      "positive_rate": 75.8
+    },
+    "ccu": 2432,
+    "crawled_at": "2026-07-13T10:31:54.848088"
   },
   "Deep Rock Galactic": {
     "appid": 548430,
@@ -628,12 +1832,12 @@
       "publishers": [
         "Coffee Stain Publishing"
       ],
-      "price": "¥ 32.40",
-      "price_en": "¥ 32.40",
+      "price": "¥ 108.00",
+      "price_en": "¥ 108.00",
       "release_date": "2020 年 5 月 13 日",
       "release_date_en": "13 May, 2020",
       "metacritic": 85,
-      "recommendations": 301183,
+      "recommendations": 301512,
       "platforms": {
         "windows": true,
         "mac": false,
@@ -689,105 +1893,16 @@
       ]
     },
     "steamspy": {
-      "ccu": 3396
+      "ccu": 3710
     },
     "reviews": {
-      "total_reviews": 36391,
-      "positive": 34164,
-      "negative": 2227,
+      "total_reviews": 36429,
+      "positive": 34198,
+      "negative": 2231,
       "positive_rate": 93.9
     },
-    "ccu": 3396,
-    "crawled_at": "2026-07-03T15:38:31.030734"
-  },
-  "Dead by Daylight": {
-    "appid": 381210,
-    "store": {
-      "name": "黎明杀机",
-      "name_en": "Dead by Daylight",
-      "type": "game",
-      "short_description": "10年恐惧相伴。10年的惊吓与刺激体验。10年的残暴献祭与惊险逃脱。 永久困于邪恶的幻境之中，即使死亡也无法逃脱，这是一场需要勇气和智慧的较量，四名意志坚定的逃生者在残忍对局中面对嗜血杀手。选择一方，进入多人非对称竞技游戏世界，获得最佳恐怖游戏体验。",
-      "short_description_en": "10 years of horror. 10 years of jump scares and close calls. 10 years of brutal sacrifices and thrilling escapes. Trapped forever in a realm of eldritch evil where even death is not an escape, four determined Survivors face a bloodthirsty Killer in a vicious game of nerve and wits.",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/381210/66727e8249aae119400352d4b1d84928f924939c/header_alt_assets_8.jpg?t=1782395976",
-      "developers": [
-        "Behaviour Interactive Inc."
-      ],
-      "publishers": [
-        "Behaviour Interactive Inc."
-      ],
-      "price": "¥ 37.50",
-      "price_en": "¥ 37.50",
-      "release_date": "2016 年 6 月 14 日",
-      "release_date_en": "14 Jun, 2016",
-      "metacritic": null,
-      "recommendations": 669517,
-      "platforms": {
-        "windows": true,
-        "mac": false,
-        "linux": false
-      },
-      "categories": [
-        "多人",
-        "玩家对战",
-        "线上玩家对战",
-        "合作",
-        "在线合作",
-        "跨平台多人",
-        "Steam 成就",
-        "完全支持控制器",
-        "Steam 集换式卡牌",
-        "可选颜色",
-        "自定义音量控制",
-        "Steam 输入 API 支持",
-        "立体声",
-        "字幕选项",
-        "环绕声",
-        "Steam 云",
-        "在手机上远程畅玩",
-        "在平板上远程畅玩",
-        "在电视上远程畅玩",
-        "家庭共享"
-      ],
-      "categories_en": [
-        "Multi-player",
-        "PvP",
-        "Online PvP",
-        "Co-op",
-        "Online Co-op",
-        "Cross-Platform Multiplayer",
-        "Steam Achievements",
-        "Full controller support",
-        "Steam Trading Cards",
-        "Color Alternatives",
-        "Custom Volume Controls",
-        "Steam Input API Support",
-        "Stereo Sound",
-        "Subtitle Options",
-        "Surround Sound",
-        "Steam Cloud",
-        "Remote Play on Phone",
-        "Remote Play on Tablet",
-        "Remote Play on TV",
-        "Family Sharing"
-      ],
-      "genres": [
-        "动作"
-      ],
-      "genres_en": [
-        "Action"
-      ]
-    },
-    "steamspy": {
-      "ccu": 54895
-    },
-    "reviews": {
-      "total_reviews": 114105,
-      "positive": 72166,
-      "negative": 41939,
-      "positive_rate": 63.2
-    },
-    "ccu": 54895,
-    "crawled_at": "2026-07-03T15:38:37.610585"
+    "ccu": 3710,
+    "crawled_at": "2026-07-13T10:32:01.446204"
   },
   "Among Us": {
     "appid": 945360,
@@ -804,12 +1919,12 @@
       "publishers": [
         "Innersloth"
       ],
-      "price": "¥ 15.00",
-      "price_en": "¥ 15.00",
+      "price": "¥ 25.00",
+      "price_en": "¥ 25.00",
       "release_date": "2018 年 11 月 16 日",
       "release_date_en": "16 Nov, 2018",
       "metacritic": 85,
-      "recommendations": 648487,
+      "recommendations": 650169,
       "platforms": {
         "windows": true,
         "mac": false,
@@ -857,16 +1972,16 @@
       ]
     },
     "steamspy": {
-      "ccu": 5392
+      "ccu": 10185
     },
     "reviews": {
-      "total_reviews": 17042,
-      "positive": 15134,
+      "total_reviews": 17077,
+      "positive": 15169,
       "negative": 1908,
       "positive_rate": 88.8
     },
-    "ccu": 5392,
-    "crawled_at": "2026-07-03T15:38:44.265219"
+    "ccu": 10185,
+    "crawled_at": "2026-07-13T10:32:07.849431"
   },
   "Sons Of The Forest": {
     "appid": 1326470,
@@ -883,12 +1998,12 @@
       "publishers": [
         "Newnight "
       ],
-      "price": "¥ 32.40",
-      "price_en": "¥ 32.40",
+      "price": "¥ 108.00",
+      "price_en": "¥ 108.00",
       "release_date": "2024 年 2 月 22 日",
       "release_date_en": "22 Feb, 2024",
       "metacritic": null,
-      "recommendations": 276795,
+      "recommendations": 278920,
       "platforms": {
         "windows": true,
         "mac": false,
@@ -903,8 +2018,8 @@
         "完全支持控制器",
         "DUALSHOCK 控制器支持",
         "DUALSHOCK 控制器支持",
-        "DUALSHOCK 控制器支持",
-        "DUALSHOCK 控制器支持",
+        "DualSense 控制器支持",
+        "DualSense 控制器支持",
         "Steam 云",
         "家庭共享"
       ],
@@ -917,8 +2032,8 @@
         "Full controller support",
         "DualShock Controller Support",
         "DualShock Controller Support",
-        "DualShock Controller Support",
-        "DualShock Controller Support",
+        "DualSense Controller Support",
+        "DualSense Controller Support",
         "Steam Cloud",
         "Family Sharing"
       ],
@@ -936,16 +2051,16 @@
       ]
     },
     "steamspy": {
-      "ccu": 14376
+      "ccu": 13026
     },
     "reviews": {
-      "total_reviews": 33706,
-      "positive": 27782,
-      "negative": 5924,
-      "positive_rate": 82.4
+      "total_reviews": 34054,
+      "positive": 28090,
+      "negative": 5964,
+      "positive_rate": 82.5
     },
-    "ccu": 14376,
-    "crawled_at": "2026-07-03T15:38:50.666534"
+    "ccu": 13026,
+    "crawled_at": "2026-07-13T10:32:14.467389"
   },
   "Risk of Rain 2": {
     "appid": 632360,
@@ -955,7 +2070,7 @@
       "type": "game",
       "short_description": "浴血奋战杀出暴戾的怪物重围，在混乱的外星球上逃过劫难。可孤军奋战，也可与好友并肩作战。 以出人意料的方式合成战利品，同时精通每个角色，直至您自己成为初次迫降时曾颇为惧怕的恐怖威胁。",
       "short_description_en": "Escape a chaotic alien planet by fighting through hordes of frenzied monsters – with your friends, or on your own. Combine loot in surprising ways and master each character until you become the havoc you feared upon your first crash landing.",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/632360/header_schinese.jpg?t=1782157681",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/632360/header_schinese.jpg?t=1783621122",
       "developers": [
         "Hopoo Games"
       ],
@@ -963,12 +2078,12 @@
         "Gearbox Publishing",
         "2K"
       ],
-      "price": "¥ 26.40",
-      "price_en": "¥ 26.40",
+      "price": "¥ 80.00",
+      "price_en": "¥ 80.00",
       "release_date": "2020 年 8 月 11 日",
       "release_date_en": "11 Aug, 2020",
       "metacritic": 85,
-      "recommendations": 237705,
+      "recommendations": 238185,
       "platforms": {
         "windows": true,
         "mac": false,
@@ -1028,16 +2143,16 @@
       ]
     },
     "steamspy": {
-      "ccu": 5292
+      "ccu": 7242
     },
     "reviews": {
-      "total_reviews": 37581,
-      "positive": 33433,
-      "negative": 4148,
-      "positive_rate": 89.0
+      "total_reviews": 37629,
+      "positive": 33468,
+      "negative": 4161,
+      "positive_rate": 88.9
     },
-    "ccu": 5292,
-    "crawled_at": "2026-07-03T15:38:57.679027"
+    "ccu": 7242,
+    "crawled_at": "2026-07-13T10:32:20.761683"
   },
   "Windblown": {
     "appid": 1911610,
@@ -1047,7 +2162,7 @@
       "type": "game",
       "short_description": "《风中行者》作为《死亡细胞》团队的全新力作，是一款节奏飞快的类 Rogue 动作游戏，支持 1–3 人联机。闯入崩毁的世界，一路畅快突进、俯冲、破坏。自由搭配装备，发动威力惊人的特殊攻击，成为抵御大气旋最后的防线。",
       "short_description_en": "A lightning-fast 1–3 player co-op roguelite from the creators of Dead Cells. DASH, DIVE and DESTROY across a shattered world. Build wild loadouts, unleash devastating Alterattacks, and become the last stand against the Vortex.",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1911610/b91bf8be5d6d4fac5aa2d12443d66dd17cc38e79/header_schinese.jpg?t=1782722895",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1911610/b91bf8be5d6d4fac5aa2d12443d66dd17cc38e79/header_schinese.jpg?t=1783789787",
       "developers": [
         "Motion Twin"
       ],
@@ -1055,12 +2170,12 @@
         "Motion Twin",
         "Kepler Ghost"
       ],
-      "price": "¥ 68.60",
-      "price_en": "¥ 68.60",
+      "price": "¥ 98.00",
+      "price_en": "¥ 98.00",
       "release_date": "2024 年 10 月 24 日",
       "release_date_en": "24 Oct, 2024",
       "metacritic": null,
-      "recommendations": 8905,
+      "recommendations": 8935,
       "platforms": {
         "windows": true,
         "mac": false,
@@ -1076,8 +2191,8 @@
         "推荐使用手柄",
         "DUALSHOCK 控制器支持",
         "DUALSHOCK 控制器支持",
-        "DUALSHOCK 控制器支持",
-        "DUALSHOCK 控制器支持",
+        "DualSense 控制器支持",
+        "DualSense 控制器支持",
         "Steam 云",
         "家庭共享"
       ],
@@ -1091,8 +2206,8 @@
         "Gamepad Recommended",
         "DualShock Controller Support",
         "DualShock Controller Support",
-        "DualShock Controller Support",
-        "DualShock Controller Support",
+        "DualSense Controller Support",
+        "DualSense Controller Support",
         "Steam Cloud",
         "Family Sharing"
       ],
@@ -1108,70 +2223,71 @@
       ]
     },
     "steamspy": {
-      "ccu": 174
+      "ccu": 164
     },
     "reviews": {
-      "total_reviews": 1704,
-      "positive": 1173,
-      "negative": 531,
+      "total_reviews": 1706,
+      "positive": 1174,
+      "negative": 532,
       "positive_rate": 68.8
     },
-    "ccu": 174,
-    "crawled_at": "2026-07-03T15:39:04.162450"
+    "ccu": 164,
+    "crawled_at": "2026-07-13T10:32:27.096895"
   },
-  "Peak": {
-    "appid": 3527290,
+  "青蛙小队": {
+    "appid": 3989960,
     "store": {
-      "name": "PEAK",
-      "name_en": "PEAK",
+      "name": "青蛙小队🐸 / Frog Sqwad",
+      "name_en": "Frog Sqwad 🐸",
       "type": "game",
-      "short_description": "《PEAK》是一款需要细致合作的登山游戏，作为流落神秘岛屿的童子军探险家，无论单人独闯抑或团队协力，你们唯一获救的希望便是登上岛中那座巍峨的山峰，自然荒野险途漫漫，稍有不慎便会大难临头。顶峰在望，你有魄力能征服它吗？",
-      "short_description_en": "PEAK is a co-op climbing game where the slightest mistake can spell your doom. Either solo or as a group of lost nature scouts, your only hope of rescue from a mysterious island is to scale the mountain at its center. Do you have what it takes to reach the PEAK?",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3527290/31bac6b2eccf09b368f5e95ce510bae2baf3cfcd/header.jpg?t=1775581133",
+      "short_description": "🐸这是一款最多支持8人合作的撤离式解谜平台游戏。你可以摆荡、跳跃、把朋友弹射出去，还能一路吃吃吃，长成超大巨蛙。快和蛙蛙伙伴组队，在下水道横冲直撞，为沼泽之王的荣耀而战吧！🐸",
+      "short_description_en": "🐸Up to 8 player co-op extraction puzzle-platformer where you swing, jump, catapult your friends, and eat eat EAT until you grow into a humongous Megafrog. Squad up with your frog friends and storm the Sewers for the glory of the Swamp King!🐸",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3989960/907d04fa7ec0c3c264bbb75f25f75c2e361e870d/header_schinese.jpg?t=1781613814",
       "developers": [
-        "Team PEAK"
+        "Panic Stations"
       ],
       "publishers": [
-        "Aggro Crab",
-        "Evil Landfall?"
+        "Panic Stations"
       ],
-      "price": "¥ 20.46",
-      "price_en": "¥ 20.46",
-      "release_date": "2025 年 6 月 16 日",
-      "release_date_en": "16 Jun, 2025",
+      "price": "¥ 32.00",
+      "price_en": "¥ 32.00",
+      "release_date": "2026 年 6 月 11 日",
+      "release_date_en": "11 Jun, 2026",
       "metacritic": null,
-      "recommendations": 271234,
+      "recommendations": 287,
       "platforms": {
         "windows": true,
         "mac": false,
         "linux": false
       },
       "categories": [
-        "单人",
         "多人",
         "合作",
         "在线合作",
         "Steam 成就",
         "完全支持控制器",
-        "Steam 集换式卡牌",
+        "自定义音量控制",
+        "无需应对快速反应事件",
         "DUALSHOCK 控制器支持",
         "DUALSHOCK 控制器支持",
-        "DUALSHOCK 控制器支持",
-        "DUALSHOCK 控制器支持",
+        "DualSense 控制器支持",
+        "DualSense 控制器支持",
+        "立体声",
         "家庭共享"
       ],
       "categories_en": [
-        "Single-player",
         "Multi-player",
         "Co-op",
         "Online Co-op",
         "Steam Achievements",
         "Full controller support",
-        "Steam Trading Cards",
+        "Custom Volume Controls",
+        "Playable without Timed Input",
         "DualShock Controller Support",
         "DualShock Controller Support",
-        "DualShock Controller Support",
-        "DualShock Controller Support",
+        "DualSense Controller Support",
+        "DualSense Controller Support",
+        "Stereo Sound",
         "Family Sharing"
       ],
       "genres": [
@@ -1186,255 +2302,16 @@
       ]
     },
     "steamspy": {
-      "ccu": 10961
+      "ccu": 84
     },
     "reviews": {
-      "total_reviews": 19413,
-      "positive": 16177,
-      "negative": 3236,
-      "positive_rate": 83.3
+      "total_reviews": 93,
+      "positive": 69,
+      "negative": 24,
+      "positive_rate": 74.2
     },
-    "ccu": 10961,
-    "crawled_at": "2026-07-03T15:39:10.396352"
-  },
-  "Far Far West": {
-    "appid": 3124540,
-    "store": {
-      "name": "遥遥西土 Far Far West",
-      "name_en": "Far Far West",
-      "type": "game",
-      "short_description": "大吼咿哈快上马，西部牛仔英姿飒！《遥遥西土》是一款热闹非凡的4人合作射击游戏，你将踏上西行旅途，一路斩妖杀怪、施法念咒、完成任务、领取赏金。召集队友，完成任务，然后趁你还活着（大多数时候）赶紧拿钱走人。",
-      "short_description_en": "Yee-haw, Cowboys! Team up in this chaotic 1-4 player co-op shooter. Journey to the Far Far West to blast monsters, sling spells, complete missions, and collect bounties. Work as a team to get in, get paid and get out (mostly) alive.",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3124540/584d539800958040b08013c125126c1eb2a8c0c7/header_schinese.jpg?t=1781702029",
-      "developers": [
-        "Evil Raptor"
-      ],
-      "publishers": [
-        "Fireshine Games"
-      ],
-      "price": "¥ 64.80",
-      "price_en": "¥ 64.80",
-      "release_date": "2026 年 4 月 28 日",
-      "release_date_en": "28 Apr, 2026",
-      "metacritic": null,
-      "recommendations": 28810,
-      "platforms": {
-        "windows": true,
-        "mac": false,
-        "linux": false
-      },
-      "categories": [
-        "单人",
-        "多人",
-        "合作",
-        "在线合作",
-        "视角舒适度",
-        "自定义音量控制",
-        "可调整难度",
-        "无需应对快速反应事件",
-        "立体声",
-        "环绕声",
-        "部分支持控制器",
-        "Steam 云",
-        "家庭共享"
-      ],
-      "categories_en": [
-        "Single-player",
-        "Multi-player",
-        "Co-op",
-        "Online Co-op",
-        "Camera Comfort",
-        "Custom Volume Controls",
-        "Adjustable Difficulty",
-        "Playable without Timed Input",
-        "Stereo Sound",
-        "Surround Sound",
-        "Partial Controller Support",
-        "Steam Cloud",
-        "Family Sharing"
-      ],
-      "genres": [
-        "动作",
-        "冒险",
-        "独立",
-        "抢先体验"
-      ],
-      "genres_en": [
-        "Action",
-        "Adventure",
-        "Indie",
-        "Early Access"
-      ]
-    },
-    "steamspy": {
-      "ccu": 1013
-    },
-    "reviews": {
-      "total_reviews": 1047,
-      "positive": 709,
-      "negative": 338,
-      "positive_rate": 67.7
-    },
-    "ccu": 1013,
-    "crawled_at": "2026-07-03T15:39:16.677288"
-  },
-  "Burglin' Gnomes": {
-    "appid": 3844970,
-    "store": {
-      "name": "地精捣蛋团",
-      "name_en": "Burglin' Gnomes",
-      "type": "game",
-      "short_description": "这是一款在线合作游戏，你将化身为一只小地精，闯入民宅制造混乱。躲避各种危险，改造偷来的家居物品，通过完成任务满足地精王的要求。制作装备并升级家园——让任务越做越顺手，捣蛋越来越成功。",
-      "short_description_en": "An online Co-op game about breaking into houses and causing havoc as a tiny gnome. Avoid danger, repurpose stolen household items, and complete tasks to meet the High-Gnome’s demands. Craft equipment and upgrade your home to make your missions easier and more successful.",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3844970/d44e878d08426747cab87cd465ad1667fba5a6f8/header_schinese.jpg?t=1781100001",
-      "developers": [
-        "Fobri"
-      ],
-      "publishers": [
-        "Fobri"
-      ],
-      "price": "¥ 42.00",
-      "price_en": "¥ 42.00",
-      "release_date": "2026 年 6 月 10 日",
-      "release_date_en": "10 Jun, 2026",
-      "metacritic": null,
-      "recommendations": 2859,
-      "platforms": {
-        "windows": true,
-        "mac": false,
-        "linux": false
-      },
-      "categories": [
-        "单人",
-        "多人",
-        "合作",
-        "在线合作",
-        "无需应对快速反应事件",
-        "立体声",
-        "Steam 云",
-        "家庭共享"
-      ],
-      "categories_en": [
-        "Single-player",
-        "Multi-player",
-        "Co-op",
-        "Online Co-op",
-        "Playable without Timed Input",
-        "Stereo Sound",
-        "Steam Cloud",
-        "Family Sharing"
-      ],
-      "genres": [
-        "动作",
-        "冒险"
-      ],
-      "genres_en": [
-        "Action",
-        "Adventure"
-      ]
-    },
-    "steamspy": {
-      "ccu": 807
-    },
-    "reviews": {
-      "total_reviews": 103,
-      "positive": 77,
-      "negative": 26,
-      "positive_rate": 74.8
-    },
-    "ccu": 807,
-    "crawled_at": "2026-07-03T15:39:23.071458"
-  },
-  "Lost Castle 2": {
-    "appid": 2445690,
-    "store": {
-      "name": "失落城堡2",
-      "name_en": "Lost Castle 2",
-      "type": "game",
-      "short_description": "失落城堡2是一款2D卡通横版Rogue-Lite游戏。探寻丰富宝物道具强化自己，精通各类武器玩出花样，挑战强大魔物展现实力。新的冒险正召唤着宝藏猎人们！",
-      "short_description_en": "&quot;Lost Castle 2&quot; is a 2D Beat'em up Rogue-Lite game. Explore abundant treasures and items to enhance yourself, master various weapons to showcase your skills, and challenge powerful monsters to demonstrate your strength. A new adventure is calling for treasure hunters!",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2445690/6ba48b065007d13e96a5e01a4976139ad96480ac/header_schinese.jpg?t=1782795803",
-      "developers": [
-        "Hunter Studio"
-      ],
-      "publishers": [
-        "Hunter Studio"
-      ],
-      "price": "¥ 47.60",
-      "price_en": "¥ 47.60",
-      "release_date": "2026 年 6 月 10 日",
-      "release_date_en": "10 Jun, 2026",
-      "metacritic": null,
-      "recommendations": 9871,
-      "platforms": {
-        "windows": true,
-        "mac": false,
-        "linux": false
-      },
-      "categories": [
-        "单人",
-        "多人",
-        "合作",
-        "在线合作",
-        "局域网合作",
-        "同屏/分屏合作",
-        "同屏/分屏",
-        "Steam 成就",
-        "推荐使用手柄",
-        "DUALSHOCK 控制器支持",
-        "DUALSHOCK 控制器支持",
-        "DUALSHOCK 控制器支持",
-        "DUALSHOCK 控制器支持",
-        "部分支持控制器",
-        "Steam 云",
-        "统计数据",
-        "远程同乐",
-        "家庭共享"
-      ],
-      "categories_en": [
-        "Single-player",
-        "Multi-player",
-        "Co-op",
-        "Online Co-op",
-        "LAN Co-op",
-        "Shared/Split Screen Co-op",
-        "Shared/Split Screen",
-        "Steam Achievements",
-        "Gamepad Recommended",
-        "DualShock Controller Support",
-        "DualShock Controller Support",
-        "DualShock Controller Support",
-        "DualShock Controller Support",
-        "Partial Controller Support",
-        "Steam Cloud",
-        "Stats",
-        "Remote Play Together",
-        "Family Sharing"
-      ],
-      "genres": [
-        "动作",
-        "冒险",
-        "独立",
-        "角色扮演"
-      ],
-      "genres_en": [
-        "Action",
-        "Adventure",
-        "Indie",
-        "RPG"
-      ]
-    },
-    "steamspy": {
-      "ccu": 5604
-    },
-    "reviews": {
-      "total_reviews": 10066,
-      "positive": 7677,
-      "negative": 2389,
-      "positive_rate": 76.3
-    },
-    "ccu": 5604,
-    "crawled_at": "2026-07-03T15:39:29.639155"
+    "ccu": 84,
+    "crawled_at": "2026-07-13T10:32:33.691102"
   },
   "Garry's Mod": {
     "appid": 4000,
@@ -1451,12 +2328,12 @@
       "publishers": [
         "Valve"
       ],
-      "price": "¥ 18.00",
-      "price_en": "¥ 18.00",
+      "price": "¥ 36.00",
+      "price_en": "¥ 36.00",
       "release_date": "2006 年 11 月 29 日",
       "release_date_en": "29 Nov, 2006",
       "metacritic": null,
-      "recommendations": 1076355,
+      "recommendations": 1078796,
       "platforms": {
         "windows": true,
         "mac": true,
@@ -1528,16 +2405,16 @@
       ]
     },
     "steamspy": {
-      "ccu": 16791
+      "ccu": 19878
     },
     "reviews": {
-      "total_reviews": 38202,
-      "positive": 36967,
-      "negative": 1235,
+      "total_reviews": 38369,
+      "positive": 37131,
+      "negative": 1238,
       "positive_rate": 96.8
     },
-    "ccu": 16791,
-    "crawled_at": "2026-07-03T15:39:35.954223"
+    "ccu": 19878,
+    "crawled_at": "2026-07-13T10:32:40.293504"
   },
   "Crab Game": {
     "appid": 1782210,
@@ -1597,15 +2474,104 @@
       ]
     },
     "steamspy": {
-      "ccu": 542
+      "ccu": 649
     },
     "reviews": {
-      "total_reviews": 2058,
-      "positive": 1799,
-      "negative": 259,
-      "positive_rate": 87.4
+      "total_reviews": 2061,
+      "positive": 1803,
+      "negative": 258,
+      "positive_rate": 87.5
     },
-    "ccu": 542,
-    "crawled_at": "2026-07-03T15:39:42.497544"
+    "ccu": 649,
+    "crawled_at": "2026-07-13T10:32:46.489397"
+  },
+  "Dead by Daylight": {
+    "appid": 381210,
+    "store": {
+      "name": "黎明杀机",
+      "name_en": "Dead by Daylight",
+      "type": "game",
+      "short_description": "10年恐惧相伴。10年的惊吓与刺激体验。10年的残暴献祭与惊险逃脱。 永久困于邪恶的幻境之中，即使死亡也无法逃脱，这是一场需要勇气和智慧的较量，四名意志坚定的逃生者在残忍对局中面对嗜血杀手。选择一方，进入多人非对称竞技游戏世界，获得最佳恐怖游戏体验。",
+      "short_description_en": "10 years of horror. 10 years of jump scares and close calls. 10 years of brutal sacrifices and thrilling escapes. Trapped forever in a realm of eldritch evil where even death is not an escape, four determined Survivors face a bloodthirsty Killer in a vicious game of nerve and wits.",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/381210/header.jpg?t=1783618189",
+      "developers": [
+        "Behaviour Interactive Inc."
+      ],
+      "publishers": [
+        "Behaviour Interactive Inc."
+      ],
+      "price": "¥ 93.75",
+      "price_en": "¥ 93.75",
+      "release_date": "2016 年 6 月 14 日",
+      "release_date_en": "14 Jun, 2016",
+      "metacritic": null,
+      "recommendations": 673088,
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "categories": [
+        "多人",
+        "玩家对战",
+        "线上玩家对战",
+        "合作",
+        "在线合作",
+        "跨平台多人",
+        "Steam 成就",
+        "完全支持控制器",
+        "Steam 集换式卡牌",
+        "可选颜色",
+        "自定义音量控制",
+        "Steam 输入 API 支持",
+        "立体声",
+        "字幕选项",
+        "环绕声",
+        "Steam 云",
+        "在手机上远程畅玩",
+        "在平板上远程畅玩",
+        "在电视上远程畅玩",
+        "家庭共享"
+      ],
+      "categories_en": [
+        "Multi-player",
+        "PvP",
+        "Online PvP",
+        "Co-op",
+        "Online Co-op",
+        "Cross-Platform Multiplayer",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Trading Cards",
+        "Color Alternatives",
+        "Custom Volume Controls",
+        "Steam Input API Support",
+        "Stereo Sound",
+        "Subtitle Options",
+        "Surround Sound",
+        "Steam Cloud",
+        "Remote Play on Phone",
+        "Remote Play on Tablet",
+        "Remote Play on TV",
+        "Family Sharing"
+      ],
+      "genres": [
+        "动作"
+      ],
+      "genres_en": [
+        "Action"
+      ]
+    },
+    "steamspy": {
+      "ccu": 73145
+    },
+    "reviews": {
+      "total_reviews": 114489,
+      "positive": 72457,
+      "negative": 42032,
+      "positive_rate": 63.3
+    },
+    "ccu": 73145,
+    "crawled_at": "2026-07-13T10:32:52.808478"
   }
 }

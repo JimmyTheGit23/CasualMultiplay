@@ -4232,8 +4232,8 @@ If you want to know what happened next, let’s listen to the explanation next t
                     <div class="gd-subtitle">${developer}${publisher && publisher !== developer ? ' · ' + publisher : ''} · ${release}</div>
                     <div class="gd-tags">${tagChips}</div>
                     <div class="gd-metrics">
-                        <div class="gd-metric"><span class="gd-metric-label">CCU</span><span class="gd-metric-value">${ccu > 0 ? ccu.toLocaleString() : '-'}</span></div>
-                        <div class="gd-metric"><span class="gd-metric-label">好评率</span><span class="gd-metric-value">${positive > 0 ? positive + '%' : '-'}</span></div>
+                        <div class="gd-metric"><span class="gd-metric-label">CCU</span><span class="gd-metric-value">${ccu > 0 ? ccu.toLocaleString() : (game.status === 'WISHLIST' || game.status === '在研' ? '未发售' : '-')}</span></div>
+                        <div class="gd-metric"><span class="gd-metric-label">好评率</span><span class="gd-metric-value">${positive > 0 ? positive + '%' : (game.status === 'WISHLIST' || game.status === '在研' ? '未发售' : '-')}</span></div>
                         ${wishlist}
                         <div class="gd-metric"><span class="gd-metric-label">价格</span><span class="gd-metric-value">${price || '-'}</span></div>
                     </div>
