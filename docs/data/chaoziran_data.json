@@ -2,6 +2,18 @@
   "chaoziran": {
     "bwiki_updates": [
       {
+        "title": "【胆小鬼舞】最新爆料~跳完后整个人都变萌了！",
+        "source": "TapTap官方",
+        "url": "https://www.taptap.cn/app/714123/topic?type=official",
+        "link_status": "unknown",
+        "category": "other",
+        "content_tags": [],
+        "priority": "low",
+        "title_en": "[Cowardly Dance] The latest news ~ After dancing, the whole person became cute!",
+        "source_en": "TapTap Official",
+        "content_tags_en": []
+      },
+      {
         "title": "新赛季双层梦居爆料！新家具鱼缸也要和工友们见面啦！",
         "source": "TapTap官方",
         "url": "https://www.taptap.cn/app/714123/topic?type=official",
@@ -106,43 +118,23 @@
         ]
       },
       {
-        "title": "什么都不想说，看看局内特效吧，光污染影响走路，九尾影响别人，这个直接影响自己，走路都费劲的皮肤，纯削弱",
+        "title": "双目献神，亮瞎队友。及至光污满屏，方知这皮不如原皮。",
         "source": "TapTap官方",
         "url": "https://www.taptap.cn/app/714123/topic?type=official",
         "link_status": "unknown",
-        "category": "cosmetic",
-        "content_tags": [
-          "新皮肤"
-        ],
-        "priority": "medium",
-        "title_en": "I don’t want to say anything, just look at the in-house effects. Light pollution affects walking, and Kyuubi affects others. This directly affects oneself, and the skin that has difficulty walking is purely weakened.",
+        "category": "other",
+        "content_tags": [],
+        "priority": "low",
+        "title_en": "Both eyes are dedicated to the gods, blinding teammates. When the light stains fill the screen, you realize that this leather is not as good as the original leather.",
         "source_en": "TapTap Official",
-        "content_tags_en": [
-          "New Skin"
-        ]
-      },
-      {
-        "title": "传送按钮、摸金符、伞、手电，【精绝女王】绘梦厅道具皮肤展示！",
-        "source": "TapTap官方",
-        "url": "https://www.taptap.cn/app/714123/topic?type=official",
-        "link_status": "unknown",
-        "category": "cosmetic",
-        "content_tags": [
-          "新皮肤"
-        ],
-        "priority": "medium",
-        "title_en": "Teleport button, golden talisman, umbrella, flashlight, [Jingjue Queen] Dream Hall prop skin display!",
-        "source_en": "TapTap Official",
-        "content_tags_en": [
-          "New Skin"
-        ]
+        "content_tags_en": []
       }
     ],
     "taptap": {
       "app_id": 714123,
       "source": "taptap_webpage",
-      "fans_count": 11787165,
-      "review_count": 34380,
+      "fans_count": 11806469,
+      "review_count": 34483,
       "score": "7.0",
       "description": "超自然行动组是一款合作游戏，TapTap 提供超自然行动组最新版官方正版下载，一个人玩是恐怖游戏，两个人玩是冒险游戏，三个人玩是寻宝游戏，...",
       "score_display": 7.0,
@@ -302,6 +294,51 @@
           "source_en": "TapTap Forum"
         },
         {
+          "title": "这个九龙凤冠挺好出的，昨天爆率挺高的 连续捡了三个九龙凤冠和一个圣杯9把剑，第一个凤冠为了展示特效没...",
+          "source": "TapTap论坛",
+          "url": "https://www.taptap.cn/app/714123/topic",
+          "link_status": "unknown",
+          "sentiment": "neutral",
+          "title_en": "This Nine-Dragon-Phoenix Crown is very easy to find. The explosion rate was quite high yesterday. I picked up three Nine-Dragon-Phoenix Crown and one Holy Grail 9 Swords in a row. The first Phoenix Crown was not used to show the special effects...",
+          "source_en": "TapTap Forum"
+        },
+        {
+          "title": "我只看见了圣杯5级，水晶之心3级，神龙2级，这就是可望不可及吗",
+          "source": "TapTap论坛",
+          "url": "https://www.taptap.cn/app/714123/topic",
+          "link_status": "unknown",
+          "sentiment": "neutral",
+          "title_en": "I only saw level 5 of the Holy Grail, level 3 of the Crystal Heart, and level 2 of the Dragon. Is this just out of reach?",
+          "source_en": "TapTap Forum"
+        },
+        {
+          "title": "1.从现在开始，报名并下翻查看我发的评论即可参与，不用大家一分钱，有空的时候都会发布一起玩来帮助大家...",
+          "source": "TapTap论坛",
+          "url": "https://www.taptap.cn/app/714123/topic",
+          "link_status": "unknown",
+          "sentiment": "neutral",
+          "title_en": "1. From now on, you can participate by signing up and scrolling down to check out the comments I posted. It doesn’t cost you a penny. When you are free, I will post and play together to help everyone...",
+          "source_en": "TapTap Forum"
+        },
+        {
+          "title": "因为Tap没有消息提醒，所以需要大家进我的主页群才方便约时间扶贫，辛苦了",
+          "source": "TapTap论坛",
+          "url": "https://www.taptap.cn/app/714123/topic",
+          "link_status": "unknown",
+          "sentiment": "neutral",
+          "title_en": "Because there is no news reminder on Tap, you need to join my homepage group to make an appointment to help the poor. Thank you for your hard work.",
+          "source_en": "TapTap Forum"
+        },
+        {
+          "title": "角色：祎\n身高171cm / 体重57kg / 15岁\n定位：侦察+远程输出\n一技能【空间传送】CD...",
+          "source": "TapTap论坛",
+          "url": "https://www.taptap.cn/app/714123/topic",
+          "link_status": "unknown",
+          "sentiment": "neutral",
+          "title_en": "Role: Yi\nHeight 171cm / Weight 57kg / 15 years old\nPositioning: reconnaissance + remote output\nOne skill [Space Teleportation] CD...",
+          "source_en": "TapTap Forum"
+        },
+        {
           "title": "新赛季双层梦居爆料！新家具鱼缸也要和工友们见面啦！",
           "source": "TapTap论坛",
           "url": "https://www.taptap.cn/app/714123/topic",
@@ -318,51 +355,6 @@
           "sentiment": "neutral",
           "title_en": "There are still a lot of content revelations on the way, see you at 0:00 on July 18~",
           "source_en": "TapTap Forum"
-        },
-        {
-          "title": "这个九龙凤冠挺好出的，昨天爆率挺高的 连续捡了三个九龙凤冠和一个圣杯9把剑，第一个凤冠为了展示特效没...",
-          "source": "TapTap论坛",
-          "url": "https://www.taptap.cn/app/714123/topic",
-          "link_status": "unknown",
-          "sentiment": "neutral",
-          "title_en": "This Nine-Dragon-Phoenix Crown is very easy to find. The explosion rate was quite high yesterday. I picked up three Nine-Dragon-Phoenix Crown and one Holy Grail 9 Swords in a row. The first Phoenix Crown was not used to show the special effects...",
-          "source_en": "TapTap Forum"
-        },
-        {
-          "title": "硬零配硬歌，【零-鬼王】演绎动画爆料",
-          "source": "TapTap论坛",
-          "url": "https://www.taptap.cn/app/714123/topic",
-          "link_status": "unknown",
-          "sentiment": "neutral",
-          "title_en": "Hard Zero with hard songs, [Zero-King of Ghosts] performs animation and breaks news",
-          "source_en": "TapTap Forum"
-        },
-        {
-          "title": "发色和体型调整后的完全体鬼王登场！",
-          "source": "TapTap论坛",
-          "url": "https://www.taptap.cn/app/714123/topic",
-          "link_status": "unknown",
-          "sentiment": "neutral",
-          "title_en": "The complete Ghost King with adjusted hair color and body shape appears!",
-          "source_en": "TapTap Forum"
-        },
-        {
-          "title": "朋友高中生以后大概不会在充钱了两位都是主摸金四队不会打。找兔子唯一要求:开智。有意者去游戏搜工号就行",
-          "source": "TapTap论坛",
-          "url": "https://www.taptap.cn/app/714123/topic",
-          "link_status": "unknown",
-          "sentiment": "neutral",
-          "title_en": "My friend, who is a high school student, probably won't charge money anymore. Both of them are the main gold-touching team and they don't know how to play. The only requirement for finding a rabbit is to be smart. If you are interested, just go to the game and search for a job number.",
-          "source_en": "TapTap Forum"
-        },
-        {
-          "title": "本人16准初三女，白天全天有空🉑开麦不压力人 ，d个固排和我玩双子星（本人应该算个小青跑吧。？偶尔迷...",
-          "source": "TapTap论坛",
-          "url": "https://www.taptap.cn/app/714123/topic",
-          "link_status": "unknown",
-          "sentiment": "neutral",
-          "title_en": "I am a 16-year-old girl who is about to be in the third grade of junior high school. I am free all day long🉑It is not stressful to open the mic. I have a regular schedule and play Gemini with me (I should be considered a young runner.? Occasionally I am obsessed with...",
-          "source_en": "TapTap Forum"
         }
       ],
       "bilibili": {
@@ -375,7 +367,7 @@
             "title": "南瓜入侵，幽魂大运来了！",
             "bvid": "BV1xCkfBjENz",
             "url": "https://www.bilibili.com/video/BV1xCkfBjENz",
-            "play": 5790171,
+            "play": 5790383,
             "like": 34717,
             "danmaku": 186,
             "author": "張某人ZSS",
@@ -388,9 +380,9 @@
             "title": "教会你们如何在超自然找到大佬",
             "bvid": "BV1d2tGz2E3Z",
             "url": "https://www.bilibili.com/video/BV1d2tGz2E3Z",
-            "play": 4733435,
-            "like": 31974,
-            "danmaku": 396,
+            "play": 4733616,
+            "like": 31976,
+            "danmaku": 399,
             "author": "中二的小溢",
             "duration": "5:45",
             "pic": "https://i2.hdslb.com/bfs/archive/d70e085a135fbe95fd9d6413a3cde6264ad72960.jpg",
@@ -401,8 +393,8 @@
             "title": "超自然行动组怪物图鉴第六期「小熊猫」",
             "bvid": "BV1QCjiz2Evq",
             "url": "https://www.bilibili.com/video/BV1QCjiz2Evq",
-            "play": 3717308,
-            "like": 16741,
+            "play": 3718052,
+            "like": 16747,
             "danmaku": 222,
             "author": "就是黄大毛",
             "duration": "1:45",
@@ -414,8 +406,8 @@
             "title": "本来想卖掉大鹅、看到眼神心软了",
             "bvid": "BV1Wv6bBWEmn",
             "url": "https://www.bilibili.com/video/BV1Wv6bBWEmn",
-            "play": 3509928,
-            "like": 115470,
+            "play": 3510207,
+            "like": 115480,
             "danmaku": 1687,
             "author": "虎熊寺",
             "duration": "1:24",
@@ -427,7 +419,7 @@
             "title": "搜打撤黑马？！《超自然行动组》凭什么能爆火？",
             "bvid": "BV11hsheJE5i",
             "url": "https://www.bilibili.com/video/BV11hsheJE5i",
-            "play": 2928498,
+            "play": 2928508,
             "like": 31662,
             "danmaku": 45,
             "author": "白馆长丶",
@@ -440,7 +432,7 @@
             "title": "为什么幸福的人不会来到超自然行动组？",
             "bvid": "BV1Zqu4z5ETn",
             "url": "https://www.bilibili.com/video/BV1Zqu4z5ETn",
-            "play": 2790832,
+            "play": 2790905,
             "like": 9008,
             "danmaku": 146,
             "author": "白白鸭游戏",
@@ -468,7 +460,7 @@
         "us": {
           "name": "美国",
           "rating": 4.54,
-          "rating_count": 743,
+          "rating_count": 746,
           "current_version": "1.30.4",
           "price": "Free",
           "genre": "Games",
@@ -477,7 +469,7 @@
         "jp": {
           "name": "日本",
           "rating": 4.43,
-          "rating_count": 2045,
+          "rating_count": 2063,
           "current_version": "1.30.4",
           "price": "無料",
           "genre": "Games",
@@ -486,7 +478,7 @@
         "kr": {
           "name": "韩国",
           "rating": 3.85,
-          "rating_count": 266,
+          "rating_count": 265,
           "current_version": "1.30.4",
           "price": "무료",
           "genre": "Games",
@@ -506,8 +498,8 @@
         }
       },
       "app_store_rating": 4.27,
-      "total_ratings": 3054,
-      "updated": "2026-07-13 02:53",
+      "total_ratings": 3074,
+      "updated": "2026-07-14 02:34",
       "name_en": "Tomb Busters"
     },
     "app_store_rankings": {
@@ -517,7 +509,7 @@
         "free_games": null,
         "grossing_overall": null,
         "grossing_games": null,
-        "updated": "2026-07-13 02:53",
+        "updated": "2026-07-14 02:34",
         "name_en": "US"
       },
       "jp": {
@@ -526,7 +518,7 @@
         "free_games": null,
         "grossing_overall": null,
         "grossing_games": null,
-        "updated": "2026-07-13 02:53",
+        "updated": "2026-07-14 02:34",
         "name_en": "Japan"
       },
       "kr": {
@@ -535,7 +527,7 @@
         "free_games": null,
         "grossing_overall": null,
         "grossing_games": null,
-        "updated": "2026-07-13 02:53",
+        "updated": "2026-07-14 02:34",
         "name_en": "South Korea"
       },
       "tw": {
@@ -544,7 +536,7 @@
         "free_games": null,
         "grossing_overall": null,
         "grossing_games": null,
-        "updated": "2026-07-13 02:53",
+        "updated": "2026-07-14 02:34",
         "name_en": "Taiwan, China"
       },
       "hk": {
@@ -553,7 +545,7 @@
         "free_games": null,
         "grossing_overall": null,
         "grossing_games": null,
-        "updated": "2026-07-13 02:53",
+        "updated": "2026-07-14 02:34",
         "name_en": "Hong Kong, China"
       }
     },
@@ -562,10 +554,10 @@
         "name": "中国",
         "name_en": "China",
         "free_overall": null,
-        "free_games": 18,
-        "grossing_overall": 21,
-        "grossing_games": 10,
-        "updated": "2026-07-13 02:53",
+        "free_games": 16,
+        "grossing_overall": 25,
+        "grossing_games": 11,
+        "updated": "2026-07-14 02:34",
         "peak_grossing_games": 6,
         "peak_free_overall": null
       }
@@ -573,11 +565,11 @@
     "stock_price": {
       "code": "SZ002558",
       "name": "巨人网络",
-      "price": 27.85,
-      "prev_close": 29.56,
-      "change_pct": -5.78,
-      "change_amt": -1.71,
-      "updated": "2026-07-13 02:53",
+      "price": 27.3,
+      "prev_close": 28.48,
+      "change_pct": -4.14,
+      "change_amt": -1.18,
+      "updated": "2026-07-14 02:34",
       "name_en": "Giant Network"
     },
     "new_content_tracker": [
@@ -585,7 +577,7 @@
         "id": "角色重做",
         "name": "角色重做",
         "status": "announced",
-        "first_seen": "2026-07-13",
+        "first_seen": "2026-07-14",
         "launch_date": null,
         "tags": [
           "角色重做"
@@ -593,7 +585,7 @@
         "announcements": [
           {
             "title": "阿念重做登场！",
-            "date": "2026-07-13",
+            "date": "2026-07-14",
             "source": "官网",
             "url": "https://www.chaoziran.com/news/538",
             "title_en": "A Nian’s rework is here!",
@@ -615,7 +607,7 @@
         "id": "新怪物",
         "name": "新怪物",
         "status": "teased",
-        "first_seen": "2026-07-13",
+        "first_seen": "2026-07-14",
         "launch_date": null,
         "tags": [
           "新怪物"
@@ -623,7 +615,7 @@
         "announcements": [
           {
             "title": "新怪物【鸭子】实机展示，追上了命都给你哦",
-            "date": "2026-07-13",
+            "date": "2026-07-14",
             "source": "官网",
             "url": "https://www.chaoziran.com/news/535",
             "title_en": "The new monster [Duck] is shown in action. If you catch up, you will be given life.",
@@ -642,6 +634,6 @@
         ]
       }
     ],
-    "crawled_at": "2026-07-13T02:53:44.688103"
+    "crawled_at": "2026-07-14T02:34:47.798250"
   }
 }
