@@ -4,10 +4,10 @@
     "source": "Google Play",
     "url": "https://play.google.com/store/apps/details?id=com.game.tombbusters",
     "rating": 4.1,
-    "review_count": 754,
+    "review_count": 760,
     "description": "Hilarious Co-op Horror Extraction",
     "category": "FAMILY",
-    "crawled_at": "2026-07-14 02:33"
+    "crawled_at": "2026-07-15 02:32"
   },
   "google_play_reviews": [
     {
@@ -33,7 +33,7 @@
       "title": "TOMB RAIDER Gameplay Walkthrough Part 1 FULL GAME [4K 60FPS PC ULTRA] - No Commentary",
       "video_id": "hT-LKGp-bMo",
       "url": "https://www.youtube.com/watch?v=hT-LKGp-bMo",
-      "views": "2,744,157 views",
+      "views": "2,747,940 views",
       "channel": "MKIceAndFire",
       "published": "2 years ago",
       "duration": "6:26:06"
@@ -42,7 +42,7 @@
       "title": "Ghost Buster Pakdenge Bhoot in Phasmophobia🛑",
       "video_id": "MhvKYidexA8",
       "url": "https://www.youtube.com/watch?v=MhvKYidexA8",
-      "views": "2,682,218 views",
+      "views": "2,683,911 views",
       "channel": "Live Insaan",
       "published": "Streamed 9 months ago",
       "duration": "3:49:16"
@@ -51,7 +51,7 @@
       "title": "Tomb Busters - Nogla Won't Stay Away From Me!",
       "video_id": "EnuSSZ8nN4I",
       "url": "https://www.youtube.com/watch?v=EnuSSZ8nN4I",
-      "views": "467,509 views",
+      "views": "468,116 views",
       "channel": "VanossGaming",
       "published": "1 month ago",
       "duration": "27:18"
@@ -60,7 +60,7 @@
       "title": "A game based on 'The Snapshot Serial Killer'",
       "video_id": "2bIUhc95Orc",
       "url": "https://www.youtube.com/watch?v=2bIUhc95Orc",
-      "views": "417,935 views",
+      "views": "418,032 views",
       "channel": "8-BitRyan",
       "published": "1 year ago",
       "duration": "54:50"
@@ -69,7 +69,7 @@
       "title": "THIS MOBILE LETHAL-LIKE IS ACTUALLY HILARIOUS!!! | Tomb Busters (w/ Kyle & Squirrel)",
       "video_id": "O_JjLJQdGh0",
       "url": "https://www.youtube.com/watch?v=O_JjLJQdGh0",
-      "views": "422,111 views",
+      "views": "422,451 views",
       "channel": "CaRtOoNz",
       "published": "2 weeks ago",
       "duration": "1:26:18"
@@ -78,25 +78,16 @@
       "title": "Tomb Busters | Launch Gameplay Trailer",
       "video_id": "SozbL_ez72Y",
       "url": "https://www.youtube.com/watch?v=SozbL_ez72Y",
-      "views": "425,175 views",
+      "views": "425,197 views",
       "channel": "Tomb Busters",
       "published": "1 month ago",
       "duration": "0:56"
     },
     {
-      "title": "Don't get caught! Steal the treasure from this dangerous place!【 Paranormal Squad 】",
-      "video_id": "uf49EB_S4rc",
-      "url": "https://www.youtube.com/watch?v=uf49EB_S4rc",
-      "views": "186,180 views",
-      "channel": "ちろぴの",
-      "published": "9 days ago",
-      "duration": "32:10"
-    },
-    {
       "title": "Goofy Gang Explores SCARY TOMBS... (Tomb Busters)",
       "video_id": "l9WdUDC67bY",
       "url": "https://www.youtube.com/watch?v=l9WdUDC67bY",
-      "views": "149,716 views",
+      "views": "150,284 views",
       "channel": "Goofy Gang",
       "published": "1 month ago",
       "duration": "20:27"
@@ -105,7 +96,7 @@
       "title": "Three Idiots VS Funniest New Horror Game",
       "video_id": "m6ENmCcWhBc",
       "url": "https://www.youtube.com/watch?v=m6ENmCcWhBc",
-      "views": "139,954 views",
+      "views": "140,228 views",
       "channel": "SeeReax",
       "published": "1 month ago",
       "duration": "43:39"
@@ -114,10 +105,19 @@
       "title": "MARCEL KNOWS HIS FRIENDS TOO WELL!",
       "video_id": "QPOYv5LH884",
       "url": "https://www.youtube.com/watch?v=QPOYv5LH884",
-      "views": "221,747 views",
+      "views": "221,822 views",
       "channel": "Terroriser",
       "published": "3 weeks ago",
       "duration": "23:43"
+    },
+    {
+      "title": "Tomb Raider apk download? #tombraider #gamingcommunity #tombraider2013gameplay #fpsgames ",
+      "video_id": "RatbS4ym8QM",
+      "url": "https://www.youtube.com/watch?v=RatbS4ym8QM",
+      "views": "119,921 views",
+      "channel": "Android Arena",
+      "published": "5 months ago",
+      "duration": "1:15"
     }
   ],
   "official_news_en": [],
@@ -131,7 +131,7 @@
   "app_store_extended": {
     "us": {
       "name": "美国",
-      "rating": 4.54,
+      "rating": 4.55,
       "rating_count": 746,
       "current_version": "1.30.4",
       "price": "Free",
@@ -140,7 +140,7 @@
     "jp": {
       "name": "日本",
       "rating": 4.43,
-      "rating_count": 2063,
+      "rating_count": 2081,
       "current_version": "1.30.4",
       "price": "無料",
       "genre": "Games"
@@ -165,8 +165,8 @@
     },
     "gb": {
       "name": "英国",
-      "rating": 4.41,
-      "rating_count": 27,
+      "rating": 4.43,
+      "rating_count": 28,
       "current_version": "1.30.4",
       "price": "Free",
       "genre": "Games"
@@ -211,6 +211,6 @@
       "rating_count": 0
     }
   },
-  "crawled_at": "2026-07-14T02:34:14.227258",
-  "crawled_date": "2026-07-14"
+  "crawled_at": "2026-07-15T02:33:02.927332",
+  "crawled_date": "2026-07-15"
 }

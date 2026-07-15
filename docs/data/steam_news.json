@@ -249,7 +249,7 @@
       "is_official": true,
       "contents": "Hey hey semibots! Here is yet another small update with some fixes and balancing! CHANGES BALANCING FIXES CHANGES Item Melee Weapons - Handling now properly scales with strength and should feel firmer"
     },
-    "crawled_at": "2026-07-14T02:34:20.377298"
+    "crawled_at": "2026-07-15T02:33:09.197528"
   },
   "Lethal Company": {
     "appid": 1966720,
@@ -501,11 +501,22 @@
       "is_official": true,
       "contents": "Hello, long time no see! Version 80 is out in beta for you to test. You can access it by opting into the public beta branch for Lethal Company on Steam. V80 brings a complete rework of March's exterio"
     },
-    "crawled_at": "2026-07-14T02:34:21.531283"
+    "crawled_at": "2026-07-15T02:33:10.454680"
   },
   "Phasmophobia": {
     "appid": 739630,
     "all": [
+      {
+        "date": "2026-07-14",
+        "datetime": "2026-07-14T15:09:01",
+        "title": "Phasmophobia Quality of Life Preview #2",
+        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1837955055366422",
+        "author": "Tom Dent",
+        "feed_label": "Community Announcements",
+        "is_patch": false,
+        "is_official": true,
+        "contents": "Welcome back, Ghost Hunters.Following on from our recent preview of the Quality of Life update launching on July 21st, we wanted to share some further details including the newer features - including "
+      },
       {
         "date": "2026-07-02",
         "datetime": "2026-07-02T14:09:07",
@@ -604,17 +615,6 @@
         "is_patch": true,
         "is_official": true,
         "contents": "Welcome back, Ghost Hunters.Today we have released a small hotfix for Phasmophobia, addressing feedback from the community following our latest update.Patch notes can be found below. FixesFixed an iss"
-      },
-      {
-        "date": "2026-05-12",
-        "datetime": "2026-05-12T12:52:00",
-        "title": "'We want to start today by apologising': Phasmophobia is fixing issues with its Player Character update after a slew of complaints",
-        "url": "https://steamstore-a.akamaihd.net/news/externalpost/PC Gamer/1832065502823828",
-        "author": "Elie Gould",
-        "feed_label": "PC Gamer",
-        "is_patch": false,
-        "is_official": false,
-        "contents": "<a href=\"https://www.pcgamer.com/uk/phasmophobia/\">Phasmophobia's</a> latest update, which was pushed out prior to the <a href=\"https://www.pcgamer.com/games/horror/alan-wake-heads-to-phasmophobia-nex"
       }
     ],
     "patches": [
@@ -665,6 +665,17 @@
     ],
     "announcements": [
       {
+        "date": "2026-07-14",
+        "datetime": "2026-07-14T15:09:01",
+        "title": "Phasmophobia Quality of Life Preview #2",
+        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1837955055366422",
+        "author": "Tom Dent",
+        "feed_label": "Community Announcements",
+        "is_patch": false,
+        "is_official": true,
+        "contents": "Welcome back, Ghost Hunters.Following on from our recent preview of the Quality of Life update launching on July 21st, we wanted to share some further details including the newer features - including "
+      },
+      {
         "date": "2026-07-02",
         "datetime": "2026-07-02T14:09:07",
         "title": "Phasmophobia Quality of Life Update Preview",
@@ -718,29 +729,18 @@
         "is_patch": false,
         "is_official": true,
         "contents": "Be a part of the story with The Seer ID Card & Badge.Our Phasmophobia by Alan Wake Twitch Drop will be available from 12PM BST May 19th - 12PM BST May 26th.Earn the Animated variant via Kinetic Games "
-      },
-      {
-        "date": "2026-05-12",
-        "datetime": "2026-05-12T12:52:00",
-        "title": "'We want to start today by apologising': Phasmophobia is fixing issues with its Player Character update after a slew of complaints",
-        "url": "https://steamstore-a.akamaihd.net/news/externalpost/PC Gamer/1832065502823828",
-        "author": "Elie Gould",
-        "feed_label": "PC Gamer",
-        "is_patch": false,
-        "is_official": false,
-        "contents": "<a href=\"https://www.pcgamer.com/uk/phasmophobia/\">Phasmophobia's</a> latest update, which was pushed out prior to the <a href=\"https://www.pcgamer.com/games/horror/alan-wake-heads-to-phasmophobia-nex"
       }
     ],
     "latest": {
-      "date": "2026-07-02",
-      "datetime": "2026-07-02T14:09:07",
-      "title": "Phasmophobia Quality of Life Update Preview",
-      "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165568121",
+      "date": "2026-07-14",
+      "datetime": "2026-07-14T15:09:01",
+      "title": "Phasmophobia Quality of Life Preview #2",
+      "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1837955055366422",
       "author": "Tom Dent",
       "feed_label": "Community Announcements",
       "is_patch": false,
       "is_official": true,
-      "contents": "Welcome back, Ghost Hunters.Today we’re going to give you more detail on the upcoming Quality of Life update launching alongside the 13 Willow Street rework on July 21st, 2026.As mentioned in our rece"
+      "contents": "Welcome back, Ghost Hunters.Following on from our recent preview of the Quality of Life update launching on July 21st, we wanted to share some further details including the newer features - including "
     },
     "latest_patch": {
       "date": "2026-06-03",
@@ -753,7 +753,7 @@
       "is_official": true,
       "contents": "Welcome back, Ghost Hunters.Today we have released a hotfix for Phasmophobia, addressing two issues raised by the community this week. The update is now available across all platforms.Patch notes:Fixe"
     },
-    "crawled_at": "2026-07-14T02:34:22.738441"
+    "crawled_at": "2026-07-15T02:33:11.606049"
   },
   "Content Warning": {
     "appid": 2881650,
@@ -1005,7 +1005,7 @@
       "is_official": true,
       "contents": "Hello Spööktubers! Thank you for your patience as we're fixing bugs on all platforms.Here's a new patch fixing some stuff!For those of you wondering when crossplay between Switch 1 & 2 and other platf"
     },
-    "crawled_at": "2026-07-14T02:34:23.890215"
+    "crawled_at": "2026-07-15T02:33:12.779206"
   },
   "FEEDERS": {
     "appid": 4408510,
@@ -1256,11 +1256,22 @@
       "is_official": true,
       "contents": "Gave the HUD a fresh redesign. New look across the board — the status bars (Health, Stamina, Radiation) and the bottom belt all got reworked. Same info, cleaner read. More guns coming with new solo ex"
     },
-    "crawled_at": "2026-07-14T02:34:25.088156"
+    "crawled_at": "2026-07-15T02:33:13.907227"
   },
   "NARAKA: BLADEPOINT": {
     "appid": 1203220,
     "all": [
+      {
+        "date": "2026-07-14",
+        "datetime": "2026-07-14T10:07:34",
+        "title": "NARAKA: BLADEPOINT Banned Players List July 14th",
+        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1837955055365686",
+        "author": "Yeeeeee",
+        "feed_label": "Community Announcements",
+        "is_patch": false,
+        "is_official": true,
+        "contents": "Dear players, NARAKA: BLADEPOINT is committed to creating a fair and healthy competitive environment. We have not only used new anti-cheat technologies, but also established special cheat-reporting re"
+      },
       {
         "date": "2026-07-07",
         "datetime": "2026-07-07T13:58:59",
@@ -1354,17 +1365,6 @@
         "datetime": "2026-05-26T12:32:29",
         "title": "NARAKA: BLADEPOINT Banned Players List May 26th",
         "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833334318579248",
-        "author": "Yeeeeee",
-        "feed_label": "Community Announcements",
-        "is_patch": false,
-        "is_official": true,
-        "contents": "Dear players, NARAKA: BLADEPOINT is committed to creating a fair and healthy competitive environment. We have not only used new anti-cheat technologies, but also established special cheat-reporting re"
-      },
-      {
-        "date": "2026-05-20",
-        "datetime": "2026-05-20T15:45:58",
-        "title": "NARAKA: BLADEPOINT Banned Players List May 20th",
-        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833334318566626",
         "author": "Yeeeeee",
         "feed_label": "Community Announcements",
         "is_patch": false,
@@ -1375,6 +1375,17 @@
     "patches": [],
     "announcements": [
       {
+        "date": "2026-07-14",
+        "datetime": "2026-07-14T10:07:34",
+        "title": "NARAKA: BLADEPOINT Banned Players List July 14th",
+        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1837955055365686",
+        "author": "Yeeeeee",
+        "feed_label": "Community Announcements",
+        "is_patch": false,
+        "is_official": true,
+        "contents": "Dear players, NARAKA: BLADEPOINT is committed to creating a fair and healthy competitive environment. We have not only used new anti-cheat technologies, but also established special cheat-reporting re"
+      },
+      {
         "date": "2026-07-07",
         "datetime": "2026-07-07T13:58:59",
         "title": "NARAKA: BLADEPOINT Banned Players List July 7th",
@@ -1472,24 +1483,13 @@
         "is_patch": false,
         "is_official": true,
         "contents": "Dear players, NARAKA: BLADEPOINT is committed to creating a fair and healthy competitive environment. We have not only used new anti-cheat technologies, but also established special cheat-reporting re"
-      },
-      {
-        "date": "2026-05-20",
-        "datetime": "2026-05-20T15:45:58",
-        "title": "NARAKA: BLADEPOINT Banned Players List May 20th",
-        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833334318566626",
-        "author": "Yeeeeee",
-        "feed_label": "Community Announcements",
-        "is_patch": false,
-        "is_official": true,
-        "contents": "Dear players, NARAKA: BLADEPOINT is committed to creating a fair and healthy competitive environment. We have not only used new anti-cheat technologies, but also established special cheat-reporting re"
       }
     ],
     "latest": {
-      "date": "2026-07-07",
-      "datetime": "2026-07-07T13:58:59",
-      "title": "NARAKA: BLADEPOINT Banned Players List July 7th",
-      "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165578106",
+      "date": "2026-07-14",
+      "datetime": "2026-07-14T10:07:34",
+      "title": "NARAKA: BLADEPOINT Banned Players List July 14th",
+      "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1837955055365686",
       "author": "Yeeeeee",
       "feed_label": "Community Announcements",
       "is_patch": false,
@@ -1497,12 +1497,23 @@
       "contents": "Dear players, NARAKA: BLADEPOINT is committed to creating a fair and healthy competitive environment. We have not only used new anti-cheat technologies, but also established special cheat-reporting re"
     },
     "latest_patch": null,
-    "crawled_at": "2026-07-14T02:34:26.190519"
+    "crawled_at": "2026-07-15T02:33:15.093263"
   },
   "Dead by Daylight": {
     "appid": 381210,
     "all": [
       {
+        "date": "2026-07-14",
+        "datetime": "2026-07-14T09:00:00",
+        "title": "Steam Global Top Sellers for week of 7 Jul — 14 July 2026",
+        "url": "https://steamstore-a.akamaihd.net/news/externalpost/SteamDB/1837955055366147",
+        "author": "SteamDB",
+        "feed_label": "SteamDB",
+        "is_patch": false,
+        "is_official": false,
+        "contents": "<a href=\"https://steamdb.info/topsellers/2026W29/?utm_source=Steam&utm_medium=Steam&utm_campaign=SteamRSS\"> </a> * <a href=\"https://steamdb.info/app/3751950/charts/?utm_source=Steam&utm_medium=Steam&u"
+      },
+      {
         "date": "2026-07-10",
         "datetime": "2026-07-10T15:15:38",
         "title": "Unkillable: inside Dead by Daylight's incredible decade of scares",
@@ -1600,22 +1611,22 @@
         "is_patch": false,
         "is_official": true,
         "contents": "Featuring PaulieEsther! Watch the full Twitch replay via this link: https://www.twitch.tv/videos/2798058939"
-      },
-      {
-        "date": "2026-06-17",
-        "datetime": "2026-06-17T10:21:40",
-        "title": "Dead by Daylight hits new all-time peak player count, proving live service isn't dead",
-        "url": "https://steamstore-a.akamaihd.net/news/externalpost/PCGamesN/1835871199300390",
-        "author": "editor@pcgamesn.com",
-        "feed_label": "PCGamesN",
-        "is_patch": false,
-        "is_official": false,
-        "contents": "Dead by Daylight is a game developer's dream (or nightmare) come true. Akin to Warframe, it launched to somewhat lukewarm reviews, but has continued to expand as the years have gone on, cementing itse"
       }
     ],
     "patches": [],
     "announcements": [
       {
+        "date": "2026-07-14",
+        "datetime": "2026-07-14T09:00:00",
+        "title": "Steam Global Top Sellers for week of 7 Jul — 14 July 2026",
+        "url": "https://steamstore-a.akamaihd.net/news/externalpost/SteamDB/1837955055366147",
+        "author": "SteamDB",
+        "feed_label": "SteamDB",
+        "is_patch": false,
+        "is_official": false,
+        "contents": "<a href=\"https://steamdb.info/topsellers/2026W29/?utm_source=Steam&utm_medium=Steam&utm_campaign=SteamRSS\"> </a> * <a href=\"https://steamdb.info/app/3751950/charts/?utm_source=Steam&utm_medium=Steam&u"
+      },
+      {
         "date": "2026-07-10",
         "datetime": "2026-07-10T15:15:38",
         "title": "Unkillable: inside Dead by Daylight's incredible decade of scares",
@@ -1713,31 +1724,20 @@
         "is_patch": false,
         "is_official": true,
         "contents": "Featuring PaulieEsther! Watch the full Twitch replay via this link: https://www.twitch.tv/videos/2798058939"
-      },
-      {
-        "date": "2026-06-17",
-        "datetime": "2026-06-17T10:21:40",
-        "title": "Dead by Daylight hits new all-time peak player count, proving live service isn't dead",
-        "url": "https://steamstore-a.akamaihd.net/news/externalpost/PCGamesN/1835871199300390",
-        "author": "editor@pcgamesn.com",
-        "feed_label": "PCGamesN",
-        "is_patch": false,
-        "is_official": false,
-        "contents": "Dead by Daylight is a game developer's dream (or nightmare) come true. Akin to Warframe, it launched to somewhat lukewarm reviews, but has continued to expand as the years have gone on, cementing itse"
       }
     ],
     "latest": {
-      "date": "2026-07-10",
-      "datetime": "2026-07-10T15:15:38",
-      "title": "Unkillable: inside Dead by Daylight's incredible decade of scares",
-      "url": "https://steamstore-a.akamaihd.net/news/externalpost/PCGamesN/1837955055357223",
-      "author": "editor@pcgamesn.com",
-      "feed_label": "PCGamesN",
+      "date": "2026-07-14",
+      "datetime": "2026-07-14T09:00:00",
+      "title": "Steam Global Top Sellers for week of 7 Jul — 14 July 2026",
+      "url": "https://steamstore-a.akamaihd.net/news/externalpost/SteamDB/1837955055366147",
+      "author": "SteamDB",
+      "feed_label": "SteamDB",
       "is_patch": false,
       "is_official": false,
-      "contents": "Dead by Daylight has been terrifying players for ten years now, so I caught up with Behaviour to chat about DBD's legacy, and its future. Read the full story on PCGamesN: <a href=\"https://www.pcgamesn"
+      "contents": "<a href=\"https://steamdb.info/topsellers/2026W29/?utm_source=Steam&utm_medium=Steam&utm_campaign=SteamRSS\"> </a> * <a href=\"https://steamdb.info/app/3751950/charts/?utm_source=Steam&utm_medium=Steam&u"
     },
     "latest_patch": null,
-    "crawled_at": "2026-07-14T02:34:27.358334"
+    "crawled_at": "2026-07-15T02:33:16.441203"
   }
 }
