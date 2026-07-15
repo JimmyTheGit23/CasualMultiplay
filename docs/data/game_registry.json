@@ -3,57 +3,400 @@
   "updated_at": "2026-07-01",
   "description": "休闲多人游戏聚合情报 - 游戏注册表",
   "tag_definitions": {
-    "horror": {
-      "zh": "恐怖",
-      "steam_tag_id": 4667
+    "Multiplayer": {
+      "zh": "多人",
+      "count": 26,
+      "steam_official": true
     },
-    "coop": {
+    "Online Co-Op": {
+      "zh": "在线合作",
+      "count": 21,
+      "steam_official": true
+    },
+    "Co-op": {
       "zh": "合作",
-      "steam_tag_id": 1756
+      "count": 19,
+      "steam_official": true
     },
-    "pvp": {
-      "zh": "对战",
-      "steam_tag_id": 4885
+    "Horror": {
+      "zh": "恐怖",
+      "count": 16,
+      "steam_official": true
     },
-    "party": {
-      "zh": "派对",
-      "steam_tag_id": 5984
+    "First-Person": {
+      "zh": "第一人称",
+      "count": 13,
+      "steam_official": true
     },
-    "social_deduction": {
-      "zh": "社交推理",
-      "steam_tag_id": 7368
+    "Survival Horror": {
+      "zh": "生存恐怖",
+      "count": 10,
+      "steam_official": true
     },
-    "survival": {
-      "zh": "生存",
-      "steam_tag_id": 1664
+    "Action": {
+      "zh": "动作",
+      "count": 9,
+      "steam_official": true
     },
-    "extraction": {
-      "zh": "撤离",
-      "steam_tag_id": null
+    "Exploration": {
+      "zh": "探索",
+      "count": 8,
+      "steam_official": true
     },
-    "asymmetric": {
-      "zh": "非对称",
-      "steam_tag_id": null
+    "Funny": {
+      "zh": "搞笑",
+      "count": 7,
+      "steam_official": true
     },
-    "ghost_hunt": {
-      "zh": "捉鬼",
-      "steam_tag_id": null
+    "Psychological Horror": {
+      "zh": "心理恐怖",
+      "count": 7,
+      "steam_official": true
     },
-    "looter": {
-      "zh": "搜打撤",
-      "steam_tag_id": null
+    "PvE": {
+      "zh": "PvE",
+      "count": 7,
+      "steam_official": true
     },
-    "roguelike": {
-      "zh": "Roguelike",
-      "steam_tag_id": 1719
+    "Comedy": {
+      "zh": "喜剧",
+      "count": 5,
+      "steam_official": true
     },
-    "physics": {
+    "Physics": {
       "zh": "物理",
-      "steam_tag_id": 4159
+      "count": 5,
+      "steam_official": true
     },
-    "hide_and_seek": {
-      "zh": "捉迷藏",
-      "steam_tag_id": null
+    "Action Roguelike": {
+      "zh": "动作肉鸽",
+      "count": 5,
+      "steam_official": true
+    },
+    "FPS": {
+      "zh": "FPS",
+      "count": 5,
+      "steam_official": true
+    },
+    "Survival": {
+      "zh": "生存",
+      "count": 5,
+      "steam_official": true
+    },
+    "Extraction Shooter": {
+      "zh": "撤离射击",
+      "count": 4,
+      "steam_official": true
+    },
+    "Investigation": {
+      "zh": "调查",
+      "count": 4,
+      "steam_official": true
+    },
+    "PvP": {
+      "zh": "对战",
+      "count": 4,
+      "steam_official": true
+    },
+    "Procedural Generation": {
+      "zh": "程序生成",
+      "count": 3,
+      "steam_official": true
+    },
+    "Early Access": {
+      "zh": "抢先体验",
+      "count": 3,
+      "steam_official": true
+    },
+    "Adventure": {
+      "zh": "冒险",
+      "count": 3,
+      "steam_official": true
+    },
+    "Stealth": {
+      "zh": "潜行",
+      "count": 3,
+      "steam_official": true
+    },
+    "Team-Based": {
+      "zh": "团队导向",
+      "count": 3,
+      "steam_official": true
+    },
+    "Violent": {
+      "zh": "暴力",
+      "count": 3,
+      "steam_official": true
+    },
+    "Roguelike": {
+      "zh": "Roguelike",
+      "count": 3,
+      "steam_official": true
+    },
+    "Roguelite": {
+      "zh": "Roguelite",
+      "count": 3,
+      "steam_official": true
+    },
+    "Looter Shooter": {
+      "zh": "搜打撤",
+      "count": 2,
+      "steam_official": true
+    },
+    "Action-Adventure": {
+      "zh": "动作冒险",
+      "count": 2,
+      "steam_official": true
+    },
+    "Supernatural": {
+      "zh": "超自然",
+      "count": 2,
+      "steam_official": true
+    },
+    "Open World": {
+      "zh": "开放世界",
+      "count": 2,
+      "steam_official": true
+    },
+    "Battle Royale": {
+      "zh": "吃鸡",
+      "count": 2,
+      "steam_official": true
+    },
+    "Free to Play": {
+      "zh": "免费游玩",
+      "count": 2,
+      "steam_official": true
+    },
+    "Gore": {
+      "zh": "鲜血",
+      "count": 2,
+      "steam_official": true
+    },
+    "Singleplayer": {
+      "zh": "单人",
+      "count": 2,
+      "steam_official": true
+    },
+    "Casual": {
+      "zh": "休闲",
+      "count": 2,
+      "steam_official": true
+    },
+    "Party Game": {
+      "zh": "派对游戏",
+      "count": 2,
+      "steam_official": true
+    },
+    "Third-Person Shooter": {
+      "zh": "第三人称射击",
+      "count": 2,
+      "steam_official": true
+    },
+    "Shooter": {
+      "zh": "射击",
+      "count": 2,
+      "steam_official": true
+    },
+    "3D": {
+      "zh": "3D",
+      "count": 1,
+      "steam_official": true
+    },
+    "Mystery Dungeon": {
+      "zh": "神秘地牢",
+      "count": 1,
+      "steam_official": true
+    },
+    "VR": {
+      "zh": "VR",
+      "count": 1,
+      "steam_official": true
+    },
+    "Dark": {
+      "zh": "黑暗",
+      "count": 1,
+      "steam_official": true
+    },
+    "Tactical": {
+      "zh": "战术",
+      "count": 1,
+      "steam_official": true
+    },
+    "Atmospheric": {
+      "zh": "氛围",
+      "count": 1,
+      "steam_official": true
+    },
+    "Martial Arts": {
+      "zh": "武术",
+      "count": 1,
+      "steam_official": true
+    },
+    "Character Customization": {
+      "zh": "角色定制",
+      "count": 1,
+      "steam_official": true
+    },
+    "Female Protagonist": {
+      "zh": "女性主角",
+      "count": 1,
+      "steam_official": true
+    },
+    "Massively Multiplayer": {
+      "zh": "大型多人",
+      "count": 1,
+      "steam_official": true
+    },
+    "Puzzle": {
+      "zh": "解谜",
+      "count": 1,
+      "steam_official": true
+    },
+    "Replay Value": {
+      "zh": "重玩价值",
+      "count": 1,
+      "steam_official": true
+    },
+    "Lovecraftian": {
+      "zh": "洛夫克拉夫特式",
+      "count": 1,
+      "steam_official": true
+    },
+    "Hidden Object": {
+      "zh": "隐藏物品",
+      "count": 1,
+      "steam_official": true
+    },
+    "Hand-drawn": {
+      "zh": "手绘",
+      "count": 1,
+      "steam_official": true
+    },
+    "Sci-fi": {
+      "zh": "科幻",
+      "count": 1,
+      "steam_official": true
+    },
+    "Western": {
+      "zh": "西部",
+      "count": 1,
+      "steam_official": true
+    },
+    "Trains": {
+      "zh": "火车",
+      "count": 1,
+      "steam_official": true
+    },
+    "Local Multiplayer": {
+      "zh": "本地多人",
+      "count": 1,
+      "steam_official": true
+    },
+    "Top-Down": {
+      "zh": "俯视",
+      "count": 1,
+      "steam_official": true
+    },
+    "Local Co-Op": {
+      "zh": "本地合作",
+      "count": 1,
+      "steam_official": true
+    },
+    "Beat 'em up": {
+      "zh": "清版动作",
+      "count": 1,
+      "steam_official": true
+    },
+    "Dwarves": {
+      "zh": "矮人",
+      "count": 1,
+      "steam_official": true
+    },
+    "Class-Based": {
+      "zh": "职业制",
+      "count": 1,
+      "steam_official": true
+    },
+    "Social Deduction": {
+      "zh": "社交推理",
+      "count": 1,
+      "steam_official": true
+    },
+    "Space": {
+      "zh": "太空",
+      "count": 1,
+      "steam_official": true
+    },
+    "2D": {
+      "zh": "2D",
+      "count": 1,
+      "steam_official": true
+    },
+    "Base Building": {
+      "zh": "基地建造",
+      "count": 1,
+      "steam_official": true
+    },
+    "Crafting": {
+      "zh": "制作",
+      "count": 1,
+      "steam_official": true
+    },
+    "Hack and Slash": {
+      "zh": "砍杀",
+      "count": 1,
+      "steam_official": true
+    },
+    "Metroidvania": {
+      "zh": "银河恶魔城",
+      "count": 1,
+      "steam_official": true
+    },
+    "Combat": {
+      "zh": "战斗",
+      "count": 1,
+      "steam_official": true
+    },
+    "Fast-Paced": {
+      "zh": "快节奏",
+      "count": 1,
+      "steam_official": true
+    },
+    "Dark Fantasy": {
+      "zh": "黑暗奇幻",
+      "count": 1,
+      "steam_official": true
+    },
+    "Animals": {
+      "zh": "动物",
+      "count": 1,
+      "steam_official": true
+    },
+    "3D Platformer": {
+      "zh": "3D 平台",
+      "count": 1,
+      "steam_official": true
+    },
+    "Sandbox": {
+      "zh": "沙盒",
+      "count": 1,
+      "steam_official": true
+    },
+    "Moddable": {
+      "zh": "可模组",
+      "count": 1,
+      "steam_official": true
+    },
+    "Building": {
+      "zh": "建造",
+      "count": 1,
+      "steam_official": true
+    },
+    "Parkour": {
+      "zh": "跑酷",
+      "count": 1,
+      "steam_official": true
     }
   },
   "games": [
@@ -62,10 +405,10 @@
       "name": "超自然行动组",
       "cn_name": "超自然行动组",
       "tags": [
-        "horror",
-        "coop",
-        "extraction",
-        "looter"
+        "Horror",
+        "Co-op",
+        "Extraction Shooter",
+        "Looter Shooter"
       ],
       "category_zh": "搜打撤/摸金",
       "category_en": "Extraction Looter",
@@ -87,11 +430,14 @@
       "name": "R.E.P.O.",
       "cn_name": "R.E.P.O.",
       "tags": [
-        "horror",
-        "coop",
-        "physics",
-        "extraction",
-        "looter"
+        "Horror",
+        "Online Co-Op",
+        "Multiplayer",
+        "Comedy",
+        "Co-op",
+        "Physics",
+        "First-Person",
+        "3D"
       ],
       "category_zh": "恐怖撤离",
       "category_en": "Horror Extraction",
@@ -112,10 +458,14 @@
       "name": "Lethal Company",
       "cn_name": "致命公司",
       "tags": [
-        "horror",
-        "coop",
-        "extraction",
-        "looter"
+        "Online Co-Op",
+        "Horror",
+        "First-Person",
+        "Co-op",
+        "Survival Horror",
+        "Funny",
+        "Exploration",
+        "Psychological Horror"
       ],
       "category_zh": "恐怖撤离",
       "category_en": "Horror Extraction",
@@ -136,9 +486,14 @@
       "name": "Content Warning",
       "cn_name": "内容警告",
       "tags": [
-        "horror",
-        "coop",
-        "extraction"
+        "Horror",
+        "Online Co-Op",
+        "Procedural Generation",
+        "Exploration",
+        "Action Roguelike",
+        "Multiplayer",
+        "Comedy",
+        "Physics"
       ],
       "category_zh": "恐怖撤离",
       "category_en": "Horror Extraction",
@@ -159,10 +514,14 @@
       "name": "FEEDERS",
       "cn_name": "饲养者",
       "tags": [
-        "horror",
-        "coop",
-        "extraction",
-        "looter"
+        "Early Access",
+        "FPS",
+        "Procedural Generation",
+        "First-Person",
+        "Action-Adventure",
+        "Multiplayer",
+        "Survival Horror",
+        "Mystery Dungeon"
       ],
       "category_zh": "恐怖撤离",
       "category_en": "Horror Extraction",
@@ -183,8 +542,14 @@
       "name": "Peak",
       "cn_name": "巅峰梦序",
       "tags": [
-        "coop",
-        "survival"
+        "Multiplayer",
+        "Online Co-Op",
+        "Co-op",
+        "Physics",
+        "Adventure",
+        "Exploration",
+        "First-Person",
+        "Comedy"
       ],
       "category_zh": "恐怖撤离",
       "category_en": "Horror Extraction",
@@ -205,9 +570,14 @@
       "name": "Phasmophobia",
       "cn_name": "恐鬼症",
       "tags": [
-        "horror",
-        "coop",
-        "ghost_hunt"
+        "Horror",
+        "Online Co-Op",
+        "Multiplayer",
+        "Psychological Horror",
+        "Co-op",
+        "VR",
+        "Supernatural",
+        "First-Person"
       ],
       "category_zh": "捉鬼调查",
       "category_en": "Ghost Investigation",
@@ -228,9 +598,14 @@
       "name": "Demonologist",
       "cn_name": "驱魔人",
       "tags": [
-        "horror",
-        "coop",
-        "ghost_hunt"
+        "Horror",
+        "Multiplayer",
+        "Online Co-Op",
+        "Psychological Horror",
+        "Co-op",
+        "First-Person",
+        "Dark",
+        "Investigation"
       ],
       "category_zh": "捉鬼调查",
       "category_en": "Ghost Investigation",
@@ -251,8 +626,14 @@
       "name": "The Outlast Trials",
       "cn_name": "逃生：试炼",
       "tags": [
-        "horror",
-        "coop"
+        "Horror",
+        "Multiplayer",
+        "Co-op",
+        "Survival Horror",
+        "Psychological Horror",
+        "First-Person",
+        "PvE",
+        "Stealth"
       ],
       "category_zh": "PvPvE猎杀",
       "category_en": "PvPvE Hunting",
@@ -273,9 +654,14 @@
       "name": "Hunt: Showdown 1896",
       "cn_name": "猎杀：对决",
       "tags": [
-        "pvp",
-        "survival",
-        "asymmetric"
+        "Multiplayer",
+        "FPS",
+        "PvP",
+        "Team-Based",
+        "Tactical",
+        "Open World",
+        "Extraction Shooter",
+        "Atmospheric"
       ],
       "category_zh": "PvPvE猎杀",
       "category_en": "PvPvE Hunting",
@@ -296,8 +682,14 @@
       "name": "NARAKA: BLADEPOINT",
       "cn_name": "永劫无间",
       "tags": [
-        "pvp",
-        "looter"
+        "Battle Royale",
+        "Multiplayer",
+        "Martial Arts",
+        "PvP",
+        "Action",
+        "Character Customization",
+        "Female Protagonist",
+        "Massively Multiplayer"
       ],
       "category_zh": "搜打撤/摸金",
       "category_en": "Extraction Looter",
@@ -318,8 +710,14 @@
       "name": "灰境行者",
       "cn_name": "灰境行者",
       "tags": [
-        "pvp",
-        "asymmetric"
+        "Free to Play",
+        "FPS",
+        "Multiplayer",
+        "Extraction Shooter",
+        "Online Co-Op",
+        "PvE",
+        "PvP",
+        "Horror"
       ],
       "category_zh": "PvPvE猎杀",
       "category_en": "PvPvE Hunting",
@@ -341,9 +739,14 @@
       "name": "Haunted",
       "cn_name": "Haunted",
       "tags": [
-        "horror",
-        "coop",
-        "ghost_hunt"
+        "Co-op",
+        "Team-Based",
+        "Puzzle",
+        "Investigation",
+        "Online Co-Op",
+        "Replay Value",
+        "Supernatural",
+        "Funny"
       ],
       "category_zh": "捉鬼调查",
       "category_en": "Ghost Investigation",
@@ -365,9 +768,14 @@
       "name": "The Reflection",
       "cn_name": "The Reflection",
       "tags": [
-        "horror",
-        "coop",
-        "ghost_hunt"
+        "Online Co-Op",
+        "Psychological Horror",
+        "Early Access",
+        "Horror",
+        "Investigation",
+        "First-Person",
+        "Co-op",
+        "Survival Horror"
       ],
       "category_zh": "捉鬼调查",
       "category_en": "Ghost Investigation",
@@ -389,10 +797,14 @@
       "name": "Radio Decay",
       "cn_name": "Radio Decay",
       "tags": [
-        "horror",
-        "coop",
-        "extraction",
-        "survival"
+        "Action",
+        "Horror",
+        "Online Co-Op",
+        "Co-op",
+        "First-Person",
+        "Survival Horror",
+        "Action-Adventure",
+        "Adventure"
       ],
       "category_zh": "恐怖撤离",
       "category_en": "Horror Extraction",
@@ -414,9 +826,14 @@
       "name": "In Us",
       "cn_name": "In Us",
       "tags": [
-        "horror",
-        "coop",
-        "social_deduction"
+        "Horror",
+        "Online Co-Op",
+        "Multiplayer",
+        "Investigation",
+        "Comedy",
+        "Survival Horror",
+        "Exploration",
+        "PvE"
       ],
       "category_zh": "捉鬼调查",
       "category_en": "Ghost Investigation",
@@ -438,8 +855,14 @@
       "name": "Carnival Hunt",
       "cn_name": "狂欢猎杀",
       "tags": [
-        "pvp",
-        "asymmetric"
+        "Horror",
+        "Multiplayer",
+        "Online Co-Op",
+        "Survival Horror",
+        "Survival",
+        "Violent",
+        "Gore",
+        "Stealth"
       ],
       "category_zh": "PvPvE猎杀",
       "category_en": "PvPvE Hunting",
@@ -461,9 +884,14 @@
       "name": "Halloween: The Game",
       "cn_name": "月光光心慌慌",
       "tags": [
-        "pvp",
-        "asymmetric",
-        "horror"
+        "Horror",
+        "Multiplayer",
+        "Survival",
+        "Violent",
+        "Stealth",
+        "Action",
+        "Survival Horror",
+        "Singleplayer"
       ],
       "category_zh": "PvPvE猎杀",
       "category_en": "PvPvE Hunting",
@@ -485,10 +913,14 @@
       "name": "The Mound: Omen of Cthulhu",
       "cn_name": "土丘：克苏鲁恶兆",
       "tags": [
-        "horror",
-        "coop",
-        "extraction",
-        "looter"
+        "Co-op",
+        "Action",
+        "Lovecraftian",
+        "Adventure",
+        "Psychological Horror",
+        "Exploration",
+        "First-Person",
+        "Violent"
       ],
       "category_zh": "搜打撤/摸金",
       "category_en": "Extraction Looter",
@@ -510,10 +942,14 @@
       "name": "MECCHA CHAMELEON",
       "cn_name": "超级变色龙",
       "tags": [
-        "party",
-        "pvp",
-        "social_deduction",
-        "hide_and_seek"
+        "Multiplayer",
+        "Casual",
+        "Party Game",
+        "Hidden Object",
+        "Funny",
+        "Hand-drawn",
+        "Online Co-Op",
+        "Comedy"
       ],
       "category_zh": "派对捉迷藏",
       "category_en": "Party Hide & Seek",
@@ -534,9 +970,14 @@
       "name": "HELLDIVERS™ 2",
       "cn_name": "绝地潜兵2",
       "tags": [
-        "coop",
-        "pvp",
-        "looter"
+        "Online Co-Op",
+        "PvE",
+        "Third-Person Shooter",
+        "Multiplayer",
+        "Shooter",
+        "Action",
+        "Co-op",
+        "Sci-fi"
       ],
       "category_zh": "合作射击",
       "category_en": "Co-op Shooter",
@@ -557,10 +998,14 @@
       "name": "遥遥西土 Far Far West",
       "cn_name": "遥遥西土",
       "tags": [
-        "coop",
-        "extraction",
-        "looter",
-        "roguelike"
+        "Early Access",
+        "Online Co-Op",
+        "FPS",
+        "PvE",
+        "Western",
+        "Multiplayer",
+        "Co-op",
+        "Extraction Shooter"
       ],
       "category_zh": "合作撤离",
       "category_en": "Co-op Extraction",
@@ -581,9 +1026,14 @@
       "name": "地精捣蛋团",
       "cn_name": "地精捣蛋团",
       "tags": [
-        "coop",
-        "party",
-        "physics"
+        "Co-op",
+        "Funny",
+        "Multiplayer",
+        "First-Person",
+        "PvE",
+        "Exploration",
+        "Horror",
+        "Action"
       ],
       "category_zh": "合作派对",
       "category_en": "Co-op Party",
@@ -604,8 +1054,14 @@
       "name": "一起开火车2：汽笛重鸣",
       "cn_name": "一起开火车2",
       "tags": [
-        "coop",
-        "party"
+        "Online Co-Op",
+        "Trains",
+        "Multiplayer",
+        "Roguelike",
+        "Local Multiplayer",
+        "Top-Down",
+        "Action Roguelike",
+        "Action"
       ],
       "category_zh": "合作派对",
       "category_en": "Co-op Party",
@@ -626,8 +1082,14 @@
       "name": "失落城堡2",
       "cn_name": "失落城堡2",
       "tags": [
-        "coop",
-        "roguelike"
+        "Multiplayer",
+        "Local Co-Op",
+        "Roguelike",
+        "Singleplayer",
+        "Online Co-Op",
+        "Roguelite",
+        "Action Roguelike",
+        "Beat 'em up"
       ],
       "category_zh": "合作Roguelike",
       "category_en": "Co-op Roguelike",
@@ -648,9 +1110,14 @@
       "name": "深岩银河",
       "cn_name": "深岩银河",
       "tags": [
-        "coop",
-        "extraction",
-        "looter"
+        "Dwarves",
+        "Co-op",
+        "PvE",
+        "FPS",
+        "Procedural Generation",
+        "Class-Based",
+        "Shooter",
+        "Exploration"
       ],
       "category_zh": "合作撤离",
       "category_en": "Co-op Extraction",
@@ -671,9 +1138,14 @@
       "name": "Among Us",
       "cn_name": "Among Us",
       "tags": [
-        "party",
-        "social_deduction",
-        "pvp"
+        "Multiplayer",
+        "Social Deduction",
+        "Online Co-Op",
+        "Space",
+        "Survival",
+        "2D",
+        "Funny",
+        "Party Game"
       ],
       "category_zh": "社交推理",
       "category_en": "Social Deduction",
@@ -694,9 +1166,14 @@
       "name": "Sons Of The Forest",
       "cn_name": "森林之子",
       "tags": [
-        "horror",
-        "coop",
-        "survival"
+        "Survival",
+        "Open World",
+        "Multiplayer",
+        "Co-op",
+        "Survival Horror",
+        "Base Building",
+        "Horror",
+        "Crafting"
       ],
       "category_zh": "合作生存恐怖",
       "category_en": "Co-op Survival Horror",
@@ -717,8 +1194,14 @@
       "name": "雨中冒险 2",
       "cn_name": "雨中冒险2",
       "tags": [
-        "coop",
-        "roguelike"
+        "Third-Person Shooter",
+        "Action Roguelike",
+        "Multiplayer",
+        "Co-op",
+        "Roguelike",
+        "Roguelite",
+        "Action",
+        "Looter Shooter"
       ],
       "category_zh": "合作Roguelike",
       "category_en": "Co-op Roguelike",
@@ -739,8 +1222,14 @@
       "name": "风中行者",
       "cn_name": "风中行者",
       "tags": [
-        "coop",
-        "roguelike"
+        "Action Roguelike",
+        "Hack and Slash",
+        "Online Co-Op",
+        "Roguelite",
+        "Metroidvania",
+        "Combat",
+        "Fast-Paced",
+        "Dark Fantasy"
       ],
       "category_zh": "合作Roguelike",
       "category_en": "Co-op Roguelike",
@@ -761,9 +1250,14 @@
       "name": "青蛙小队🐸 / Frog Sqwad",
       "cn_name": "青蛙小队",
       "tags": [
-        "coop",
-        "party",
-        "physics"
+        "Multiplayer",
+        "Online Co-Op",
+        "Co-op",
+        "Physics",
+        "Funny",
+        "Animals",
+        "3D Platformer",
+        "Exploration"
       ],
       "category_zh": "合作派对",
       "category_en": "Co-op Party",
@@ -784,9 +1278,14 @@
       "name": "Garry's Mod",
       "cn_name": "盖瑞模组",
       "tags": [
-        "party",
-        "pvp",
-        "physics"
+        "Sandbox",
+        "Moddable",
+        "Multiplayer",
+        "Physics",
+        "Building",
+        "Casual",
+        "Funny",
+        "First-Person"
       ],
       "category_zh": "派对沙盒",
       "category_en": "Party Sandbox",
@@ -807,8 +1306,14 @@
       "name": "Crab Game",
       "cn_name": "螃蟹游戏",
       "tags": [
-        "party",
-        "pvp"
+        "Psychological Horror",
+        "Multiplayer",
+        "Free to Play",
+        "Battle Royale",
+        "PvP",
+        "Action",
+        "First-Person",
+        "Parkour"
       ],
       "category_zh": "派对竞技",
       "category_en": "Party PvP",
@@ -829,9 +1334,14 @@
       "name": "黎明杀机",
       "cn_name": "黎明杀机",
       "tags": [
-        "horror",
-        "pvp",
-        "asymmetric"
+        "Horror",
+        "Multiplayer",
+        "Survival Horror",
+        "Gore",
+        "Online Co-Op",
+        "Co-op",
+        "Survival",
+        "Team-Based"
       ],
       "category_zh": "非对称恐怖",
       "category_en": "Asymmetric Horror",

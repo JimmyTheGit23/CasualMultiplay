@@ -1,0 +1,933 @@
+{
+  "_meta": {
+    "fetched_at": "2026-07-15T17:20:39.627075+08:00",
+    "source": "SteamSpy API (proxy for Steam official user tags)",
+    "note": "Tags 来自 SteamSpy aggregated,等价 Steam 官方用户标签"
+  },
+  "games": {
+    "3241660": {
+      "appid": 3241660,
+      "name": "R.E.P.O.",
+      "tags_en": [
+        "Horror",
+        "Online Co-Op",
+        "Multiplayer",
+        "Comedy",
+        "Co-op",
+        "Physics",
+        "First-Person",
+        "3D",
+        "Stealth",
+        "Survival"
+      ],
+      "tags_zh": [
+        "恐怖",
+        "在线合作",
+        "多人",
+        "喜剧",
+        "合作",
+        "物理",
+        "第一人称",
+        "3D",
+        "潜行",
+        "生存"
+      ]
+    },
+    "1966720": {
+      "appid": 1966720,
+      "name": "致命公司",
+      "tags_en": [
+        "Online Co-Op",
+        "Horror",
+        "First-Person",
+        "Co-op",
+        "Survival Horror",
+        "Funny",
+        "Exploration",
+        "Psychological Horror",
+        "Sci-fi",
+        "PvE"
+      ],
+      "tags_zh": [
+        "在线合作",
+        "恐怖",
+        "第一人称",
+        "合作",
+        "生存恐怖",
+        "欢乐",
+        "探索",
+        "心理恐怖",
+        "科幻",
+        "玩家对战环境"
+      ]
+    },
+    "2881650": {
+      "appid": 2881650,
+      "name": "内容警告",
+      "tags_en": [
+        "Horror",
+        "Online Co-Op",
+        "Procedural Generation",
+        "Exploration",
+        "Action Roguelike",
+        "Multiplayer",
+        "Comedy",
+        "Physics",
+        "Co-op",
+        "Funny"
+      ],
+      "tags_zh": [
+        "恐怖",
+        "在线合作",
+        "程序生成",
+        "探索",
+        "动作类 Rogue",
+        "多人",
+        "喜剧",
+        "物理",
+        "合作",
+        "欢乐"
+      ]
+    },
+    "4408510": {
+      "appid": 4408510,
+      "name": "饲养者",
+      "tags_en": [
+        "Early Access",
+        "FPS",
+        "Procedural Generation",
+        "First-Person",
+        "Action-Adventure",
+        "Multiplayer",
+        "Survival Horror",
+        "Mystery Dungeon",
+        "Dungeon Crawler",
+        "PvE"
+      ],
+      "tags_zh": [
+        "抢先体验",
+        "第一人称射击",
+        "程序生成",
+        "第一人称",
+        "动作冒险",
+        "多人",
+        "生存恐怖",
+        "不可思议迷宫",
+        "迷宫探索",
+        "玩家对战环境"
+      ]
+    },
+    "3527290": {
+      "appid": 3527290,
+      "name": "巅峰梦序",
+      "tags_en": [
+        "Multiplayer",
+        "Online Co-Op",
+        "Co-op",
+        "Physics",
+        "Adventure",
+        "Exploration",
+        "First-Person",
+        "Comedy",
+        "3D",
+        "Procedural Generation"
+      ],
+      "tags_zh": [
+        "多人",
+        "在线合作",
+        "合作",
+        "物理",
+        "冒险",
+        "探索",
+        "第一人称",
+        "喜剧",
+        "3D",
+        "程序生成"
+      ]
+    },
+    "739630": {
+      "appid": 739630,
+      "name": "恐鬼症",
+      "tags_en": [
+        "Horror",
+        "Online Co-Op",
+        "Multiplayer",
+        "Psychological Horror",
+        "Co-op",
+        "VR",
+        "Supernatural",
+        "First-Person",
+        "Investigation",
+        "Dark"
+      ],
+      "tags_zh": [
+        "恐怖",
+        "在线合作",
+        "多人",
+        "心理恐怖",
+        "合作",
+        "虚拟现实",
+        "灵异",
+        "第一人称",
+        "调查",
+        "黑暗"
+      ]
+    },
+    "1929610": {
+      "appid": 1929610,
+      "name": "驱魔人",
+      "tags_en": [
+        "Horror",
+        "Multiplayer",
+        "Online Co-Op",
+        "Psychological Horror",
+        "Co-op",
+        "First-Person",
+        "Dark",
+        "Investigation",
+        "Demons",
+        "Surreal"
+      ],
+      "tags_zh": [
+        "恐怖",
+        "多人",
+        "在线合作",
+        "心理恐怖",
+        "合作",
+        "第一人称",
+        "黑暗",
+        "调查",
+        "恶魔",
+        "超现实"
+      ]
+    },
+    "1304930": {
+      "appid": 1304930,
+      "name": "逃生：试炼",
+      "tags_en": [
+        "Horror",
+        "Multiplayer",
+        "Co-op",
+        "Survival Horror",
+        "Psychological Horror",
+        "First-Person",
+        "PvE",
+        "Stealth",
+        "Character Customization",
+        "Action"
+      ],
+      "tags_zh": [
+        "恐怖",
+        "多人",
+        "合作",
+        "生存恐怖",
+        "心理恐怖",
+        "第一人称",
+        "玩家对战环境",
+        "潜行",
+        "角色自定义",
+        "动作"
+      ]
+    },
+    "594650": {
+      "appid": 594650,
+      "name": "猎杀：对决",
+      "tags_en": [
+        "Multiplayer",
+        "FPS",
+        "PvP",
+        "Team-Based",
+        "Tactical",
+        "Open World",
+        "Extraction Shooter",
+        "Atmospheric",
+        "Western",
+        "Horror"
+      ],
+      "tags_zh": [
+        "多人",
+        "第一人称射击",
+        "玩家对战",
+        "团队导向",
+        "战术",
+        "开放世界",
+        "撤离射击",
+        "氛围",
+        "西部",
+        "恐怖"
+      ]
+    },
+    "1203220": {
+      "appid": 1203220,
+      "name": "永劫无间",
+      "tags_en": [
+        "Battle Royale",
+        "Multiplayer",
+        "Martial Arts",
+        "PvP",
+        "Action",
+        "Character Customization",
+        "Female Protagonist",
+        "Massively Multiplayer",
+        "Fighting",
+        "Survival"
+      ],
+      "tags_zh": [
+        "大逃杀",
+        "多人",
+        "武术",
+        "玩家对战",
+        "动作",
+        "角色自定义",
+        "女性主角",
+        "大型多人在线",
+        "格斗",
+        "生存"
+      ]
+    },
+    "3978820": {
+      "appid": 3978820,
+      "name": "灰境行者",
+      "tags_en": [
+        "Free to Play",
+        "FPS",
+        "Multiplayer",
+        "Extraction Shooter",
+        "Online Co-Op",
+        "PvE",
+        "PvP",
+        "Horror",
+        "Sci-fi",
+        "Shooter"
+      ],
+      "tags_zh": [
+        "免费开玩",
+        "第一人称射击",
+        "多人",
+        "撤离射击",
+        "在线合作",
+        "玩家对战环境",
+        "玩家对战",
+        "恐怖",
+        "科幻",
+        "射击"
+      ]
+    },
+    "3850670": {
+      "appid": 3850670,
+      "name": "Haunted",
+      "tags_en": [
+        "Co-op",
+        "Team-Based",
+        "Puzzle",
+        "Investigation",
+        "Online Co-Op",
+        "Replay Value",
+        "Supernatural",
+        "Funny",
+        "Multiplayer",
+        "Exploration"
+      ],
+      "tags_zh": [
+        "合作",
+        "团队导向",
+        "解谜",
+        "调查",
+        "在线合作",
+        "重玩价值",
+        "灵异",
+        "欢乐",
+        "多人",
+        "探索"
+      ]
+    },
+    "4314340": {
+      "appid": 4314340,
+      "name": "The Reflection",
+      "tags_en": [
+        "Online Co-Op",
+        "Psychological Horror",
+        "Early Access",
+        "Horror",
+        "Investigation",
+        "First-Person",
+        "Co-op",
+        "Survival Horror",
+        "Singleplayer",
+        "Indie"
+      ],
+      "tags_zh": [
+        "在线合作",
+        "心理恐怖",
+        "抢先体验",
+        "恐怖",
+        "调查",
+        "第一人称",
+        "合作",
+        "生存恐怖",
+        "单人",
+        "独立"
+      ]
+    },
+    "3956540": {
+      "appid": 3956540,
+      "name": "Radio Decay",
+      "tags_en": [
+        "Action",
+        "Horror",
+        "Online Co-Op",
+        "Co-op",
+        "First-Person",
+        "Survival Horror",
+        "Action-Adventure",
+        "Adventure",
+        "Psychological Horror",
+        "PvE"
+      ],
+      "tags_zh": [
+        "动作",
+        "恐怖",
+        "在线合作",
+        "合作",
+        "第一人称",
+        "生存恐怖",
+        "动作冒险",
+        "冒险",
+        "心理恐怖",
+        "玩家对战环境"
+      ]
+    },
+    "4640600": {
+      "appid": 4640600,
+      "name": "In Us",
+      "tags_en": [
+        "Horror",
+        "Online Co-Op",
+        "Multiplayer",
+        "Investigation",
+        "Comedy",
+        "Survival Horror",
+        "Exploration",
+        "PvE",
+        "3D",
+        "First-Person"
+      ],
+      "tags_zh": [
+        "恐怖",
+        "在线合作",
+        "多人",
+        "调查",
+        "喜剧",
+        "生存恐怖",
+        "探索",
+        "玩家对战环境",
+        "3D",
+        "第一人称"
+      ]
+    },
+    "1181550": {
+      "appid": 1181550,
+      "name": "狂欢猎杀",
+      "tags_en": [
+        "Horror",
+        "Multiplayer",
+        "Online Co-Op",
+        "Survival Horror",
+        "Survival",
+        "Violent",
+        "Gore",
+        "Stealth",
+        "First-Person",
+        "PvP"
+      ],
+      "tags_zh": [
+        "恐怖",
+        "多人",
+        "在线合作",
+        "生存恐怖",
+        "生存",
+        "暴力",
+        "鲜血",
+        "潜行",
+        "第一人称",
+        "玩家对战"
+      ]
+    },
+    "3219630": {
+      "appid": 3219630,
+      "name": "月光光心慌慌",
+      "tags_en": [
+        "Horror",
+        "Multiplayer",
+        "Survival",
+        "Violent",
+        "Stealth",
+        "Action",
+        "Survival Horror",
+        "Singleplayer",
+        "Online Co-Op",
+        "PvP"
+      ],
+      "tags_zh": [
+        "恐怖",
+        "多人",
+        "生存",
+        "暴力",
+        "潜行",
+        "动作",
+        "生存恐怖",
+        "单人",
+        "在线合作",
+        "玩家对战"
+      ]
+    },
+    "2569760": {
+      "appid": 2569760,
+      "name": "土丘：克苏鲁恶兆",
+      "tags_en": [
+        "Co-op",
+        "Action",
+        "Lovecraftian",
+        "Adventure",
+        "Psychological Horror",
+        "Exploration",
+        "First-Person",
+        "Violent",
+        "Horror",
+        "Dark"
+      ],
+      "tags_zh": [
+        "合作",
+        "动作",
+        "洛夫克拉夫特式",
+        "冒险",
+        "心理恐怖",
+        "探索",
+        "第一人称",
+        "暴力",
+        "恐怖",
+        "黑暗"
+      ]
+    },
+    "4704690": {
+      "appid": 4704690,
+      "name": "超级变色龙",
+      "tags_en": [
+        "Multiplayer",
+        "Casual",
+        "Party Game",
+        "Hidden Object",
+        "Funny",
+        "Hand-drawn",
+        "Online Co-Op",
+        "Comedy",
+        "Stealth",
+        "Colorful"
+      ],
+      "tags_zh": [
+        "多人",
+        "休闲",
+        "社交聚会游戏",
+        "隐藏物体",
+        "欢乐",
+        "手绘",
+        "在线合作",
+        "喜剧",
+        "潜行",
+        "彩色"
+      ]
+    },
+    "553850": {
+      "appid": 553850,
+      "name": "绝地潜兵2",
+      "tags_en": [
+        "Online Co-Op",
+        "PvE",
+        "Third-Person Shooter",
+        "Multiplayer",
+        "Shooter",
+        "Action",
+        "Co-op",
+        "Sci-fi",
+        "Extraction Shooter",
+        "Capitalism"
+      ],
+      "tags_zh": [
+        "在线合作",
+        "玩家对战环境",
+        "第三人称射击",
+        "多人",
+        "射击",
+        "动作",
+        "合作",
+        "科幻",
+        "撤离射击",
+        "资本主义"
+      ]
+    },
+    "3124540": {
+      "appid": 3124540,
+      "name": "遥遥西土",
+      "tags_en": [
+        "Early Access",
+        "Online Co-Op",
+        "FPS",
+        "PvE",
+        "Western",
+        "Multiplayer",
+        "Co-op",
+        "Extraction Shooter",
+        "Shooter",
+        "Action"
+      ],
+      "tags_zh": [
+        "抢先体验",
+        "在线合作",
+        "第一人称射击",
+        "玩家对战环境",
+        "西部",
+        "多人",
+        "合作",
+        "撤离射击",
+        "射击",
+        "动作"
+      ]
+    },
+    "3844970": {
+      "appid": 3844970,
+      "name": "地精捣蛋团",
+      "tags_en": [
+        "Co-op",
+        "Funny",
+        "Multiplayer",
+        "First-Person",
+        "PvE",
+        "Exploration",
+        "Horror",
+        "Action",
+        "Physics",
+        "Heist"
+      ],
+      "tags_zh": [
+        "合作",
+        "欢乐",
+        "多人",
+        "第一人称",
+        "玩家对战环境",
+        "探索",
+        "恐怖",
+        "动作",
+        "物理",
+        "劫掠"
+      ]
+    },
+    "2211170": {
+      "appid": 2211170,
+      "name": "一起开火车2",
+      "tags_en": [
+        "Online Co-Op",
+        "Trains",
+        "Multiplayer",
+        "Roguelike",
+        "Local Multiplayer",
+        "Top-Down",
+        "Action Roguelike",
+        "Action",
+        "Co-op",
+        "Procedural Generation"
+      ],
+      "tags_zh": [
+        "在线合作",
+        "火车",
+        "多人",
+        "类 Rogue",
+        "本地多人",
+        "俯视",
+        "动作类 Rogue",
+        "动作",
+        "合作",
+        "程序生成"
+      ]
+    },
+    "2445690": {
+      "appid": 2445690,
+      "name": "失落城堡2",
+      "tags_en": [
+        "Multiplayer",
+        "Local Co-Op",
+        "Roguelike",
+        "Singleplayer",
+        "Online Co-Op",
+        "Roguelite",
+        "Action Roguelike",
+        "Beat 'em up",
+        "Action-Adventure",
+        "Action"
+      ],
+      "tags_zh": [
+        "多人",
+        "本地合作",
+        "类 Rogue",
+        "单人",
+        "在线合作",
+        "轻度 Rogue",
+        "动作类 Rogue",
+        "清版动作",
+        "动作冒险",
+        "动作"
+      ]
+    },
+    "548430": {
+      "appid": 548430,
+      "name": "深岩银河",
+      "tags_en": [
+        "Dwarves",
+        "Co-op",
+        "PvE",
+        "FPS",
+        "Procedural Generation",
+        "Class-Based",
+        "Shooter",
+        "Exploration",
+        "First-Person",
+        "Loot"
+      ],
+      "tags_zh": [
+        "矮人",
+        "合作",
+        "玩家对战环境",
+        "第一人称射击",
+        "程序生成",
+        "职业导向",
+        "射击",
+        "探索",
+        "第一人称",
+        "刷宝"
+      ]
+    },
+    "945360": {
+      "appid": 945360,
+      "name": "Among Us",
+      "tags_en": [
+        "Multiplayer",
+        "Social Deduction",
+        "Online Co-Op",
+        "Space",
+        "Survival",
+        "2D",
+        "Funny",
+        "Party Game",
+        "Psychological",
+        "Co-op"
+      ],
+      "tags_zh": [
+        "多人",
+        "社交推理",
+        "在线合作",
+        "太空",
+        "生存",
+        "2D",
+        "欢乐",
+        "社交聚会游戏",
+        "心理",
+        "合作"
+      ]
+    },
+    "1326470": {
+      "appid": 1326470,
+      "name": "森林之子",
+      "tags_en": [
+        "Survival",
+        "Open World",
+        "Multiplayer",
+        "Co-op",
+        "Survival Horror",
+        "Base Building",
+        "Horror",
+        "Crafting",
+        "Building",
+        "First-Person"
+      ],
+      "tags_zh": [
+        "生存",
+        "开放世界",
+        "多人",
+        "合作",
+        "生存恐怖",
+        "基地建设",
+        "恐怖",
+        "制作",
+        "建造",
+        "第一人称"
+      ]
+    },
+    "632360": {
+      "appid": 632360,
+      "name": "雨中冒险2",
+      "tags_en": [
+        "Third-Person Shooter",
+        "Action Roguelike",
+        "Multiplayer",
+        "Co-op",
+        "Roguelike",
+        "Roguelite",
+        "Action",
+        "Looter Shooter",
+        "Loot",
+        "Online Co-Op"
+      ],
+      "tags_zh": [
+        "第三人称射击",
+        "动作类 Rogue",
+        "多人",
+        "合作",
+        "类 Rogue",
+        "轻度 Rogue",
+        "动作",
+        "刷宝射击游戏",
+        "刷宝",
+        "在线合作"
+      ]
+    },
+    "1911610": {
+      "appid": 1911610,
+      "name": "风中行者",
+      "tags_en": [
+        "Action Roguelike",
+        "Hack and Slash",
+        "Online Co-Op",
+        "Roguelite",
+        "Metroidvania",
+        "Combat",
+        "Fast-Paced",
+        "Dark Fantasy",
+        "Early Access",
+        "Action"
+      ],
+      "tags_zh": [
+        "动作类 Rogue",
+        "砍杀",
+        "在线合作",
+        "轻度 Rogue",
+        "类银河战士恶魔城",
+        "战斗",
+        "快节奏",
+        "黑暗奇幻",
+        "抢先体验",
+        "动作"
+      ]
+    },
+    "3989960": {
+      "appid": 3989960,
+      "name": "青蛙小队",
+      "tags_en": [
+        "Multiplayer",
+        "Online Co-Op",
+        "Co-op",
+        "Physics",
+        "Funny",
+        "Animals",
+        "3D Platformer",
+        "Exploration",
+        "Party Game",
+        "Puzzle Platformer"
+      ],
+      "tags_zh": [
+        "多人",
+        "在线合作",
+        "合作",
+        "物理",
+        "欢乐",
+        "动物",
+        "3D 平台",
+        "探索",
+        "社交聚会游戏",
+        "平台解谜"
+      ]
+    },
+    "4000": {
+      "appid": 4000,
+      "name": "盖瑞模组",
+      "tags_en": [
+        "Sandbox",
+        "Moddable",
+        "Multiplayer",
+        "Physics",
+        "Building",
+        "Casual",
+        "Funny",
+        "First-Person",
+        "Singleplayer",
+        "FPS"
+      ],
+      "tags_zh": [
+        "沙盒",
+        "可模组化",
+        "多人",
+        "物理",
+        "建造",
+        "休闲",
+        "欢乐",
+        "第一人称",
+        "单人",
+        "第一人称射击"
+      ]
+    },
+    "1782210": {
+      "appid": 1782210,
+      "name": "螃蟹游戏",
+      "tags_en": [
+        "Psychological Horror",
+        "Multiplayer",
+        "Free to Play",
+        "Battle Royale",
+        "PvP",
+        "Action",
+        "First-Person",
+        "Parkour",
+        "3D",
+        "FPS"
+      ],
+      "tags_zh": [
+        "心理恐怖",
+        "多人",
+        "免费开玩",
+        "大逃杀",
+        "玩家对战",
+        "动作",
+        "第一人称",
+        "跑酷",
+        "3D",
+        "第一人称射击"
+      ]
+    },
+    "381210": {
+      "appid": 381210,
+      "name": "黎明杀机",
+      "tags_en": [
+        "Horror",
+        "Multiplayer",
+        "Survival Horror",
+        "Gore",
+        "Online Co-Op",
+        "Co-op",
+        "Survival",
+        "Team-Based",
+        "Third Person",
+        "Stealth"
+      ],
+      "tags_zh": [
+        "恐怖",
+        "多人",
+        "生存恐怖",
+        "鲜血",
+        "在线合作",
+        "合作",
+        "生存",
+        "团队导向",
+        "第三人称",
+        "潜行"
+      ]
+    }
+  }
+}

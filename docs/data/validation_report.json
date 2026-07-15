@@ -1,11 +1,11 @@
 {
   "_meta": {
-    "validated_at": "2026-07-13T10:33:16.709301+08:00",
-    "date": "2026-07-13",
+    "validated_at": "2026-07-15T17:25:12.884408+08:00",
+    "date": "2026-07-15",
     "passed": true,
     "total_checks": 18,
-    "pass_count": 18,
-    "warn_count": 0,
+    "pass_count": 17,
+    "warn_count": 1,
     "error_count": 0
   },
   "checks": [
@@ -107,8 +107,8 @@
     },
     {
       "name": "history 最新日期",
-      "status": "PASS",
-      "message": "今天 (2026-07-13) 数据已入库",
+      "status": "WARN",
+      "message": "最新日期不是今天,而是: 2026-07-13",
       "details": []
     },
     {
