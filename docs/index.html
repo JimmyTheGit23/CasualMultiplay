@@ -4574,8 +4574,11 @@ If you want to know what happened next, let’s listen to the explanation next t
                 <div id="rbx-grid" style="display:grid;grid-template-columns:repeat(auto-fill,minmax(280px,1fr));gap:10px;"></div>
             `;
             const grid = document.getElementById('rbx-grid');
-            grid.innerHTML = filtered.slice(0, 60).map(g => `
+            grid.innerHTML = filtered.slice(0, 60).map(g => {
+                const icon = g.icon_url ? `<img src="${g.icon_url}" referrerpolicy="no-referrer" loading="lazy" onerror="this.style.display='none';this.nextElementSibling.style.display='flex'" style="width:100%;height:120px;object-fit:cover;border-radius:6px;margin-bottom:8px;background:#F1F5F9;"><div style="display:none;width:100%;height:120px;border-radius:6px;margin-bottom:8px;background:linear-gradient(135deg,#EDE9FE,#DDD6FE);align-items:center;justify-content:center;font-size:32px;font-weight:700;color:#7C3AED;">${(g.name||'?').replace(/[^\w\u4e00-\u9fa5]/g,'').charAt(0) || '?'}</div>` : `<div style="width:100%;height:120px;border-radius:6px;margin-bottom:8px;background:linear-gradient(135deg,#EDE9FE,#DDD6FE);display:flex;align-items:center;justify-content:center;font-size:32px;font-weight:700;color:#7C3AED;">${(g.name||'?').replace(/[^\w\u4e00-\u9fa5]/g,'').charAt(0) || '?'}</div>`;
+                return `
                 <div class="rbx-card" onclick="selectRobloxGame(${g.placeId})" style="background:#FFFFFF;border:0.5px solid #E2E8F0;border-radius:8px;padding:10px;cursor:pointer;transition:border-color 0.15s;" onmouseover="this.style.borderColor='#7C3AED'" onmouseout="this.style.borderColor='#E2E8F0'">
+                    ${icon}
                     <div style="font-size:13px;font-weight:500;line-height:1.3;overflow:hidden;text-overflow:ellipsis;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;margin-bottom:4px;">${g.name}</div>
                     <div style="font-size:10px;color:#64748B;margin-bottom:6px;">placeId: ${g.placeId} ${g.create_year ? '· ' + g.create_year : ''}</div>
                     <div style="display:flex;gap:8px;font-size:10px;">
@@ -4588,7 +4591,8 @@ If you want to know what happened next, let’s listen to the explanation next t
                     </div>
                     ${(g.categories || []).length ? `<div style="margin-top:6px;">${g.categories.slice(0, 3).map(c => `<span style="font-size:9px;padding:1px 5px;background:#EDE9FE;color:#6D28D9;border-radius:3px;margin-right:3px;">${robloxCategories[c]?.zh || c}</span>`).join('')}</div>` : ''}
                 </div>
-            `).join('');
+                `;
+            }).join('');
             if (filtered.length > 60) {
                 grid.innerHTML += `<div style="grid-column:1/-1;text-align:center;padding:12px;color:#64748B;font-size:11px;">还有 ${filtered.length - 60} 款游戏未显示,请用筛选缩小范围</div>`;
             }
@@ -4627,8 +4631,8 @@ If you want to know what happened next, let’s listen to the explanation next t
                     ${dims.map(d => `<button onclick="switchRobloxLb('${d.id}')" style="padding:5px 12px;font-size:11px;border-radius:6px;border:0.5px solid ${robloxLbDim===d.id?'#7C3AED':'#E2E8F0'};background:${robloxLbDim===d.id?'#7C3AED':'#FFFFFF'};color:${robloxLbDim===d.id?'#FFFFFF':'#475569'};cursor:pointer;">${d.label}</button>`).join('')}
                 </div>
                 <div style="background:#FFFFFF;border-radius:8px;border:0.5px solid #E2E8F0;overflow:hidden;">
-                    <div style="display:grid;grid-template-columns:40px 1fr 110px 110px 110px 100px;gap:8px;padding:8px 12px;background:#F8FAFC;font-size:10px;color:#64748B;font-weight:500;border-bottom:0.5px solid #E2E8F0;">
-                        <div>#</div><div>游戏名</div><div style="text-align:right;">主指标</div><div style="text-align:right;">峰值玩家</div><div style="text-align:right;">总访问</div><div style="text-align:right;">30天趋势</div>
+                    <div style="display:grid;grid-template-columns:40px 40px 1fr 110px 110px 110px 100px;gap:8px;padding:8px 12px;background:#F8FAFC;font-size:10px;color:#64748B;font-weight:500;border-bottom:0.5px solid #E2E8F0;">
+                        <div>#</div><div></div><div>游戏名</div><div style="text-align:right;">主指标</div><div style="text-align:right;">峰值玩家</div><div style="text-align:right;">总访问</div><div style="text-align:right;">30天趋势</div>
                     </div>
                     <div id="rbx-lb-rows"></div>
                 </div>
@@ -4637,8 +4641,10 @@ If you want to know what happened next, let’s listen to the explanation next t
             rowsEl.innerHTML = filtered.slice(0, 50).map((g, i) => {
                 const mainVal = sortKey === 'growth_7d' ? fmtPct(g[sortKey]) : fmtNum(g[sortKey]);
                 const mainColor = sortKey === 'growth_7d' ? pctColor(g.growth_7d) : '#7C3AED';
-                return `<div style="display:grid;grid-template-columns:40px 1fr 110px 110px 110px 100px;gap:8px;padding:8px 12px;border-bottom:0.5px solid #F1F5F9;font-size:11px;cursor:pointer;" onclick="selectRobloxGame(${g.placeId})">
+                const icon = g.icon_url ? `<img src="${g.icon_url}" referrerpolicy="no-referrer" loading="lazy" onerror="this.style.display='none'" style="width:32px;height:32px;border-radius:4px;object-fit:cover;">` : `<div style="width:32px;height:32px;border-radius:4px;background:linear-gradient(135deg,#EDE9FE,#DDD6FE);display:flex;align-items:center;justify-content:center;font-size:14px;font-weight:700;color:#7C3AED;">${(g.name||'?').replace(/[^\w\u4e00-\u9fa5]/g,'').charAt(0) || '?'}</div>`;
+                return `<div style="display:grid;grid-template-columns:40px 40px 1fr 110px 110px 110px 100px;gap:8px;padding:8px 12px;border-bottom:0.5px solid #F1F5F9;font-size:11px;cursor:pointer;align-items:center;" onclick="selectRobloxGame(${g.placeId})">
                     <div style="color:#94A3B8;font-weight:500;">${i + 1}</div>
+                    <div>${icon}</div>
                     <div>
                         <div style="font-weight:500;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;">${g.name}</div>
                         <div style="font-size:9px;color:#94A3B8;">${g.placeId} ${g.create_year ? '· ' + g.create_year : ''}</div>
@@ -4690,13 +4696,16 @@ If you want to know what happened next, let’s listen to the explanation next t
                     <input type="text" id="rbx-detail-search" placeholder="搜索游戏名 / placeId 选择游戏" oninput="searchRobloxGame(this.value)" style="width:100%;padding:8px 12px;font-size:12px;border:0.5px solid #E2E8F0;border-radius:6px;">
                     <div id="rbx-detail-suggest" style="margin-top:4px;"></div>
                 </div>
-                <div style="background:#FFFFFF;border-radius:8px;padding:14px;border:0.5px solid #E2E8F0;margin-bottom:12px;">
-                    <div style="font-size:18px;font-weight:600;margin-bottom:4px;">${g.name}</div>
-                    <div style="font-size:11px;color:#64748B;margin-bottom:8px;">placeId: ${g.placeId} · 创建: ${g.create_time || '未知'} ${g.create_year ? '(' + g.create_year + ')' : ''}</div>
-                    <div style="display:flex;gap:8px;flex-wrap:wrap;margin-bottom:8px;">
-                        ${(g.categories || []).map(c => `<span style="font-size:10px;padding:2px 8px;background:#EDE9FE;color:#6D28D9;border-radius:3px;">${robloxCategories[c]?.zh || c}</span>`).join('')}
+                <div style="background:#FFFFFF;border-radius:8px;padding:14px;border:0.5px solid #E2E8F0;margin-bottom:12px;display:flex;gap:14px;align-items:flex-start;">
+                    ${g.icon_url ? `<img src="${g.icon_url}" referrerpolicy="no-referrer" onerror="this.style.display='none'" style="width:80px;height:80px;border-radius:8px;object-fit:cover;flex-shrink:0;">` : `<div style="width:80px;height:80px;border-radius:8px;background:linear-gradient(135deg,#EDE9FE,#DDD6FE);display:flex;align-items:center;justify-content:center;font-size:32px;font-weight:700;color:#7C3AED;flex-shrink:0;">${(g.name||'?').replace(/[^\w\u4e00-\u9fa5]/g,'').charAt(0) || '?'}</div>`}
+                    <div style="flex:1;min-width:0;">
+                        <div style="font-size:18px;font-weight:600;margin-bottom:4px;">${g.name}</div>
+                        <div style="font-size:11px;color:#64748B;margin-bottom:8px;">placeId: ${g.placeId} · 创建: ${g.create_time || '未知'} ${g.create_year ? '(' + g.create_year + ')' : ''}</div>
+                        <div style="display:flex;gap:8px;flex-wrap:wrap;margin-bottom:8px;">
+                            ${(g.categories || []).map(c => `<span style="font-size:10px;padding:2px 8px;background:#EDE9FE;color:#6D28D9;border-radius:3px;">${robloxCategories[c]?.zh || c}</span>`).join('')}
+                        </div>
+                        <a href="${g.store_url}" target="_blank" rel="noopener" style="display:inline-block;font-size:11px;padding:4px 10px;background:#7C3AED;color:#FFFFFF;border-radius:4px;text-decoration:none;">Roblox 商店 →</a>
                     </div>
-                    <a href="${g.store_url}" target="_blank" rel="noopener" style="display:inline-block;font-size:11px;padding:4px 10px;background:#7C3AED;color:#FFFFFF;border-radius:4px;text-decoration:none;">Roblox 商店 →</a>
                 </div>
                 <div style="display:grid;grid-template-columns:repeat(auto-fill,minmax(140px,1fr));gap:8px;margin-bottom:12px;">
                     <div style="background:#FFFFFF;border-radius:6px;padding:10px;border:0.5px solid #E2E8F0;"><div style="font-size:9px;color:#64748B;">峰值玩家</div><div style="font-size:16px;font-weight:600;color:#7C3AED;">${fmtNum(g.peak_players)}</div><div style="font-size:9px;color:#64748B;">${g.peak_date}</div></div>
