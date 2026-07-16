@@ -3767,6 +3767,13 @@ If you want to know what happened next, let’s listen to the explanation next t
             renderAll();
             initGameDetailPage();
             renderLeaderboard();
+
+            // 保存原始 section HTML,用于切回 Steam 时恢复
+            window.__origSectionHTML = {
+                overview: document.getElementById('section-overview').innerHTML,
+                leaderboard: document.getElementById('section-leaderboard').innerHTML,
+                gamedetail: document.getElementById('section-gamedetail').innerHTML,
+            };
             renderInsights();
 
             // 加载 Roblox 数据
@@ -4061,7 +4068,16 @@ If you want to know what happened next, let’s listen to the explanation next t
                 else if (section === 'leaderboard') renderRobloxLeaderboard();
                 else if (section === 'gamedetail') renderRobloxGameDetail();
             } else {
-                // Steam 平台: 切回时重新渲染对应页面
+                // Steam 平台: 切回时先恢复原始 HTML,再重新渲染
+                if (window.__origSectionHTML) {
+                    if (section === 'overview' && !document.getElementById('discover-grid')) {
+                        document.getElementById('section-overview').innerHTML = window.__origSectionHTML.overview;
+                    } else if (section === 'leaderboard' && !document.getElementById('lb-dim-bar')) {
+                        document.getElementById('section-leaderboard').innerHTML = window.__origSectionHTML.leaderboard;
+                    } else if (section === 'gamedetail' && !document.getElementById('game-dynamic-view')) {
+                        document.getElementById('section-gamedetail').innerHTML = window.__origSectionHTML.gamedetail;
+                    }
+                }
                 if (section === 'overview') renderAll();
                 else if (section === 'leaderboard') renderLeaderboard();
                 else if (section === 'gamedetail') initGameDetailPage();
