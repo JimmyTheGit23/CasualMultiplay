@@ -773,11 +773,16 @@
     <aside class="sidebar">
         <!-- Dark Header Anchor -->
         <div class="sidebar-header">
-            <div class="flex items-center gap-2.5 mb-1">
-                <div class="w-2 h-2 rounded-full" style="background:#991B1B;"></div>
-                <h1 class="text-sm font-bold tracking-wide" style="color:#F8FAFC;" data-i18n="title">休闲多人游戏聚合情报</h1>
+            <!-- 平台切换器 -->
+            <div class="platform-switcher" style="display:flex;gap:4px;margin-bottom:8px;padding:3px;background:rgba(255,255,255,0.08);border-radius:6px;">
+                <button id="platform-tab-steam" class="platform-tab active" onclick="switchPlatform('steam')" style="flex:1;padding:5px 8px;font-size:11px;font-weight:500;border-radius:4px;border:none;cursor:pointer;background:#991B1B;color:#FFFFFF;">Steam 休闲多人</button>
+                <button id="platform-tab-roblox" class="platform-tab" onclick="switchPlatform('roblox')" style="flex:1;padding:5px 8px;font-size:11px;font-weight:500;border-radius:4px;border:none;cursor:pointer;background:transparent;color:#94A3B8;">Roblox</button>
             </div>
-            <p class="text-[10px] tracking-widest ml-[18px]" style="color:#94A3B8;" data-i18n="subtitle">合作 / 竞技 / 派对 / 恐怖</p>
+            <div class="flex items-center gap-2.5 mb-1">
+                <div id="sidebar-brand-dot" class="w-2 h-2 rounded-full" style="background:#991B1B;"></div>
+                <h1 id="sidebar-title" class="text-sm font-bold tracking-wide" style="color:#F8FAFC;" data-i18n="title">休闲多人游戏聚合情报</h1>
+            </div>
+            <p id="sidebar-subtitle" class="text-[10px] tracking-widest ml-[18px]" style="color:#94A3B8;" data-i18n="subtitle">合作 / 竞技 / 派对 / 恐怖</p>
             <div class="flex items-center gap-1.5 text-[11px] mt-2 ml-[18px]" style="color:#94A3B8;">
                 <span class="pulse-dot w-1.5 h-1.5 rounded-full inline-block" style="background:var(--data-green);"></span>
                 <span id="sidebar-last-update">--</span>
@@ -3348,6 +3353,12 @@ If you want to know what happened next, let’s listen to the explanation next t
         let activeTagFilter = 'all';
         let currentLbDim = 'ccu';
         let currentInsightMainTab = 'team';
+        // Roblox 平台
+        let currentPlatform = 'steam'; // 'steam' | 'roblox'
+        let robloxGamesData = null;
+        let robloxCategories = {};
+        let robloxSelectedPlaceId = null;
+        let robloxDiscoverFilter = { keyword: '', minPlayers: 0, category: 'all', sort: 'peak_players' };
         let currentInsightSubTab = 'first_game';
 
         let DBD_DATA = {
@@ -3757,6 +3768,64 @@ If you want to know what happened next, let’s listen to the explanation next t
             initGameDetailPage();
             renderLeaderboard();
             renderInsights();
+
+            // 加载 Roblox 数据
+            try {
+                const robloxResp = await fetch('./data/roblox_games.json' + suffix);
+                robloxGamesData = await robloxResp.json();
+                robloxCategories = robloxGamesData.categories || {};
+                console.log(`[Roblox] 加载 ${robloxGamesData.games?.length || 0} 款游戏`);
+            } catch (e) {
+                console.warn('Roblox 数据加载失败:', e);
+            }
+
+            // 根据 URL hash 初始化平台
+            const hash = window.location.hash.slice(1);
+            if (hash === 'roblox' || hash === 'steam') {
+                switchPlatform(hash);
+            }
+        }
+
+        // 平台切换
+        function switchPlatform(platform) {
+            if (platform === currentPlatform) return;
+            currentPlatform = platform;
+            // 更新 tab 样式
+            const steamTab = document.getElementById('platform-tab-steam');
+            const robloxTab = document.getElementById('platform-tab-roblox');
+            if (steamTab && robloxTab) {
+                if (platform === 'steam') {
+                    steamTab.style.background = '#991B1B';
+                    steamTab.style.color = '#FFFFFF';
+                    robloxTab.style.background = 'transparent';
+                    robloxTab.style.color = '#94A3B8';
+                } else {
+                    robloxTab.style.background = '#7C3AED';
+                    robloxTab.style.color = '#FFFFFF';
+                    steamTab.style.background = 'transparent';
+                    steamTab.style.color = '#94A3B8';
+                }
+            }
+            // 切换主题色
+            const accent = platform === 'steam' ? '#991B1B' : '#7C3AED';
+            document.documentElement.style.setProperty('--accent', accent);
+            // 切换标题
+            const titleEl = document.getElementById('sidebar-title');
+            const subtitleEl = document.getElementById('sidebar-subtitle');
+            const dotEl = document.getElementById('sidebar-brand-dot');
+            if (platform === 'steam') {
+                if (titleEl) titleEl.textContent = '休闲多人游戏聚合情报';
+                if (subtitleEl) subtitleEl.textContent = '合作 / 竞技 / 派对 / 恐怖';
+                if (dotEl) dotEl.style.background = '#991B1B';
+            } else {
+                if (titleEl) titleEl.textContent = 'Roblox 游戏排行榜';
+                if (subtitleEl) subtitleEl.textContent = '796 款 / 129 天时序数据';
+                if (dotEl) dotEl.style.background = '#7C3AED';
+            }
+            // 更新 URL hash
+            history.replaceState(null, '', '#' + platform);
+            // 重新渲染当前页面
+            navTo(currentSection || 'overview');
         }
 
         function toggleTombBusters() {
@@ -3976,6 +4045,7 @@ If you want to know what happened next, let’s listen to the explanation next t
 
         // ========== 侧边栏导航切换 ==========
         function navTo(section) {
+            currentSection = section;
             document.querySelectorAll('.content-section').forEach(el => {
                 el.classList.remove('active');
             });
@@ -3985,12 +4055,21 @@ If you want to know what happened next, let’s listen to the explanation next t
                 window.scrollTo({ top: 0, behavior: 'smooth' });
             }
             setActiveNav(section);
-            // 切换后重算图表尺寸（解决在 display:none 下初始化导致的尺寸错误）
+            // 平台分发: Roblox 模式下用 Roblox 渲染函数
+            if (currentPlatform === 'roblox') {
+                if (section === 'overview') renderRobloxDiscover();
+                else if (section === 'leaderboard') renderRobloxLeaderboard();
+                else if (section === 'gamedetail') renderRobloxGameDetail();
+            }
+            // 切换后重算图表尺寸
             requestAnimationFrame(() => {
                 if (window._ccuChart) window._ccuChart.resize();
                 if (window._trendChart) window._trendChart.resize();
+                if (window._robloxChart) window._robloxChart.resize();
             });
         }
+
+        let currentSection = 'overview';
 
         function setActiveNav(section) {
             document.querySelectorAll('.sidebar-nav-item').forEach(el => {
@@ -4398,6 +4477,286 @@ If you want to know what happened next, let’s listen to the explanation next t
             const key = el.dataset.gameKey;
             navTo('gamedetail');
             setTimeout(() => selectGame(key), 100);
+        }
+
+        // ========== Roblox 专题 ==========
+        function fmtNum(n) {
+            if (!n || n === 0) return '-';
+            if (n >= 1e9) return (n / 1e9).toFixed(2) + 'B';
+            if (n >= 1e6) return (n / 1e6).toFixed(2) + 'M';
+            if (n >= 1e3) return (n / 1e3).toFixed(1) + 'K';
+            return String(n);
+        }
+
+        function fmtPct(p) {
+            if (p === 0 || p === null || p === undefined) return '0%';
+            const sign = p > 0 ? '+' : '';
+            return sign + p.toFixed(1) + '%';
+        }
+
+        function pctColor(p) {
+            if (p > 0) return '#16A34A'; // 涨绿
+            if (p < 0) return '#DC2626'; // 跌红
+            return '#64748B';
+        }
+
+        // --- Roblox 发现页 ---
+        function renderRobloxDiscover() {
+            const section = document.getElementById('section-overview');
+            if (!section || !robloxGamesData) return;
+            const games = robloxGamesData.games || [];
+            // 应用筛选
+            let filtered = games.filter(g => {
+                if (robloxDiscoverFilter.keyword) {
+                    const kw = robloxDiscoverFilter.keyword.toLowerCase();
+                    if (!g.name.toLowerCase().includes(kw) && !String(g.placeId).includes(kw)) return false;
+                }
+                if (robloxDiscoverFilter.minPlayers > 0 && g.latest_players < robloxDiscoverFilter.minPlayers) return false;
+                if (robloxDiscoverFilter.category !== 'all' && !(g.categories || []).includes(robloxDiscoverFilter.category)) return false;
+                return true;
+            });
+            // 排序
+            const sort = robloxDiscoverFilter.sort;
+            filtered.sort((a, b) => {
+                if (sort === 'visits') return b.visits - a.visits;
+                if (sort === 'peak_players') return b.peak_players - a.peak_players;
+                if (sort === 'avg_7d') return b.avg_7d - a.avg_7d;
+                if (sort === 'growth_7d') return b.growth_7d - a.growth_7d;
+                if (sort === 'create_year') return (b.create_year || 0) - (a.create_year || 0);
+                return b.peak_players - a.peak_players;
+            });
+            // 顶部统计
+            const totalGames = filtered.length;
+            const totalVisits = filtered.reduce((s, g) => s + (g.visits || 0), 0);
+            const totalPeak = filtered.reduce((s, g) => s + (g.peak_players || 0), 0);
+            // 分类 chips
+            const catChips = Object.entries(robloxCategories)
+                .sort((a, b) => b[1].count - a[1].count)
+                .map(([k, v]) => `<span class="rbx-cat-chip ${robloxDiscoverFilter.category === k ? 'active' : ''}" onclick="setRobloxCat('${k}')" style="font-size:11px;padding:3px 10px;border-radius:12px;cursor:pointer;background:${robloxDiscoverFilter.category === k ? '#7C3AED' : '#F1F5F9'};color:${robloxDiscoverFilter.category === k ? '#FFFFFF' : '#475569'};margin:2px;display:inline-block;">${v.zh} ${v.count}</span>`).join('');
+            section.innerHTML = `
+                <div style="display:flex;gap:12px;margin-bottom:12px;flex-wrap:wrap;">
+                    <div style="flex:1;min-width:200px;background:#FFFFFF;border-radius:8px;padding:12px;border:0.5px solid #E2E8F0;">
+                        <div style="font-size:10px;color:#64748B;">游戏总数</div>
+                        <div style="font-size:20px;font-weight:600;color:#7C3AED;">${totalGames.toLocaleString()}</div>
+                    </div>
+                    <div style="flex:1;min-width:200px;background:#FFFFFF;border-radius:8px;padding:12px;border:0.5px solid #E2E8F0;">
+                        <div style="font-size:10px;color:#64748B;">总访问量</div>
+                        <div style="font-size:20px;font-weight:600;color:#0F172A;">${fmtNum(totalVisits)}</div>
+                    </div>
+                    <div style="flex:1;min-width:200px;background:#FFFFFF;border-radius:8px;padding:12px;border:0.5px solid #E2E8F0;">
+                        <div style="font-size:10px;color:#64748B;">峰值玩家总和</div>
+                        <div style="font-size:20px;font-weight:600;color:#0F172A;">${fmtNum(totalPeak)}</div>
+                    </div>
+                    <div style="flex:1;min-width:200px;background:#FFFFFF;border-radius:8px;padding:12px;border:0.5px solid #E2E8F0;">
+                        <div style="font-size:10px;color:#64748B;">数据截止</div>
+                        <div style="font-size:14px;font-weight:500;color:#0F172A;">${robloxGamesData._meta.date_range[1]}</div>
+                        <div style="font-size:10px;color:#64748B;">共 ${robloxGamesData._meta.total_days} 天时序</div>
+                    </div>
+                </div>
+                <div style="display:flex;gap:8px;margin-bottom:10px;flex-wrap:wrap;align-items:center;">
+                    <input type="text" id="rbx-kw" placeholder="搜索游戏名 / placeId" value="${robloxDiscoverFilter.keyword}" oninput="setRobloxKw(this.value)" style="padding:6px 10px;font-size:12px;border:0.5px solid #E2E8F0;border-radius:6px;width:240px;">
+                    <select id="rbx-minp" onchange="setRobloxMinP(this.value)" style="padding:6px 10px;font-size:12px;border:0.5px solid #E2E8F0;border-radius:6px;">
+                        <option value="0" ${robloxDiscoverFilter.minPlayers===0?'selected':''}>全部玩家数</option>
+                        <option value="1000" ${robloxDiscoverFilter.minPlayers===1000?'selected':''}>> 1K</option>
+                        <option value="10000" ${robloxDiscoverFilter.minPlayers===10000?'selected':''}>> 10K</option>
+                        <option value="100000" ${robloxDiscoverFilter.minPlayers===100000?'selected':''}>> 100K</option>
+                    </select>
+                    <select id="rbx-sort" onchange="setRobloxSort(this.value)" style="padding:6px 10px;font-size:12px;border:0.5px solid #E2E8F0;border-radius:6px;">
+                        <option value="peak_players" ${robloxDiscoverFilter.sort==='peak_players'?'selected':''}>按峰值玩家</option>
+                        <option value="visits" ${robloxDiscoverFilter.sort==='visits'?'selected':''}>按总访问量</option>
+                        <option value="avg_7d" ${robloxDiscoverFilter.sort==='avg_7d'?'selected':''}>按7天日均</option>
+                        <option value="growth_7d" ${robloxDiscoverFilter.sort==='growth_7d'?'selected':''}>按7天增长率</option>
+                        <option value="create_year" ${robloxDiscoverFilter.sort==='create_year'?'selected':''}>按创建年份</option>
+                    </select>
+                    <span style="font-size:10px;color:#64748B;">显示 ${filtered.length} / ${games.length}</span>
+                </div>
+                <div style="margin-bottom:12px;">${catChips}${robloxDiscoverFilter.category !== 'all' ? `<span class="rbx-cat-chip" onclick="setRobloxCat('all')" style="font-size:11px;padding:3px 10px;border-radius:12px;cursor:pointer;background:#F1F5F9;color:#475569;margin:2px;">✕ 清除</span>` : ''}</div>
+                <div id="rbx-grid" style="display:grid;grid-template-columns:repeat(auto-fill,minmax(280px,1fr));gap:10px;"></div>
+            `;
+            const grid = document.getElementById('rbx-grid');
+            grid.innerHTML = filtered.slice(0, 60).map(g => `
+                <div class="rbx-card" onclick="selectRobloxGame(${g.placeId})" style="background:#FFFFFF;border:0.5px solid #E2E8F0;border-radius:8px;padding:10px;cursor:pointer;transition:border-color 0.15s;" onmouseover="this.style.borderColor='#7C3AED'" onmouseout="this.style.borderColor='#E2E8F0'">
+                    <div style="font-size:13px;font-weight:500;line-height:1.3;overflow:hidden;text-overflow:ellipsis;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;margin-bottom:4px;">${g.name}</div>
+                    <div style="font-size:10px;color:#64748B;margin-bottom:6px;">placeId: ${g.placeId} ${g.create_year ? '· ' + g.create_year : ''}</div>
+                    <div style="display:flex;gap:8px;font-size:10px;">
+                        <span style="background:#F1F5F9;padding:2px 6px;border-radius:3px;">峰值 <b style="color:#0F172A;">${fmtNum(g.peak_players)}</b></span>
+                        <span style="background:#F1F5F9;padding:2px 6px;border-radius:3px;">访问 <b style="color:#0F172A;">${fmtNum(g.visits)}</b></span>
+                    </div>
+                    <div style="display:flex;gap:8px;font-size:10px;margin-top:4px;">
+                        <span style="background:#F1F5F9;padding:2px 6px;border-radius:3px;">7天日均 <b style="color:#0F172A;">${fmtNum(g.avg_7d)}</b></span>
+                        <span style="background:#F1F5F9;padding:2px 6px;border-radius:3px;">7天增长 <b style="color:${pctColor(g.growth_7d)};">${fmtPct(g.growth_7d)}</b></span>
+                    </div>
+                    ${(g.categories || []).length ? `<div style="margin-top:6px;">${g.categories.slice(0, 3).map(c => `<span style="font-size:9px;padding:1px 5px;background:#EDE9FE;color:#6D28D9;border-radius:3px;margin-right:3px;">${robloxCategories[c]?.zh || c}</span>`).join('')}</div>` : ''}
+                </div>
+            `).join('');
+            if (filtered.length > 60) {
+                grid.innerHTML += `<div style="grid-column:1/-1;text-align:center;padding:12px;color:#64748B;font-size:11px;">还有 ${filtered.length - 60} 款游戏未显示,请用筛选缩小范围</div>`;
+            }
+        }
+
+        function setRobloxKw(v) { robloxDiscoverFilter.keyword = v; renderRobloxDiscover(); }
+        function setRobloxMinP(v) { robloxDiscoverFilter.minPlayers = parseInt(v) || 0; renderRobloxDiscover(); }
+        function setRobloxSort(v) { robloxDiscoverFilter.sort = v; renderRobloxDiscover(); }
+        function setRobloxCat(c) { robloxDiscoverFilter.category = c; renderRobloxDiscover(); }
+
+        function selectRobloxGame(placeId) {
+            robloxSelectedPlaceId = placeId;
+            navTo('gamedetail');
+        }
+
+        // --- Roblox 排行榜 ---
+        let robloxLbDim = 'peak_players';
+        function renderRobloxLeaderboard() {
+            const section = document.getElementById('section-leaderboard');
+            if (!section || !robloxGamesData) return;
+            const games = robloxGamesData.games || [];
+            const dims = [
+                { id: 'peak_players', label: '峰值玩家' },
+                { id: 'visits', label: '总访问量' },
+                { id: 'avg_7d', label: '7天日均' },
+                { id: 'growth_7d', label: '7天增长率', filter: g => g.peak_players >= 1000 },
+                { id: 'new_hot', label: '新晋黑马', filter: g => g.create_year === 2026 && g.avg_7d >= 10000, sort: 'avg_7d' },
+            ];
+            let filtered = games;
+            const dim = dims.find(d => d.id === robloxLbDim);
+            if (dim && dim.filter) filtered = filtered.filter(dim.filter);
+            const sortKey = dim.sort || robloxLbDim;
+            filtered.sort((a, b) => (b[sortKey] || 0) - (a[sortKey] || 0));
+            section.innerHTML = `
+                <div style="display:flex;gap:4px;margin-bottom:12px;flex-wrap:wrap;">
+                    ${dims.map(d => `<button onclick="switchRobloxLb('${d.id}')" style="padding:5px 12px;font-size:11px;border-radius:6px;border:0.5px solid ${robloxLbDim===d.id?'#7C3AED':'#E2E8F0'};background:${robloxLbDim===d.id?'#7C3AED':'#FFFFFF'};color:${robloxLbDim===d.id?'#FFFFFF':'#475569'};cursor:pointer;">${d.label}</button>`).join('')}
+                </div>
+                <div style="background:#FFFFFF;border-radius:8px;border:0.5px solid #E2E8F0;overflow:hidden;">
+                    <div style="display:grid;grid-template-columns:40px 1fr 110px 110px 110px 100px;gap:8px;padding:8px 12px;background:#F8FAFC;font-size:10px;color:#64748B;font-weight:500;border-bottom:0.5px solid #E2E8F0;">
+                        <div>#</div><div>游戏名</div><div style="text-align:right;">主指标</div><div style="text-align:right;">峰值玩家</div><div style="text-align:right;">总访问</div><div style="text-align:right;">30天趋势</div>
+                    </div>
+                    <div id="rbx-lb-rows"></div>
+                </div>
+            `;
+            const rowsEl = document.getElementById('rbx-lb-rows');
+            rowsEl.innerHTML = filtered.slice(0, 50).map((g, i) => {
+                const mainVal = sortKey === 'growth_7d' ? fmtPct(g[sortKey]) : fmtNum(g[sortKey]);
+                const mainColor = sortKey === 'growth_7d' ? pctColor(g.growth_7d) : '#7C3AED';
+                return `<div style="display:grid;grid-template-columns:40px 1fr 110px 110px 110px 100px;gap:8px;padding:8px 12px;border-bottom:0.5px solid #F1F5F9;font-size:11px;cursor:pointer;" onclick="selectRobloxGame(${g.placeId})">
+                    <div style="color:#94A3B8;font-weight:500;">${i + 1}</div>
+                    <div>
+                        <div style="font-weight:500;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;">${g.name}</div>
+                        <div style="font-size:9px;color:#94A3B8;">${g.placeId} ${g.create_year ? '· ' + g.create_year : ''}</div>
+                    </div>
+                    <div style="text-align:right;font-weight:600;color:${mainColor};">${mainVal}</div>
+                    <div style="text-align:right;">${fmtNum(g.peak_players)}</div>
+                    <div style="text-align:right;">${fmtNum(g.visits)}</div>
+                    <div style="text-align:right;"><div id="rbx-spark-${g.placeId}" style="width:90px;height:24px;"></div></div>
+                </div>`;
+            }).join('');
+            // 渲染 sparkline
+            setTimeout(() => {
+                if (typeof echarts === 'undefined') return;
+                filtered.slice(0, 50).forEach(g => {
+                    const el = document.getElementById('rbx-spark-' + g.placeId);
+                    if (!el) return;
+                    const chart = echarts.init(el);
+                    const entries = Object.entries(g.daily_players || {}).sort();
+                    const last30 = entries.slice(-30);
+                    chart.setOption({
+                        backgroundColor: 'transparent',
+                        grid: { left: 0, right: 0, top: 1, bottom: 1 },
+                        xAxis: { type: 'category', show: false, data: last30.map(e => e[0]) },
+                        yAxis: { type: 'value', show: false, min: 0 },
+                        series: [{
+                            type: 'line', data: last30.map(e => e[1]), smooth: true,
+                            symbol: 'none', lineStyle: { width: 1.5, color: '#7C3AED' },
+                            areaStyle: { opacity: 0.15, color: '#7C3AED' }
+                        }]
+                    });
+                });
+            }, 50);
+        }
+
+        function switchRobloxLb(dim) { robloxLbDim = dim; renderRobloxLeaderboard(); }
+
+        // --- Roblox 游戏详情 ---
+        function renderRobloxGameDetail() {
+            const section = document.getElementById('section-gamedetail');
+            if (!section || !robloxGamesData) return;
+            const games = robloxGamesData.games || [];
+            // 选择器
+            const sel = robloxSelectedPlaceId || games[0]?.placeId;
+            const g = games.find(x => x.placeId === sel) || games[0];
+            if (!g) { section.innerHTML = '<p style="color:#64748B;font-size:12px;">无数据</p>'; return; }
+            robloxSelectedPlaceId = g.placeId;
+            section.innerHTML = `
+                <div style="margin-bottom:12px;">
+                    <input type="text" id="rbx-detail-search" placeholder="搜索游戏名 / placeId 选择游戏" oninput="searchRobloxGame(this.value)" style="width:100%;padding:8px 12px;font-size:12px;border:0.5px solid #E2E8F0;border-radius:6px;">
+                    <div id="rbx-detail-suggest" style="margin-top:4px;"></div>
+                </div>
+                <div style="background:#FFFFFF;border-radius:8px;padding:14px;border:0.5px solid #E2E8F0;margin-bottom:12px;">
+                    <div style="font-size:18px;font-weight:600;margin-bottom:4px;">${g.name}</div>
+                    <div style="font-size:11px;color:#64748B;margin-bottom:8px;">placeId: ${g.placeId} · 创建: ${g.create_time || '未知'} ${g.create_year ? '(' + g.create_year + ')' : ''}</div>
+                    <div style="display:flex;gap:8px;flex-wrap:wrap;margin-bottom:8px;">
+                        ${(g.categories || []).map(c => `<span style="font-size:10px;padding:2px 8px;background:#EDE9FE;color:#6D28D9;border-radius:3px;">${robloxCategories[c]?.zh || c}</span>`).join('')}
+                    </div>
+                    <a href="${g.store_url}" target="_blank" rel="noopener" style="display:inline-block;font-size:11px;padding:4px 10px;background:#7C3AED;color:#FFFFFF;border-radius:4px;text-decoration:none;">Roblox 商店 →</a>
+                </div>
+                <div style="display:grid;grid-template-columns:repeat(auto-fill,minmax(140px,1fr));gap:8px;margin-bottom:12px;">
+                    <div style="background:#FFFFFF;border-radius:6px;padding:10px;border:0.5px solid #E2E8F0;"><div style="font-size:9px;color:#64748B;">峰值玩家</div><div style="font-size:16px;font-weight:600;color:#7C3AED;">${fmtNum(g.peak_players)}</div><div style="font-size:9px;color:#64748B;">${g.peak_date}</div></div>
+                    <div style="background:#FFFFFF;border-radius:6px;padding:10px;border:0.5px solid #E2E8F0;"><div style="font-size:9px;color:#64748B;">最新玩家</div><div style="font-size:16px;font-weight:600;">${fmtNum(g.latest_players)}</div><div style="font-size:9px;color:#64748B;">${g.latest_date}</div></div>
+                    <div style="background:#FFFFFF;border-radius:6px;padding:10px;border:0.5px solid #E2E8F0;"><div style="font-size:9px;color:#64748B;">总访问量</div><div style="font-size:16px;font-weight:600;">${fmtNum(g.visits)}</div></div>
+                    <div style="background:#FFFFFF;border-radius:6px;padding:10px;border:0.5px solid #E2E8F0;"><div style="font-size:9px;color:#64748B;">7天日均</div><div style="font-size:16px;font-weight:600;">${fmtNum(g.avg_7d)}</div></div>
+                    <div style="background:#FFFFFF;border-radius:6px;padding:10px;border:0.5px solid #E2E8F0;"><div style="font-size:9px;color:#64748B;">30天日均</div><div style="font-size:16px;font-weight:600;">${fmtNum(g.avg_30d)}</div></div>
+                    <div style="background:#FFFFFF;border-radius:6px;padding:10px;border:0.5px solid #E2E8F0;"><div style="font-size:9px;color:#64748B;">7天增长</div><div style="font-size:16px;font-weight:600;color:${pctColor(g.growth_7d)};">${fmtPct(g.growth_7d)}</div></div>
+                    <div style="background:#FFFFFF;border-radius:6px;padding:10px;border:0.5px solid #E2E8F0;"><div style="font-size:9px;color:#64748B;">30天增长</div><div style="font-size:16px;font-weight:600;color:${pctColor(g.growth_30d)};">${fmtPct(g.growth_30d)}</div></div>
+                    <div style="background:#FFFFFF;border-radius:6px;padding:10px;border:0.5px solid #E2E8F0;"><div style="font-size:9px;color:#64748B;">活跃天数</div><div style="font-size:16px;font-weight:600;">${g.active_days}</div><div style="font-size:9px;color:#64748B;">/ ${robloxGamesData._meta.total_days}</div></div>
+                </div>
+                <div style="background:#FFFFFF;border-radius:8px;padding:14px;border:0.5px solid #E2E8F0;">
+                    <div style="font-size:12px;font-weight:500;margin-bottom:8px;">${robloxGamesData._meta.total_days} 天玩家数时序</div>
+                    <div id="rbx-detail-chart" style="width:100%;height:400px;"></div>
+                </div>
+            `;
+            // 渲染折线图
+            setTimeout(() => {
+                const el = document.getElementById('rbx-detail-chart');
+                if (!el || typeof echarts === 'undefined') return;
+                if (window._robloxChart) { try { window._robloxChart.dispose(); } catch (e) {} }
+                const chart = echarts.init(el);
+                window._robloxChart = chart;
+                const entries = Object.entries(g.daily_players || {}).sort();
+                chart.setOption({
+                    backgroundColor: 'transparent',
+                    tooltip: { trigger: 'axis' },
+                    grid: { left: 60, right: 30, top: 20, bottom: 80 },
+                    xAxis: { type: 'category', data: entries.map(e => e[0]), axisLabel: { fontSize: 10, rotate: 30 } },
+                    yAxis: { type: 'value', name: '玩家数', axisLabel: { fontSize: 10, formatter: v => fmtNum(v) } },
+                    dataZoom: [
+                        { type: 'inside', start: 0, end: 100 },
+                        { type: 'slider', start: 0, end: 100, height: 20, bottom: 20 }
+                    ],
+                    series: [{
+                        type: 'line',
+                        data: entries.map(e => e[1]),
+                        smooth: true,
+                        symbol: 'none',
+                        lineStyle: { width: 2, color: '#7C3AED' },
+                        areaStyle: { opacity: 0.2, color: '#7C3AED' },
+                        markPoint: {
+                            data: [{ type: 'max', name: '峰值' }],
+                            symbolSize: 50,
+                            itemStyle: { color: '#DC2626' }
+                        }
+                    }]
+                });
+                window.addEventListener('resize', () => chart.resize());
+            }, 50);
+        }
+
+        function searchRobloxGame(kw) {
+            const suggestEl = document.getElementById('rbx-detail-suggest');
+            if (!suggestEl) return;
+            if (!kw) { suggestEl.innerHTML = ''; return; }
+            const games = robloxGamesData.games || [];
+            const lower = kw.toLowerCase();
+            const matches = games.filter(g => g.name.toLowerCase().includes(lower) || String(g.placeId).includes(lower)).slice(0, 5);
+            suggestEl.innerHTML = matches.map(g => `<div onclick="selectRobloxGame(${g.placeId})" style="padding:6px 10px;background:#FFFFFF;border:0.5px solid #E2E8F0;border-radius:4px;margin-top:4px;cursor:pointer;font-size:11px;" onmouseover="this.style.background='#F8FAFC'" onmouseout="this.style.background='#FFFFFF'"><b>${g.name}</b> <span style="color:#64748B;">placeId: ${g.placeId}</span></div>`).join('');
         }
 
         // ========== 洞察页 ==========
