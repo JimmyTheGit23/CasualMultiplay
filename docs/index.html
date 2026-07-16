@@ -873,11 +873,11 @@
                 <div class="dt-sort flex items-center gap-2">
                     <span class="text-[11px]" style="color:var(--text-muted);">排序</span>
                     <select id="discover-sort" onchange="renderDiscoverGrid()" style="font-size:11px;background:transparent;border:0.5px solid var(--card-border);border-radius:6px;padding:3px 8px;">
-                        <option value="priority">优先关注</option>
-                        <option value="ccu">CCU</option>
-                        <option value="wishlist">愿望单</option>
-                        <option value="positive">好评率</option>
-                        <option value="release">发售日</option>
+                        <option value="priority">${t("sort_priority")}</option>
+                        <option value="ccu">${t("sort_ccu")}</option>
+                        <option value="wishlist">${t("sort_wishlist")}</option>
+                        <option value="positive">${t("sort_positive")}</option>
+                        <option value="release">${t("sort_release")}</option>
                     </select>
                 </div>
             </div>
@@ -913,11 +913,11 @@
                     <div class="selector-sort flex items-center gap-2 mb-2">
                         <span class="text-[11px]" style="color:var(--text-muted);" data-i18n="sort_label">排序</span>
                         <select id="selector-sort" onchange="renderGameList()" class="text-[11px]" style="background:transparent;border:1px solid var(--card-border);border-radius:6px;padding:2px 6px;">
-                            <option value="priority" data-i18n="sort_priority">优先关注</option>
-                            <option value="ccu">CCU</option>
-                            <option value="wishlist" data-i18n="sort_wishlist">愿望单</option>
-                            <option value="release" data-i18n="sort_release">发售日</option>
-                            <option value="positive" data-i18n="sort_positive">好评率</option>
+                            <option value="priority" data-i18n="sort_priority">${t("sort_priority")}</option>
+                            <option value="ccu">${t("sort_ccu")}</option>
+                            <option value="wishlist" data-i18n="sort_wishlist">${t("sort_wishlist")}</option>
+                            <option value="release" data-i18n="sort_release">${t("sort_release")}</option>
+                            <option value="positive" data-i18n="sort_positive">${t("sort_positive")}</option>
                         </select>
                     </div>
                     <div class="selector-count text-[11px] mb-2" id="selector-count" style="color:var(--text-muted);"></div>
@@ -1437,13 +1437,13 @@
                     <table class="w-full text-sm">
                         <thead>
                             <tr style="color:var(--text-muted);border-bottom:1px solid var(--card-border);">
-                                <th class="text-left py-2 pr-4 text-[10px] tracking-wider" data-i18n="th_game">游戏</th>
-                                <th class="text-center py-2 px-3 text-[10px] tracking-wider" data-i18n="th_track">赛道</th>
-                                <th class="text-right py-2 px-3 text-[10px] tracking-wider" data-i18n="th_status">状态</th>
+                                <th class="text-left py-2 pr-4 text-[10px] tracking-wider" data-i18n="th_game">${t("th_game")}</th>
+                                <th class="text-center py-2 px-3 text-[10px] tracking-wider" data-i18n="th_track">${t("th_track")}</th>
+                                <th class="text-right py-2 px-3 text-[10px] tracking-wider" data-i18n="th_status">${t("th_status")}</th>
                                 <th class="text-right py-2 px-3 text-[10px] tracking-wider" data-i18n="th_online">在线</th>
-                                <th class="text-right py-2 px-3 text-[10px] tracking-wider" data-i18n="th_pos_rate">好评率</th>
-                                <th class="text-right py-2 px-3 text-[10px] tracking-wider" data-i18n="th_reviews">评测数</th>
-                                <th class="text-right py-2 px-3 text-[10px] tracking-wider" data-i18n="th_price">价格</th>
+                                <th class="text-right py-2 px-3 text-[10px] tracking-wider" data-i18n="th_pos_rate">${t("th_pos_rate")}</th>
+                                <th class="text-right py-2 px-3 text-[10px] tracking-wider" data-i18n="th_reviews">${t("th_reviews")}</th>
+                                <th class="text-right py-2 px-3 text-[10px] tracking-wider" data-i18n="th_price">${t("th_price")}</th>
                             </tr>
                         </thead>
                         <tbody id="competitors-table">
@@ -4333,8 +4333,8 @@ If you want to know what happened next, let’s listen to the explanation next t
                     <div class="gd-subtitle">${developer}${publisher && publisher !== developer ? ' · ' + publisher : ''} · ${release}</div>
                     <div class="gd-tags">${tagChips}</div>
                     <div class="gd-metrics">
-                        <div class="gd-metric"><span class="gd-metric-label">CCU</span><span class="gd-metric-value">${ccu > 0 ? ccu.toLocaleString() : (game.status === 'WISHLIST' || game.status === '在研' ? '未发售' : '-')}</span></div>
-                        <div class="gd-metric"><span class="gd-metric-label">好评率</span><span class="gd-metric-value">${positive > 0 ? positive + '%' : (game.status === 'WISHLIST' || game.status === '在研' ? '未发售' : '-')}</span></div>
+                        <div class="gd-metric"><span class="gd-metric-label">CCU</span><span class="gd-metric-value">${ccu > 0 ? ccu.toLocaleString() : (game.status === 'WISHLIST' || game.status === '在研' ? t('not_released') : '-')}</span></div>
+                        <div class="gd-metric"><span class="gd-metric-label">好评率</span><span class="gd-metric-value">${positive > 0 ? positive + '%' : (game.status === 'WISHLIST' || game.status === '在研' ? t('not_released') : '-')}</span></div>
                         ${wishlist}
                         <div class="gd-metric"><span class="gd-metric-label">价格</span><span class="gd-metric-value">${price || '-'}</span></div>
                     </div>
@@ -5733,7 +5733,7 @@ If you want to know what happened next, let’s listen to the explanation next t
             }[currentLbDim];
             let html = '<table class="leaderboard-table"><thead><tr>';
             html += '<th class="lb-rank">#</th>';
-            html += '<th>游戏</th>';
+            html += '<th>${t("th_game")}</th>';
             html += '<th>开发商</th>';
             html += '<th>标签</th>';
             html += `<th>${dimLabel}<span class="src-badge src-${dimTier}">[${dimTier}]</span></th>`;
@@ -6863,7 +6863,7 @@ If you want to know what happened next, let’s listen to the explanation next t
             'Content Warning': {
                 category: '恐怖撤离',
                 cnName: '内容警告',
-                status: '已发售',
+                status: t('released'),
                 dev: 'Zorro / Wilnyl / Philip',
                 release: '2024-04-01',
                 players: '2~4人',
@@ -6885,7 +6885,7 @@ If you want to know what happened next, let’s listen to the explanation next t
             'Peak': {
                 category: '恐怖撤离',
                 cnName: '巅峰梦序',
-                status: '已发售',
+                status: t('released'),
                 dev: 'Aggro Crab + Landfall',
                 release: '2025-06',
                 players: '1~4人',
@@ -6930,7 +6930,7 @@ If you want to know what happened next, let’s listen to the explanation next t
             'The Outlast Trials': {
                 category: 'PvPvE猎杀',
                 cnName: '逃生：试炼',
-                status: '已发售',
+                status: t('released'),
                 dev: 'Red Barrels',
                 release: '2024-03-05',
                 players: '1~4人',
@@ -6946,7 +6946,7 @@ If you want to know what happened next, let’s listen to the explanation next t
             'Hunt: Showdown 1896': {
                 category: 'PvPvE猎杀',
                 cnName: '猎杀：对决',
-                status: '已发售',
+                status: t('released'),
                 dev: 'Crytek',
                 release: '2019-08',
                 players: '1~3人',
@@ -6963,7 +6963,7 @@ If you want to know what happened next, let’s listen to the explanation next t
             '永劫无间': {
                 category: '搜打撤/摸金',
                 cnName: '摸金模式',
-                status: '已发售',
+                status: t('released'),
                 dev: '24 Entertainment（网易）',
                 release: '2021-08-12',
                 players: '1~60人',
@@ -8092,11 +8092,22 @@ If you want to know what happened next, let’s listen to the explanation next t
             tab_gamedetail: { zh: '游戏详情', en: 'Game Detail' },
             tab_competitors: { zh: '竞品对比', en: 'Competitors' },
             lb_title: { zh: '排行榜', en: 'Leaderboard' },
-            lb_subtitle: { zh: '多维度排名 · 每列标注数据来源', en: 'Multi-dim ranking · source per column' },
+            lb_subtitle: { zh: t('lb_subtitle'), en: 'Multi-dim ranking · source per column' },
             lb_dim_ccu: { zh: 'CCU', en: 'CCU' },
             lb_dim_wishlist: { zh: '愿望单', en: 'Wishlist' },
             lb_dim_positive: { zh: '好评率', en: 'Positive %' },
             lb_dim_release: { zh: '发售日', en: 'Release' },
+            sort_priority: { zh: '优先关注', en: 'Priority' },
+            sort_ccu: { zh: 'CCU', en: 'CCU' },
+            sort_wishlist: { zh: '愿望单', en: 'Wishlist' },
+            sort_positive: { zh: '好评率', en: 'Positive Rate' },
+            sort_release: { zh: '发售日', en: 'Release Date' },
+            game_intro: { zh: t('game_intro'), en: 'About' },
+            editor_review: { zh: t('editor_review'), en: 'Editor Review' },
+            game_screenshots: { zh: t('game_screenshots'), en: 'Screenshots' },
+            data_source: { zh: t('data_source'), en: 'Data Source' },
+            games_unit: { zh: t('games_unit'), en: 'games' },
+            lb_subtitle: { zh: t('lb_subtitle'), en: 'Multi-dim ranking · Sources annotated' },
             sort_label: { zh: '排序', en: 'Sort' },
             sort_priority: { zh: '优先关注', en: 'Priority' },
             sort_wishlist: { zh: '愿望单', en: 'Wishlist' },
@@ -8193,8 +8204,8 @@ If you want to know what happened next, let’s listen to the explanation next t
             th_pos_rate: { zh: '好评率', en: 'Pos. Rate' },
             th_reviews: { zh: '评测数', en: 'Reviews' },
             th_price: { zh: '价格', en: 'Price' },
-            released: { zh: '已发售', en: 'Released' },
-            not_released: { zh: '未发售', en: 'Unreleased' },
+            released: { zh: t('released'), en: 'Released' },
+            not_released: { zh: t('not_released'), en: 'Unreleased' },
             released_ref: { zh: '已上线竞品（参考）', en: 'Released Competitors (Ref.)' },
             replies: { zh: '回复', en: ' replies' },
             online_suffix: { zh: '在线', en: ' online' },
@@ -8281,14 +8292,23 @@ If you want to know what happened next, let’s listen to the explanation next t
             document.documentElement.lang = lang === 'zh' ? 'zh-CN' : 'en';
             // 更新页面 title
             document.title = i18nDict['title'][lang];
-            // 重新渲染动态内容（JS生成的文案）
+            // 重新渲染动态内容（JS生成的文案）—— 所有页面都重新渲染
             renderAll();
+            renderLeaderboard();
+            initGameDetailPage();
             // Roblox 页面使用 RBX_I18N,需手动重新渲染
             if (currentPlatform === 'roblox' && robloxGamesData) {
                 if (currentSection === 'overview') renderRobloxDiscover();
                 else if (currentSection === 'leaderboard') renderRobloxLeaderboard();
                 else if (currentSection === 'gamedetail') renderRobloxGameDetail();
             }
+        }
+
+        // i18n 帮手: t('key') → 当前语言的文本
+        function t(key) {
+            const entry = i18nDict[key];
+            if (!entry) return key;
+            return entry[currentLang] || entry.zh || key;
         }
 
         function toggleLang() {
