@@ -7,7 +7,7 @@ import socketserver
 import os
 import sys
 
-PORT = 8085
+PORT = 8083
 ROOT = os.path.join(os.path.dirname(os.path.abspath(__file__)), 'docs')
 
 
