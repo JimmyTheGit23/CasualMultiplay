@@ -4759,6 +4759,12 @@ If you want to know what happened next, let’s listen to the explanation next t
                         <a href="${g.store_url}" target="_blank" rel="noopener" style="display:inline-block;font-size:11px;padding:4px 10px;background:#7C3AED;color:#FFFFFF;border-radius:4px;text-decoration:none;">${rbxT("roblorStore")}</a>
                     </div>
                 </div>
+                ${g.description || g.game_type_en ? `
+                <div style="background:#FFFFFF;border-radius:8px;padding:14px;border:0.5px solid #E2E8F0;margin-bottom:12px;">
+                    ${g.game_type_en ? `<div style="margin-bottom:8px;"><span style="font-size:10px;color:#64748B;text-transform:uppercase;letter-spacing:0.5px;">${currentLang === 'en' ? 'Game Type' : '游戏类型'}</span><span style="display:inline-block;margin-left:8px;font-size:11px;padding:3px 10px;background:#FEF3C7;color:#92400E;border-radius:4px;font-weight:500;">${g.game_type_en || ''}</span></div>` : ''}
+                    ${g.description ? `<div style="font-size:12px;line-height:1.6;color:#334155;white-space:pre-wrap;">${g.description}</div>` : ''}
+                </div>
+                ` : ''}
                 <div style="display:grid;grid-template-columns:repeat(auto-fill,minmax(140px,1fr));gap:8px;margin-bottom:12px;">
                     <div style="background:#FFFFFF;border-radius:6px;padding:10px;border:0.5px solid #E2E8F0;"><div style="font-size:9px;color:#64748B;">${rbxT("peakCol")}</div><div style="font-size:16px;font-weight:600;color:#7C3AED;">${fmtNum(g.peak_players)}</div><div style="font-size:9px;color:#64748B;">${g.peak_date}</div></div>
                     <div style="background:#FFFFFF;border-radius:6px;padding:10px;border:0.5px solid #E2E8F0;"><div style="font-size:9px;color:#64748B;">${rbxT("latestPlayers")}</div><div style="font-size:16px;font-weight:600;">${fmtNum(g.latest_players)}</div><div style="font-size:9px;color:#64748B;">${g.latest_date}</div></div>
