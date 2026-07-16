@@ -17,7 +17,8 @@
       "count": 89,
       "keywords": [
         "Brainrot"
-      ]
+      ],
+      "en": "Brainrot"
     },
     "Tower": {
       "zh": "塔防",
@@ -26,21 +27,24 @@
         "Tower",
         "Defence",
         "Defense"
-      ]
+      ],
+      "en": "Tower Defense"
     },
     "Escape": {
       "zh": "逃脱",
       "count": 45,
       "keywords": [
         "Escape"
-      ]
+      ],
+      "en": "Escape"
     },
     "Anime": {
       "zh": "动漫",
       "count": 26,
       "keywords": [
         "Anime"
-      ]
+      ],
+      "en": "Anime"
     },
     "RP": {
       "zh": "角色扮演",
@@ -48,7 +52,8 @@
       "keywords": [
         "RP",
         "Roleplay"
-      ]
+      ],
+      "en": "Roleplay"
     },
     "Simulator": {
       "zh": "模拟",
@@ -56,28 +61,32 @@
       "keywords": [
         "Simulator",
         " Sim"
-      ]
+      ],
+      "en": "Simulator"
     },
     "War": {
       "zh": "战争",
       "count": 12,
       "keywords": [
         "War"
-      ]
+      ],
+      "en": "War"
     },
     "Obby": {
       "zh": "跑酷",
       "count": 11,
       "keywords": [
         "Obby"
-      ]
+      ],
+      "en": "Obby"
     },
     "Tycoon": {
       "zh": "大亨",
       "count": 10,
       "keywords": [
         "Tycoon"
-      ]
+      ],
+      "en": "Tycoon"
     },
     "Fight": {
       "zh": "格斗",
@@ -86,35 +95,40 @@
         "Fight",
         "Battles",
         "Battle"
-      ]
+      ],
+      "en": "Fighting"
     },
     "Murder": {
       "zh": "推理",
       "count": 7,
       "keywords": [
         "Murder"
-      ]
+      ],
+      "en": "Mystery"
     },
     "Survival": {
       "zh": "生存",
       "count": 4,
       "keywords": [
         "Survival"
-      ]
+      ],
+      "en": "Survival"
     },
     "Parkour": {
       "zh": "跑酷",
       "count": 3,
       "keywords": [
         "Parkour"
-      ]
+      ],
+      "en": "Parkour"
     },
     "Adopt": {
       "zh": "养成",
       "count": 1,
       "keywords": [
         "Adopt"
-      ]
+      ],
+      "en": "Adopt"
     },
     "Pets": {
       "zh": "宠物",
@@ -122,7 +136,8 @@
       "keywords": [
         "Pet",
         "Pets"
-      ]
+      ],
+      "en": "Pets"
     },
     "Grow": {
       "zh": "种植",
@@ -130,7 +145,8 @@
       "keywords": [
         "Grow",
         "Garden"
-      ]
+      ],
+      "en": "Garden"
     }
   },
   "games": [

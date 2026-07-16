@@ -4480,6 +4480,58 @@ If you want to know what happened next, let’s listen to the explanation next t
         }
 
         // ========== Roblox 专题 ==========
+        const RBX_I18N = {
+            totalGames: { zh: '游戏总数', en: 'Total Games' },
+            totalVisits: { zh: '总访问量', en: 'Total Visits' },
+            totalPeak: { zh: '峰值玩家总和', en: 'Sum of Peak' },
+            dataUntil: { zh: '数据截止', en: 'Data Until' },
+            daysTotal: { zh: '共 {0} 天时序', en: '{0} days total' },
+            searchPlaceholder: { zh: '搜索游戏名 / placeId', en: 'Search name / placeId' },
+            allPlayers: { zh: '全部玩家数', en: 'All players' },
+            sortByPeak: { zh: '按峰值玩家', en: 'By Peak Players' },
+            sortByVisits: { zh: '按总访问量', en: 'By Total Visits' },
+            sortByAvg7d: { zh: '按7天日均', en: 'By 7d Avg' },
+            sortByGrowth7d: { zh: '按7天增长率', en: 'By 7d Growth' },
+            sortByCreateYear: { zh: '按创建年份', en: 'By Create Year' },
+            showing: { zh: '显示 {0} / {1}', en: 'Showing {0} / {1}' },
+            more: { zh: '还有 {0} 款游戏未显示,请用筛选缩小范围', en: '{0} more games, narrow filters' },
+            clearFilter: { zh: '✕ 清除', en: '✕ Clear' },
+            peak: { zh: '峰值', en: 'Peak' },
+            visits: { zh: '访问', en: 'Visits' },
+            avg7d: { zh: '7天日均', en: '7d Avg' },
+            growth7d: { zh: '7天增长', en: '7d Growth' },
+            tabPeak: { zh: '峰值玩家', en: 'Peak Players' },
+            tabVisits: { zh: '总访问量', en: 'Total Visits' },
+            tabAvg7d: { zh: '7天日均', en: '7d Avg' },
+            tabGrowth7d: { zh: '7天增长率', en: '7d Growth' },
+            tabNewHot: { zh: '新晋黑马', en: 'Rising Stars' },
+            rank: { zh: '#', en: '#' },
+            name: { zh: '游戏名', en: 'Name' },
+            mainMetric: { zh: '主指标', en: 'Main' },
+            peakCol: { zh: '峰值玩家', en: 'Peak' },
+            visitsCol: { zh: '总访问', en: 'Visits' },
+            trend30d: { zh: '30天趋势', en: '30d Trend' },
+            selectGame: { zh: '搜索游戏名 / placeId 选择游戏', en: 'Search name / placeId' },
+            placeIdLabel: { zh: 'placeId', en: 'placeId' },
+            created: { zh: '创建', en: 'Created' },
+            roblorStore: { zh: 'Roblox 商店 →', en: 'Roblox Store →' },
+            latestPlayers: { zh: '最新玩家', en: 'Latest Players' },
+            activeDays: { zh: '活跃天数', en: 'Active Days' },
+            chartTitle: { zh: '{0} 天玩家数时序', en: '{0}-Day Player Timeline' },
+            playCount: { zh: '玩家数', en: 'Players' },
+            peakLabel: { zh: '峰值', en: 'Peak' },
+        };
+        function rbxT(key, ...args) {
+            const entry = RBX_I18N[key] || { zh: key, en: key };
+            const tmpl = entry[currentLang] || entry.zh;
+            return args.length ? tmpl.replace(/\{(\d+)\}/g, (_, i) => args[+i]) : tmpl;
+        }
+        function rbxCatName(cat) {
+            const info = robloxCategories[cat];
+            if (!info) return cat;
+            return currentLang === 'en' ? (info.en || cat) : (info.zh || cat);
+        }
+
         function fmtNum(n) {
             if (!n || n === 0) return '-';
             if (n >= 1e9) return (n / 1e9).toFixed(2) + 'B';
@@ -4532,45 +4584,45 @@ If you want to know what happened next, let’s listen to the explanation next t
             // 分类 chips
             const catChips = Object.entries(robloxCategories)
                 .sort((a, b) => b[1].count - a[1].count)
-                .map(([k, v]) => `<span class="rbx-cat-chip ${robloxDiscoverFilter.category === k ? 'active' : ''}" onclick="setRobloxCat('${k}')" style="font-size:11px;padding:3px 10px;border-radius:12px;cursor:pointer;background:${robloxDiscoverFilter.category === k ? '#7C3AED' : '#F1F5F9'};color:${robloxDiscoverFilter.category === k ? '#FFFFFF' : '#475569'};margin:2px;display:inline-block;">${v.zh} ${v.count}</span>`).join('');
+                .map(([k, v]) => `<span class="rbx-cat-chip ${robloxDiscoverFilter.category === k ? 'active' : ''}" onclick="setRobloxCat('${k}')" style="font-size:11px;padding:3px 10px;border-radius:12px;cursor:pointer;background:${robloxDiscoverFilter.category === k ? '#7C3AED' : '#F1F5F9'};color:${robloxDiscoverFilter.category === k ? '#FFFFFF' : '#475569'};margin:2px;display:inline-block;">${rbxCatName(k)} ${v.count}</span>`).join('');
             section.innerHTML = `
                 <div style="display:flex;gap:12px;margin-bottom:12px;flex-wrap:wrap;">
                     <div style="flex:1;min-width:200px;background:#FFFFFF;border-radius:8px;padding:12px;border:0.5px solid #E2E8F0;">
-                        <div style="font-size:10px;color:#64748B;">游戏总数</div>
+                        <div style="font-size:10px;color:#64748B;">${rbxT("totalGames")}</div>
                         <div style="font-size:20px;font-weight:600;color:#7C3AED;">${totalGames.toLocaleString()}</div>
                     </div>
                     <div style="flex:1;min-width:200px;background:#FFFFFF;border-radius:8px;padding:12px;border:0.5px solid #E2E8F0;">
-                        <div style="font-size:10px;color:#64748B;">总访问量</div>
+                        <div style="font-size:10px;color:#64748B;">${rbxT("totalVisits")}</div>
                         <div style="font-size:20px;font-weight:600;color:#0F172A;">${fmtNum(totalVisits)}</div>
                     </div>
                     <div style="flex:1;min-width:200px;background:#FFFFFF;border-radius:8px;padding:12px;border:0.5px solid #E2E8F0;">
-                        <div style="font-size:10px;color:#64748B;">峰值玩家总和</div>
+                        <div style="font-size:10px;color:#64748B;">${rbxT("totalPeak")}</div>
                         <div style="font-size:20px;font-weight:600;color:#0F172A;">${fmtNum(totalPeak)}</div>
                     </div>
                     <div style="flex:1;min-width:200px;background:#FFFFFF;border-radius:8px;padding:12px;border:0.5px solid #E2E8F0;">
-                        <div style="font-size:10px;color:#64748B;">数据截止</div>
+                        <div style="font-size:10px;color:#64748B;">${rbxT("dataUntil")}</div>
                         <div style="font-size:14px;font-weight:500;color:#0F172A;">${robloxGamesData._meta.date_range[1]}</div>
-                        <div style="font-size:10px;color:#64748B;">共 ${robloxGamesData._meta.total_days} 天时序</div>
+                        <div style="font-size:10px;color:#64748B;">${rbxT("daysTotal", robloxGamesData._meta.total_days)}</div>
                     </div>
                 </div>
                 <div style="display:flex;gap:8px;margin-bottom:10px;flex-wrap:wrap;align-items:center;">
-                    <input type="text" id="rbx-kw" placeholder="搜索游戏名 / placeId" value="${robloxDiscoverFilter.keyword}" oninput="setRobloxKw(this.value)" style="padding:6px 10px;font-size:12px;border:0.5px solid #E2E8F0;border-radius:6px;width:240px;">
+                    <input type="text" id="rbx-kw" placeholder="${rbxT("searchPlaceholder")}" value="${robloxDiscoverFilter.keyword}" oninput="setRobloxKw(this.value)" style="padding:6px 10px;font-size:12px;border:0.5px solid #E2E8F0;border-radius:6px;width:240px;">
                     <select id="rbx-minp" onchange="setRobloxMinP(this.value)" style="padding:6px 10px;font-size:12px;border:0.5px solid #E2E8F0;border-radius:6px;">
-                        <option value="0" ${robloxDiscoverFilter.minPlayers===0?'selected':''}>全部玩家数</option>
+                        <option value="0" ${robloxDiscoverFilter.minPlayers===0?'selected':''}>${rbxT("allPlayers")}</option>
                         <option value="1000" ${robloxDiscoverFilter.minPlayers===1000?'selected':''}>> 1K</option>
                         <option value="10000" ${robloxDiscoverFilter.minPlayers===10000?'selected':''}>> 10K</option>
                         <option value="100000" ${robloxDiscoverFilter.minPlayers===100000?'selected':''}>> 100K</option>
                     </select>
                     <select id="rbx-sort" onchange="setRobloxSort(this.value)" style="padding:6px 10px;font-size:12px;border:0.5px solid #E2E8F0;border-radius:6px;">
-                        <option value="peak_players" ${robloxDiscoverFilter.sort==='peak_players'?'selected':''}>按峰值玩家</option>
-                        <option value="visits" ${robloxDiscoverFilter.sort==='visits'?'selected':''}>按总访问量</option>
-                        <option value="avg_7d" ${robloxDiscoverFilter.sort==='avg_7d'?'selected':''}>按7天日均</option>
-                        <option value="growth_7d" ${robloxDiscoverFilter.sort==='growth_7d'?'selected':''}>按7天增长率</option>
-                        <option value="create_year" ${robloxDiscoverFilter.sort==='create_year'?'selected':''}>按创建年份</option>
+                        <option value="peak_players" ${robloxDiscoverFilter.sort==='peak_players'?'selected':''}>${rbxT("sortByPeak")}</option>
+                        <option value="visits" ${robloxDiscoverFilter.sort==='visits'?'selected':''}>${rbxT("sortByVisits")}</option>
+                        <option value="avg_7d" ${robloxDiscoverFilter.sort==='avg_7d'?'selected':''}>${rbxT("sortByAvg7d")}</option>
+                        <option value="growth_7d" ${robloxDiscoverFilter.sort==='growth_7d'?'selected':''}>${rbxT("sortByGrowth7d")}</option>
+                        <option value="create_year" ${robloxDiscoverFilter.sort==='create_year'?'selected':''}>${rbxT("sortByCreateYear")}</option>
                     </select>
-                    <span style="font-size:10px;color:#64748B;">显示 ${filtered.length} / ${games.length}</span>
+                    <span style="font-size:10px;color:#64748B;">${rbxT("showing", filtered.length, games.length)}</span>
                 </div>
-                <div style="margin-bottom:12px;">${catChips}${robloxDiscoverFilter.category !== 'all' ? `<span class="rbx-cat-chip" onclick="setRobloxCat('all')" style="font-size:11px;padding:3px 10px;border-radius:12px;cursor:pointer;background:#F1F5F9;color:#475569;margin:2px;">✕ 清除</span>` : ''}</div>
+                <div style="margin-bottom:12px;">${catChips}${robloxDiscoverFilter.category !== 'all' ? `<span class="rbx-cat-chip" onclick="setRobloxCat('all')" style="font-size:11px;padding:3px 10px;border-radius:12px;cursor:pointer;background:#F1F5F9;color:#475569;margin:2px;">${rbxT("clearFilter")}</span>` : ''}</div>
                 <div id="rbx-grid" style="display:grid;grid-template-columns:repeat(auto-fill,minmax(280px,1fr));gap:10px;"></div>
             `;
             const grid = document.getElementById('rbx-grid');
@@ -4582,19 +4634,19 @@ If you want to know what happened next, let’s listen to the explanation next t
                     <div style="font-size:13px;font-weight:500;line-height:1.3;overflow:hidden;text-overflow:ellipsis;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;margin-bottom:4px;">${g.name}</div>
                     <div style="font-size:10px;color:#64748B;margin-bottom:6px;">placeId: ${g.placeId} ${g.create_year ? '· ' + g.create_year : ''}</div>
                     <div style="display:flex;gap:8px;font-size:10px;">
-                        <span style="background:#F1F5F9;padding:2px 6px;border-radius:3px;">峰值 <b style="color:#0F172A;">${fmtNum(g.peak_players)}</b></span>
-                        <span style="background:#F1F5F9;padding:2px 6px;border-radius:3px;">访问 <b style="color:#0F172A;">${fmtNum(g.visits)}</b></span>
+                        <span style="background:#F1F5F9;padding:2px 6px;border-radius:3px;">${rbxT("peak")} <b style="color:#0F172A;">${fmtNum(g.peak_players)}</b></span>
+                        <span style="background:#F1F5F9;padding:2px 6px;border-radius:3px;">${rbxT("visits")} <b style="color:#0F172A;">${fmtNum(g.visits)}</b></span>
                     </div>
                     <div style="display:flex;gap:8px;font-size:10px;margin-top:4px;">
-                        <span style="background:#F1F5F9;padding:2px 6px;border-radius:3px;">7天日均 <b style="color:#0F172A;">${fmtNum(g.avg_7d)}</b></span>
-                        <span style="background:#F1F5F9;padding:2px 6px;border-radius:3px;">7天增长 <b style="color:${pctColor(g.growth_7d)};">${fmtPct(g.growth_7d)}</b></span>
+                        <span style="background:#F1F5F9;padding:2px 6px;border-radius:3px;">${rbxT("avg7d")} <b style="color:#0F172A;">${fmtNum(g.avg_7d)}</b></span>
+                        <span style="background:#F1F5F9;padding:2px 6px;border-radius:3px;">${rbxT("growth7d")} <b style="color:${pctColor(g.growth_7d)};">${fmtPct(g.growth_7d)}</b></span>
                     </div>
-                    ${(g.categories || []).length ? `<div style="margin-top:6px;">${g.categories.slice(0, 3).map(c => `<span style="font-size:9px;padding:1px 5px;background:#EDE9FE;color:#6D28D9;border-radius:3px;margin-right:3px;">${robloxCategories[c]?.zh || c}</span>`).join('')}</div>` : ''}
+                    ${(g.categories || []).length ? `<div style="margin-top:6px;">${g.categories.slice(0, 3).map(c => `<span style="font-size:9px;padding:1px 5px;background:#EDE9FE;color:#6D28D9;border-radius:3px;margin-right:3px;">${rbxCatName(c)}</span>`).join('')}</div>` : ''}
                 </div>
                 `;
             }).join('');
             if (filtered.length > 60) {
-                grid.innerHTML += `<div style="grid-column:1/-1;text-align:center;padding:12px;color:#64748B;font-size:11px;">还有 ${filtered.length - 60} 款游戏未显示,请用筛选缩小范围</div>`;
+                grid.innerHTML += `<div style="grid-column:1/-1;text-align:center;padding:12px;color:#64748B;font-size:11px;">${rbxT("more", filtered.length - 60)}</div>`;
             }
         }
 
@@ -4615,11 +4667,11 @@ If you want to know what happened next, let’s listen to the explanation next t
             if (!section || !robloxGamesData) return;
             const games = robloxGamesData.games || [];
             const dims = [
-                { id: 'peak_players', label: '峰值玩家' },
-                { id: 'visits', label: '总访问量' },
-                { id: 'avg_7d', label: '7天日均' },
-                { id: 'growth_7d', label: '7天增长率', filter: g => g.peak_players >= 1000 },
-                { id: 'new_hot', label: '新晋黑马', filter: g => g.create_year === 2026 && g.avg_7d >= 10000, sort: 'avg_7d' },
+                { id: 'peak_players', label: rbxT('tabPeak') },
+                { id: 'visits', label: rbxT('tabVisits') },
+                { id: 'avg_7d', label: rbxT('tabAvg7d') },
+                { id: 'growth_7d', label: rbxT('tabGrowth7d'), filter: g => g.peak_players >= 1000 },
+                { id: 'new_hot', label: rbxT('tabNewHot'), filter: g => g.create_year === 2026 && g.avg_7d >= 10000, sort: 'avg_7d' },
             ];
             let filtered = games;
             const dim = dims.find(d => d.id === robloxLbDim);
@@ -4632,7 +4684,7 @@ If you want to know what happened next, let’s listen to the explanation next t
                 </div>
                 <div style="background:#FFFFFF;border-radius:8px;border:0.5px solid #E2E8F0;overflow:hidden;">
                     <div style="display:grid;grid-template-columns:40px 40px 1fr 110px 110px 110px 100px;gap:8px;padding:8px 12px;background:#F8FAFC;font-size:10px;color:#64748B;font-weight:500;border-bottom:0.5px solid #E2E8F0;">
-                        <div>#</div><div></div><div>游戏名</div><div style="text-align:right;">主指标</div><div style="text-align:right;">峰值玩家</div><div style="text-align:right;">总访问</div><div style="text-align:right;">30天趋势</div>
+                        <div>${rbxT("rank")}</div><div></div><div>${rbxT("name")}</div><div style="text-align:right;">${rbxT("mainMetric")}</div><div style="text-align:right;">${rbxT("peakCol")}</div><div style="text-align:right;">${rbxT("visitsCol")}</div><div style="text-align:right;">${rbxT("trend30d")}</div>
                     </div>
                     <div id="rbx-lb-rows"></div>
                 </div>
@@ -4693,7 +4745,7 @@ If you want to know what happened next, let’s listen to the explanation next t
             robloxSelectedPlaceId = g.placeId;
             section.innerHTML = `
                 <div style="margin-bottom:12px;">
-                    <input type="text" id="rbx-detail-search" placeholder="搜索游戏名 / placeId 选择游戏" oninput="searchRobloxGame(this.value)" style="width:100%;padding:8px 12px;font-size:12px;border:0.5px solid #E2E8F0;border-radius:6px;">
+                    <input type="text" id="rbx-detail-search" placeholder="${rbxT("selectGame")}" oninput="searchRobloxGame(this.value)" style="width:100%;padding:8px 12px;font-size:12px;border:0.5px solid #E2E8F0;border-radius:6px;">
                     <div id="rbx-detail-suggest" style="margin-top:4px;"></div>
                 </div>
                 <div style="background:#FFFFFF;border-radius:8px;padding:14px;border:0.5px solid #E2E8F0;margin-bottom:12px;display:flex;gap:14px;align-items:flex-start;">
@@ -4702,23 +4754,23 @@ If you want to know what happened next, let’s listen to the explanation next t
                         <div style="font-size:18px;font-weight:600;margin-bottom:4px;">${g.name}</div>
                         <div style="font-size:11px;color:#64748B;margin-bottom:8px;">placeId: ${g.placeId} · 创建: ${g.create_time || '未知'} ${g.create_year ? '(' + g.create_year + ')' : ''}</div>
                         <div style="display:flex;gap:8px;flex-wrap:wrap;margin-bottom:8px;">
-                            ${(g.categories || []).map(c => `<span style="font-size:10px;padding:2px 8px;background:#EDE9FE;color:#6D28D9;border-radius:3px;">${robloxCategories[c]?.zh || c}</span>`).join('')}
+                            ${(g.categories || []).map(c => `<span style="font-size:10px;padding:2px 8px;background:#EDE9FE;color:#6D28D9;border-radius:3px;">${rbxCatName(c)}</span>`).join('')}
                         </div>
-                        <a href="${g.store_url}" target="_blank" rel="noopener" style="display:inline-block;font-size:11px;padding:4px 10px;background:#7C3AED;color:#FFFFFF;border-radius:4px;text-decoration:none;">Roblox 商店 →</a>
+                        <a href="${g.store_url}" target="_blank" rel="noopener" style="display:inline-block;font-size:11px;padding:4px 10px;background:#7C3AED;color:#FFFFFF;border-radius:4px;text-decoration:none;">${rbxT("roblorStore")}</a>
                     </div>
                 </div>
                 <div style="display:grid;grid-template-columns:repeat(auto-fill,minmax(140px,1fr));gap:8px;margin-bottom:12px;">
-                    <div style="background:#FFFFFF;border-radius:6px;padding:10px;border:0.5px solid #E2E8F0;"><div style="font-size:9px;color:#64748B;">峰值玩家</div><div style="font-size:16px;font-weight:600;color:#7C3AED;">${fmtNum(g.peak_players)}</div><div style="font-size:9px;color:#64748B;">${g.peak_date}</div></div>
-                    <div style="background:#FFFFFF;border-radius:6px;padding:10px;border:0.5px solid #E2E8F0;"><div style="font-size:9px;color:#64748B;">最新玩家</div><div style="font-size:16px;font-weight:600;">${fmtNum(g.latest_players)}</div><div style="font-size:9px;color:#64748B;">${g.latest_date}</div></div>
-                    <div style="background:#FFFFFF;border-radius:6px;padding:10px;border:0.5px solid #E2E8F0;"><div style="font-size:9px;color:#64748B;">总访问量</div><div style="font-size:16px;font-weight:600;">${fmtNum(g.visits)}</div></div>
-                    <div style="background:#FFFFFF;border-radius:6px;padding:10px;border:0.5px solid #E2E8F0;"><div style="font-size:9px;color:#64748B;">7天日均</div><div style="font-size:16px;font-weight:600;">${fmtNum(g.avg_7d)}</div></div>
-                    <div style="background:#FFFFFF;border-radius:6px;padding:10px;border:0.5px solid #E2E8F0;"><div style="font-size:9px;color:#64748B;">30天日均</div><div style="font-size:16px;font-weight:600;">${fmtNum(g.avg_30d)}</div></div>
-                    <div style="background:#FFFFFF;border-radius:6px;padding:10px;border:0.5px solid #E2E8F0;"><div style="font-size:9px;color:#64748B;">7天增长</div><div style="font-size:16px;font-weight:600;color:${pctColor(g.growth_7d)};">${fmtPct(g.growth_7d)}</div></div>
-                    <div style="background:#FFFFFF;border-radius:6px;padding:10px;border:0.5px solid #E2E8F0;"><div style="font-size:9px;color:#64748B;">30天增长</div><div style="font-size:16px;font-weight:600;color:${pctColor(g.growth_30d)};">${fmtPct(g.growth_30d)}</div></div>
-                    <div style="background:#FFFFFF;border-radius:6px;padding:10px;border:0.5px solid #E2E8F0;"><div style="font-size:9px;color:#64748B;">活跃天数</div><div style="font-size:16px;font-weight:600;">${g.active_days}</div><div style="font-size:9px;color:#64748B;">/ ${robloxGamesData._meta.total_days}</div></div>
+                    <div style="background:#FFFFFF;border-radius:6px;padding:10px;border:0.5px solid #E2E8F0;"><div style="font-size:9px;color:#64748B;">${rbxT("peakCol")}</div><div style="font-size:16px;font-weight:600;color:#7C3AED;">${fmtNum(g.peak_players)}</div><div style="font-size:9px;color:#64748B;">${g.peak_date}</div></div>
+                    <div style="background:#FFFFFF;border-radius:6px;padding:10px;border:0.5px solid #E2E8F0;"><div style="font-size:9px;color:#64748B;">${rbxT("latestPlayers")}</div><div style="font-size:16px;font-weight:600;">${fmtNum(g.latest_players)}</div><div style="font-size:9px;color:#64748B;">${g.latest_date}</div></div>
+                    <div style="background:#FFFFFF;border-radius:6px;padding:10px;border:0.5px solid #E2E8F0;"><div style="font-size:9px;color:#64748B;">${rbxT("totalVisits")}</div><div style="font-size:16px;font-weight:600;">${fmtNum(g.visits)}</div></div>
+                    <div style="background:#FFFFFF;border-radius:6px;padding:10px;border:0.5px solid #E2E8F0;"><div style="font-size:9px;color:#64748B;">${rbxT("avg7d")}</div><div style="font-size:16px;font-weight:600;">${fmtNum(g.avg_7d)}</div></div>
+                    <div style="background:#FFFFFF;border-radius:6px;padding:10px;border:0.5px solid #E2E8F0;"><div style="font-size:9px;color:#64748B;">${rbxT("avg7d")}</div><div style="font-size:16px;font-weight:600;">${fmtNum(g.avg_30d)}</div></div>
+                    <div style="background:#FFFFFF;border-radius:6px;padding:10px;border:0.5px solid #E2E8F0;"><div style="font-size:9px;color:#64748B;">${rbxT("growth7d")}</div><div style="font-size:16px;font-weight:600;color:${pctColor(g.growth_7d)};">${fmtPct(g.growth_7d)}</div></div>
+                    <div style="background:#FFFFFF;border-radius:6px;padding:10px;border:0.5px solid #E2E8F0;"><div style="font-size:9px;color:#64748B;">${rbxT("growth7d")}</div><div style="font-size:16px;font-weight:600;color:${pctColor(g.growth_30d)};">${fmtPct(g.growth_30d)}</div></div>
+                    <div style="background:#FFFFFF;border-radius:6px;padding:10px;border:0.5px solid #E2E8F0;"><div style="font-size:9px;color:#64748B;">${rbxT("activeDays")}</div><div style="font-size:16px;font-weight:600;">${g.active_days}</div><div style="font-size:9px;color:#64748B;">/ ${robloxGamesData._meta.total_days}</div></div>
                 </div>
                 <div style="background:#FFFFFF;border-radius:8px;padding:14px;border:0.5px solid #E2E8F0;">
-                    <div style="font-size:12px;font-weight:500;margin-bottom:8px;">${robloxGamesData._meta.total_days} 天玩家数时序</div>
+                    <div style="font-size:12px;font-weight:500;margin-bottom:8px;">${rbxT("chartTitle", robloxGamesData._meta.total_days)}</div>
                     <div id="rbx-detail-chart" style="width:100%;height:400px;"></div>
                 </div>
             `;
@@ -4735,7 +4787,7 @@ If you want to know what happened next, let’s listen to the explanation next t
                     tooltip: { trigger: 'axis' },
                     grid: { left: 60, right: 30, top: 20, bottom: 80 },
                     xAxis: { type: 'category', data: entries.map(e => e[0]), axisLabel: { fontSize: 10, rotate: 30 } },
-                    yAxis: { type: 'value', name: '玩家数', axisLabel: { fontSize: 10, formatter: v => fmtNum(v) } },
+                    yAxis: { type: 'value', name: '${rbxT("playCount")}', axisLabel: { fontSize: 10, formatter: v => fmtNum(v) } },
                     dataZoom: [
                         { type: 'inside', start: 0, end: 100 },
                         { type: 'slider', start: 0, end: 100, height: 20, bottom: 20 }
@@ -8149,6 +8201,12 @@ If you want to know what happened next, let’s listen to the explanation next t
             document.title = i18nDict['title'][lang];
             // 重新渲染动态内容（JS生成的文案）
             renderAll();
+            // Roblox 页面使用 RBX_I18N,需手动重新渲染
+            if (currentPlatform === 'roblox' && robloxGamesData) {
+                if (currentSection === 'overview') renderRobloxDiscover();
+                else if (currentSection === 'leaderboard') renderRobloxLeaderboard();
+                else if (currentSection === 'gamedetail') renderRobloxGameDetail();
+            }
         }
 
         function toggleLang() {
