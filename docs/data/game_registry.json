@@ -5,17 +5,17 @@
   "tag_definitions": {
     "Multiplayer": {
       "zh": "多人",
-      "count": 26,
+      "count": 27,
       "steam_official": true
     },
     "Online Co-Op": {
       "zh": "在线合作",
-      "count": 21,
+      "count": 22,
       "steam_official": true
     },
     "Co-op": {
       "zh": "合作",
-      "count": 19,
+      "count": 20,
       "steam_official": true
     },
     "Horror": {
@@ -35,17 +35,17 @@
     },
     "Action": {
       "zh": "动作",
-      "count": 9,
+      "count": 10,
+      "steam_official": true
+    },
+    "Funny": {
+      "zh": "搞笑",
+      "count": 8,
       "steam_official": true
     },
     "Exploration": {
       "zh": "探索",
       "count": 8,
-      "steam_official": true
-    },
-    "Funny": {
-      "zh": "搞笑",
-      "count": 7,
       "steam_official": true
     },
     "Psychological Horror": {
@@ -60,12 +60,12 @@
     },
     "Comedy": {
       "zh": "喜剧",
-      "count": 5,
+      "count": 6,
       "steam_official": true
     },
     "Physics": {
       "zh": "物理",
-      "count": 5,
+      "count": 6,
       "steam_official": true
     },
     "Action Roguelike": {
@@ -88,6 +88,11 @@
       "count": 4,
       "steam_official": true
     },
+    "Adventure": {
+      "zh": "冒险",
+      "count": 4,
+      "steam_official": true
+    },
     "Investigation": {
       "zh": "调查",
       "count": 4,
@@ -105,11 +110,6 @@
     },
     "Early Access": {
       "zh": "抢先体验",
-      "count": 3,
-      "steam_official": true
-    },
-    "Adventure": {
-      "zh": "冒险",
       "count": 3,
       "steam_official": true
     },
@@ -204,7 +204,7 @@
       "steam_official": true
     },
     "Mystery Dungeon": {
-      "zh": "神秘地牢",
+      "zh": "不可思议迷宫",
       "count": 1,
       "steam_official": true
     },
@@ -234,7 +234,7 @@
       "steam_official": true
     },
     "Character Customization": {
-      "zh": "角色定制",
+      "zh": "角色自定义",
       "count": 1,
       "steam_official": true
     },
@@ -314,7 +314,7 @@
       "steam_official": true
     },
     "Class-Based": {
-      "zh": "职业制",
+      "zh": "职业导向",
       "count": 1,
       "steam_official": true
     },
@@ -334,7 +334,7 @@
       "steam_official": true
     },
     "Base Building": {
-      "zh": "基地建造",
+      "zh": "基地建设",
       "count": 1,
       "steam_official": true
     },
@@ -914,12 +914,12 @@
       "cn_name": "土丘：克苏鲁恶兆",
       "tags": [
         "Co-op",
-        "Action",
-        "Lovecraftian",
-        "Adventure",
         "Psychological Horror",
-        "Exploration",
+        "Lovecraftian",
+        "Action",
+        "Adventure",
         "First-Person",
+        "Exploration",
         "Violent"
       ],
       "category_zh": "搜打撤/摸金",
@@ -1356,6 +1356,35 @@
       "store_url": "https://store.steampowered.com/app/381210/",
       "steam_key": "Dead by Daylight",
       "intro_zh": "1v4非对称恐怖竞技标杆。杀手vs逃生者，IP联动不断（杰森/贞子/生化危机），9年运营长青，非对称恐怖品类绝对王者。"
+    },
+    {
+      "appid": 4534960,
+      "name": "Dear Passengers",
+      "cn_name": "亲爱的乘客",
+      "tags": [
+        "Online Co-Op",
+        "Multiplayer",
+        "Co-op",
+        "Comedy",
+        "Action",
+        "Funny",
+        "Adventure",
+        "Physics"
+      ],
+      "category_zh": "合作喜剧/物理",
+      "category_en": "Co-op Comedy Physics",
+      "status": "WISHLIST",
+      "dev": "FLEXUS",
+      "release": "2026 年",
+      "players": "1~4人",
+      "priority": "P1",
+      "platforms": [
+        "steam"
+      ],
+      "store_url": "https://store.steampowered.com/app/4534960/",
+      "steam_key": "Dear Passengers",
+      "wishlist_count": 0,
+      "intro_zh": "合作扮演机组人员驾驶世界上最烂的航空公司。飞机解体、货物非法、乘客安全勉强上清单。合作喜剧物理,与Content Warning/PEAK同赛道。"
     }
   ]
 }

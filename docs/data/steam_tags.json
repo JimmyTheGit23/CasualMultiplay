@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "fetched_at": "2026-07-15T17:20:39.627075+08:00",
+    "fetched_at": "2026-07-16T15:03:04.438372+08:00",
     "source": "SteamSpy API (proxy for Steam official user tags)",
     "note": "Tags 来自 SteamSpy aggregated,等价 Steam 官方用户标签"
   },
@@ -486,24 +486,24 @@
       "name": "土丘：克苏鲁恶兆",
       "tags_en": [
         "Co-op",
-        "Action",
-        "Lovecraftian",
-        "Adventure",
         "Psychological Horror",
-        "Exploration",
+        "Lovecraftian",
+        "Action",
+        "Adventure",
         "First-Person",
+        "Exploration",
         "Violent",
         "Horror",
         "Dark"
       ],
       "tags_zh": [
         "合作",
-        "动作",
-        "洛夫克拉夫特式",
-        "冒险",
         "心理恐怖",
-        "探索",
+        "洛夫克拉夫特式",
+        "动作",
+        "冒险",
         "第一人称",
+        "探索",
         "暴力",
         "恐怖",
         "黑暗"
@@ -927,6 +927,34 @@
         "团队导向",
         "第三人称",
         "潜行"
+      ]
+    },
+    "4534960": {
+      "appid": 4534960,
+      "name": "亲爱的乘客",
+      "tags_en": [
+        "Online Co-Op",
+        "Multiplayer",
+        "Co-op",
+        "Comedy",
+        "Action",
+        "Funny",
+        "Adventure",
+        "Physics",
+        "First-Person",
+        "3D"
+      ],
+      "tags_zh": [
+        "在线合作",
+        "多人",
+        "合作",
+        "喜剧",
+        "动作",
+        "欢乐",
+        "冒险",
+        "物理",
+        "第一人称",
+        "3D"
       ]
     }
   }
