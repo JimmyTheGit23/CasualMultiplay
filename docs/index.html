@@ -4055,11 +4055,16 @@ If you want to know what happened next, let’s listen to the explanation next t
                 window.scrollTo({ top: 0, behavior: 'smooth' });
             }
             setActiveNav(section);
-            // 平台分发: Roblox 模式下用 Roblox 渲染函数
+            // 平台分发
             if (currentPlatform === 'roblox') {
                 if (section === 'overview') renderRobloxDiscover();
                 else if (section === 'leaderboard') renderRobloxLeaderboard();
                 else if (section === 'gamedetail') renderRobloxGameDetail();
+            } else {
+                // Steam 平台: 切回时重新渲染对应页面
+                if (section === 'overview') renderAll();
+                else if (section === 'leaderboard') renderLeaderboard();
+                else if (section === 'gamedetail') initGameDetailPage();
             }
             // 切换后重算图表尺寸
             requestAnimationFrame(() => {
