@@ -5391,7 +5391,9 @@
       "active_days": 36,
       "peak_date": "2026-04-25",
       "store_url": "https://www.roblox.com/games/16483433878",
-      "icon_url": "./images/roblox/16483433878.png"
+      "icon_url": "./images/roblox/16483433878.png",
+      "description": "Multiplayer Turn Based RPG inspired by Paper Mario 64 and Earthbound Playable on PC, mobile/tablet and console Each chapter will be released as an update",
+      "game_type_en": ""
     },
     {
       "placeId": 124473577469410,

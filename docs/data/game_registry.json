@@ -6,403 +6,482 @@
     "Multiplayer": {
       "zh": "多人",
       "count": 27,
-      "steam_official": true
+      "steam_official": true,
+      "en": "Multiplayer"
     },
     "Online Co-Op": {
       "zh": "在线合作",
       "count": 22,
-      "steam_official": true
+      "steam_official": true,
+      "en": "Online Co-Op"
     },
     "Co-op": {
       "zh": "合作",
       "count": 20,
-      "steam_official": true
+      "steam_official": true,
+      "en": "Co-op"
     },
     "Horror": {
       "zh": "恐怖",
       "count": 16,
-      "steam_official": true
+      "steam_official": true,
+      "en": "Horror"
     },
     "First-Person": {
       "zh": "第一人称",
       "count": 13,
-      "steam_official": true
+      "steam_official": true,
+      "en": "First-Person"
     },
     "Survival Horror": {
       "zh": "生存恐怖",
       "count": 10,
-      "steam_official": true
+      "steam_official": true,
+      "en": "Survival Horror"
     },
     "Action": {
       "zh": "动作",
       "count": 10,
-      "steam_official": true
+      "steam_official": true,
+      "en": "Action"
     },
     "Funny": {
       "zh": "搞笑",
       "count": 8,
-      "steam_official": true
+      "steam_official": true,
+      "en": "Funny"
     },
     "Exploration": {
       "zh": "探索",
       "count": 8,
-      "steam_official": true
+      "steam_official": true,
+      "en": "Exploration"
     },
     "Psychological Horror": {
       "zh": "心理恐怖",
       "count": 7,
-      "steam_official": true
+      "steam_official": true,
+      "en": "Psychological Horror"
     },
     "PvE": {
       "zh": "PvE",
       "count": 7,
-      "steam_official": true
+      "steam_official": true,
+      "en": "PvE"
     },
     "Comedy": {
       "zh": "喜剧",
       "count": 6,
-      "steam_official": true
+      "steam_official": true,
+      "en": "Comedy"
     },
     "Physics": {
       "zh": "物理",
       "count": 6,
-      "steam_official": true
+      "steam_official": true,
+      "en": "Physics"
     },
     "Action Roguelike": {
       "zh": "动作肉鸽",
       "count": 5,
-      "steam_official": true
+      "steam_official": true,
+      "en": "Action Roguelike"
     },
     "FPS": {
       "zh": "FPS",
       "count": 5,
-      "steam_official": true
+      "steam_official": true,
+      "en": "FPS"
     },
     "Survival": {
       "zh": "生存",
       "count": 5,
-      "steam_official": true
+      "steam_official": true,
+      "en": "Survival"
     },
     "Extraction Shooter": {
       "zh": "撤离射击",
       "count": 4,
-      "steam_official": true
+      "steam_official": true,
+      "en": "Extraction Shooter"
     },
     "Adventure": {
       "zh": "冒险",
       "count": 4,
-      "steam_official": true
+      "steam_official": true,
+      "en": "Adventure"
     },
     "Investigation": {
       "zh": "调查",
       "count": 4,
-      "steam_official": true
+      "steam_official": true,
+      "en": "Investigation"
     },
     "PvP": {
       "zh": "对战",
       "count": 4,
-      "steam_official": true
+      "steam_official": true,
+      "en": "PvP"
     },
     "Procedural Generation": {
       "zh": "程序生成",
       "count": 3,
-      "steam_official": true
+      "steam_official": true,
+      "en": "Procedural Generation"
     },
     "Early Access": {
       "zh": "抢先体验",
       "count": 3,
-      "steam_official": true
+      "steam_official": true,
+      "en": "Early Access"
     },
     "Stealth": {
       "zh": "潜行",
       "count": 3,
-      "steam_official": true
+      "steam_official": true,
+      "en": "Stealth"
     },
     "Team-Based": {
       "zh": "团队导向",
       "count": 3,
-      "steam_official": true
+      "steam_official": true,
+      "en": "Team-Based"
     },
     "Violent": {
       "zh": "暴力",
       "count": 3,
-      "steam_official": true
+      "steam_official": true,
+      "en": "Violent"
     },
     "Roguelike": {
       "zh": "Roguelike",
       "count": 3,
-      "steam_official": true
+      "steam_official": true,
+      "en": "Roguelike"
     },
     "Roguelite": {
       "zh": "Roguelite",
       "count": 3,
-      "steam_official": true
+      "steam_official": true,
+      "en": "Roguelite"
     },
     "Looter Shooter": {
       "zh": "搜打撤",
       "count": 2,
-      "steam_official": true
+      "steam_official": true,
+      "en": "Looter Shooter"
     },
     "Action-Adventure": {
       "zh": "动作冒险",
       "count": 2,
-      "steam_official": true
+      "steam_official": true,
+      "en": "Action-Adventure"
     },
     "Supernatural": {
       "zh": "超自然",
       "count": 2,
-      "steam_official": true
+      "steam_official": true,
+      "en": "Supernatural"
     },
     "Open World": {
       "zh": "开放世界",
       "count": 2,
-      "steam_official": true
+      "steam_official": true,
+      "en": "Open World"
     },
     "Battle Royale": {
       "zh": "吃鸡",
       "count": 2,
-      "steam_official": true
+      "steam_official": true,
+      "en": "Battle Royale"
     },
     "Free to Play": {
       "zh": "免费游玩",
       "count": 2,
-      "steam_official": true
+      "steam_official": true,
+      "en": "免费"
     },
     "Gore": {
       "zh": "鲜血",
       "count": 2,
-      "steam_official": true
+      "steam_official": true,
+      "en": "Gore"
     },
     "Singleplayer": {
       "zh": "单人",
       "count": 2,
-      "steam_official": true
+      "steam_official": true,
+      "en": "Singleplayer"
     },
     "Casual": {
       "zh": "休闲",
       "count": 2,
-      "steam_official": true
+      "steam_official": true,
+      "en": "Casual"
     },
     "Party Game": {
       "zh": "派对游戏",
       "count": 2,
-      "steam_official": true
+      "steam_official": true,
+      "en": "Party Game"
     },
     "Third-Person Shooter": {
       "zh": "第三人称射击",
       "count": 2,
-      "steam_official": true
+      "steam_official": true,
+      "en": "Third-Person Shooter"
     },
     "Shooter": {
       "zh": "射击",
       "count": 2,
-      "steam_official": true
+      "steam_official": true,
+      "en": "Shooter"
     },
     "3D": {
       "zh": "3D",
       "count": 1,
-      "steam_official": true
+      "steam_official": true,
+      "en": "3D"
     },
     "Mystery Dungeon": {
       "zh": "不可思议迷宫",
       "count": 1,
-      "steam_official": true
+      "steam_official": true,
+      "en": "Mystery Dungeon"
     },
     "VR": {
       "zh": "VR",
       "count": 1,
-      "steam_official": true
+      "steam_official": true,
+      "en": "VR"
     },
     "Dark": {
       "zh": "黑暗",
       "count": 1,
-      "steam_official": true
+      "steam_official": true,
+      "en": "Dark"
     },
     "Tactical": {
       "zh": "战术",
       "count": 1,
-      "steam_official": true
+      "steam_official": true,
+      "en": "Tactical"
     },
     "Atmospheric": {
       "zh": "氛围",
       "count": 1,
-      "steam_official": true
+      "steam_official": true,
+      "en": "Atmospheric"
     },
     "Martial Arts": {
       "zh": "武术",
       "count": 1,
-      "steam_official": true
+      "steam_official": true,
+      "en": "Martial Arts"
     },
     "Character Customization": {
       "zh": "角色自定义",
       "count": 1,
-      "steam_official": true
+      "steam_official": true,
+      "en": "Character Customization"
     },
     "Female Protagonist": {
       "zh": "女性主角",
       "count": 1,
-      "steam_official": true
+      "steam_official": true,
+      "en": "Female Protagonist"
     },
     "Massively Multiplayer": {
       "zh": "大型多人",
       "count": 1,
-      "steam_official": true
+      "steam_official": true,
+      "en": "Massively Multiplayer"
     },
     "Puzzle": {
       "zh": "解谜",
       "count": 1,
-      "steam_official": true
+      "steam_official": true,
+      "en": "Puzzle"
     },
     "Replay Value": {
       "zh": "重玩价值",
       "count": 1,
-      "steam_official": true
+      "steam_official": true,
+      "en": "Replay Value"
     },
     "Lovecraftian": {
       "zh": "洛夫克拉夫特式",
       "count": 1,
-      "steam_official": true
+      "steam_official": true,
+      "en": "Lovecraftian"
     },
     "Hidden Object": {
       "zh": "隐藏物品",
       "count": 1,
-      "steam_official": true
+      "steam_official": true,
+      "en": "Hidden Object"
     },
     "Hand-drawn": {
       "zh": "手绘",
       "count": 1,
-      "steam_official": true
+      "steam_official": true,
+      "en": "Hand-drawn"
     },
     "Sci-fi": {
       "zh": "科幻",
       "count": 1,
-      "steam_official": true
+      "steam_official": true,
+      "en": "Sci-fi"
     },
     "Western": {
       "zh": "西部",
       "count": 1,
-      "steam_official": true
+      "steam_official": true,
+      "en": "Western"
     },
     "Trains": {
       "zh": "火车",
       "count": 1,
-      "steam_official": true
+      "steam_official": true,
+      "en": "Trains"
     },
     "Local Multiplayer": {
       "zh": "本地多人",
       "count": 1,
-      "steam_official": true
+      "steam_official": true,
+      "en": "Local Multiplayer"
     },
     "Top-Down": {
       "zh": "俯视",
       "count": 1,
-      "steam_official": true
+      "steam_official": true,
+      "en": "Top-Down"
     },
     "Local Co-Op": {
       "zh": "本地合作",
       "count": 1,
-      "steam_official": true
+      "steam_official": true,
+      "en": "Local Co-Op"
     },
     "Beat 'em up": {
       "zh": "清版动作",
       "count": 1,
-      "steam_official": true
+      "steam_official": true,
+      "en": "Beat 'em up"
     },
     "Dwarves": {
       "zh": "矮人",
       "count": 1,
-      "steam_official": true
+      "steam_official": true,
+      "en": "Dwarves"
     },
     "Class-Based": {
       "zh": "职业导向",
       "count": 1,
-      "steam_official": true
+      "steam_official": true,
+      "en": "Class-Based"
     },
     "Social Deduction": {
       "zh": "社交推理",
       "count": 1,
-      "steam_official": true
+      "steam_official": true,
+      "en": "Social Deduction"
     },
     "Space": {
       "zh": "太空",
       "count": 1,
-      "steam_official": true
+      "steam_official": true,
+      "en": "Space"
     },
     "2D": {
       "zh": "2D",
       "count": 1,
-      "steam_official": true
+      "steam_official": true,
+      "en": "2D"
     },
     "Base Building": {
       "zh": "基地建设",
       "count": 1,
-      "steam_official": true
+      "steam_official": true,
+      "en": "Base Building"
     },
     "Crafting": {
       "zh": "制作",
       "count": 1,
-      "steam_official": true
+      "steam_official": true,
+      "en": "Crafting"
     },
     "Hack and Slash": {
       "zh": "砍杀",
       "count": 1,
-      "steam_official": true
+      "steam_official": true,
+      "en": "Hack and Slash"
     },
     "Metroidvania": {
       "zh": "银河恶魔城",
       "count": 1,
-      "steam_official": true
+      "steam_official": true,
+      "en": "Metroidvania"
     },
     "Combat": {
       "zh": "战斗",
       "count": 1,
-      "steam_official": true
+      "steam_official": true,
+      "en": "Combat"
     },
     "Fast-Paced": {
       "zh": "快节奏",
       "count": 1,
-      "steam_official": true
+      "steam_official": true,
+      "en": "Fast-Paced"
     },
     "Dark Fantasy": {
       "zh": "黑暗奇幻",
       "count": 1,
-      "steam_official": true
+      "steam_official": true,
+      "en": "Dark Fantasy"
     },
     "Animals": {
       "zh": "动物",
       "count": 1,
-      "steam_official": true
+      "steam_official": true,
+      "en": "Animals"
     },
     "3D Platformer": {
       "zh": "3D 平台",
       "count": 1,
-      "steam_official": true
+      "steam_official": true,
+      "en": "3D Platformer"
     },
     "Sandbox": {
       "zh": "沙盒",
       "count": 1,
-      "steam_official": true
+      "steam_official": true,
+      "en": "Sandbox"
     },
     "Moddable": {
       "zh": "可模组",
       "count": 1,
-      "steam_official": true
+      "steam_official": true,
+      "en": "Moddable"
     },
     "Building": {
       "zh": "建造",
       "count": 1,
-      "steam_official": true
+      "steam_official": true,
+      "en": "Building"
     },
     "Parkour": {
       "zh": "跑酷",
       "count": 1,
-      "steam_official": true
+      "steam_official": true,
+      "en": "Parkour"
     }
   },
   "games": [
     {
       "appid": 0,
-      "name": "超自然行动组",
+      "name": "Soul Action Group",
       "cn_name": "超自然行动组",
       "tags": [
         "Horror",
@@ -679,7 +758,7 @@
     },
     {
       "appid": 1203220,
-      "name": "NARAKA: BLADEPOINT",
+      "name": "Naraka: Bladepoint",
       "cn_name": "永劫无间",
       "tags": [
         "Battle Royale",
@@ -707,7 +786,7 @@
     },
     {
       "appid": 3978820,
-      "name": "灰境行者",
+      "name": "Liminal Walker",
       "cn_name": "灰境行者",
       "tags": [
         "Free to Play",
@@ -967,7 +1046,7 @@
     },
     {
       "appid": 553850,
-      "name": "HELLDIVERS™ 2",
+      "name": "Helldivers 2",
       "cn_name": "绝地潜兵2",
       "tags": [
         "Online Co-Op",
@@ -995,7 +1074,7 @@
     },
     {
       "appid": 3124540,
-      "name": "遥遥西土 Far Far West",
+      "name": "Far Far West",
       "cn_name": "遥遥西土",
       "tags": [
         "Early Access",
@@ -1023,7 +1102,7 @@
     },
     {
       "appid": 3844970,
-      "name": "地精捣蛋团",
+      "name": "Burglin' Gnomes",
       "cn_name": "地精捣蛋团",
       "tags": [
         "Co-op",
@@ -1051,7 +1130,7 @@
     },
     {
       "appid": 2211170,
-      "name": "一起开火车2：汽笛重鸣",
+      "name": "Unrailed 2: Back on Track",
       "cn_name": "一起开火车2",
       "tags": [
         "Online Co-Op",
@@ -1079,7 +1158,7 @@
     },
     {
       "appid": 2445690,
-      "name": "失落城堡2",
+      "name": "Lost Castle 2",
       "cn_name": "失落城堡2",
       "tags": [
         "Multiplayer",
@@ -1107,7 +1186,7 @@
     },
     {
       "appid": 548430,
-      "name": "深岩银河",
+      "name": "Deep Rock Galactic",
       "cn_name": "深岩银河",
       "tags": [
         "Dwarves",
@@ -1191,7 +1270,7 @@
     },
     {
       "appid": 632360,
-      "name": "雨中冒险 2",
+      "name": "Risk of Rain 2",
       "cn_name": "雨中冒险2",
       "tags": [
         "Third-Person Shooter",
@@ -1219,7 +1298,7 @@
     },
     {
       "appid": 1911610,
-      "name": "风中行者",
+      "name": "Windblown",
       "cn_name": "风中行者",
       "tags": [
         "Action Roguelike",
@@ -1247,7 +1326,7 @@
     },
     {
       "appid": 3989960,
-      "name": "青蛙小队🐸 / Frog Sqwad",
+      "name": "Frogs Squad",
       "cn_name": "青蛙小队",
       "tags": [
         "Multiplayer",
@@ -1331,7 +1410,7 @@
     },
     {
       "appid": 381210,
-      "name": "黎明杀机",
+      "name": "Dead by Daylight",
       "cn_name": "黎明杀机",
       "tags": [
         "Horror",

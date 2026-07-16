@@ -68,14 +68,14 @@ def extract_game_type(name, desc):
     return ''
 
 
-def shorten(desc, n=200):
+def shorten(desc, n=1500):
+    """压缩空白 + 截断到 n 字符 (n 改大以保留完整描述)"""
     if not desc:
         return ''
     desc = re.sub(r'\s+', ' ', desc).strip()
-    first = desc.split('\n')[0].strip() if '\n' in desc else desc
-    if len(first) > 30:
-        return first[:n] + ('...' if len(first) > n else '')
-    return desc[:n] + ('...' if len(desc) > n else '')
+    if len(desc) > n:
+        return desc[:n] + '...'
+    return desc
 
 
 def main():

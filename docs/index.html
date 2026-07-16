@@ -3820,13 +3820,15 @@ If you want to know what happened next, let’s listen to the explanation next t
             const titleEl = document.getElementById('sidebar-title');
             const subtitleEl = document.getElementById('sidebar-subtitle');
             const dotEl = document.getElementById('sidebar-brand-dot');
+            const rbxCount = (robloxGamesData && robloxGamesData.games) ? robloxGamesData.games.length : 796;
+            const rbxDays = (robloxGamesData && robloxGamesData._meta) ? robloxGamesData._meta.total_days : 129;
             if (platform === 'steam') {
-                if (titleEl) titleEl.textContent = '休闲多人游戏聚合情报';
-                if (subtitleEl) subtitleEl.textContent = '合作 / 竞技 / 派对 / 恐怖';
+                if (titleEl) titleEl.textContent = t('title');
+                if (subtitleEl) subtitleEl.textContent = t('subtitle');
                 if (dotEl) dotEl.style.background = '#991B1B';
             } else {
-                if (titleEl) titleEl.textContent = 'Roblox 游戏排行榜';
-                if (subtitleEl) subtitleEl.textContent = '796 款 / 129 天时序数据';
+                if (titleEl) titleEl.textContent = t('rbx_title');
+                if (subtitleEl) subtitleEl.textContent = t('rbx_subtitle').replace('{0}', rbxCount).replace('{1}', rbxDays);
                 if (dotEl) dotEl.style.background = '#7C3AED';
             }
             // 更新 URL hash
@@ -4228,9 +4230,9 @@ If you want to know what happened next, let’s listen to the explanation next t
             if (!listEl) return;
             const games = getSortedGames();
             const countEl = document.getElementById('selector-count');
-            if (countEl) countEl.textContent = `共 ${games.length} 款`;
+            if (countEl) countEl.textContent = t('showing_n_games').replace('{0}', games.length).replace(' games', '').replace('款游戏', '款');
             if (games.length === 0) {
-                listEl.innerHTML = '<div style="text-align:center;padding:20px;font-size:11px;color:var(--text-muted);">无匹配游戏</div>';
+                listEl.innerHTML = '<div style="text-align:center;padding:20px;font-size:11px;color:var(--text-muted);">' + t('no_match') + '</div>';
                 return;
             }
             listEl.innerHTML = games.map(g => {
@@ -4249,8 +4251,9 @@ If you want to know what happened next, let’s listen to the explanation next t
                     meta += (meta ? ' · ' : '') + g.status;
                 }
                 const safeKey = key.replace(/&/g,'&amp;').replace(/"/g,'&quot;').replace(/'/g,'&#39;');
+                const listName = currentLang === 'en' ? (g.name || g.cn_name) : (g.cn_name || g.name);
                 return `<div class="game-list-item${pinnedCls}${activeCls}" onclick="selectGameByKey(this)" data-game-key="${safeKey}">
-                    <div class="gi-name">${g.cn_name || g.name}</div>
+                    <div class="gi-name">${listName}</div>
                     ${meta ? `<div class="gi-meta">${meta}</div>` : ''}
                 </div>`;
             }).join('');
@@ -4376,10 +4379,10 @@ If you want to know what happened next, let’s listen to the explanation next t
             (gameRegistry.games || []).forEach(g => {
                 (g.tags || []).forEach(t => usedTags.add(t));
             });
-            let html = '<span class="dt-tag-chip active" data-dtag="all" onclick="setDiscoverTag(\'all\')">全部</span>';
+            let html = `<span class="dt-tag-chip active" data-dtag="all" onclick="setDiscoverTag('all')">${t('all_tags')}</span>`;
             for (const [key, info] of Object.entries(gameRegistry.tag_definitions)) {
                 if (!usedTags.has(key)) continue;
-                html += `<span class="dt-tag-chip" data-dtag="${key}" onclick="setDiscoverTag('${key}')">${info.zh}</span>`;
+                html += `<span class="dt-tag-chip" data-dtag="${key}" onclick="setDiscoverTag('${key}')">${tagName(key)}</span>`;
             }
             wrap.innerHTML = html;
         }
@@ -4397,7 +4400,7 @@ If you want to know what happened next, let’s listen to the explanation next t
             if (!gridEl) { console.error('discover-grid not found'); return; }
             if (!gameRegistry || !gameRegistry.games) {
                 console.log('registry not ready, len=' + (gameRegistry?.games?.length || 0));
-                gridEl.innerHTML = '<p style="color:var(--text-muted);font-size:12px;">加载中...</p>';
+                gridEl.innerHTML = '<p style="color:var(--text-muted);font-size:12px;">' + t('loading') + '</p>';
                 return;
             }
             const sortSel = document.getElementById('discover-sort');
@@ -4436,19 +4439,30 @@ If you want to know what happened next, let’s listen to the explanation next t
                 return 0;
             });
             const countEl = document.getElementById('discover-count');
-            if (countEl) countEl.textContent = `共 ${games.length} 款游戏`;
+            if (countEl) countEl.textContent = t('showing_n_games').replace('{0}', games.length);
             if (games.length === 0) {
-                gridEl.innerHTML = '<div style="text-align:center;padding:40px;font-size:12px;color:var(--text-muted);">无匹配游戏</div>';
+                gridEl.innerHTML = '<div style="text-align:center;padding:40px;font-size:12px;color:var(--text-muted);">' + t('no_match') + '</div>';
                 return;
             }
+            // 翻译帮手: 游戏名 / 状态 (tagName/statusText 已移到全局)
+            const gameName = g => currentLang === 'en' ? g.name : (g.cn_name || g.name);
+            const playersText = g => {
+                const p = g.players || '';
+                if (currentLang === 'en') {
+                    return p.replace('人', '').replace('~', '~') + (p.includes('4') ? 'P' : 'P');
+                }
+                return p;
+            };
             try {
                 gridEl.innerHTML = games.map(g => {
                 const key = g.steam_key || g.name;
                 const ccu = getGameCCU(g);
                 const positive = getGamePositive(g);
+                const nameZh = g.cn_name || g.name;
+                const nameEn = g.name;
+                const displayName = currentLang === 'en' ? nameEn : nameZh;
                 const tags = (g.tags || []).slice(0, 3).map(t => {
-                    const td = gameRegistry.tag_definitions[t];
-                    return td ? `<span class="gc-tag">${td.zh}</span>` : '';
+                    return `<span class="gc-tag">${tagName(t)}</span>`;
                 }).join('');
                 const priCls = 'gc-pri-' + (g.priority || 'P2');
                 const pinnedCls = g.pinned ? ' pinned' : '';
@@ -4456,23 +4470,23 @@ If you want to know what happened next, let’s listen to the explanation next t
                 const rich = steamRichData[g.appid];
                 let coverHtml = '';
                 if (g.local_cover) {
-                    coverHtml = `<img class="gc-cover" src="${g.local_cover}" alt="${g.cn_name || g.name}" loading="lazy" onerror="this.style.display='none';this.nextElementSibling.style.display='flex'"><div class="gc-cover-placeholder" style="display:none">${(g.cn_name || g.name).charAt(0)}</div>`;
+                    coverHtml = `<img class="gc-cover" src="${g.local_cover}" alt="${displayName}" loading="lazy" onerror="this.style.display='none';this.nextElementSibling.style.display='flex'"><div class="gc-cover-placeholder" style="display:none">${displayName.charAt(0)}</div>`;
                 } else if (rich && rich.header_image) {
-                    coverHtml = `<img class="gc-cover" src="${rich.header_image}" alt="${g.cn_name || g.name}" loading="lazy" referrerpolicy="no-referrer" onerror="this.style.display='none';this.nextElementSibling.style.display='flex'"><div class="gc-cover-placeholder" style="display:none">${(g.cn_name || g.name).charAt(0)}</div>`;
+                    coverHtml = `<img class="gc-cover" src="${rich.header_image}" alt="${displayName}" loading="lazy" referrerpolicy="no-referrer" onerror="this.style.display='none';this.nextElementSibling.style.display='flex'"><div class="gc-cover-placeholder" style="display:none">${displayName.charAt(0)}</div>`;
                 } else if (g.steam_key && steamData[g.steam_key] && steamData[g.steam_key].store && steamData[g.steam_key].store.header_image) {
                     const img = steamData[g.steam_key].store.header_image;
-                    coverHtml = `<img class="gc-cover" src="${img}" alt="${g.cn_name || g.name}" loading="lazy" onerror="this.style.display='none';this.nextElementSibling.style.display='flex'"><div class="gc-cover-placeholder" style="display:none">${(g.cn_name || g.name).charAt(0)}</div>`;
+                    coverHtml = `<img class="gc-cover" src="${img}" alt="${displayName}" loading="lazy" onerror="this.style.display='none';this.nextElementSibling.style.display='flex'"><div class="gc-cover-placeholder" style="display:none">${displayName.charAt(0)}</div>`;
                 } else {
-                    coverHtml = `<div class="gc-cover-placeholder">${(g.cn_name || g.name).charAt(0)}</div>`;
+                    coverHtml = `<div class="gc-cover-placeholder">${displayName.charAt(0)}</div>`;
                 }
                 return `<div class="game-card${pinnedCls}" data-game-key="${key.replace(/&/g,'&amp;').replace(/"/g,'&quot;').replace(/'/g,'&#39;')}" onclick="selectGameByKey(this)">
                     ${coverHtml}
                     <div class="gc-body">
                         <div class="gc-title-row">
-                            <span class="gc-name">${g.cn_name || g.name}${g.pinned ? ' ★' : ''}</span>
+                            <span class="gc-name">${displayName}${g.pinned ? ' ★' : ''}</span>
                             <span class="gc-priority ${priCls}">${g.priority || 'P2'}</span>
                         </div>
-                        <div class="gc-dev">${g.dev || '-'} · ${g.status || ''}</div>
+                        <div class="gc-dev">${g.dev || '-'} · ${statusText(g.status || '')}</div>
                         <div class="gc-tags">${tags}</div>
                         <div class="gc-metrics">
                             <div class="gc-metric">
@@ -4480,10 +4494,10 @@ If you want to know what happened next, let’s listen to the explanation next t
                                 <span class="gc-metric-value">${ccu > 0 ? ccu.toLocaleString() : '-'}</span>
                             </div>
                             <div class="gc-metric">
-                                <span class="gc-metric-label">好评率</span>
+                                <span class="gc-metric-label">${t('sort_positive')}</span>
                                 <span class="gc-metric-value">${positive > 0 ? positive + '%' : '-'}</span>
                             </div>
-                            ${g.wishlist_count ? `<div class="gc-metric"><span class="gc-metric-label">愿望单</span><span class="gc-metric-value">${g.wishlist_count >= 10000 ? Math.floor(g.wishlist_count/10000)+'w' : g.wishlist_count}</span></div>` : ''}
+                            ${g.wishlist_count ? `<div class="gc-metric"><span class="gc-metric-label">${t('sort_wishlist')}</span><span class="gc-metric-value">${g.wishlist_count >= 10000 ? Math.floor(g.wishlist_count/10000)+'w' : g.wishlist_count}</span></div>` : ''}
                         </div>
                     </div>
                 </div>`;
@@ -4820,9 +4834,16 @@ If you want to know what happened next, let’s listen to the explanation next t
                             </div>
                         </div>
                         ${g.description || g.game_type_en ? `
-                        <div style="background:#FFFFFF;border-radius:8px;padding:14px;border:0.5px solid #E2E8F0;margin-bottom:12px;">
-                            ${g.game_type_en ? `<div style="margin-bottom:8px;"><span style="font-size:10px;color:#64748B;text-transform:uppercase;letter-spacing:0.5px;">${currentLang === 'en' ? 'Game Type' : '游戏类型'}</span><span style="display:inline-block;margin-left:8px;font-size:11px;padding:3px 10px;background:#FEF3C7;color:#92400E;border-radius:4px;font-weight:500;">${g.game_type_en || ''}</span></div>` : ''}
-                            ${g.description ? `<div style="font-size:12px;line-height:1.6;color:#334155;white-space:pre-wrap;">${g.description}</div>` : ''}
+                        <div style="background:#FFFFFF;border-radius:8px;padding:16px;border:0.5px solid #E2E8F0;margin-bottom:12px;">
+                            <div style="font-size:11px;font-weight:600;color:#6D28D9;margin-bottom:8px;text-transform:uppercase;letter-spacing:0.5px;">${currentLang === 'en' ? '📖 About this game' : '📖 游戏介绍'}</div>
+                            ${g.game_type_en ? `<div style="margin-bottom:10px;display:flex;align-items:center;gap:8px;"><span style="font-size:10px;color:#64748B;text-transform:uppercase;letter-spacing:0.5px;">${currentLang === 'en' ? 'Game Type' : '游戏类型'}</span><span style="display:inline-block;font-size:12px;padding:4px 12px;background:#FEF3C7;color:#92400E;border-radius:4px;font-weight:600;">${g.game_type_en || ''}</span></div>` : ''}
+                            ${g.description ? `<div style="font-size:13px;line-height:1.8;color:#334155;line-height:1.8;white-space:pre-wrap;padding:8px 12px;background:#F8FAFC;border-left:3px solid #7C3AED;border-radius:4px;">${g.description}</div>` : '<div style="font-size:13px;color:#94A3B8;font-style:italic;padding:8px 0;">' + (currentLang === 'en' ? 'No description available' : '暂无介绍') + '</div>'}
+                            ${(g.categories || []).length > 0 ? `<div style="margin-top:12px;padding-top:10px;border-top:0.5px solid #E2E8F0;"><div style="font-size:10px;color:#64748B;text-transform:uppercase;letter-spacing:0.5px;margin-bottom:6px;">${currentLang === 'en' ? 'Tags' : '特色标签'}</div><div style="display:flex;gap:6px;flex-wrap:wrap;">${g.categories.map(c => `<span style="font-size:11px;padding:3px 10px;background:#EDE9FE;color:#6D28D9;border-radius:12px;">${rbxCatName(c)}</span>`).join('')}</div></div>` : ''}
+                            <div style="margin-top:12px;padding-top:10px;border-top:0.5px solid #E2E8F0;display:flex;gap:16px;font-size:11px;color:#64748B;">
+                                <span>👤 <b>${currentLang === 'en' ? 'Developer' : '开发者'}:</b> ${g.developer || (currentLang === 'en' ? 'Unknown' : '未知')}</span>
+                                <span>📅 <b>${currentLang === 'en' ? 'Created' : '创建'}:</b> ${g.create_time || (currentLang === 'en' ? 'Unknown' : '未知')}</span>
+                                ${g.peak_date ? `<span>🏆 <b>${currentLang === 'en' ? 'Peak at' : '峰值'}:</b> ${g.peak_date}</span>` : ''}
+                            </div>
                         </div>
                         ` : ''}
                         <div style="display:grid;grid-template-columns:repeat(auto-fill,minmax(140px,1fr));gap:8px;margin-bottom:12px;">
@@ -5733,9 +5754,9 @@ If you want to know what happened next, let’s listen to the explanation next t
             }[currentLbDim];
             let html = '<table class="leaderboard-table"><thead><tr>';
             html += '<th class="lb-rank">#</th>';
-            html += '<th>游戏</th>';
-            html += '<th>开发商</th>';
-            html += '<th>标签</th>';
+            html += `<th>${t('th_game')}</th>`;
+            html += `<th>${t('th_dev')}</th>`;
+            html += `<th>${t('th_tags')}</th>`;
             html += `<th>${dimLabel}<span class="src-badge src-${dimTier}">[${dimTier}]</span></th>`;
             html += '</tr></thead><tbody>';
             games.forEach((g, i) => {
@@ -5751,14 +5772,12 @@ If you want to know what happened next, let’s listen to the explanation next t
                 } else if (currentLbDim === 'release') {
                     val = g.release || '-';
                 }
-                const tags = (g.tags || []).slice(0, 3).map(t => {
-                    const td = gameRegistry.tag_definitions[t];
-                    return td ? td.zh : t;
-                }).join(' ');
+                const tags = (g.tags || []).slice(0, 3).map(tg => tagName(tg)).join(' ');
                 const lbKey = (g.steam_key || g.name).replace(/&/g,'&amp;').replace(/"/g,'&quot;').replace(/'/g,'&#39;');
                 html += `<tr onclick="selectGameByKey(this)" data-game-key="${lbKey}" style="cursor:pointer;">`;
                 html += `<td class="lb-rank">${i + 1}</td>`;
-                html += `<td>${g.cn_name || g.name}${g.pinned ? ' ★' : ''}</td>`;
+                const lbName = currentLang === 'en' ? (g.name || g.cn_name) : (g.cn_name || g.name);
+                html += `<td>${lbName}${g.pinned ? ' ★' : ''}</td>`;
                 html += `<td style="color:var(--text-muted);">${g.dev || '-'}</td>`;
                 html += `<td style="font-size:10px;color:var(--text-muted);">${tags}</td>`;
                 html += `<td style="font-weight:500;">${val}</td>`;
@@ -8084,8 +8103,15 @@ If you want to know what happened next, let’s listen to the explanation next t
             // 导航
             title: { zh: '休闲多人游戏聚合情报', en: 'Casual Multiplay Intel' },
             subtitle: { zh: '合作 / 竞技 / 派对 / 恐怖', en: 'Co-op / PvP / Party / Horror' },
+            rbx_title: { zh: 'Roblox 游戏排行榜', en: 'Roblox Game Leaderboard' },
+            rbx_subtitle: { zh: '{0} 款 / {1} 天时序数据', en: '{0} games / {1} days time series' },
             refresh: { zh: '刷新数据', en: 'Refresh' },
             loading: { zh: '加载中...', en: 'Loading...' },
+            no_match: { zh: '无匹配游戏', en: 'No matching games' },
+            showing_n_games: { zh: '共 {0} 款游戏', en: 'Showing {0} games' },
+            all_tags: { zh: '全部', en: 'All' },
+            th_dev: { zh: '开发商', en: 'Developer' },
+            th_tags: { zh: '标签', en: 'Tags' },
             // 标签页
             tab_discover: { zh: '发现', en: 'Discover' },
             tab_leaderboard: { zh: '排行榜', en: 'Leaderboard' },
@@ -8281,14 +8307,43 @@ If you want to know what happened next, let’s listen to the explanation next t
             document.documentElement.lang = lang === 'zh' ? 'zh-CN' : 'en';
             // 更新页面 title
             document.title = i18nDict['title'][lang];
-            // 重新渲染动态内容（JS生成的文案）
+            // 重新渲染动态内容
             renderAll();
+            renderLeaderboard();
+            initGameDetailPage();
             // Roblox 页面使用 RBX_I18N,需手动重新渲染
             if (currentPlatform === 'roblox' && robloxGamesData) {
                 if (currentSection === 'overview') renderRobloxDiscover();
                 else if (currentSection === 'leaderboard') renderRobloxLeaderboard();
                 else if (currentSection === 'gamedetail') renderRobloxGameDetail();
             }
+        }
+
+        // i18n 帮手: t('key') → 当前语言的文本
+        function t(key) {
+            const entry = i18nDict[key];
+            if (!entry) return key;
+            return entry[currentLang] || entry.zh || key;
+        }
+
+        // tag 名翻译帮手 (全局, 供 renderDiscoverTags / renderDiscoverGrid / renderLeaderboard 共用)
+        function tagName(tagKey) {
+            if (!gameRegistry || !gameRegistry.tag_definitions) return tagKey;
+            const td = gameRegistry.tag_definitions[tagKey];
+            if (!td) return tagKey;
+            return currentLang === 'en' ? (td.en || td.zh) : (td.zh || td.en);
+        }
+
+        // 状态翻译帮手
+        function statusText(s) {
+            const map = {
+                'EA': { zh: '抢先体验', en: 'Early Access' },
+                'WISHLIST': { zh: '愿望单', en: 'Wishlist' },
+                '在研': { zh: '在研', en: 'In Dev' },
+                '已发售': { zh: '已发售', en: 'Released' },
+                '未发售': { zh: '未发售', en: 'Unreleased' },
+            };
+            return map[s] ? map[s][currentLang] : s;
         }
 
         function toggleLang() {
