@@ -273,7 +273,9 @@
       "active_days": 102,
       "peak_date": "2026-07-04",
       "store_url": "https://www.roblox.com/games/95082159892680",
-      "icon_url": "./images/roblox/95082159892680.png"
+      "icon_url": "./images/roblox/95082159892680.png",
+      "description": "&#x1F380; Join the SecretVerse Studio group to unlock FREE gift in-game! &#x1F36B; Welcome to &#x2B;1 Speed Keyboard Escape | Candy & Chocolate! &#x1F36B; &#x26A1; Every step = &#x2B;1 Speed &#x1F45F;...",
+      "game_type_en": "Obby"
     },
     {
       "placeId": 109983668079237,
@@ -425,7 +427,9 @@
       "active_days": 129,
       "peak_date": "2026-02-28",
       "store_url": "https://www.roblox.com/games/109983668079237",
-      "icon_url": "./images/roblox/109983668079237.png"
+      "icon_url": "./images/roblox/109983668079237.png",
+      "description": "The original brainrot game! Sneak, steal, and outsmart players in this chaotic comedy PvP stealth game. Steal rare brainrots and troll friends for glory!",
+      "game_type_en": "Steal Game"
     },
     {
       "placeId": 79546208627805,
@@ -575,7 +579,9 @@
       "active_days": 129,
       "peak_date": "2026-03-07",
       "store_url": "https://www.roblox.com/games/79546208627805",
-      "icon_url": "./images/roblox/79546208627805.png"
+      "icon_url": "./images/roblox/79546208627805.png",
+      "description": "Brave the woods in this terrifying forest horror survival game: Defend your camp, save the missing children, but beware...something's watching you. Play now!",
+      "game_type_en": "Survival Horror"
     },
     {
       "placeId": 89469502395769,
@@ -676,7 +682,9 @@
       "active_days": 80,
       "peak_date": "2026-05-23",
       "store_url": "https://www.roblox.com/games/89469502395769",
-      "icon_url": "./images/roblox/89469502395769.png"
+      "icon_url": "./images/roblox/89469502395769.png",
+      "description": "Kick a Lucky Block! &#x1F60E; &#x1F340; Kick the lucky block & Roll a brainrot &#x1F30A; Survive the tsunami that you've triggered! &#x1F477; Place the collected brainrot on your plot to earn money! &...",
+      "game_type_en": "Steal Game"
     },
     {
       "placeId": 130594398886540,
@@ -722,7 +730,9 @@
       "active_days": 23,
       "peak_date": "2026-03-01",
       "store_url": "https://www.roblox.com/games/130594398886540",
-      "icon_url": "./images/roblox/130594398886540.png"
+      "icon_url": "./images/roblox/130594398886540.png",
+      "description": "&#x1F33B; Grow, harvest, and build the garden you want. &#x1F331; Start with a plot of dirt and a handful of seeds. Plant crops, tend your garden, and watch things grow - but pay attention. Weather ch...",
+      "game_type_en": "Battle Royale"
     },
     {
       "placeId": 920587237,
@@ -874,7 +884,9 @@
       "active_days": 129,
       "peak_date": "2026-04-04",
       "store_url": "https://www.roblox.com/games/920587237",
-      "icon_url": "./images/roblox/920587237.png"
+      "icon_url": "./images/roblox/920587237.png",
+      "description": "Join millions playing this social roleplay simulator. Collect legendary pets, trade with friends, and build your dream home. Explore infinite possibilities now!",
+      "game_type_en": "Roleplay"
     },
     {
       "placeId": 126884695634066,
@@ -1026,7 +1038,9 @@
       "active_days": 129,
       "peak_date": "2026-04-25",
       "store_url": "https://www.roblox.com/games/126884695634066",
-      "icon_url": "./images/roblox/126884695634066.png"
+      "icon_url": "./images/roblox/126884695634066.png",
+      "description": "Relax and grow your perfect garden in this cozy, free-to-play farming simulator. Plant seeds, harvest (or steal) and watch your world bloom&#x2014;start growing today!",
+      "game_type_en": "Simulator"
     },
     {
       "placeId": 4924922222,
@@ -1178,7 +1192,9 @@
       "active_days": 129,
       "peak_date": "2026-06-19",
       "store_url": "https://www.roblox.com/games/4924922222",
-      "icon_url": "./images/roblox/4924922222.png"
+      "icon_url": "./images/roblox/4924922222.png",
+      "description": "A place to play with like minded people and roleplay. Own and live in amazing houses, drive cool vehicles and explore the city. Be whoever you want to be in Brookhaven RP. Latest Update: &#x1F697; 3 N...",
+      "game_type_en": "Roleplay"
     },
     {
       "placeId": 10449761463,
@@ -1330,7 +1346,9 @@
       "active_days": 129,
       "peak_date": "2026-05-17",
       "store_url": "https://www.roblox.com/games/10449761463",
-      "icon_url": "./images/roblox/10449761463.png"
+      "icon_url": "./images/roblox/10449761463.png",
+      "description": "Battle foes in this intense PvP fighting game. Wield anime-like abilities in battles to master combos, dominate duels, and prove your power. Enter the arena!",
+      "game_type_en": "Battle Royale"
     },
     {
       "placeId": 17625359962,
@@ -1480,7 +1498,9 @@
       "active_days": 129,
       "peak_date": "2026-03-14",
       "store_url": "https://www.roblox.com/games/17625359962",
-      "icon_url": "./images/roblox/17625359962.png"
+      "icon_url": "./images/roblox/17625359962.png",
+      "description": "Welcome to RIVALS, the most intense first person shooter game on Roblox! Challenge other players in 1v1 to 5v5 FPS duels where the first to 5 wins! &#x1F3D6;&#xFE0F; UPDATE 21 - The first ever RIVALS ...",
+      "game_type_en": "Battle Royale"
     },
     {
       "placeId": 97598239454123,
@@ -1527,7 +1547,9 @@
       "active_days": 24,
       "peak_date": "2026-06-14",
       "store_url": "https://www.roblox.com/games/97598239454123",
-      "icon_url": "./images/roblox/97598239454123.png"
+      "icon_url": "./images/roblox/97598239454123.png",
+      "description": "&#x1F331;Welcome to Grow a Garden 2&#x1F331; How to Play: &#x2022; Buy seeds from the shop when they restock&#x1F6D2; &#x2022; Plant them in your farm and watch them grow&#x1F33B; &#x2022; Harvest you...",
+      "game_type_en": "Battle Royale"
     },
     {
       "placeId": 77747658251236,
@@ -1677,7 +1699,9 @@
       "active_days": 129,
       "peak_date": "2026-04-19",
       "store_url": "https://www.roblox.com/games/77747658251236",
-      "icon_url": "./images/roblox/77747658251236.png"
+      "icon_url": "./images/roblox/77747658251236.png",
+      "description": "&#x2B50; Join our community server to stay up to date with news, updates, and exclusive reward codes! &#x2693; Sailor Piece Max Level: 20000 NEW CODES: KINGUPDATEHASARRIVED RAIDUPDATENOW Dive into an ...",
+      "game_type_en": "Battle Royale"
     },
     {
       "placeId": 78515283254292,
@@ -1721,7 +1745,9 @@
       "active_days": 23,
       "peak_date": "2026-07-05",
       "store_url": "https://www.roblox.com/games/78515283254292",
-      "icon_url": "./images/roblox/78515283254292.png"
+      "icon_url": "./images/roblox/78515283254292.png",
+      "description": "You got hired to work the night shift at Animal Hospital, its now your job to treat the patients. but some patients are acting weird... &#x1F3E5; &#x1FA7A; &#x1F691; &#x1F9EA;",
+      "game_type_en": ""
     },
     {
       "placeId": 15101393044,
@@ -1871,7 +1897,9 @@
       "active_days": 129,
       "peak_date": "2026-04-18",
       "store_url": "https://www.roblox.com/games/15101393044",
-      "icon_url": "./images/roblox/15101393044.png"
+      "icon_url": "./images/roblox/15101393044.png",
+      "description": "Create stunning outfits &#x1F457;&#x1F496;&#x2B50;, and strut the runway to show off your unique style. Collaborate, compete, and explore a world of glamour with friends! &#x2B50; Are you ready to be ...",
+      "game_type_en": ""
     },
     {
       "placeId": 9391468976,
@@ -2023,7 +2051,9 @@
       "active_days": 129,
       "peak_date": "2026-05-21",
       "store_url": "https://www.roblox.com/games/9391468976",
-      "icon_url": "./images/roblox/9391468976.png"
+      "icon_url": "./images/roblox/9391468976.png",
+      "description": "\"what are you doing\" \"im doing some jujutsu shenanigans\" (tell that to your friends) M1 - melee combo 1,2,3,4 - skills Q - dash (use in stun to escape) F - block R - special W&#x2B;W - sprint (automat...",
+      "game_type_en": "Obby"
     },
     {
       "placeId": 2753915549,
@@ -2173,7 +2203,9 @@
       "active_days": 129,
       "peak_date": "2026-03-28",
       "store_url": "https://www.roblox.com/games/2753915549",
-      "icon_url": "./images/roblox/2753915549.png"
+      "icon_url": "./images/roblox/2753915549.png",
+      "description": "Level up in this anime RPG fighting game: Unlock powerful fruits or master sword skills to brave quests, explore islands, and start your high-seas adventure!",
+      "game_type_en": "Battle Royale"
     },
     {
       "placeId": 16732694052,
@@ -2323,7 +2355,9 @@
       "active_days": 129,
       "peak_date": "2026-06-20",
       "store_url": "https://www.roblox.com/games/16732694052",
-      "icon_url": "./images/roblox/16732694052.png"
+      "icon_url": "./images/roblox/16732694052.png",
+      "description": "Cast your line and reel in treasure in this adventure RPG fishing game with rare fish, gear upgrades, and scenic ocean biomes. Become a master angler today!",
+      "game_type_en": ""
     },
     {
       "placeId": 113489516847696,
@@ -2350,7 +2384,9 @@
       "active_days": 4,
       "peak_date": "2026-03-07",
       "store_url": "https://www.roblox.com/games/113489516847696",
-      "icon_url": "./images/roblox/113489516847696.png"
+      "icon_url": "./images/roblox/113489516847696.png",
+      "description": "&#x1F4A4;BRAINROTS FISH AND EARN MONEY WHILE YOU SLEEP! &#x1F911; &#x1F4E6; HATCH BRAINROTS FROM COMMON TO LEGENDARY! &#x1F41F; BRAINROTS FISH, SELL FISH FOR MONEY &#x1F95A; BUY BETTER EGGS & UPGRADE!...",
+      "game_type_en": "Steal Game"
     },
     {
       "placeId": 142823291,
@@ -2502,7 +2538,9 @@
       "active_days": 129,
       "peak_date": "2026-07-05",
       "store_url": "https://www.roblox.com/games/142823291",
-      "icon_url": "./images/roblox/142823291.png"
+      "icon_url": "./images/roblox/142823291.png",
+      "description": "Can you solve the Mystery and survive each round?&#xD; &#xD; INNOCENTS: Run and hide from the Murderer. Use your detective skills to expose the Murderer.&#xD; SHERIFF: Work with the Innocents; you are...",
+      "game_type_en": "Survival Horror"
     },
     {
       "placeId": 107646426076756,
@@ -2576,7 +2614,9 @@
       "active_days": 53,
       "peak_date": "2026-06-06",
       "store_url": "https://www.roblox.com/games/107646426076756",
-      "icon_url": "./images/roblox/107646426076756.png"
+      "icon_url": "./images/roblox/107646426076756.png",
+      "description": "Welcome to Build A Ring Farm! - &#x1F331;Grow and harvest plants - &#x1F916;Upgrade and Expand your farm - &#x1F4B0;Sell your plants for cash Remember, your farm earns offline! Game is new so there mi...",
+      "game_type_en": "Battle Royale"
     },
     {
       "placeId": 16116270224,
@@ -2726,7 +2766,9 @@
       "active_days": 129,
       "peak_date": "2026-03-20",
       "store_url": "https://www.roblox.com/games/16116270224",
-      "icon_url": "./images/roblox/16116270224.png"
+      "icon_url": "./images/roblox/16116270224.png",
+      "description": "Dandy's World is a Mascot Horror Survival Multiplayer game where you must team up with fellow Toons to complete machines and descend deeper into Gardenview Center. &#x2727;---&#x2727; Are you ready to...",
+      "game_type_en": "Survival Horror"
     },
     {
       "placeId": 121864768012064,
@@ -2876,7 +2918,9 @@
       "active_days": 129,
       "peak_date": "2026-03-08",
       "store_url": "https://www.roblox.com/games/121864768012064",
-      "icon_url": "./images/roblox/121864768012064.png"
+      "icon_url": "./images/roblox/121864768012064.png",
+      "description": "&#x1F419; CONTRABAND MARKET, &#x2B;10 NEW FISH, NEW SUMMER SKIN &#x1F319; NEW FORGOTTEN &#x2B; SECRET, NEW ISLAND, NEW PET EGGS &#x2604;&#xFE0F; NEW AURORA BOREALIS WEATHER, NEW SECRET, TRADING UPGRAD...",
+      "game_type_en": "Simulator"
     },
     {
       "placeId": 8737899170,
@@ -3025,7 +3069,9 @@
       "active_days": 125,
       "peak_date": "2026-05-16",
       "store_url": "https://www.roblox.com/games/8737899170",
-      "icon_url": "./images/roblox/8737899170.png"
+      "icon_url": "./images/roblox/8737899170.png",
+      "description": "Create an army of the coolest pets! They will help you get RICH! &#x2728; Currently 2,000&#x2B; pets to collect! &#x1F43E; &#x1F9E1; Thanks for playing!",
+      "game_type_en": "Simulator"
     },
     {
       "placeId": 70845479499574,
@@ -3151,7 +3197,9 @@
       "active_days": 28,
       "peak_date": "2026-03-08",
       "store_url": "https://www.roblox.com/games/71827913900569",
-      "icon_url": "./images/roblox/71827913900569.png"
+      "icon_url": "./images/roblox/71827913900569.png",
+      "description": "Grow Beanstalk For Brainrots &#x1F331; &#x1F3AF; Capture a Brainrot before the giant gets to you! &#x1F911; Place it on your plot and upgrade, they'll help you get rich! &#x1F324;&#xFE0F; Use your cas...",
+      "game_type_en": "Steal Game"
     },
     {
       "placeId": 90148635862803,
@@ -3281,7 +3329,9 @@
       "active_days": 109,
       "peak_date": "2026-05-09",
       "store_url": "https://www.roblox.com/games/90148635862803",
-      "icon_url": "./images/roblox/90148635862803.png"
+      "icon_url": "./images/roblox/90148635862803.png",
+      "description": "The Apocalypse has begun, and you've been left behind... How to Play: &#x1F50D; Loot the City &#x1F6E1;&#xFE0F; Build Defenses &#x1F9DF; Survive the Zombies &#x1F3C3;&#x200D;&#x2642;&#xFE0F; Will you ...",
+      "game_type_en": "Escape"
     },
     {
       "placeId": 114204398207377,
@@ -3376,7 +3426,9 @@
       "active_days": 74,
       "peak_date": "2026-05-30",
       "store_url": "https://www.roblox.com/games/114204398207377",
-      "icon_url": "./images/roblox/114204398207377.png"
+      "icon_url": "./images/roblox/114204398207377.png",
+      "description": "&#x1F9DF; 500&#x2B; ZOMBIES. ONE ARENA. NO MERCY. &#x2694;&#xFE0F; Unlock powerful guns &#x1F479; Fight massive waves &#x1F465; Team up with friends &#x1F3C6; Climb the wave leaderboard How long can Y...",
+      "game_type_en": "Survival Horror"
     },
     {
       "placeId": 73956553001240,
@@ -3526,7 +3578,9 @@
       "active_days": 129,
       "peak_date": "2026-03-07",
       "store_url": "https://www.roblox.com/games/73956553001240",
-      "icon_url": "./images/roblox/73956553001240.png"
+      "icon_url": "./images/roblox/73956553001240.png",
+      "description": "Serve victory in this fast-paced, anime-inspired volleyball sports game. Spike, block, and serve skill shots in ranked PvP matches to rise to the top!",
+      "game_type_en": "Battle Royale"
     },
     {
       "placeId": 79268393072444,
@@ -3588,7 +3642,9 @@
       "active_days": 41,
       "peak_date": "2026-07-03",
       "store_url": "https://www.roblox.com/games/79268393072444",
-      "icon_url": "./images/roblox/79268393072444.png"
+      "icon_url": "./images/roblox/79268393072444.png",
+      "description": "Sell Lemons &#x1F34B;. Make &#x1F4B5;&#x1F4B0;&#x1F911;. &#x1F34B; Sell Lemons &#x1F4B5; Earn lots of cash &#x1F4AA; Unlock unique powers &#x1F47D; Make lucrative deals &#x1F30C; Enter the %^REDACTED*...",
+      "game_type_en": ""
     },
     {
       "placeId": 96645548064314,
@@ -3727,7 +3783,9 @@
       "active_days": 118,
       "peak_date": "2026-03-08",
       "store_url": "https://www.roblox.com/games/96645548064314",
-      "icon_url": "./images/roblox/96645548064314.png"
+      "icon_url": "./images/roblox/96645548064314.png",
+      "description": "Grab your lasso and explore an island full of wild animals! Catch them, bring them back to your pen, and start building your ultimate collection! &#x1F43E; &#x1F4B8; EARN MONEY EVEN WHILE YOU&#x2019;R...",
+      "game_type_en": "Simulation"
     },
     {
       "placeId": 606849621,
@@ -3858,7 +3916,9 @@
       "active_days": 110,
       "peak_date": "2026-06-13",
       "store_url": "https://www.roblox.com/games/606849621",
-      "icon_url": "./images/roblox/606849621.png"
+      "icon_url": "./images/roblox/606849621.png",
+      "description": "July 10: Mini-Update! Autographed trading cards, new bodykits, apartment confetti, and bug fixes while we work on bigger projects behind the scenes. TY! June 13: Truly our biggest update ever. &#x2B; ...",
+      "game_type_en": "Racing"
     },
     {
       "placeId": 112490729816320,
@@ -3983,7 +4043,9 @@
       "active_days": 104,
       "peak_date": "2026-06-27",
       "store_url": "https://www.roblox.com/games/112490729816320",
-      "icon_url": "./images/roblox/112490729816320.png"
+      "icon_url": "./images/roblox/112490729816320.png",
+      "description": "&#x1F4B8; EARN CASH WHILE YOU SLEEP! &#x1F4B8; &#x26BD; Welcome to Spin a Soccer Card How to Play: &#x1F6D2; Buy a pack from the Shop! &#x2728; Tap to unpack and reveal a random soccer card! &#x1F3E0;...",
+      "game_type_en": "Racing"
     },
     {
       "placeId": 93978595733734,
@@ -4133,7 +4195,9 @@
       "active_days": 129,
       "peak_date": "2026-05-16",
       "store_url": "https://www.roblox.com/games/93978595733734",
-      "icon_url": "./images/roblox/93978595733734.png"
+      "icon_url": "./images/roblox/93978595733734.png",
+      "description": "><><-GAME IS IN ALPHA, EXPECT BUGS AND CHANGES-><>< if you manage to clip any bugs, feel free to show us in #bug-reports in our server Violence District is a casual asymmetrical horror game where 5 su...",
+      "game_type_en": "Escape"
     },
     {
       "placeId": 131378148336503,
@@ -4233,7 +4297,9 @@
       "active_days": 77,
       "peak_date": "2026-06-28",
       "store_url": "https://www.roblox.com/games/131378148336503",
-      "icon_url": "./images/roblox/131378148336503.png"
+      "icon_url": "./images/roblox/131378148336503.png",
+      "description": "Drag Drive Simulator (DDS / RDID Revamp) is a Roleplay Game that has realistic features like the real world. You can drive, play, and roleplay with friends in a fun way !! &#x1F604; &#x2764;&#xFE0F; N...",
+      "game_type_en": "Roleplay"
     },
     {
       "placeId": 18687417158,
@@ -4383,7 +4449,9 @@
       "active_days": 129,
       "peak_date": "2026-03-19",
       "store_url": "https://www.roblox.com/games/18687417158",
-      "icon_url": "./images/roblox/18687417158.png"
+      "icon_url": "./images/roblox/18687417158.png",
+      "description": "Survive with (or against) your friends in this 1-vs-all horror adventure. Team up with Survivors to solve puzzles and survive...or become the Killer and hunt.",
+      "game_type_en": "Survival Horror"
     },
     {
       "placeId": 15532962292,
@@ -4533,7 +4601,9 @@
       "active_days": 129,
       "peak_date": "2026-04-25",
       "store_url": "https://www.roblox.com/games/15532962292",
-      "icon_url": "./images/roblox/15532962292.png"
+      "icon_url": "./images/roblox/15532962292.png",
+      "description": "&#x1F3B2; Sol's RNG is the #1 luck-based RNG game on Roblox! Roll for 400&#x2B; unique auras, craft powerful gear, and drink potions to boost your luck. How rare can you go? &#x1F504; Click \"\"Roll\"\" t...",
+      "game_type_en": ""
     },
     {
       "placeId": 134951244280326,
@@ -4557,7 +4627,9 @@
       "active_days": 1,
       "peak_date": "2026-03-03",
       "store_url": "https://www.roblox.com/games/134951244280326",
-      "icon_url": "./images/roblox/134951244280326.png"
+      "icon_url": "./images/roblox/134951244280326.png",
+      "description": "Welcome to Climb For Brainrots How To Play: &#x1F9D7; Climb the ladders as far as you can &#x1F602; Collect Brainrots from the sky islands you climb to &#x1F340; The further you climb, the better brai...",
+      "game_type_en": "Steal Game"
     },
     {
       "placeId": 138048509924404,
@@ -4581,7 +4653,9 @@
       "active_days": 1,
       "peak_date": "2026-03-05",
       "store_url": "https://www.roblox.com/games/138048509924404",
-      "icon_url": "./images/roblox/138048509924404.png"
+      "icon_url": "./images/roblox/138048509924404.png",
+      "description": "&#x26A1; Escape and Survive LAVA to Save the Brainrot &#x1F525; Lava will Flood randomly and map becomes DEADLY ! &#x2B50; MAKE IT TO THE END TO GET LUCKY BLOCKS !!! &#x1F44D; Like game = Luck Boost",
+      "game_type_en": "Steal Game"
     },
     {
       "placeId": 135856908115931,
@@ -4730,7 +4804,9 @@
       "active_days": 126,
       "peak_date": "2026-05-16",
       "store_url": "https://www.roblox.com/games/135856908115931",
-      "icon_url": "./images/roblox/135856908115931.png"
+      "icon_url": "./images/roblox/135856908115931.png",
+      "description": "Welcome to [DUELS] Murderers VS Sheriffs &#x1F6A8; Use code 1BVISITS for a free knife! Thanks for playing! Duel, improve your aim and have fun WARNING: Exploits or cheating of any kind will result in ...",
+      "game_type_en": "Mystery"
     },
     {
       "placeId": 13379208636,
@@ -4876,7 +4952,9 @@
       "active_days": 125,
       "peak_date": "2026-04-25",
       "store_url": "https://www.roblox.com/games/13379208636",
-      "icon_url": "./images/roblox/13379208636.png"
+      "icon_url": "./images/roblox/13379208636.png",
+      "description": "NEW CODE at 1,350,000 LIKES! All current codes are in the community server! &#x1F525; Join the battle of freedom and lead humanity in the REVOLUTION against the titans! &#x1F525; &#x1F5E1;&#xFE0F; Cus...",
+      "game_type_en": "Steal Game"
     },
     {
       "placeId": 139299356663913,
@@ -4917,7 +4995,9 @@
       "active_days": 18,
       "peak_date": "2026-02-27",
       "store_url": "https://www.roblox.com/games/139299356663913",
-      "icon_url": "./images/roblox/139299356663913.png"
+      "icon_url": "./images/roblox/139299356663913.png",
+      "description": "Welcome to Jump for Brainrots! &#x2728;Jump up and grab brainrots that spawn! &#x1F4B8;Bring them back to your base to earn cash! &#x1F50B;Upgrade your jump power to jump even higher! &#x1F3D7;&#xFE0F...",
+      "game_type_en": "Steal Game"
     },
     {
       "placeId": 14890802310,
@@ -5052,7 +5132,9 @@
       "active_days": 45,
       "peak_date": "2026-04-18",
       "store_url": "https://www.roblox.com/games/105626692504093",
-      "icon_url": "./images/roblox/105626692504093.png"
+      "icon_url": "./images/roblox/105626692504093.png",
+      "description": "Welcome to Be a Brainrot! &#x1F92B; Become a Brainrot and sneak into a base &#x1F4A4; Wait for the guards to go to sleep! &#x1F3C3; Steal a brainrot and run back to base! &#x1F4B8; Collect Brainrots T...",
+      "game_type_en": "Steal Game"
     },
     {
       "placeId": 18668065416,
@@ -5198,7 +5280,9 @@
       "active_days": 125,
       "peak_date": "2026-06-27",
       "store_url": "https://www.roblox.com/games/18668065416",
-      "icon_url": "./images/roblox/18668065416.png"
+      "icon_url": "./images/roblox/18668065416.png",
+      "description": "IMPORTANT: This fan-made unofficial game is created by huge Blue Lock fans as a tribute to celebrate the anime and share our passion with the community. &#x26BD;Enter the high-stakes world of Blue Loc...",
+      "game_type_en": "Anime"
     },
     {
       "placeId": 84575720768520,
@@ -5248,7 +5332,9 @@
       "active_days": 29,
       "peak_date": "2026-06-27",
       "store_url": "https://www.roblox.com/games/84575720768520",
-      "icon_url": "./images/roblox/84575720768520.png"
+      "icon_url": "./images/roblox/84575720768520.png",
+      "description": "Welcome to Lucky Block Rush! UPDATES EVERY SATURDAY! &#x2694;&#xFE0F; Battle Stronger Enemies for better luck! &#x1F340; Open The Lucky Block In the end of the battle! &#x1F4B8; Collect Brainrots To E...",
+      "game_type_en": "Steal Game"
     },
     {
       "placeId": 16483433878,
@@ -5414,7 +5500,9 @@
       "active_days": 88,
       "peak_date": "2026-04-11",
       "store_url": "https://www.roblox.com/games/124473577469410",
-      "icon_url": "./images/roblox/124473577469410.png"
+      "icon_url": "./images/roblox/124473577469410.png",
+      "description": "Welcome to Be a Lucky Block! UPDATES EVERY SATURDAY! &#x26F0;&#xFE0F; Go to further destinations for better luck! &#x2753; Wait for the guards Roll The Lucky Block! &#x1F3C3; Run back to your base bef...",
+      "game_type_en": "Steal Game"
     },
     {
       "placeId": 127794225497302,
@@ -5440,7 +5528,9 @@
       "active_days": 5,
       "peak_date": "2026-03-28",
       "store_url": "https://www.roblox.com/games/127794225497302",
-      "icon_url": "./images/roblox/127794225497302.png"
+      "icon_url": "./images/roblox/127794225497302.png",
+      "description": "&#x1F41F; Welcome to Abyss! It&#x2019;s an open-world underwater survival and exploration game about diving and fishing. Use your tube and harpoon to catch unique fish, some mutated and more valuable ...",
+      "game_type_en": "Survival Horror"
     },
     {
       "placeId": 127080713564152,
@@ -5485,7 +5575,9 @@
       "active_days": 4,
       "peak_date": "2026-03-29",
       "store_url": "https://www.roblox.com/games/2809202155",
-      "icon_url": "./images/roblox/2809202155.png"
+      "icon_url": "./images/roblox/2809202155.png",
+      "description": "&#x300E;(4/13/26) UPDATE v1.7973&#x300F; &#x27A2; Many balances and bug fixes! &#x27A2; Read the in-game patch notes for more update information! Welcome to Your Bizarre Adventure, an MMORPG game that...",
+      "game_type_en": "Battle Royale"
     },
     {
       "placeId": 90695455422761,
@@ -5510,7 +5602,9 @@
       "active_days": 2,
       "peak_date": "2026-03-03",
       "store_url": "https://www.roblox.com/games/90695455422761",
-      "icon_url": "./images/roblox/90695455422761.png"
+      "icon_url": "./images/roblox/90695455422761.png",
+      "description": "Jump to Steal Brainrots! &#x1F3C3;&#x200D;&#x2642;&#xFE0F; &#x26A0;&#xFE0F; Jump and Steal Brainrots hidden on platforms! &#x26A0;&#xFE0F; &#x1F46E; Don't get caught by the Guards! &#x1F3E0; Bring the...",
+      "game_type_en": "Steal Game"
     },
     {
       "placeId": 109533024287077,
@@ -5551,7 +5645,9 @@
       "active_days": 17,
       "peak_date": "2026-03-01",
       "store_url": "https://www.roblox.com/games/109533024287077",
-      "icon_url": "./images/roblox/109533024287077.png"
+      "icon_url": "./images/roblox/109533024287077.png",
+      "description": "Welcome to &#x2B;1 Speed Escape for Brainrots! &#x26A1; Complete the stages and grab Brainrots! &#x1F525; Avoid the obstacles around the map! &#x1F45F; Comeback with your Brainrots! &#x1F60E; Upgrade ...",
+      "game_type_en": "Steal Game"
     },
     {
       "placeId": 133410800847665,
@@ -5651,7 +5747,9 @@
       "active_days": 77,
       "peak_date": "2026-06-02",
       "store_url": "https://www.roblox.com/games/133410800847665",
-      "icon_url": "./images/roblox/133410800847665.png"
+      "icon_url": "./images/roblox/133410800847665.png",
+      "description": "&#x1F30C; The Universe begins. &#x1F30C; &#x1F319; Welcome to Universal Tower Defense! &#x1F319; &#x1F44D; LIKE the game for FREE Rewards and Codes! (THUMBS UP/UPVOTE) &#x1F44D; &#x2694;&#xFE0F; Summo...",
+      "game_type_en": "Tower Defense"
     },
     {
       "placeId": 131346454575416,
@@ -5739,7 +5837,9 @@
       "active_days": 65,
       "peak_date": "2026-06-13",
       "store_url": "https://www.roblox.com/games/131346454575416",
-      "icon_url": "./images/roblox/131346454575416.png"
+      "icon_url": "./images/roblox/131346454575416.png",
+      "description": "&#x1FA96; MINI WAR - Build your COUNTRY, grow your POWER, and command your ARMY to DOMINATE! UPDATE LOG (04.07.2026): &#x2022; New SPECIAL INVASION WEATHER! &#x2022; 5 New BUILDINGS! (through research...",
+      "game_type_en": "Battle Royale"
     },
     {
       "placeId": 12411473842,
@@ -5768,7 +5868,9 @@
       "active_days": 8,
       "peak_date": "2026-03-28",
       "store_url": "https://www.roblox.com/games/12411473842",
-      "icon_url": "./images/roblox/12411473842.png"
+      "icon_url": "./images/roblox/12411473842.png",
+      "description": "You are expendable. You are not expected to return. Headphones & graphics level 8 or above recommended. This game is currently in alpha. Expect bugs and the sorts. Join the group to receive a 10% disc...",
+      "game_type_en": ""
     },
     {
       "placeId": 71132543521245,
@@ -5819,7 +5921,9 @@
       "active_days": 28,
       "peak_date": "2026-06-24",
       "store_url": "https://www.roblox.com/games/71132543521245",
-      "icon_url": "./images/roblox/71132543521245.png"
+      "icon_url": "./images/roblox/71132543521245.png",
+      "description": "Dive into a brand-new lane battler packed with unique features, strategic gameplay, and exciting challenges. &#x1F525; Summon & Upgrade Your Units! &#x1F6E1;&#xFE0F; Deploy your favorite anime heroes ...",
+      "game_type_en": "Battle Royale"
     },
     {
       "placeId": 74188431054457,
@@ -5860,7 +5964,9 @@
       "active_days": 20,
       "peak_date": "2026-06-28",
       "store_url": "https://www.roblox.com/games/74188431054457",
-      "icon_url": "./images/roblox/74188431054457.png"
+      "icon_url": "./images/roblox/74188431054457.png",
+      "description": "Have a yummers experience at Mukbang Corner! Where you are able to record your mukbangs and ASMR in Roblox! Features: - Gluttony - Camera controllers - ASMR - Chair adjustments - Collab mukbang - Cats...",
+      "game_type_en": ""
     },
     {
       "placeId": 128784467030899,
@@ -5909,7 +6015,9 @@
       "active_days": 28,
       "peak_date": "2026-07-04",
       "store_url": "https://www.roblox.com/games/128784467030899",
-      "icon_url": "./images/roblox/128784467030899.png"
+      "icon_url": "./images/roblox/128784467030899.png",
+      "description": "Merge nukes. Stack your arsenal. RAID everyone. &#x1F4A5; &#x1F527; Merge bombs into BIGGER nukes &#x1F4B0; Your nukes earn CASH every second - even whilst you're OFFLINE! &#x1F680; Launch nukes at en...",
+      "game_type_en": "Steal Game"
     },
     {
       "placeId": 74193805629461,
@@ -5943,7 +6051,9 @@
       "active_days": 13,
       "peak_date": "2026-07-04",
       "store_url": "https://www.roblox.com/games/74193805629461",
-      "icon_url": "./images/roblox/74193805629461.png"
+      "icon_url": "./images/roblox/74193805629461.png",
+      "description": "&#x26CF;&#xFE0F; Welcome to &#x2B;1 Mine Per Click &#x1F4A4; You earn Strength & Cash while your OFFLINE! 1. Train your Strength &#x1F4AA; 2. Mine down &#x1F4A5; 3. Collect Loot & Sell it! &#x1F4B5; 4...",
+      "game_type_en": ""
     },
     {
       "placeId": 93862983804718,
@@ -6020,7 +6130,9 @@
       "active_days": 16,
       "peak_date": "2026-06-30",
       "store_url": "https://www.roblox.com/games/134381727982611",
-      "icon_url": "./images/roblox/134381727982611.png"
+      "icon_url": "./images/roblox/134381727982611.png",
+      "description": "&#x2728;Catch. Battle. Explore. The adventure never ends. Step into a world of wild Evomons and hidden treasures. &#x1F4AB; Chase Shiny & Sparkle Evomons up to 200&#x2B; &#x1F43E; Catch 'em, train 'em...",
+      "game_type_en": "Battle Royale"
     },
     {
       "placeId": 121230136531797,
@@ -6045,7 +6157,9 @@
       "active_days": 1,
       "peak_date": "2026-03-11",
       "store_url": "https://www.roblox.com/games/121230136531797",
-      "icon_url": "./images/roblox/121230136531797.png"
+      "icon_url": "./images/roblox/121230136531797.png",
+      "description": "&#x1F4B8; AUCTIONS &#x1F92F; &#x1F3C3; RUN!! THE LOGS ARE COMING!! &#x1F9E0; Grab Brainrots! &#x1FAB5; Hide from the Logs! &#x1F6AA; Escape and level up your Brainrots! &#x26A1; Buy Speed and Rebirth!...",
+      "game_type_en": "Steal Game"
     },
     {
       "placeId": 93724112271596,
@@ -6070,7 +6184,9 @@
       "active_days": 2,
       "peak_date": "2026-03-28",
       "store_url": "https://www.roblox.com/games/93724112271596",
-      "icon_url": "./images/roblox/93724112271596.png"
+      "icon_url": "./images/roblox/93724112271596.png",
+      "description": "Welcome to Vacuum For Brainrots! Vacuum the dust and make a passage to many Brainrots. Buy new vacuums and rebirth for bigger vacuum size! How to play: &#x1F3C3; Vacuum dust to make passages &#x1F9E0;...",
+      "game_type_en": "Steal Game"
     },
     {
       "placeId": 7041939546,
@@ -6220,7 +6336,9 @@
       "active_days": 129,
       "peak_date": "2026-03-08",
       "store_url": "https://www.roblox.com/games/7041939546",
-      "icon_url": "./images/roblox/7041939546.png"
+      "icon_url": "./images/roblox/7041939546.png",
+      "description": "&#x1F4E2; UGC ANIMATION PACKS are now available! Try them on in-game! Catalog Avatar Creator allows you to try on many different avatar/catalog items for free. This includes accessories, hats, limited...",
+      "game_type_en": "Battle Royale"
     },
     {
       "placeId": 78724049937437,
@@ -6258,7 +6376,9 @@
       "active_days": 17,
       "peak_date": "2026-06-27",
       "store_url": "https://www.roblox.com/games/78724049937437",
-      "icon_url": "./images/roblox/78724049937437.png"
+      "icon_url": "./images/roblox/78724049937437.png",
+      "description": "&#x1F3A8;PAINT AND SEEK! &#x2620;&#xFE0F; &#x1F31F;USE CODE: NEWUPDATE &#x1F31F;NEXT CODE AT: 50,000 THUMBS UP Change your color, blend into the map, and hide from the Seekers! &#x1F3A8; Hiders: PAINT...",
+      "game_type_en": "Survival Horror"
     },
     {
       "placeId": 8481844229,
@@ -6410,7 +6530,9 @@
       "active_days": 129,
       "peak_date": "2026-06-14",
       "store_url": "https://www.roblox.com/games/8481844229",
-      "icon_url": "./images/roblox/8481844229.png"
+      "icon_url": "./images/roblox/8481844229.png",
+      "description": "&#x2B50; Welcome to Berry Avenue! A place to roleplay, hang out and explore! &#x1F353; Choose from a wide selection of stylish houses, cool cars & roleplay items to enhance your experience! &#x1F3EB; ...",
+      "game_type_en": "Roleplay"
     },
     {
       "placeId": 90462358603255,
@@ -6438,7 +6560,9 @@
       "active_days": 5,
       "peak_date": "2026-03-05",
       "store_url": "https://www.roblox.com/games/90462358603255",
-      "icon_url": "./images/roblox/90462358603255.png"
+      "icon_url": "./images/roblox/90462358603255.png",
+      "description": "Welcome to Anime Eternal! &#x1F496; Use Code: \"Update59\" &#x1F496; Use Code: \"Update59Delay\" &#x1F496; Use Code: \"SummerPart1\" &#x1F496; Use Code: \"Update58P2\" &#x1F496; Use Code: \"Update58\" &#x1F30D;...",
+      "game_type_en": "Battle Royale"
     },
     {
       "placeId": 107095834793267,
@@ -6518,7 +6642,9 @@
       "active_days": 59,
       "peak_date": "2026-04-26",
       "store_url": "https://www.roblox.com/games/107095834793267",
-      "icon_url": "./images/roblox/107095834793267.png"
+      "icon_url": "./images/roblox/107095834793267.png",
+      "description": "Welcome to Refinery Empire &#x1F6E2;&#xFE0F;Place Drill to extract Oil &#x26FD;Place Refinery to produce Oil to gasoline &#x1F911;Wait for the best price to sell gasoline &#x1F52A;Sabotage other playe...",
+      "game_type_en": ""
     },
     {
       "placeId": 85245205758607,
@@ -6553,7 +6679,9 @@
       "active_days": 14,
       "peak_date": "2026-07-02",
       "store_url": "https://www.roblox.com/games/85245205758607",
-      "icon_url": "./images/roblox/85245205758607.png"
+      "icon_url": "./images/roblox/85245205758607.png",
+      "description": "&#x1F3A8;&#x1F50D; Paint Or Seek &#x1F50D;&#x1F3A8; Can you hide in plain sight? &#x1F440; &#x1F58C;&#xFE0F; Paint yourself to match the environment and become almost invisible! &#x1F308; Blend into w...",
+      "game_type_en": "Survival Horror"
     },
     {
       "placeId": 18923620224,
@@ -6636,7 +6764,9 @@
       "active_days": 59,
       "peak_date": "2026-05-30",
       "store_url": "https://www.roblox.com/games/18923620224",
-      "icon_url": "./images/roblox/18923620224.png"
+      "icon_url": "./images/roblox/18923620224.png",
+      "description": "&#x2B50; FREE REWARDS at 100K Likes &#x2B50; The dimensions have collapsed! Can you summon the strongest heroes and save these worlds together? &#x1F525; Collect warriors to fight alongside you! &#x1F...",
+      "game_type_en": "Battle Royale"
     },
     {
       "placeId": 71724366181884,
@@ -6820,7 +6950,9 @@
       "active_days": 124,
       "peak_date": "2026-02-28",
       "store_url": "https://www.roblox.com/games/131623223084840",
-      "icon_url": "./images/roblox/131623223084840.png"
+      "icon_url": "./images/roblox/131623223084840.png",
+      "description": "Welcome to Escape Tsunami For Brainrots! &#x1F30A; &#x1F3C3; Run fast and grab Brainrots! &#x1F30A; Don't let Tsunami catch you! &#x1F4B8; Upgrade your Brainrots and earn more money! &#x1F3D7;&#xFE0F;...",
+      "game_type_en": "Steal Game"
     },
     {
       "placeId": 82084053899394,
@@ -6840,7 +6972,9 @@
       "active_days": 0,
       "peak_date": "",
       "store_url": "https://www.roblox.com/games/82084053899394",
-      "icon_url": "./images/roblox/82084053899394.png"
+      "icon_url": "./images/roblox/82084053899394.png",
+      "description": "You and your opponent hide bombs in chips! &#x1F954;&#x1F4A3; &#x1F494; Choose carefully &#x2014; one wrong bite could be your last!",
+      "game_type_en": "Racing"
     },
     {
       "placeId": 136599248168660,
@@ -6862,7 +6996,9 @@
       "active_days": 1,
       "peak_date": "2026-03-03",
       "store_url": "https://www.roblox.com/games/136599248168660",
-      "icon_url": "./images/roblox/136599248168660.png"
+      "icon_url": "./images/roblox/136599248168660.png",
+      "description": "NEW UPDATE OUT NOW: HUNTER RANKS BLESSING STONES CLASS SKILL TREES & MORE! &#x2694;&#xFE0F; Welcome to Solo Hunters! &#x1F525; Fight in gates that bring you to new worlds with harder bosses &#x23EB; L...",
+      "game_type_en": "Battle Royale"
     },
     {
       "placeId": 13967668166,
@@ -7014,7 +7150,9 @@
       "active_days": 129,
       "peak_date": "2026-06-30",
       "store_url": "https://www.roblox.com/games/13967668166",
-      "icon_url": "./images/roblox/13967668166.png"
+      "icon_url": "./images/roblox/13967668166.png",
+      "description": "Welcome to LifeTogether! Dive into an immersive roleplay where life is literally in your hands. &#x1F44D;1M likes &#x2B; follow &#x2B; favorite for new APP! Tags: Dream, Life, Club, Metro, Topia, Fun,...",
+      "game_type_en": "Roleplay"
     },
     {
       "placeId": 18199615050,
@@ -7116,7 +7254,9 @@
       "active_days": 81,
       "peak_date": "2026-06-19",
       "store_url": "https://www.roblox.com/games/18199615050",
-      "icon_url": "./images/roblox/18199615050.png"
+      "icon_url": "./images/roblox/18199615050.png",
+      "description": "&#x1F56F;&#xFE0F;Use the tools at your disposal to hunt down and identify the evil spirits haunting your jobsite! &#x1F441;&#xFE0F; For the best experience, play with max graphic settings! &#x1F399;&#...",
+      "game_type_en": "Music"
     },
     {
       "placeId": 109881277752094,
@@ -7159,7 +7299,9 @@
       "active_days": 22,
       "peak_date": "2026-06-28",
       "store_url": "https://www.roblox.com/games/109881277752094",
-      "icon_url": "./images/roblox/109881277752094.png"
+      "icon_url": "./images/roblox/109881277752094.png",
+      "description": "&#x1F44D;THUMBS UP for more UPDATES at 125,000 LIKES &#x1F44D; &#x1F5A5;&#xFE0F; PC Controls: E or Click: Pickup / Place book Q: Drop book Scroll: Switch top book Right Click: Zoom In &#x1F3AE; Contro...",
+      "game_type_en": "Music"
     },
     {
       "placeId": 12177325772,
@@ -7286,7 +7428,9 @@
       "active_days": 106,
       "peak_date": "2026-07-05",
       "store_url": "https://www.roblox.com/games/12177325772",
-      "icon_url": "./images/roblox/12177325772.png"
+      "icon_url": "./images/roblox/12177325772.png",
+      "description": "The game is played as 4v4 in a packed stadium. Be the best goalkeeper, the midfield master or the star striker. Show off the best saves, deliver the assists, or score the most beautiful bicycle kicks....",
+      "game_type_en": "Battle Royale"
     },
     {
       "placeId": 112371649846345,
@@ -7313,7 +7457,9 @@
       "active_days": 4,
       "peak_date": "2026-03-07",
       "store_url": "https://www.roblox.com/games/112371649846345",
-      "icon_url": "./images/roblox/112371649846345.png"
+      "icon_url": "./images/roblox/112371649846345.png",
+      "description": "&#x1F4A4; SPIN AND EARN MONEY OFFLINE! &#x1F4B8; HOW TO PLAY: &#x1F4B0; EARN MONEY BY PLACING BRAINROTS ON PLOTS OR SELLING THEM! &#x1F3B2; SPIN DICE TO UNLOCK NEW AND RARE BRAINROTS! &#x1F501; REBIRT...",
+      "game_type_en": "Steal Game"
     },
     {
       "placeId": 3260590327,
@@ -7449,7 +7595,9 @@
       "active_days": 112,
       "peak_date": "2026-06-05",
       "store_url": "https://www.roblox.com/games/3260590327",
-      "icon_url": "./images/roblox/3260590327.png"
+      "icon_url": "./images/roblox/3260590327.png",
+      "description": "&#x1F49C; Thank you for 2 MILLION likes! Use code 2MILLION for a free Mercenary Pursuit skin! Place units to defend against hordes of zombies! Team up with friends and face against even stronger bosse...",
+      "game_type_en": "Tower Defense"
     },
     {
       "placeId": 110334393584385,
@@ -7508,7 +7656,9 @@
       "active_days": 36,
       "peak_date": "2026-05-09",
       "store_url": "https://www.roblox.com/games/110334393584385",
-      "icon_url": "./images/roblox/110334393584385.png"
+      "icon_url": "./images/roblox/110334393584385.png",
+      "description": "Welcome to Roller for Brainrots! &#x1F3A2; Roll through the map and collect powerful Brainrots! &#x1F9E0;&#x2728; Don&#x2019;t fall off the track! &#x1F631; Bring Brainrots back to your Base to earn C...",
+      "game_type_en": "Steal Game"
     },
     {
       "placeId": 6270290407,
@@ -7560,7 +7710,9 @@
       "active_days": 31,
       "peak_date": "2026-06-06",
       "store_url": "https://www.roblox.com/games/6270290407",
-      "icon_url": "./images/roblox/6270290407.png"
+      "icon_url": "./images/roblox/6270290407.png",
+      "description": "&#x1F44D; Like the game for free codes and rewards! &#x1F465; Join our community server to stay up to date with news, updates, and exclusive rewards! &#x2694;&#xFE0F; A stylized fighting game in which...",
+      "game_type_en": "Battle Royale"
     },
     {
       "placeId": 115893378298440,
@@ -7589,7 +7741,9 @@
       "active_days": 8,
       "peak_date": "2026-03-14",
       "store_url": "https://www.roblox.com/games/115893378298440",
-      "icon_url": "./images/roblox/115893378298440.png"
+      "icon_url": "./images/roblox/115893378298440.png",
+      "description": "Welcome to Titan Fishing! This game is inspired by the movie &#x201C;C&#xE2;u C&#xE1; V&#x1EA1;n C&#xE2;n&#x201D;, known in English as &#x201C;Fishing for Ten Thousand Pounds.&#x201D; Go and learn ult...",
+      "game_type_en": ""
     },
     {
       "placeId": 14518422161,
@@ -7611,7 +7765,9 @@
       "active_days": 0,
       "peak_date": "",
       "store_url": "https://www.roblox.com/games/14518422161",
-      "icon_url": "./images/roblox/14518422161.png"
+      "icon_url": "./images/roblox/14518422161.png",
+      "description": "&#x1F9E8; DEAL DOUBLE DAMAGE &#x1F9E8; When you play with your friends! &#x1F4A3; &#x2B50; Eliminate other players and level up! &#x1F4B0; Level up to earn more Credits! &#x2622;&#xFE0F; Try to get a ...",
+      "game_type_en": "Battle Royale"
     },
     {
       "placeId": 120564326011184,
@@ -7641,7 +7797,9 @@
       "active_days": 9,
       "peak_date": "2026-03-07",
       "store_url": "https://www.roblox.com/games/120564326011184",
-      "icon_url": "./images/roblox/120564326011184.png"
+      "icon_url": "./images/roblox/120564326011184.png",
+      "description": "Welcome to Be a YouTuber! &#x1F534;&#x1F3A5; start small &#x2192; build big &#x2192; get rich. How to Play: &#x1F4F7; Record videos! &#x1F4C1;Upload videos & earn CASH! &#x1F4B8; Buy YouTubers who wor...",
+      "game_type_en": "Battle Royale"
     },
     {
       "placeId": 119987266683883,
@@ -7714,7 +7872,9 @@
       "active_days": 50,
       "peak_date": "2026-02-28",
       "store_url": "https://www.roblox.com/games/119987266683883",
-      "icon_url": "./images/roblox/119987266683883.png"
+      "icon_url": "./images/roblox/119987266683883.png",
+      "description": "Welcome to Survive LAVA For Brainrots! &#x1F525; Run fast and grab Brainrots! &#x1F3C3; Avoid the rising lava! &#x1F30B; Rebirth to upgrade your jump height!&#x26A1; Upgrade your Brainrots to earn mor...",
+      "game_type_en": "Steal Game"
     },
     {
       "placeId": 16146832113,
@@ -7866,7 +8026,9 @@
       "active_days": 129,
       "peak_date": "2026-02-28",
       "store_url": "https://www.roblox.com/games/16146832113",
-      "icon_url": "./images/roblox/16146832113.png"
+      "icon_url": "./images/roblox/16146832113.png",
+      "description": "Welcome To Anime Vanguards! &#x2728; All the worlds and universes need your help! An event has caused multiple worlds to collide. Summon units to fight these enemies and save these worlds and embark o...",
+      "game_type_en": "Battle Royale"
     },
     {
       "placeId": 102669100769936,
@@ -7912,7 +8074,9 @@
       "active_days": 25,
       "peak_date": "2026-02-28",
       "store_url": "https://www.roblox.com/games/102669100769936",
-      "icon_url": "./images/roblox/102669100769936.png"
+      "icon_url": "./images/roblox/102669100769936.png",
+      "description": "67 has escaped and wants to break into your house! How to Play: &#x23EB;Upgrade door and turrets &#x1F6AA;Prevent 67 from breaking into your base &#x1F497;Survive and defeat the 67 worm",
+      "game_type_en": "Escape"
     },
     {
       "placeId": 137233438285284,
@@ -7944,7 +8108,9 @@
       "active_days": 11,
       "peak_date": "2026-07-04",
       "store_url": "https://www.roblox.com/games/137233438285284",
-      "icon_url": "./images/roblox/137233438285284.png"
+      "icon_url": "./images/roblox/137233438285284.png",
+      "description": "&#x1F414; Welcome to Chicken Farm! &#x1F95A; &#x1F423; Buy Chickens and start farming! &#x1F4B5; Convert Eggs into Cash &#x1F500; Merge Chickens to unlock rarer ones! &#x1F95A; Build the ultimate Chic...",
+      "game_type_en": ""
     },
     {
       "placeId": 78326551441316,
@@ -7970,7 +8136,9 @@
       "active_days": 2,
       "peak_date": "2026-03-05",
       "store_url": "https://www.roblox.com/games/78326551441316",
-      "icon_url": "./images/roblox/78326551441316.png"
+      "icon_url": "./images/roblox/78326551441316.png",
+      "description": "Welcome to Escape Getting Crushed For Brainrots Don't get crushed while collecting as many Brainrots as you can. Stay alert, move fast, and build your way to success! How to play: &#x1F3C3; Run, dodge...",
+      "game_type_en": "Steal Game"
     },
     {
       "placeId": 74277864669743,
@@ -8008,7 +8176,9 @@
       "active_days": 15,
       "peak_date": "2026-03-21",
       "store_url": "https://www.roblox.com/games/74277864669743",
-      "icon_url": "./images/roblox/74277864669743.png"
+      "icon_url": "./images/roblox/74277864669743.png",
+      "description": "Welcome to Fly For Brainrots &#x1FA81; 1. Fly and Steal Brainrots hidden on platforms! &#x26A0;&#xFE0F; 2. Don't get caught by the Guards! &#x1F46E; 3. Bring them back to your Base to earn Cash! &#x1F...",
+      "game_type_en": "Steal Game"
     },
     {
       "placeId": 86852362398411,
@@ -8037,7 +8207,9 @@
       "active_days": 8,
       "peak_date": "2026-06-13",
       "store_url": "https://www.roblox.com/games/86852362398411",
-      "icon_url": "./images/roblox/86852362398411.png"
+      "icon_url": "./images/roblox/86852362398411.png",
+      "description": "Piggy: Intercity is a multiplayer, choice-driven open world RPG! Explore, meet characters, play minigames, and build your own base to survive the infection that has devastated Evalia! But remember, ev...",
+      "game_type_en": "Survival Horror"
     },
     {
       "placeId": 3351674303,
@@ -8185,7 +8357,9 @@
       "active_days": 127,
       "peak_date": "2026-02-27",
       "store_url": "https://www.roblox.com/games/3351674303",
-      "icon_url": "./images/roblox/3351674303.png"
+      "icon_url": "./images/roblox/3351674303.png",
+      "description": "Welcome to Driving Empire, the #1 driving experience on Roblox! &#x2757;Latest Update | JULY 10, 2026 &#x2757; &#x1FA96;Military Transport Helicopter &#x1FA96;Aircraft Carrier &#x1F697; 2026 Devel 60 ...",
+      "game_type_en": "Roleplay"
     },
     {
       "placeId": 108533757090220,
@@ -8309,7 +8483,9 @@
       "active_days": 100,
       "peak_date": "2026-04-25",
       "store_url": "https://www.roblox.com/games/108533757090220",
-      "icon_url": "./images/roblox/108533757090220.png"
+      "icon_url": "./images/roblox/108533757090220.png",
+      "description": "&#x1F33B; Assemble a Garden Tower Defense army to defeat the swarms of Enemies and defend your Base. Will you have what it takes to survive? &#x1F33B;Over 350 Plants, Flowers and MORE to grow, each wi...",
+      "game_type_en": "Tower Defense"
     },
     {
       "placeId": 9872472334,
@@ -8459,7 +8635,9 @@
       "active_days": 129,
       "peak_date": "2026-03-14",
       "store_url": "https://www.roblox.com/games/9872472334",
-      "icon_url": "./images/roblox/9872472334.png"
+      "icon_url": "./images/roblox/9872472334.png",
+      "description": "&#x1F480; 3D Nextbots are here! Hide from the sightlines of Trollge, Defect, Bacteria, Rolling Giant, and more! Action parkour game, where movement is the key to success in surviving the Nextbots. &#x...",
+      "game_type_en": "Escape"
     },
     {
       "placeId": 119524908037342,
@@ -8481,7 +8659,9 @@
       "active_days": 1,
       "peak_date": "2026-03-03",
       "store_url": "https://www.roblox.com/games/119524908037342",
-      "icon_url": "./images/roblox/119524908037342.png"
+      "icon_url": "./images/roblox/119524908037342.png",
+      "description": "NEW PUSH CART MODE! 90&#x2B; Unique Encounters! 100&#x2B; Badges! Quick chat support! Total Endings: &#x2B;24 Normal Mode &#x2B;12 Food Delivery Rider Mode &#x2B;10 Ramadhan Anomalies Mode &#x2B;14 Ca...",
+      "game_type_en": "Obby"
     },
     {
       "placeId": 86754403332185,
@@ -8503,7 +8683,9 @@
       "active_days": 1,
       "peak_date": "2026-03-15",
       "store_url": "https://www.roblox.com/games/86754403332185",
-      "icon_url": "./images/roblox/86754403332185.png"
+      "icon_url": "./images/roblox/86754403332185.png",
+      "description": "Steal a Clown",
+      "game_type_en": "Steal Game"
     },
     {
       "placeId": 116495829188952,
@@ -8652,7 +8834,9 @@
       "active_days": 128,
       "peak_date": "2026-04-03",
       "store_url": "https://www.roblox.com/games/116495829188952",
-      "icon_url": "./images/roblox/116495829188952.png"
+      "icon_url": "./images/roblox/116495829188952.png",
+      "description": "In 1899, a mysterious virus swept the American continent. Dubbed the &#x2018;Zombie Plague&#x2019;, a cure was discovered in Mexico. Gather your friends and board your trains to fight through the zomb...",
+      "game_type_en": "Battle Royale"
     },
     {
       "placeId": 99567941238278,
@@ -8792,7 +8976,9 @@
       "active_days": 119,
       "peak_date": "2026-05-31",
       "store_url": "https://www.roblox.com/games/99567941238278",
-      "icon_url": "./images/roblox/99567941238278.png"
+      "icon_url": "./images/roblox/99567941238278.png",
+      "description": "&#x1F195; NEW: ANNIVERSARY UPDATE &#x2B; ADMIN ABUSE REWORK &#x1F991; Survive deadly challenges inspired by Squid Game. &#x1F3C6; Be the last one standing or rebel and escape with all your friends. &#...",
+      "game_type_en": "Escape"
     },
     {
       "placeId": 98664161516921,
@@ -8940,7 +9126,9 @@
       "active_days": 127,
       "peak_date": "2026-03-13",
       "store_url": "https://www.roblox.com/games/98664161516921",
-      "icon_url": "./images/roblox/98664161516921.png"
+      "icon_url": "./images/roblox/98664161516921.png",
+      "description": "Welcome to Catch a Monster! How to Play: &#x2694;&#xFE0F; Defeat wild monsters in battle &#x1F52E; Capture them and collect them! &#x2B50; Discover and collect higher-rank pets &#x1F95A; Find rare egg...",
+      "game_type_en": "Battle Royale"
     },
     {
       "placeId": 83499829716554,
@@ -8988,7 +9176,9 @@
       "active_days": 1,
       "peak_date": "2026-03-09",
       "store_url": "https://www.roblox.com/games/2727067538",
-      "icon_url": "./images/roblox/2727067538.png"
+      "icon_url": "./images/roblox/2727067538.png",
+      "description": "Play to complete quests, raid dungeons, fight dangerous bosses, unlock new powerful classes, and collect lots of loot! Experience the epic adventures of World // Zero! Can you become a Hero? &#x1F30E;...",
+      "game_type_en": "Battle Royale"
     },
     {
       "placeId": 5233782396,
@@ -9138,7 +9328,9 @@
       "active_days": 129,
       "peak_date": "2026-06-13",
       "store_url": "https://www.roblox.com/games/5233782396",
-      "icon_url": "./images/roblox/5233782396.png"
+      "icon_url": "./images/roblox/5233782396.png",
+      "description": "&#x1F996; Start as a young, weak creature and become stronger and explore this immersive survival experience for food and water! Will you survive? &#x1F31F; Favorite the game and join Sonar Studios' f...",
+      "game_type_en": "Survival Horror"
     },
     {
       "placeId": 106772177198260,
@@ -9170,7 +9362,9 @@
       "active_days": 9,
       "peak_date": "2026-03-14",
       "store_url": "https://www.roblox.com/games/106772177198260",
-      "icon_url": "./images/roblox/106772177198260.png"
+      "icon_url": "./images/roblox/106772177198260.png",
+      "description": "&#x2728; Welcome to Reel a Brainrot! &#x2728; &#x1F41F; Throw fishing rod and catch Brainrots! &#x1F4AA; Upgrade your Power to throw further! &#x1F4B8; Upgrade your Brainrots and Base! &#x1F3A3; Buy b...",
+      "game_type_en": "Steal Game"
     },
     {
       "placeId": 109578395590751,
@@ -9214,7 +9408,9 @@
       "active_days": 21,
       "peak_date": "2026-06-28",
       "store_url": "https://www.roblox.com/games/109578395590751",
-      "icon_url": "./images/roblox/109578395590751.png"
+      "icon_url": "./images/roblox/109578395590751.png",
+      "description": "&#x1F308; Join the group for a FREE pet in-game! &#x1F308; &#x1F3D7;&#xFE0F; Welcome to &#x2B;1 Speed Brick Escape! &#x1F3D7;&#xFE0F; &#x26A1; Gain &#x2B;1 Brick every step you take &#x1F45F; Run fast...",
+      "game_type_en": "Obby"
     },
     {
       "placeId": 120450743769548,
@@ -9244,7 +9440,9 @@
       "active_days": 9,
       "peak_date": "2026-07-05",
       "store_url": "https://www.roblox.com/games/120450743769548",
-      "icon_url": "./images/roblox/120450743769548.png"
+      "icon_url": "./images/roblox/120450743769548.png",
+      "description": "&#x1F44D;LIKE &#x2B; JOIN GROUP&#x1F44D; PC Controls: E - Interact F - Drop T - Wipe Save Click - Place Console Controls: RT - Interact B/O - Drop RT - Place D-Pad - Abilities The supermarket is in co...",
+      "game_type_en": ""
     },
     {
       "placeId": 97416586135902,
@@ -9401,7 +9599,9 @@
       "active_days": 111,
       "peak_date": "2026-06-20",
       "store_url": "https://www.roblox.com/games/13076380114",
-      "icon_url": "./images/roblox/13076380114.png"
+      "icon_url": "./images/roblox/13076380114.png",
+      "description": "This update: LOVESICK KILLER ULT & RELEASE, NEW EMOTES, BUG FIXES & QOL UPDATES -- Fight to become the #1 Hero or Villain. &#x1F3AE; This experience works on all devices (CONSOLE, PC, MOBILE). &#x2764...",
+      "game_type_en": "Obby"
     },
     {
       "placeId": 98364775079878,
@@ -9463,7 +9663,9 @@
       "active_days": 8,
       "peak_date": "2026-02-27",
       "store_url": "https://www.roblox.com/games/130342654546662",
-      "icon_url": "./images/roblox/130342654546662.png"
+      "icon_url": "./images/roblox/130342654546662.png",
+      "description": "Selamat Datang di Sambung Kata! Tantang temanmu menebak kata selanjutnya dari huruf terakhir kata sebelumnya! &#x1F31F; Aturan mainnya sederhana: - Pemain pertama menyebutkan sebuah kata. - Pemain ber...",
+      "game_type_en": ""
     },
     {
       "placeId": 70411440483149,
@@ -9519,7 +9721,9 @@
       "active_days": 35,
       "peak_date": "2026-07-05",
       "store_url": "https://www.roblox.com/games/70411440483149",
-      "icon_url": "./images/roblox/70411440483149.png"
+      "icon_url": "./images/roblox/70411440483149.png",
+      "description": "Inspired by 99 Nights in The Forest created by Grandma's Favorite Games &#x1F3F4;&#x200D;&#x2620;&#xFE0F; You are sent on a mission to the middle of the ocean. &#x1F3F4;&#x200D;&#x2620;&#xFE0F; You mu...",
+      "game_type_en": "Tower Defense"
     },
     {
       "placeId": 83569851223739,
@@ -9574,7 +9778,9 @@
       "active_days": 34,
       "peak_date": "2026-06-19",
       "store_url": "https://www.roblox.com/games/83569851223739",
-      "icon_url": "./images/roblox/83569851223739.png"
+      "icon_url": "./images/roblox/83569851223739.png",
+      "description": "&#x1F98A; Welcome to &#x2B;1 Speed Evolve &#x1F3C3;&#x200D;&#x2642;&#xFE0F;&#x200D;&#x27A1;&#xFE0F; Gain &#x2B;1 speed every step &#x1F43F;&#xFE0F; Evolve into faster animals &#x1F414; Each evolution ...",
+      "game_type_en": "Speed Run"
     },
     {
       "placeId": 893973440,
@@ -9720,7 +9926,9 @@
       "active_days": 125,
       "peak_date": "2026-03-16",
       "store_url": "https://www.roblox.com/games/893973440",
-      "icon_url": "./images/roblox/893973440.png"
+      "icon_url": "./images/roblox/893973440.png",
+      "description": "RUN, HIDE, ESCAPE! Run from the beast, unlock the exits, and flee the facility! This game runs well on phones, tablets, PC, Xbox, and PlayStation. &#x1F4CB;GAME RULES&#x1F4CB; https://devforum.roblox....",
+      "game_type_en": "Escape"
     },
     {
       "placeId": 6961824067,
@@ -9870,7 +10078,9 @@
       "active_days": 129,
       "peak_date": "2026-06-13",
       "store_url": "https://www.roblox.com/games/6961824067",
-      "icon_url": "./images/roblox/6961824067.png"
+      "icon_url": "./images/roblox/6961824067.png",
+      "description": "A place where you can play with or fling various objects and players.",
+      "game_type_en": ""
     },
     {
       "placeId": 84259959693333,
@@ -9917,7 +10127,9 @@
       "active_days": 24,
       "peak_date": "2026-04-10",
       "store_url": "https://www.roblox.com/games/84259959693333",
-      "icon_url": "./images/roblox/84259959693333.png"
+      "icon_url": "./images/roblox/84259959693333.png",
+      "description": "Welcome to Skateboard for Brainrots! &#x1F6F9; 1. Use your Skateboard to reach OP Brainrots! 2. Make sure not to fall into the void!&#x1F93E;&#x200D;&#x2642;&#xFE0F; 3. Bring brainrots back to your Ba...",
+      "game_type_en": "Steal Game"
     },
     {
       "placeId": 119387352850421,
@@ -9967,7 +10179,9 @@
       "active_days": 6,
       "peak_date": "2026-07-05",
       "store_url": "https://www.roblox.com/games/128736949265057",
-      "icon_url": "./images/roblox/128736949265057.png"
+      "icon_url": "./images/roblox/128736949265057.png",
+      "description": "May, 2007 - Japan An INTENDED Slice of Life experience (though I guess our community just loves to fight LOL)",
+      "game_type_en": "Battle Royale"
     },
     {
       "placeId": 82524183928567,
@@ -10008,7 +10222,9 @@
       "active_days": 20,
       "peak_date": "2026-07-03",
       "store_url": "https://www.roblox.com/games/82524183928567",
-      "icon_url": "./images/roblox/82524183928567.png"
+      "icon_url": "./images/roblox/82524183928567.png",
+      "description": "UPDATE: -Added Console Support -Added Auto Reveal feature -Added 3 additional LIMITBREAKER cards -Added 8 Hour quests for Refresh/Rerolls Code: CONSOLE OVER 1000 PLAYERS TO COLLECT! From 1970 to today...",
+      "game_type_en": "Battle Royale"
     },
     {
       "placeId": 105742951729183,
@@ -10047,7 +10263,9 @@
       "active_days": 18,
       "peak_date": "2026-05-23",
       "store_url": "https://www.roblox.com/games/105742951729183",
-      "icon_url": "./images/roblox/105742951729183.png"
+      "icon_url": "./images/roblox/105742951729183.png",
+      "description": "Welcome to Race Your Lucky Block! UPDATES EVERY SATURDAY! &#x26F0;&#xFE0F; Go to further destinations for better luck! &#x1F3C3; Open The Lucky Block In the end of the race! &#x1F4B8; Collect Brainrot...",
+      "game_type_en": "Steal Game"
     },
     {
       "placeId": 93404836354142,
@@ -10124,7 +10342,9 @@
       "active_days": 24,
       "peak_date": "2026-07-04",
       "store_url": "https://www.roblox.com/games/119822977170203",
-      "icon_url": "./images/roblox/119822977170203.png"
+      "icon_url": "./images/roblox/119822977170203.png",
+      "description": "Welcome to Power Blast Lucky Blocks! &#x1F4A5; &#x1F9F1; Blast your lucky block through walls for Brainrots &#x1F31F;Use your aura to increase Power &#x1F4B5; Your Brainrots earn cash offline &#x2764;...",
+      "game_type_en": "Steal Game"
     },
     {
       "placeId": 12334109280,
@@ -10237,7 +10457,9 @@
       "active_days": 92,
       "peak_date": "2026-06-27",
       "store_url": "https://www.roblox.com/games/12334109280",
-      "icon_url": "./images/roblox/12334109280.png"
+      "icon_url": "./images/roblox/12334109280.png",
+      "description": "v0.17.9a Guts & Blackpowder is a game taking place during the Napoleonic Wars with the undead zombie masses rising from the ground. A group of survivors must hold out against the horde, only armed wit...",
+      "game_type_en": "Battle Royale"
     },
     {
       "placeId": 105281019603659,
@@ -10273,7 +10495,9 @@
       "active_days": 15,
       "peak_date": "2026-07-02",
       "store_url": "https://www.roblox.com/games/105281019603659",
-      "icon_url": "./images/roblox/105281019603659.png"
+      "icon_url": "./images/roblox/105281019603659.png",
+      "description": "&#x1F44B; Welcome to Paint To Hide! &#x1F3A8; &#x1F58C;&#xFE0F; Paint yourself into the map and disappear. Can you hide in plain sight? &#x1FAE3; As Hider: Paint yourself to blend into the map. DON'T ...",
+      "game_type_en": "Survival Horror"
     },
     {
       "placeId": 537413528,
@@ -10418,7 +10642,9 @@
       "active_days": 124,
       "peak_date": "2026-06-20",
       "store_url": "https://www.roblox.com/games/537413528",
-      "icon_url": "./images/roblox/537413528.png"
+      "icon_url": "./images/roblox/537413528.png",
+      "description": "Build your ship and set sail for your adventure!&#xD; &#xD; Liked the game? Don't forget to leave a Thumbs Up(&#x1F44D;) and Favorite(&#x1F31F;) . Thank you!&#xD; &#xD; Don't forget to check out our g...",
+      "game_type_en": ""
     },
     {
       "placeId": 86479448397834,
@@ -10534,7 +10760,9 @@
       "active_days": 95,
       "peak_date": "2026-05-02",
       "store_url": "https://www.roblox.com/games/86479448397834",
-      "icon_url": "./images/roblox/86479448397834.png"
+      "icon_url": "./images/roblox/86479448397834.png",
+      "description": "How to Play: &#x1F52A; Kill Zombies &#x1F967; Bake &#x1F50D; Explore & Save People &#x2764;&#xFE0F;&#x200D;&#x1FA79; Will you Survive? Like the game and join the group! &#x1F44D;",
+      "game_type_en": "Survival Horror"
     },
     {
       "placeId": 1537690962,
@@ -10687,7 +10915,9 @@
       "active_days": 129,
       "peak_date": "2026-02-28",
       "store_url": "https://www.roblox.com/games/1537690962",
-      "icon_url": "./images/roblox/1537690962.png"
+      "icon_url": "./images/roblox/1537690962.png",
+      "description": "Grow your own swarm of bees, collect pollen, and make honey in Bee Swarm Simulator! Meet friendly bears, complete their quests and get rewards! As your hive grows larger and larger, you can explore fu...",
+      "game_type_en": "Simulator"
     },
     {
       "placeId": 71812071769179,
@@ -10713,7 +10943,9 @@
       "active_days": 2,
       "peak_date": "2026-03-03",
       "store_url": "https://www.roblox.com/games/71812071769179",
-      "icon_url": "./images/roblox/71812071769179.png"
+      "icon_url": "./images/roblox/71812071769179.png",
+      "description": "Welcome to Escape Guards to Steal Brainrots! &#x1F9E0; Run fast and steal Brainrots! &#x1F3C3; When the guards come, run for your life! &#x1F6E1;&#xFE0F; Stay alive and collect many Brainrots! &#x26A1...",
+      "game_type_en": "Steal Game"
     },
     {
       "placeId": 14067600077,
@@ -10761,7 +10993,9 @@
       "active_days": 27,
       "peak_date": "2026-05-10",
       "store_url": "https://www.roblox.com/games/14067600077",
-      "icon_url": "./images/roblox/14067600077.png"
+      "icon_url": "./images/roblox/14067600077.png",
+      "description": "Controls: Left Alt - Shift-lock Ctrl &#x2B; K - Monster transformations/Mask rip J - Reaper weapon Ctrl &#x2B; J - Reaper transformation/Monster transformation Q - Dash Z X C - Element / Vollstandig M...",
+      "game_type_en": "Obby"
     },
     {
       "placeId": 111989938562194,
@@ -10830,7 +11064,9 @@
       "active_days": 46,
       "peak_date": "2026-03-07",
       "store_url": "https://www.roblox.com/games/111989938562194",
-      "icon_url": "./images/roblox/111989938562194.png"
+      "icon_url": "./images/roblox/111989938562194.png",
+      "description": "Welcome to Brainrot Evolution! UPDATES EVERY SATURDAY! &#x2694;&#xFE0F; Eat to gain levels! &#x1F9EC; Gain levels to unlock new Brainrot Evolutions! &#x1F3C6; Collect Wins & Pets! PREMIUM PLAYERS GET ...",
+      "game_type_en": "Steal Game"
     },
     {
       "placeId": 98800969324557,
@@ -10864,7 +11100,9 @@
       "active_days": 13,
       "peak_date": "2026-06-28",
       "store_url": "https://www.roblox.com/games/98800969324557",
-      "icon_url": "./images/roblox/98800969324557.png"
+      "icon_url": "./images/roblox/98800969324557.png",
+      "description": "&#x1F4B0; Welcome to Storage Hunters Open World &#x1F4B0; Storage Hunters is an open-world auction adventure where every locker could treasure! Bid on auctions, grab your loot, load up your vehicle, a...",
+      "game_type_en": "Mystery"
     },
     {
       "placeId": 97387256206808,
@@ -10923,7 +11161,9 @@
       "active_days": 38,
       "peak_date": "2026-06-06",
       "store_url": "https://www.roblox.com/games/97387256206808",
-      "icon_url": "./images/roblox/97387256206808.png"
+      "icon_url": "./images/roblox/97387256206808.png",
+      "description": "&#x2B50; Join our community server to stay up to date with news, updates, and exclusive reward codes! &#x2694;&#xFE0F; BrokenBlade Max Level: 15000 BrokenBlade is a super fast ARPG in a shattered Nord...",
+      "game_type_en": "Battle Royale"
     },
     {
       "placeId": 185655149,
@@ -11070,7 +11310,9 @@
       "active_days": 126,
       "peak_date": "2026-04-26",
       "store_url": "https://www.roblox.com/games/185655149",
-      "icon_url": "./images/roblox/185655149.png"
+      "icon_url": "./images/roblox/185655149.png",
+      "description": "&#x1F44B; Welcome to the town of Bloxburg, where you can be anything you want to be! &#x1F3E1; Build and decorate, or buy the house or creation of your dreams! &#x1F455; Customize your character with ...",
+      "game_type_en": "Roleplay"
     },
     {
       "placeId": 123662243100680,
@@ -11155,7 +11397,9 @@
       "active_days": 62,
       "peak_date": "2026-03-07",
       "store_url": "https://www.roblox.com/games/123662243100680",
-      "icon_url": "./images/roblox/123662243100680.png"
+      "icon_url": "./images/roblox/123662243100680.png",
+      "description": "Welcome to SpongeBob Tower Defense! &#x1F30A;&#x1F34D; &#x1F9FD; Suit up with SpongeBob, Patrick, and the whole crew in this action-packed tower defense game where the stakes have never been higher! L...",
+      "game_type_en": "Tower Defense"
     },
     {
       "placeId": 135807790398223,
@@ -11187,7 +11431,9 @@
       "active_days": 9,
       "peak_date": "2026-06-21",
       "store_url": "https://www.roblox.com/games/135807790398223",
-      "icon_url": "./images/roblox/135807790398223.png"
+      "icon_url": "./images/roblox/135807790398223.png",
+      "description": "Check out &#x2B;1 Squish a Dumpling Escape!. It&#x2019;s one of the millions of unique, user-generated 3D experiences created on Roblox.",
+      "game_type_en": "Escape"
     },
     {
       "placeId": 17516596118,
@@ -11335,7 +11581,9 @@
       "active_days": 127,
       "peak_date": "2026-05-25",
       "store_url": "https://www.roblox.com/games/17516596118",
-      "icon_url": "./images/roblox/17516596118.png"
+      "icon_url": "./images/roblox/17516596118.png",
+      "description": "&#x2728;Welcome to Hypershot!&#x2728; Jump into our intense and fast paced first person gunfight shooter where skill, style, and chaos rule supreme! &#x1F3C6;Dominate in intense classic gamemodes such...",
+      "game_type_en": "Obby"
     },
     {
       "placeId": 94647229517154,
@@ -11435,7 +11683,9 @@
       "active_days": 79,
       "peak_date": "2026-06-28",
       "store_url": "https://www.roblox.com/games/94647229517154",
-      "icon_url": "./images/roblox/94647229517154.png"
+      "icon_url": "./images/roblox/94647229517154.png",
+      "description": "This unofficial, fan-made game was created by devoted Blue Lock fans to celebrate the anime and share it with a wider community, spreading our passion and appreciation for the series! M1 - shot 1,2,3,...",
+      "game_type_en": "Anime"
     },
     {
       "placeId": 113236157544232,
@@ -11528,7 +11778,9 @@
       "active_days": 11,
       "peak_date": "2026-07-04",
       "store_url": "https://www.roblox.com/games/102054284786904",
-      "icon_url": "./images/roblox/102054284786904.png"
+      "icon_url": "./images/roblox/102054284786904.png",
+      "description": "Scan passengers. Stop threats. Defend the airport. &#x1F6A8; &#x1F50D; Scan passengers with advanced security equipment &#x1F9F3; Search luggage for prohibited items &#x1F4CB; Verify passports and boa...",
+      "game_type_en": "Battle Royale"
     },
     {
       "placeId": 86378115369061,
@@ -11575,7 +11827,9 @@
       "active_days": 23,
       "peak_date": "2026-06-20",
       "store_url": "https://www.roblox.com/games/86378115369061",
-      "icon_url": "./images/roblox/86378115369061.png"
+      "icon_url": "./images/roblox/86378115369061.png",
+      "description": "Welcome to &#x2B;1 Backflip Obby Escape 1. Backflip your way through challenging obstacles. 2. Beat levels and earn Wins as you go higher and farther. 3. Unlock powerful Boots for more Speed. &#x1F44D...",
+      "game_type_en": "Obby"
     },
     {
       "placeId": 3663340706,
@@ -11601,7 +11855,9 @@
       "active_days": 3,
       "peak_date": "2026-03-15",
       "store_url": "https://www.roblox.com/games/3663340706",
-      "icon_url": "./images/roblox/3663340706.png"
+      "icon_url": "./images/roblox/3663340706.png",
+      "description": "Create your own Warrior Cats and roleplay in this official game based on \"Warriors\", The New York Times best-selling series of fantasy books. Warrior Cats: Ultimate Edition brings the \"Warriors\" serie...",
+      "game_type_en": "Roleplay"
     },
     {
       "placeId": 90738171169572,
@@ -11648,7 +11904,9 @@
       "active_days": 23,
       "peak_date": "2026-03-08",
       "store_url": "https://www.roblox.com/games/90738171169572",
-      "icon_url": "./images/roblox/90738171169572.png"
+      "icon_url": "./images/roblox/90738171169572.png",
+      "description": "&#x1F4A0; Ready to command your squad and save the multiverse? Join Anime Tactical and begin your legendary journey! &#x1F30C; Jump into anime-inspired worlds and take on thrilling adventures! &#x2694...",
+      "game_type_en": "Obby"
     },
     {
       "placeId": 125724255179297,
@@ -11705,7 +11963,9 @@
       "active_days": 10,
       "peak_date": "2026-05-09",
       "store_url": "https://www.roblox.com/games/75462869229229",
-      "icon_url": "./images/roblox/75462869229229.png"
+      "icon_url": "./images/roblox/75462869229229.png",
+      "description": "NEXT CODE AT 250K LIKES&#x1F44D; SUPER FUN SOCCER GAME, 5V5 MATCHES, ANIME INSPIRED, FUN AND EASY TO PLAY! NOTE: The game is in BETA, expect bugs, lots of patches, etc. We update often! CONTROLS: Kick...",
+      "game_type_en": "Anime"
     },
     {
       "placeId": 3475397644,
@@ -11837,7 +12097,9 @@
       "active_days": 111,
       "peak_date": "2026-03-13",
       "store_url": "https://www.roblox.com/games/3475397644",
-      "icon_url": "./images/roblox/3475397644.png"
+      "icon_url": "./images/roblox/3475397644.png",
+      "description": "Embark on the adventure of a lifetime in Dragon Adventures, the ultimate pet dragon taming RPG! Explore breathtaking worlds filled with majestic dragons and hidden treasures. Will you rise to become a...",
+      "game_type_en": "Battle Royale"
     },
     {
       "placeId": 111530421351096,
@@ -11859,7 +12121,9 @@
       "active_days": 1,
       "peak_date": "2026-03-06",
       "store_url": "https://www.roblox.com/games/111530421351096",
-      "icon_url": "./images/roblox/111530421351096.png"
+      "icon_url": "./images/roblox/111530421351096.png",
+      "description": "PLAY HERE: https://www.roblox.com/games/108124933582607/You-VS-Homer NEW GROUP: https://www.roblox.com/communities/33760527/dgk-enterprises SHUTDOWN = YOU REJOIN Survive and hide as a Bart with your f...",
+      "game_type_en": "Escape"
     },
     {
       "placeId": 6872265039,
@@ -12011,7 +12275,9 @@
       "active_days": 129,
       "peak_date": "2026-03-08",
       "store_url": "https://www.roblox.com/games/6872265039",
-      "icon_url": "./images/roblox/6872265039.png"
+      "icon_url": "./images/roblox/6872265039.png",
+      "description": "&#x1F525;&#x1F525; Updates are every FRIDAY at 3:00pm PDT, 6:00pm EDT &#x1F525;&#x1F525; &#x1F3AE; Dive into over 10&#x2B; thrilling modes like Bed Wars, Lucky Block, SkyWars, Infected, and more! &#x2...",
+      "game_type_en": "Obby"
     },
     {
       "placeId": 136919941417380,
@@ -12054,7 +12320,9 @@
       "active_days": 19,
       "peak_date": "2026-04-18",
       "store_url": "https://www.roblox.com/games/136919941417380",
-      "icon_url": "./images/roblox/136919941417380.png"
+      "icon_url": "./images/roblox/136919941417380.png",
+      "description": "Welcome to Bike Obby For Brainrots! &#x1F6B4; &#x26A1;Ride fast and balance your Bike! &#x1F93E;&#x200D;&#x2642;&#xFE0F;Jump across crazy Obby stages! &#x1F480; Don&#x2019;t fall into the void! &#x1F4...",
+      "game_type_en": "Steal Game"
     },
     {
       "placeId": 130739873848552,
@@ -12189,7 +12457,9 @@
       "active_days": 114,
       "peak_date": "2026-03-14",
       "store_url": "https://www.roblox.com/games/130739873848552",
-      "icon_url": "./images/roblox/130739873848552.png"
+      "icon_url": "./images/roblox/130739873848552.png",
+      "description": "THIS IS A COOL BASKETBALL GAME, ITS 5V5 BASKETBALL, FAST PACED AND EASY TO PLAY! Choose a character class with unique abilities and dominate the court with your AURA! CONTROLS: Shoot &#x2013; (Hold) L...",
+      "game_type_en": "Speed Run"
     },
     {
       "placeId": 131756752872026,
@@ -12226,7 +12496,9 @@
       "active_days": 16,
       "peak_date": "2026-05-02",
       "store_url": "https://www.roblox.com/games/131756752872026",
-      "icon_url": "./images/roblox/131756752872026.png"
+      "icon_url": "./images/roblox/131756752872026.png",
+      "description": "&#x1F4B5;&#x23F0;FISH MAKE CASH OFFLINE&#x23F0;&#x1F4B5; [How to Play] &#x1F41F; | Dive and catch Fish! &#x1F3EA; | Put Fish in Aquarium! &#x1F4B8; | Fish Generate Money! &#x23F0; | Fish Age! &#x1F44D...",
+      "game_type_en": ""
     },
     {
       "placeId": 116223724643557,
@@ -12259,7 +12531,9 @@
       "active_days": 12,
       "peak_date": "2026-07-05",
       "store_url": "https://www.roblox.com/games/116223724643557",
-      "icon_url": "./images/roblox/116223724643557.png"
+      "icon_url": "./images/roblox/116223724643557.png",
+      "description": "USE CODE \"FIXED\" IN GAME FOR A FREE PET! &#x1F525; This is &#x2B;1 Magic Evolution! &#x2728; Every click gives you Magical Power! &#x1F3AF; Train by shooting Training Boulders! &#x1F48E; Click to Leve...",
+      "game_type_en": ""
     },
     {
       "placeId": 14315258385,
@@ -12390,7 +12664,9 @@
       "active_days": 110,
       "peak_date": "2026-07-05",
       "store_url": "https://www.roblox.com/games/14315258385",
-      "icon_url": "./images/roblox/14315258385.png"
+      "icon_url": "./images/roblox/14315258385.png",
+      "description": "If you read this, you should join immediately. Welcome to Realistic Street Soccer! &#x1F4AC; Join the community server through Social Links to keep up with every update! CONTROLS (PC): Hold Left Click...",
+      "game_type_en": "Speed Run"
     },
     {
       "placeId": 137723497878181,
@@ -12416,7 +12692,9 @@
       "active_days": 2,
       "peak_date": "2026-03-04",
       "store_url": "https://www.roblox.com/games/137723497878181",
-      "icon_url": "./images/roblox/137723497878181.png"
+      "icon_url": "./images/roblox/137723497878181.png",
+      "description": "&#x1F631; THE LAVA IS RISING... QUICKLY!!! HOW TO PLAY: &#x1F95A; Run fast and grab Brainrots! &#x1F3C3; Don't die! Run into safezones &#x1F30B; ESCAPE the RISING LAVA! &#x1F4A8; Upgrade your speed BU...",
+      "game_type_en": "Steal Game"
     },
     {
       "placeId": 1458767429,
@@ -12522,7 +12800,9 @@
       "active_days": 85,
       "peak_date": "2026-06-28",
       "store_url": "https://www.roblox.com/games/1458767429",
-      "icon_url": "./images/roblox/1458767429.png"
+      "icon_url": "./images/roblox/1458767429.png",
+      "description": "rate&#x1F44D;if you like aba ANIME BATTLE ARENA Controls: Shift: Sprint Q: Dodge F: Block Basic Attack: Mouse1 Space&#x2B;Mouse1: Aerial Attack Combine Basic Attacks and Aerial Attacks to discover new...",
+      "game_type_en": "Battle Royale"
     },
     {
       "placeId": 91746497060666,
@@ -12578,7 +12858,9 @@
       "active_days": 35,
       "peak_date": "2026-06-16",
       "store_url": "https://www.roblox.com/games/91746497060666",
-      "icon_url": "./images/roblox/91746497060666.png"
+      "icon_url": "./images/roblox/91746497060666.png",
+      "description": "&#x2600;&#xFE0F; Daytime: You&#x2019;re safe&#x2026; for now. &#x1F528; Drag furniture back to your base &#x1F6AA; Unlock new rooms &#x1F355; Scavenge for food &#x2694;&#xFE0F; Gear up with weapons &#...",
+      "game_type_en": "Survival Horror"
     },
     {
       "placeId": 127742093697776,
@@ -12628,7 +12910,9 @@
       "active_days": 27,
       "peak_date": "2026-03-07",
       "store_url": "https://www.roblox.com/games/127742093697776",
-      "icon_url": "./images/roblox/127742093697776.png"
+      "icon_url": "./images/roblox/127742093697776.png",
+      "description": "Defend your base from waves of brainrot enemies in this tower defense strategy game. Assemble your plant defenses and cash in rare brainrots now!",
+      "game_type_en": "Steal Game"
     },
     {
       "placeId": 91177184562415,
@@ -12692,7 +12976,9 @@
       "active_days": 9,
       "peak_date": "2026-07-05",
       "store_url": "https://www.roblox.com/games/110373292461174",
-      "icon_url": "./images/roblox/110373292461174.png"
+      "icon_url": "./images/roblox/110373292461174.png",
+      "description": "Welcome to Paper Plane for Brainrots! &#x2764;&#xFE0F; &#x2708;&#xFE0F; Throw a paper plane & secure a brainrot! &#x1F4B8; Place your brainrot to generate money! &#x1F4AA; Buy weights and train your a...",
+      "game_type_en": "Steal Game"
     },
     {
       "placeId": 99255447043899,
@@ -12742,7 +13028,9 @@
       "active_days": 27,
       "peak_date": "2026-06-27",
       "store_url": "https://www.roblox.com/games/99255447043899",
-      "icon_url": "./images/roblox/99255447043899.png"
+      "icon_url": "./images/roblox/99255447043899.png",
+      "description": "&#x1F36C;&#x1F36B; CANDY & CHOCOLATE KEYBOARD EVENTS STARTS EVERY 1 HOUR AND LASTS FOR 15M Welcome to Become a Brainrot! In this game you get to Be your Favorite Brainrots! &#x2728; &#x1F3F0; Go furth...",
+      "game_type_en": "Steal Game"
     },
     {
       "placeId": 76124655331395,
@@ -12769,7 +13057,9 @@
       "active_days": 6,
       "peak_date": "2026-02-28",
       "store_url": "https://www.roblox.com/games/76124655331395",
-      "icon_url": "./images/roblox/76124655331395.png"
+      "icon_url": "./images/roblox/76124655331395.png",
+      "description": "&#x1F3AF; Welcome to Spear Training! Are you ready to become a legendary marksman? &#x1F680; Train, aim, and hurl your way to glory in this high-octane throwing adventure. Build massive strength, unlo...",
+      "game_type_en": "Simulator"
     },
     {
       "placeId": 16991287194,
@@ -12789,7 +13079,9 @@
       "active_days": 0,
       "peak_date": "",
       "store_url": "https://www.roblox.com/games/16991287194",
-      "icon_url": "./images/roblox/16991287194.png"
+      "icon_url": "./images/roblox/16991287194.png",
+      "description": "You just can't shake the feeling that something evil will happen. something evil will happen is a disaster-survival game heavily inspired by classic games in the same genre. &#x1F329;&#xFE0F; DISASTER...",
+      "game_type_en": "Survival Horror"
     },
     {
       "placeId": 139047487007148,
@@ -12854,7 +13146,9 @@
       "active_days": 16,
       "peak_date": "2026-06-19",
       "store_url": "https://www.roblox.com/games/10834586502",
-      "icon_url": "./images/roblox/10834586502.png"
+      "icon_url": "./images/roblox/10834586502.png",
+      "description": "[UPDATE: CHAPTER 5] The Battle Bricks is a single-player Tower-Defense Styled game where you send units to fight against enemies who are able to fight back. Protect your base and send your units to de...",
+      "game_type_en": "Tower Defense"
     },
     {
       "placeId": 114697347887839,
@@ -12895,7 +13189,9 @@
       "active_days": 18,
       "peak_date": "2026-07-03",
       "store_url": "https://www.roblox.com/games/114697347887839",
-      "icon_url": "./images/roblox/114697347887839.png"
+      "icon_url": "./images/roblox/114697347887839.png",
+      "description": "&#x26A1; Welcome to &#x2B;1 Speed Monkey Escape How to Play: &#x1F412; Jump on walls and run as a Monkey &#x1F45F; Every step makes you faster &#x1F3C6; Overcome obstacles to get wins &#x1F4AA; Unlock...",
+      "game_type_en": "Obby"
     },
     {
       "placeId": 137826330724902,
@@ -13047,7 +13343,9 @@
       "active_days": 129,
       "peak_date": "2026-02-28",
       "store_url": "https://www.roblox.com/games/137826330724902",
-      "icon_url": "./images/roblox/137826330724902.png"
+      "icon_url": "./images/roblox/137826330724902.png",
+      "description": "&#x2728; **Congratulations - you&#x2019;ve been hired!** &#x2728; Welcome to your first night shift at &#x1F32F; \"Shawarma 24\" &#x1F525; The job is simple: Keep the grill hot, serve every order Oh, an...",
+      "game_type_en": "Survival Horror"
     },
     {
       "placeId": 104715542330896,
@@ -13194,7 +13492,9 @@
       "active_days": 126,
       "peak_date": "2026-05-02",
       "store_url": "https://www.roblox.com/games/104715542330896",
-      "icon_url": "./images/roblox/104715542330896.png"
+      "icon_url": "./images/roblox/104715542330896.png",
+      "description": "&#x1F44D;&#x1F44D; Thumbs up the game for more updates! Use code W7C28D for $500 free cash if you're a new player! Spin the block. Grind your way through jobs to unbox random reward cases, and level u...",
+      "game_type_en": "Battle Royale"
     },
     {
       "placeId": 13775256536,
@@ -13259,7 +13559,9 @@
       "active_days": 42,
       "peak_date": "2026-05-02",
       "store_url": "https://www.roblox.com/games/13775256536",
-      "icon_url": "./images/roblox/13775256536.png"
+      "icon_url": "./images/roblox/13775256536.png",
+      "description": "&#x1F6BD; Toilet Tower Defense &#x2694;&#xFE0F; &#x1F31F; Step on a platform to start a match! &#x2694;&#xFE0F; Place cameramen and powerful units to fight back against invading toilets! &#x1F3C6; Bea...",
+      "game_type_en": "Tower Defense"
     },
     {
       "placeId": 118821269826806,
@@ -13309,7 +13611,9 @@
       "active_days": 29,
       "peak_date": "2026-05-22",
       "store_url": "https://www.roblox.com/games/118821269826806",
-      "icon_url": "./images/roblox/118821269826806.png"
+      "icon_url": "./images/roblox/118821269826806.png",
+      "description": "&#x1F9D9;&#x200D;&#x2642;&#xFE0F; Welcome to Wizard Alchemy! &#x2728; Become a wizard and start your magic journey! Collect ingredients. Brew potions. Unlock new spells. Upgrade your power. Explore ma...",
+      "game_type_en": "Battle Royale"
     },
     {
       "placeId": 73001218460360,
@@ -13336,7 +13640,9 @@
       "active_days": 4,
       "peak_date": "2026-03-04",
       "store_url": "https://www.roblox.com/games/73001218460360",
-      "icon_url": "./images/roblox/73001218460360.png"
+      "icon_url": "./images/roblox/73001218460360.png",
+      "description": "Welcome to Escape Tsunami For Poppy Playtime! &#x1F30A; Run fast and grab Poppy Playtime Mobs! &#x1F3C3; Avoid tsunamis when they come! &#x1F30A; Stay alive and collect many Poppy Playtime Mobs! &#x26...",
+      "game_type_en": "Roleplay"
     },
     {
       "placeId": 130925842544951,
@@ -13362,7 +13668,9 @@
       "active_days": 5,
       "peak_date": "2026-06-13",
       "store_url": "https://www.roblox.com/games/130925842544951",
-      "icon_url": "./images/roblox/130925842544951.png"
+      "icon_url": "./images/roblox/130925842544951.png",
+      "description": "&#x1F44D; Dont forget to leave a like and Favorite &#x2B50;",
+      "game_type_en": ""
     },
     {
       "placeId": 90842695067815,
@@ -13382,7 +13690,9 @@
       "active_days": 0,
       "peak_date": "",
       "store_url": "https://www.roblox.com/games/90842695067815",
-      "icon_url": "./images/roblox/90842695067815.png"
+      "icon_url": "./images/roblox/90842695067815.png",
+      "description": "Elevator that stops in time? What's going on here? Try to survive 24 hours in an elevator and solve all its mysteries, but don't forget that the time eater is always hunting for you! &#x1F37D; Keep an...",
+      "game_type_en": "Survival Horror"
     },
     {
       "placeId": 106685450523667,
@@ -13408,7 +13718,9 @@
       "active_days": 3,
       "peak_date": "2026-03-08",
       "store_url": "https://www.roblox.com/games/106685450523667",
-      "icon_url": "./images/roblox/106685450523667.png"
+      "icon_url": "./images/roblox/106685450523667.png",
+      "description": "Welcome to Glide For Brainrots! &#x1FA82;&#x1F30A; &#x1FA82; Grab Brainrots and glide back to safety! &#x1F30A; Don&#x2019;t let the Lava Tsunami catch you mid-flight! &#x26A1; Use boosts to go farthe...",
+      "game_type_en": "Steal Game"
     },
     {
       "placeId": 91342362792031,
@@ -13440,7 +13752,9 @@
       "active_days": 8,
       "peak_date": "2026-03-07",
       "store_url": "https://www.roblox.com/games/91342362792031",
-      "icon_url": "./images/roblox/91342362792031.png"
+      "icon_url": "./images/roblox/91342362792031.png",
+      "description": "&#x1F9E0; Welcome to Jump and Escape Brainrots! Jump high, move fast, and steal powerful Brainrots! &#x1F3C3;&#x200D;&#x2642;&#xFE0F; But be careful, when the guards appear, ESCAPE or get caught! &#x1...",
+      "game_type_en": "Steal Game"
     },
     {
       "placeId": 97569858362562,
@@ -13464,7 +13778,9 @@
       "active_days": 3,
       "peak_date": "2026-06-06",
       "store_url": "https://www.roblox.com/games/97569858362562",
-      "icon_url": "./images/roblox/97569858362562.png"
+      "icon_url": "./images/roblox/97569858362562.png",
+      "description": "Check out MMV. It&#x2019;s one of the millions of unique, user-generated 3D experiences created on Roblox.",
+      "game_type_en": ""
     },
     {
       "placeId": 125810438250765,
@@ -13484,7 +13800,9 @@
       "active_days": 0,
       "peak_date": "",
       "store_url": "https://www.roblox.com/games/125810438250765",
-      "icon_url": "./images/roblox/125810438250765.png"
+      "icon_url": "./images/roblox/125810438250765.png",
+      "description": "&#x1F31F; New Features &#x1F430; Mini Entities Escape &#x2014; Mini Entities/Gold Bars Rolls &#x2B; Increased Mini Entity Drop &#x26F2; Wishing Well &#x2014; Daily Wish &#x1F3A9; Subclasses &#x2014; B...",
+      "game_type_en": "Escape"
     },
     {
       "placeId": 9503261072,
@@ -13507,7 +13825,9 @@
       "active_days": 0,
       "peak_date": "",
       "store_url": "https://www.roblox.com/games/9503261072",
-      "icon_url": "./images/roblox/9503261072.png"
+      "icon_url": "./images/roblox/9503261072.png",
+      "description": "4th of July update! New MLRS tower, 3 skins, B52 bomber powerup, and emotes! All out Tower Warfare! Deploy your towers from the air, land, and sea. Rival against powerful enemies and bosses before the...",
+      "game_type_en": "Tower Defense"
     },
     {
       "placeId": 113918641206373,
@@ -13551,7 +13871,9 @@
       "active_days": 23,
       "peak_date": "2026-05-02",
       "store_url": "https://www.roblox.com/games/113918641206373",
-      "icon_url": "./images/roblox/113918641206373.png"
+      "icon_url": "./images/roblox/113918641206373.png",
+      "description": "&#x2622;&#xFE0F; Welcome to Nuke Your City! &#x2622;&#xFE0F; &#x2622;&#xFE0F; Grow Your Nuke! &#x1F4A5; Explode your Nuke & Control the Destruction! &#x1F6E0;&#xFE0F; Buy New Machines & Upgrades! &#x1...",
+      "game_type_en": "Simulation"
     },
     {
       "placeId": 138381251771774,
@@ -13574,7 +13896,9 @@
       "active_days": 2,
       "peak_date": "2026-07-05",
       "store_url": "https://www.roblox.com/games/138381251771774",
-      "icon_url": "./images/roblox/138381251771774.png"
+      "icon_url": "./images/roblox/138381251771774.png",
+      "description": "&#x1F631; OH NO! Your phone fell into the lake! Drain the lake to get it back! &#x1F608; &#x1FAA3; Fill your bucket &#x2699;&#xFE0F; Drain it for tokens &#x1F333; Upgrade your Skill Tree &#x1F30A; Go ...",
+      "game_type_en": ""
     },
     {
       "placeId": 121330469999373,
@@ -13617,7 +13941,9 @@
       "active_days": 22,
       "peak_date": "2026-05-30",
       "store_url": "https://www.roblox.com/games/121330469999373",
-      "icon_url": "./images/roblox/121330469999373.png"
+      "icon_url": "./images/roblox/121330469999373.png",
+      "description": "Check out MMV. It&#x2019;s one of the millions of unique, user-generated 3D experiences created on Roblox.",
+      "game_type_en": ""
     },
     {
       "placeId": 105633123928294,
@@ -13642,7 +13968,9 @@
       "active_days": 2,
       "peak_date": "2026-06-06",
       "store_url": "https://www.roblox.com/games/105633123928294",
-      "icon_url": "./images/roblox/105633123928294.png"
+      "icon_url": "./images/roblox/105633123928294.png",
+      "description": "&#x26A0;&#xFE0F; WARNING: Brainrots don&#x2019;t like thieves&#x2026; &#x1F621; &#x1F9E0; Enter giant Brainrot heads! &#x1F4B8; Steal rare Brainrots inside! &#x1F3C3; Run fast and ESCAPE before the Gu...",
+      "game_type_en": "Steal Game"
     },
     {
       "placeId": 100429474155186,
@@ -13689,7 +14017,9 @@
       "active_days": 22,
       "peak_date": "2026-07-04",
       "store_url": "https://www.roblox.com/games/100429474155186",
-      "icon_url": "./images/roblox/100429474155186.png"
+      "icon_url": "./images/roblox/100429474155186.png",
+      "description": "&#x2B50; Use Code \"UPD4RELEASE\" for FREE rewards! &#x2694;&#xFE0F; Welcome to Anime Fighting Simulator! Train your stats, unlock powerful anime abilities, and become the strongest fighter! &#x1F4AA; T...",
+      "game_type_en": "Simulator"
     },
     {
       "placeId": 79480724066456,
@@ -13830,7 +14160,9 @@
       "active_days": 120,
       "peak_date": "2026-07-03",
       "store_url": "https://www.roblox.com/games/79480724066456",
-      "icon_url": "./images/roblox/79480724066456.png"
+      "icon_url": "./images/roblox/79480724066456.png",
+      "description": "Welcome to Southern Mudding! Explore a map purpose built for the off-road, using your selection of pickup trucks, semi trucks, trailers, classic cars, American muscle cars, and more! Whether you're he...",
+      "game_type_en": "Roleplay"
     },
     {
       "placeId": 134750648450964,
@@ -13907,7 +14239,9 @@
       "active_days": 56,
       "peak_date": "2026-05-23",
       "store_url": "https://www.roblox.com/games/134750648450964",
-      "icon_url": "./images/roblox/134750648450964.png"
+      "icon_url": "./images/roblox/134750648450964.png",
+      "description": "Welcome to &#x2B;1 Muscle to Arm Wrestle&#x1F4AA; &#x1F45F; Every step makes you Stronger! &#x1F355; The higher the strength level, the bigger the Muscle! &#x1F4A5; Get big enough to wrestle through e...",
+      "game_type_en": "Battle Royale"
     },
     {
       "placeId": 4566572536,
@@ -13927,7 +14261,9 @@
       "active_days": 0,
       "peak_date": "",
       "store_url": "https://www.roblox.com/games/4566572536",
-      "icon_url": "./images/roblox/4566572536.png"
+      "icon_url": "./images/roblox/4566572536.png",
+      "description": "Welcome to Vehicle Legends, a driving and racing simulation! Choose from a selection of many cars, motorcycles, planes, helicopters, and boats, and build your way up to the top! The more you drive, ra...",
+      "game_type_en": "Racing"
     },
     {
       "placeId": 96947338677734,
@@ -13958,7 +14294,9 @@
       "active_days": 8,
       "peak_date": "2026-07-03",
       "store_url": "https://www.roblox.com/games/96947338677734",
-      "icon_url": "./images/roblox/96947338677734.png"
+      "icon_url": "./images/roblox/96947338677734.png",
+      "description": "&#x1F48E; Welcome to &#x2B;1 Speed Slime Keyboard Escape! &#x23F0; Come back to claim speed from when you were offline! &#x26A1; Every step = &#x2B;1 Speed &#x1F4AA; Train your speed and unlock powerf...",
+      "game_type_en": "Obby"
     },
     {
       "placeId": 96708659220473,
@@ -13981,7 +14319,9 @@
       "active_days": 2,
       "peak_date": "2026-05-27",
       "store_url": "https://www.roblox.com/games/96708659220473",
-      "icon_url": "./images/roblox/96708659220473.png"
+      "icon_url": "./images/roblox/96708659220473.png",
+      "description": "Check out MMV. It&#x2019;s one of the millions of unique, user-generated 3D experiences created on Roblox.",
+      "game_type_en": ""
     },
     {
       "placeId": 7171174521,
@@ -14106,7 +14446,9 @@
       "active_days": 104,
       "peak_date": "2026-06-13",
       "store_url": "https://www.roblox.com/games/7171174521",
-      "icon_url": "./images/roblox/7171174521.png"
+      "icon_url": "./images/roblox/7171174521.png",
+      "description": "&#x1F69C; Pioneering vehicles, trailers, and customization on Roblox. We ain't corporate cash-grab; we&#x2019;re a project built on faith, grit, and a love for the machine. &#x1F6A8; 7/11 Update - New...",
+      "game_type_en": "Roleplay"
     },
     {
       "placeId": 77843161404023,
@@ -14175,7 +14517,9 @@
       "active_days": 48,
       "peak_date": "2026-05-31",
       "store_url": "https://www.roblox.com/games/77843161404023",
-      "icon_url": "./images/roblox/77843161404023.png"
+      "icon_url": "./images/roblox/77843161404023.png",
+      "description": "Welcome to Run a Restaurant! &#x1F354; Cook recipes and serve customers! &#x1FA91; Build and decorate your restaurant! &#x1F42E; Raise animals and farm crops! &#x1F9D1;&#x200D;&#x1F373; Hire staff to ...",
+      "game_type_en": ""
     },
     {
       "placeId": 85177851006073,
@@ -14219,7 +14563,9 @@
       "active_days": 21,
       "peak_date": "2026-05-01",
       "store_url": "https://www.roblox.com/games/85177851006073",
-      "icon_url": "./images/roblox/85177851006073.png"
+      "icon_url": "./images/roblox/85177851006073.png",
+      "description": "Welcome to DRILL for Brainrots! &#x26CF;&#xFE0F; &#x1F6E0;&#xFE0F; Upgrade your DRILL! &#x1F7EB; Smash through dirt and collect BRAINROTS! &#x1F396;&#xFE0F; Level Up your Brainrots and get more CASH! ...",
+      "game_type_en": "Steal Game"
     },
     {
       "placeId": 17057139388,
@@ -14250,7 +14596,9 @@
       "active_days": 10,
       "peak_date": "2026-03-08",
       "store_url": "https://www.roblox.com/games/17057139388",
-      "icon_url": "./images/roblox/17057139388.png"
+      "icon_url": "./images/roblox/17057139388.png",
+      "description": "&#x26A0;&#xFE0F; Poppy Playtime is a registered trademark of Mob Entertainment. We do not have the rights to recreate or distribute this game on Roblox, and it may be subject to removal at any time. &...",
+      "game_type_en": ""
     },
     {
       "placeId": 6358567974,
@@ -14323,7 +14671,9 @@
       "active_days": 26,
       "peak_date": "2026-03-28",
       "store_url": "https://www.roblox.com/games/103050497819513",
-      "icon_url": "./images/roblox/103050497819513.png"
+      "icon_url": "./images/roblox/103050497819513.png",
+      "description": "Welcome to Steal The Brainrot Base&#x1F9E0; 1. Sneak into the enemy base and snatch a Brainrot! &#x1F92B; 2. Outrun the raging Brainrot chasing you! &#x1F3C3;&#x200D;&#x2642;&#xFE0F;&#x1F4A8; 3. Bring...",
+      "game_type_en": "Steal Game"
     },
     {
       "placeId": 891852901,
@@ -14426,7 +14776,9 @@
       "active_days": 82,
       "peak_date": "2026-06-27",
       "store_url": "https://www.roblox.com/games/891852901",
-      "icon_url": "./images/roblox/891852901.png"
+      "icon_url": "./images/roblox/891852901.png",
+      "description": "&#x1F3E1; &#x1F697; Greenville is one of the biggest, most realistic car & roleplay games on Roblox, with hundreds of cars of all types for you to choose and drive! Set in a small American town, Green...",
+      "game_type_en": "Roleplay"
     },
     {
       "placeId": 71600459831333,
@@ -14449,7 +14801,9 @@
       "active_days": 2,
       "peak_date": "2026-03-14",
       "store_url": "https://www.roblox.com/games/71600459831333",
-      "icon_url": "./images/roblox/71600459831333.png"
+      "icon_url": "./images/roblox/71600459831333.png",
+      "description": "Welcome to Street Life Remastered &#x2013; the BEST Hood Game on Roblox! Step into an open world where you control your destiny. Will you rise to power or get lost in the streets? &#x2013; Rob banks a...",
+      "game_type_en": "Battle Royale"
     },
     {
       "placeId": 129548273770183,
@@ -14472,7 +14826,9 @@
       "active_days": 2,
       "peak_date": "2026-03-05",
       "store_url": "https://www.roblox.com/games/129548273770183",
-      "icon_url": "./images/roblox/129548273770183.png"
+      "icon_url": "./images/roblox/129548273770183.png",
+      "description": "&#x1F5A5;&#xFE0F;&#x1FAE7;&#x1F4AB;&#x1F3A5; One of the most in-depth incrementals on Roblox! ....Waste Time and find crazy areas and secrets... -Made by Roll &#x2764;&#xFE0F;&#x1F3B2;",
+      "game_type_en": ""
     },
     {
       "placeId": 2768379856,
@@ -14601,7 +14957,9 @@
       "active_days": 108,
       "peak_date": "2026-06-11",
       "store_url": "https://www.roblox.com/games/2768379856",
-      "icon_url": "./images/roblox/2768379856.png"
+      "icon_url": "./images/roblox/2768379856.png",
+      "description": "Thumbnail by: PlagueDoctor_Dash --- Welcome to 3008, the unusually large furniture store. Wander through the vast horror land of home hardware located within 3008-1. Build a base, survive from employe...",
+      "game_type_en": "Survival Horror"
     },
     {
       "placeId": 1962086868,
@@ -14735,7 +15093,9 @@
       "active_days": 111,
       "peak_date": "2026-07-05",
       "store_url": "https://www.roblox.com/games/1962086868",
-      "icon_url": "./images/roblox/1962086868.png"
+      "icon_url": "./images/roblox/1962086868.png",
+      "description": "Can you be the first to the top in this randomly generated obby with absolutely no checkpoints at all?&#xD; &#xD; &#xD; &#xD; Owners of VIP-Servers can use the settings menu to skip rounds, set the to...",
+      "game_type_en": "Obby"
     },
     {
       "placeId": 125927821145949,
@@ -14762,7 +15122,9 @@
       "active_days": 6,
       "peak_date": "2026-07-03",
       "store_url": "https://www.roblox.com/games/125927821145949",
-      "icon_url": "./images/roblox/125927821145949.png"
+      "icon_url": "./images/roblox/125927821145949.png",
+      "description": "&#x26F0;&#xFE0F;Climb the mountain&#x26CF;&#xFE0F;Mine rare crystals! &#x1F976; Don't freeze, the top is COLD! &#x1F4B0; Sell crystals for cash! &#x1F392; Upgrade your warmth, pickaxe & backpack! &#x1...",
+      "game_type_en": "Battle Royale"
     },
     {
       "placeId": 14259168147,
@@ -14865,7 +15227,9 @@
       "active_days": 82,
       "peak_date": "2026-07-04",
       "store_url": "https://www.roblox.com/games/14259168147",
-      "icon_url": "./images/roblox/14259168147.png"
+      "icon_url": "./images/roblox/14259168147.png",
+      "description": "&#x1F3C0;Welcome to Basketball Legends! A new basketball experience with quick gameplay that lets players quickly join a 5v5 or select pickups. &#x1F3C0; Leave a like &#x1F44D; and favorite &#x2B50; f...",
+      "game_type_en": ""
     },
     {
       "placeId": 75738770295234,
@@ -14899,7 +15263,9 @@
       "active_days": 13,
       "peak_date": "2026-07-04",
       "store_url": "https://www.roblox.com/games/75738770295234",
-      "icon_url": "./images/roblox/75738770295234.png"
+      "icon_url": "./images/roblox/75738770295234.png",
+      "description": "Welcome to Paint My Keyboard! How to Play: &#x1F58C;&#xFE0F; Paint colorful keyboard keys! &#x1F4B5; Collect cash from painted keys! &#x1F308; Unlock better paints! &#x1F680; Upgrade your roller and e...",
+      "game_type_en": ""
     },
     {
       "placeId": 121168452718267,
