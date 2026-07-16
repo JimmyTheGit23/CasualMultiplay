@@ -800,11 +800,12 @@
                 <span class="nav-icon" style="color:var(--accent);">◆</span>
                 <span data-i18n="tab_gamedetail">游戏详情</span>
             </button>
-            <button class="sidebar-nav-item" data-nav="insights" onclick="navTo('insights')">
+            <!-- 洞察和竞品对比暂时隐藏,Roblox 专题上线后恢复 -->
+            <button class="sidebar-nav-item" data-nav="insights" onclick="navTo('insights')" style="display:none;">
                 <span class="nav-icon">◈</span>
                 <span>洞察</span>
             </button>
-            <button class="sidebar-nav-item" data-nav="competitors" onclick="navTo('competitors')">
+            <button class="sidebar-nav-item" data-nav="competitors" onclick="navTo('competitors')" style="display:none;">
                 <span class="nav-icon">◈</span>
                 <span data-i18n="tab_competitors">竞品对比</span>
             </button>
