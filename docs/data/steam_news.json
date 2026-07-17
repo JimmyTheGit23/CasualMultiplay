@@ -249,7 +249,7 @@
       "is_official": true,
       "contents": "Hey hey semibots! Here is yet another small update with some fixes and balancing! CHANGES BALANCING FIXES CHANGES Item Melee Weapons - Handling now properly scales with strength and should feel firmer"
     },
-    "crawled_at": "2026-07-16T02:41:03.940205"
+    "crawled_at": "2026-07-17T02:43:35.455872"
   },
   "Lethal Company": {
     "appid": 1966720,
@@ -501,7 +501,7 @@
       "is_official": true,
       "contents": "Hello, long time no see! Version 80 is out in beta for you to test. You can access it by opting into the public beta branch for Lethal Company on Steam. V80 brings a complete rework of March's exterio"
     },
-    "crawled_at": "2026-07-16T02:41:05.095141"
+    "crawled_at": "2026-07-17T02:43:36.574907"
   },
   "Phasmophobia": {
     "appid": 739630,
@@ -753,7 +753,7 @@
       "is_official": true,
       "contents": "Welcome back, Ghost Hunters.Today we have released a hotfix for Phasmophobia, addressing two issues raised by the community this week. The update is now available across all platforms.Patch notes:Fixe"
     },
-    "crawled_at": "2026-07-16T02:41:06.296431"
+    "crawled_at": "2026-07-17T02:43:37.704305"
   },
   "Content Warning": {
     "appid": 2881650,
@@ -1005,7 +1005,7 @@
       "is_official": true,
       "contents": "Hello Spööktubers! Thank you for your patience as we're fixing bugs on all platforms.Here's a new patch fixing some stuff!For those of you wondering when crossplay between Switch 1 & 2 and other platf"
     },
-    "crawled_at": "2026-07-16T02:41:07.442766"
+    "crawled_at": "2026-07-17T02:43:38.859139"
   },
   "FEEDERS": {
     "appid": 4408510,
@@ -1256,7 +1256,7 @@
       "is_official": true,
       "contents": "Gave the HUD a fresh redesign. New look across the board — the status bars (Health, Stamina, Radiation) and the bottom belt all got reworked. Same info, cleaner read. More guns coming with new solo ex"
     },
-    "crawled_at": "2026-07-16T02:41:08.567017"
+    "crawled_at": "2026-07-17T02:43:39.941613"
   },
   "NARAKA: BLADEPOINT": {
     "appid": 1203220,
@@ -1497,12 +1497,23 @@
       "contents": "Dear players, The servers of NARAKA: BLADEPOINT will be suspended for maintenance from Jul. 15th, 2026 23:00 (UTC) to Jul. 16th, 2026 04:00 (UTC). We suggest you log out in advance and enter the game "
     },
     "latest_patch": null,
-    "crawled_at": "2026-07-16T02:41:09.696365"
+    "crawled_at": "2026-07-17T02:43:41.137893"
   },
   "Dead by Daylight": {
     "appid": 381210,
     "all": [
       {
+        "date": "2026-07-16",
+        "datetime": "2026-07-16T13:31:22",
+        "title": "Important Developer Update",
+        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1838407329256675",
+        "author": "amanda_bhvr",
+        "feed_label": "Community Announcements",
+        "is_patch": false,
+        "is_official": true,
+        "contents": "We have an update from our Security team that we’d like to share with you regarding some upcoming changes that could impact players ability to launch the game: Following internal investigations and co"
+      },
+      {
         "date": "2026-07-14",
         "datetime": "2026-07-14T09:00:00",
         "title": "Steam Global Top Sellers for week of 7 Jul — 14 July 2026",
@@ -1600,22 +1611,22 @@
         "is_patch": false,
         "is_official": false,
         "contents": "<a href=\"https://steamdb.info/topsellers/2026W26/?utm_source=Steam&utm_medium=Steam&utm_campaign=SteamRSS\"> </a> * <a href=\"https://steamdb.info/app/4704690/charts/?utm_source=Steam&utm_medium=Steam&u"
-      },
-      {
-        "date": "2026-06-18",
-        "datetime": "2026-06-18T14:16:27",
-        "title": "Dead by Daylight | Jason launch stream, Featuring PaulieEsther (replay)",
-        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1835871199304397",
-        "author": "mahdi.roy",
-        "feed_label": "Community Announcements",
-        "is_patch": false,
-        "is_official": true,
-        "contents": "Featuring PaulieEsther! Watch the full Twitch replay via this link: https://www.twitch.tv/videos/2798058939"
       }
     ],
     "patches": [],
     "announcements": [
       {
+        "date": "2026-07-16",
+        "datetime": "2026-07-16T13:31:22",
+        "title": "Important Developer Update",
+        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1838407329256675",
+        "author": "amanda_bhvr",
+        "feed_label": "Community Announcements",
+        "is_patch": false,
+        "is_official": true,
+        "contents": "We have an update from our Security team that we’d like to share with you regarding some upcoming changes that could impact players ability to launch the game: Following internal investigations and co"
+      },
+      {
         "date": "2026-07-14",
         "datetime": "2026-07-14T09:00:00",
         "title": "Steam Global Top Sellers for week of 7 Jul — 14 July 2026",
@@ -1713,31 +1724,20 @@
         "is_patch": false,
         "is_official": false,
         "contents": "<a href=\"https://steamdb.info/topsellers/2026W26/?utm_source=Steam&utm_medium=Steam&utm_campaign=SteamRSS\"> </a> * <a href=\"https://steamdb.info/app/4704690/charts/?utm_source=Steam&utm_medium=Steam&u"
-      },
-      {
-        "date": "2026-06-18",
-        "datetime": "2026-06-18T14:16:27",
-        "title": "Dead by Daylight | Jason launch stream, Featuring PaulieEsther (replay)",
-        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1835871199304397",
-        "author": "mahdi.roy",
-        "feed_label": "Community Announcements",
-        "is_patch": false,
-        "is_official": true,
-        "contents": "Featuring PaulieEsther! Watch the full Twitch replay via this link: https://www.twitch.tv/videos/2798058939"
       }
     ],
     "latest": {
-      "date": "2026-07-14",
-      "datetime": "2026-07-14T09:00:00",
-      "title": "Steam Global Top Sellers for week of 7 Jul — 14 July 2026",
-      "url": "https://steamstore-a.akamaihd.net/news/externalpost/SteamDB/1837955055366147",
-      "author": "SteamDB",
-      "feed_label": "SteamDB",
+      "date": "2026-07-16",
+      "datetime": "2026-07-16T13:31:22",
+      "title": "Important Developer Update",
+      "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1838407329256675",
+      "author": "amanda_bhvr",
+      "feed_label": "Community Announcements",
       "is_patch": false,
-      "is_official": false,
-      "contents": "<a href=\"https://steamdb.info/topsellers/2026W29/?utm_source=Steam&utm_medium=Steam&utm_campaign=SteamRSS\"> </a> * <a href=\"https://steamdb.info/app/3751950/charts/?utm_source=Steam&utm_medium=Steam&u"
+      "is_official": true,
+      "contents": "We have an update from our Security team that we’d like to share with you regarding some upcoming changes that could impact players ability to launch the game: Following internal investigations and co"
     },
     "latest_patch": null,
-    "crawled_at": "2026-07-16T02:41:10.818536"
+    "crawled_at": "2026-07-17T02:43:42.333470"
   }
 }
