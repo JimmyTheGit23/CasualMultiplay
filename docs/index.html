@@ -4187,9 +4187,42 @@ If you want to know what happened next, let’s listen to the explanation next t
             return (d.steamspy && d.steamspy.ccu) || (d.store && d.store.ccu) || 0;
         }
 
+        function getGameReviews(game) {
+            if (!game.steam_key || !steamData[game.steam_key]) return 0;
+            const d = steamData[game.steam_key];
+            if (d.reviews && d.reviews.total_reviews) return d.reviews.total_reviews;
+            if (d.steamspy && (d.steamspy.positive || d.steamspy.negative)) {
+                return (d.steamspy.positive || 0) + (d.steamspy.negative || 0);
+            }
+            return 0;
+        }
+
+        function getGamePrice(game) {
+            if (!game.steam_key || !steamData[game.steam_key]) return '';
+            const d = steamData[game.steam_key];
+            if (d.store && d.store.price) return d.store.price;
+            if (d.store && d.store.is_free) return t('free_price');
+            return '';
+        }
+
+        function getGameStatusText(game) {
+            return statusText(game.status || '');
+        }
+
         function getGamePositive(game) {
             if (!game.steam_key || !steamData[game.steam_key]) return 0;
             const d = steamData[game.steam_key];
+            // 优先用 reviews 字段 (Steam Store API)
+            if (d.reviews && d.reviews.positive_rate != null) {
+                return d.reviews.positive_rate;
+            }
+            if (d.reviews && d.reviews.positive != null) {
+                const pos = d.reviews.positive;
+                const neg = d.reviews.negative || 0;
+                const total = pos + neg;
+                return total > 0 ? Math.round(pos / total * 100) : 0;
+            }
+            // fallback: steamspy
             if (d.steamspy && d.steamspy.positive) {
                 const pos = d.steamspy.positive;
                 const neg = d.steamspy.negative || 0;
@@ -5757,6 +5790,12 @@ If you want to know what happened next, let’s listen to the explanation next t
             html += `<th>${t('th_game')}</th>`;
             html += `<th>${t('th_dev')}</th>`;
             html += `<th>${t('th_tags')}</th>`;
+            html += `<th>CCU<span class="src-badge src-S">[S]</span></th>`;
+            html += `<th>${t('sort_positive')}<span class="src-badge src-S">[S]</span></th>`;
+            html += `<th>${t('th_reviews')}<span class="src-badge src-S">[S]</span></th>`;
+            html += `<th>${t('sort_wishlist')}<span class="src-badge src-A">[A]</span></th>`;
+            html += `<th>${t('th_price')}<span class="src-badge src-S">[S]</span></th>`;
+            html += `<th>${t('th_status')}</th>`;
             html += `<th>${dimLabel}<span class="src-badge src-${dimTier}">[${dimTier}]</span></th>`;
             html += '</tr></thead><tbody>';
             games.forEach((g, i) => {
@@ -5774,13 +5813,25 @@ If you want to know what happened next, let’s listen to the explanation next t
                 }
                 const tags = (g.tags || []).slice(0, 3).map(tg => tagName(tg)).join(' ');
                 const lbKey = (g.steam_key || g.name).replace(/&/g,'&amp;').replace(/"/g,'&quot;').replace(/'/g,'&#39;');
+                const ccu = getGameCCU(g);
+                const pos = getGamePositive(g);
+                const rev = getGameReviews(g);
+                const wl = g.wishlist_count || 0;
+                const price = getGamePrice(g);
+                const status = getGameStatusText(g);
                 html += `<tr onclick="selectGameByKey(this)" data-game-key="${lbKey}" style="cursor:pointer;">`;
                 html += `<td class="lb-rank">${i + 1}</td>`;
                 const lbName = currentLang === 'en' ? (g.name || g.cn_name) : (g.cn_name || g.name);
                 html += `<td>${lbName}${g.pinned ? ' ★' : ''}</td>`;
-                html += `<td style="color:var(--text-muted);">${g.dev || '-'}</td>`;
+                html += `<td style="color:var(--text-muted);font-size:11px;">${g.dev || '-'}</td>`;
                 html += `<td style="font-size:10px;color:var(--text-muted);">${tags}</td>`;
-                html += `<td style="font-weight:500;">${val}</td>`;
+                html += `<td style="font-weight:500;color:${ccu > 0 ? '#991B1B' : 'var(--text-muted)'};">${ccu > 0 ? ccu.toLocaleString() : '-'}</td>`;
+                html += `<td style="font-weight:500;color:${pos >= 80 ? '#16a34a' : pos >= 60 ? '#92400E' : 'var(--text-muted)'};">${pos > 0 ? pos + '%' : '-'}</td>`;
+                html += `<td style="font-size:11px;">${rev > 0 ? rev.toLocaleString() : '-'}</td>`;
+                html += `<td style="font-size:11px;">${wl > 0 ? wl.toLocaleString() : '-'}</td>`;
+                html += `<td style="font-size:11px;">${price || '-'}</td>`;
+                html += `<td style="font-size:10px;">${status}</td>`;
+                html += `<td style="font-weight:600;color:var(--accent);">${val}</td>`;
                 html += '</tr>';
             });
             html += '</tbody></table>';
@@ -8219,6 +8270,7 @@ If you want to know what happened next, let’s listen to the explanation next t
             th_pos_rate: { zh: '好评率', en: 'Pos. Rate' },
             th_reviews: { zh: '评测数', en: 'Reviews' },
             th_price: { zh: '价格', en: 'Price' },
+            free_price: { zh: '免费', en: 'Free' },
             released: { zh: '已发售', en: 'Released' },
             not_released: { zh: '未发售', en: 'Unreleased' },
             released_ref: { zh: '已上线竞品（参考）', en: 'Released Competitors (Ref.)' },
