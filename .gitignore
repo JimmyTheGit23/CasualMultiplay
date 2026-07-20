@@ -1,5 +1,2 @@
-__pycache__/
-*.pyc
-scripts/data/
-
-tmp/
+*.png
+snap_*.png
