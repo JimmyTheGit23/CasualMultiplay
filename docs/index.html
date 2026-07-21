@@ -4833,7 +4833,8 @@ If you want to know what happened next, let’s listen to the explanation next t
                     <div>${icon}</div>
                     <div>
                         <div style="font-weight:500;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;">${g.name}</div>
-                        <div style="font-size:9px;color:#94A3B8;">${g.placeId} ${g.create_year ? '· ' + g.create_year : ''}</div>
+                        <div style="font-size:9px;color:#94A3B8;margin-bottom:2px;">${g.placeId} ${g.create_year ? '· ' + g.create_year : ''}</div>
+                        <div style="display:flex;gap:3px;flex-wrap:wrap;">${(g.categories || []).slice(0, 3).map(c => `<span style="font-size:9px;padding:1px 6px;background:#EDE9FE;color:#6D28D9;border-radius:8px;white-space:nowrap;">${rbxCatName(c)}</span>`).join('')}${(g.categories || []).length > 3 ? `<span style="font-size:9px;padding:1px 4px;color:#94A3B8;">+${(g.categories || []).length - 3}</span>` : ''}</div>
                     </div>
                     <div style="text-align:right;font-weight:600;color:${mainColor};">${mainVal}</div>
                     <div style="text-align:right;">${fmtNum(g.peak_players)}</div>
