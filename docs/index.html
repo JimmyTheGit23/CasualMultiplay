@@ -4605,6 +4605,7 @@ If you want to know what happened next, let’s listen to the explanation next t
             dataUntil: { zh: '数据截止', en: 'Data Until' },
             daysTotal: { zh: '共 {0} 天时序', en: '{0} days total' },
             searchPlaceholder: { zh: '搜索游戏名 / placeId', en: 'Search name / placeId' },
+            searchBtn: { zh: '搜索', en: 'Search' },
             allPlayers: { zh: '全部玩家数', en: 'All players' },
             sortByPeak: { zh: '按峰值玩家', en: 'By Peak Players' },
             sortByVisits: { zh: '按总访问量', en: 'By Total Visits' },
@@ -4892,7 +4893,10 @@ If you want to know what happened next, let’s listen to the explanation next t
                 <div style="display:flex;gap:14px;align-items:flex-start;">
                     <!-- 左侧: 游戏列表 -->
                     <div style="width:340px;flex-shrink:0;">
-                        <input type="text" id="rbx-detail-search" placeholder="${rbxT('searchPlaceholder')}" value="${robloxDetailFilter.keyword}" oninput="setRobloxDetailKw(this.value)" style="width:100%;padding:6px 10px;font-size:11px;border:0.5px solid #E2E8F0;border-radius:6px;margin-bottom:6px;box-sizing:border-box;">
+                        <div style="display:flex;gap:4px;margin-bottom:6px;">
+                            <input type="text" id="rbx-detail-search" placeholder="${rbxT('searchPlaceholder')}" value="${robloxDetailFilter.keyword}" onkeydown="if(event.key==='Enter'){setRobloxDetailKw(this.value);}" style="flex:1;padding:6px 10px;font-size:11px;border:0.5px solid #E2E8F0;border-radius:6px;box-sizing:border-box;">
+                            <button onclick="setRobloxDetailKw(document.getElementById('rbx-detail-search').value)" style="padding:6px 12px;font-size:11px;background:#7C3AED;color:#FFFFFF;border:none;border-radius:6px;cursor:pointer;white-space:nowrap;">${rbxT('searchBtn') || '搜索'}</button>
+                        </div>
                         <select id="rbx-detail-sort" onchange="setRobloxDetailSort(this.value)" style="width:100%;padding:5px 8px;font-size:11px;border:0.5px solid #E2E8F0;border-radius:6px;margin-bottom:8px;box-sizing:border-box;">
                             <option value="peak_players" ${robloxDetailFilter.sort==='peak_players'?'selected':''}>${rbxT('sortByPeak')}</option>
                             <option value="visits" ${robloxDetailFilter.sort==='visits'?'selected':''}>${rbxT('sortByVisits')}</option>
