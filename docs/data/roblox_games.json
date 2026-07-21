@@ -9,144 +9,105 @@
     ],
     "total_days": 129,
     "note": "Roblox 平台游戏排行榜数据,每日玩家数时序",
-    "icons_count": 796
+    "icons_count": 796,
+    "categorized_count": 432
   },
   "categories": {
+    "Simulator": {
+      "zh": "模拟",
+      "count": 91,
+      "steam_official": false,
+      "en": "Simulator"
+    },
     "Brainrot": {
       "zh": "脑腐",
       "count": 89,
-      "keywords": [
-        "Brainrot"
-      ],
+      "steam_official": false,
       "en": "Brainrot"
-    },
-    "Tower": {
-      "zh": "塔防",
-      "count": 47,
-      "keywords": [
-        "Tower",
-        "Defence",
-        "Defense"
-      ],
-      "en": "Tower Defense"
     },
     "Escape": {
       "zh": "逃脱",
-      "count": 45,
-      "keywords": [
-        "Escape"
-      ],
+      "count": 56,
+      "steam_official": false,
       "en": "Escape"
+    },
+    "Tower": {
+      "zh": "塔防",
+      "count": 50,
+      "steam_official": false,
+      "en": "Tower Defense"
+    },
+    "Survival": {
+      "zh": "生存",
+      "count": 41,
+      "steam_official": false,
+      "en": "Survival"
+    },
+    "Fight": {
+      "zh": "格斗",
+      "count": 38,
+      "steam_official": false,
+      "en": "Fighting"
+    },
+    "RP": {
+      "zh": "角色扮演",
+      "count": 28,
+      "steam_official": false,
+      "en": "Roleplay"
     },
     "Anime": {
       "zh": "动漫",
       "count": 26,
-      "keywords": [
-        "Anime"
-      ],
+      "steam_official": false,
       "en": "Anime"
     },
-    "RP": {
-      "zh": "角色扮演",
-      "count": 27,
-      "keywords": [
-        "RP",
-        "Roleplay"
-      ],
-      "en": "Roleplay"
+    "Tycoon": {
+      "zh": "大亨",
+      "count": 14,
+      "steam_official": false,
+      "en": "Tycoon"
     },
-    "Simulator": {
-      "zh": "模拟",
-      "count": 22,
-      "keywords": [
-        "Simulator",
-        " Sim"
-      ],
-      "en": "Simulator"
+    "Obby": {
+      "zh": "跑酷",
+      "count": 13,
+      "steam_official": false,
+      "en": "Obby"
     },
     "War": {
       "zh": "战争",
       "count": 12,
-      "keywords": [
-        "War"
-      ],
+      "steam_official": false,
       "en": "War"
-    },
-    "Obby": {
-      "zh": "跑酷",
-      "count": 11,
-      "keywords": [
-        "Obby"
-      ],
-      "en": "Obby"
-    },
-    "Tycoon": {
-      "zh": "大亨",
-      "count": 10,
-      "keywords": [
-        "Tycoon"
-      ],
-      "en": "Tycoon"
-    },
-    "Fight": {
-      "zh": "格斗",
-      "count": 20,
-      "keywords": [
-        "Fight",
-        "Battles",
-        "Battle"
-      ],
-      "en": "Fighting"
     },
     "Murder": {
       "zh": "推理",
       "count": 7,
-      "keywords": [
-        "Murder"
-      ],
+      "steam_official": false,
       "en": "Mystery"
     },
-    "Survival": {
-      "zh": "生存",
-      "count": 4,
-      "keywords": [
-        "Survival"
-      ],
-      "en": "Survival"
+    "Grow": {
+      "zh": "种植",
+      "count": 6,
+      "steam_official": false,
+      "en": "Garden"
+    },
+    "Pets": {
+      "zh": "宠物",
+      "count": 6,
+      "steam_official": false,
+      "en": "Pets"
     },
     "Parkour": {
       "zh": "跑酷",
       "count": 3,
-      "keywords": [
-        "Parkour"
-      ],
+      "steam_official": false,
       "en": "Parkour"
     },
     "Adopt": {
       "zh": "养成",
       "count": 1,
-      "keywords": [
-        "Adopt"
-      ],
+      "steam_official": false,
       "en": "Adopt"
-    },
-    "Pets": {
-      "zh": "宠物",
-      "count": 6,
-      "keywords": [
-        "Pet",
-        "Pets"
-      ],
-      "en": "Pets"
-    },
-    "Grow": {
-      "zh": "种植",
-      "count": 6,
-      "keywords": [
-        "Grow",
-        "Garden"
-      ],
-      "en": "Garden"
     }
   },
   "games": [
@@ -438,7 +399,9 @@
       "peak_players": 2292841,
       "create_time": "2025-03-04",
       "create_year": 2025,
-      "categories": [],
+      "categories": [
+        "Survival"
+      ],
       "daily_players": {
         "2026-02-27": 429698,
         "2026-02-28": 3503291,
@@ -590,7 +553,9 @@
       "peak_players": 1712308,
       "create_time": "2026-04-07",
       "create_year": 2026,
-      "categories": [],
+      "categories": [
+        "Simulator"
+      ],
       "daily_players": {
         "2026-04-17": 8582,
         "2026-04-18": 13127,
@@ -1357,7 +1322,9 @@
       "peak_players": 836463,
       "create_time": "2024-05-26",
       "create_year": 2024,
-      "categories": [],
+      "categories": [
+        "Fight"
+      ],
       "daily_players": {
         "2026-02-27": 428208,
         "2026-02-28": 476682,
@@ -1710,7 +1677,9 @@
       "peak_players": 736983,
       "create_time": "2026-05-10",
       "create_year": 2026,
-      "categories": [],
+      "categories": [
+        "Simulator"
+      ],
       "daily_players": {
         "2026-06-13": 15477,
         "2026-06-14": 22357,
@@ -2062,7 +2031,9 @@
       "peak_players": 469504,
       "create_time": "2019-01-16",
       "create_year": 2019,
-      "categories": [],
+      "categories": [
+        "Simulator"
+      ],
       "daily_players": {
         "2026-02-27": 432222,
         "2026-02-28": 502112,
@@ -2214,7 +2185,9 @@
       "peak_players": 403916,
       "create_time": "2024-03-13",
       "create_year": 2024,
-      "categories": [],
+      "categories": [
+        "Simulator"
+      ],
       "daily_players": {
         "2026-02-27": 42612,
         "2026-02-28": 296304,
@@ -2549,7 +2522,9 @@
       "peak_players": 352063,
       "create_time": "2026-04-15",
       "create_year": 2026,
-      "categories": [],
+      "categories": [
+        "Simulator"
+      ],
       "daily_players": {
         "2026-05-14": 9910,
         "2026-05-15": 13967,
@@ -2777,7 +2752,9 @@
       "peak_players": 276878,
       "create_time": "2024-10-21",
       "create_year": 2024,
-      "categories": [],
+      "categories": [
+        "Simulator"
+      ],
       "daily_players": {
         "2026-02-27": 449453,
         "2026-02-28": 674457,
@@ -3080,7 +3057,9 @@
       "peak_players": 207139,
       "create_time": "2025-07-19",
       "create_year": 2025,
-      "categories": [],
+      "categories": [
+        "Survival"
+      ],
       "daily_players": {
         "2026-03-29": 296183,
         "2026-03-30": 232970,
@@ -3208,7 +3187,9 @@
       "peak_players": 198688,
       "create_time": "2025-11-04",
       "create_year": 2025,
-      "categories": [],
+      "categories": [
+        "Survival"
+      ],
       "daily_players": {
         "2026-03-08": 11163,
         "2026-03-14": 17800,
@@ -3340,7 +3321,10 @@
       "peak_players": 190643,
       "create_time": "2025-12-13",
       "create_year": 2025,
-      "categories": [],
+      "categories": [
+        "Survival",
+        "Fight"
+      ],
       "daily_players": {
         "2026-04-23": 8824,
         "2026-04-24": 20018,
@@ -3437,7 +3421,9 @@
       "peak_players": 187626,
       "create_time": "2024-12-17",
       "create_year": 2024,
-      "categories": [],
+      "categories": [
+        "Simulator"
+      ],
       "daily_players": {
         "2026-02-27": 64689,
         "2026-02-28": 252206,
@@ -4815,7 +4801,9 @@
       "peak_players": 145521,
       "create_time": "2023-05-07",
       "create_year": 2023,
-      "categories": [],
+      "categories": [
+        "Fight"
+      ],
       "daily_players": {
         "2026-03-03": 13960,
         "2026-03-04": 13817,
@@ -5143,7 +5131,9 @@
       "peak_players": 133552,
       "create_time": "2024-07-26",
       "create_year": 2024,
-      "categories": [],
+      "categories": [
+        "Fight"
+      ],
       "daily_players": {
         "2026-03-03": 13987,
         "2026-03-04": 47737,
@@ -5291,7 +5281,9 @@
       "peak_players": 132219,
       "create_time": "2026-05-10",
       "create_year": 2026,
-      "categories": [],
+      "categories": [
+        "Simulator"
+      ],
       "daily_players": {
         "2026-06-06": 31995,
         "2026-06-08": 9660,
@@ -5343,7 +5335,9 @@
       "peak_players": 130749,
       "create_time": "2024-02-23",
       "create_year": 2024,
-      "categories": [],
+      "categories": [
+        "Simulator"
+      ],
       "daily_players": {
         "2026-04-24": 8228,
         "2026-04-25": 130749,
@@ -5402,7 +5396,9 @@
       "peak_players": 126927,
       "create_time": "2026-02-24",
       "create_year": 2026,
-      "categories": [],
+      "categories": [
+        "Simulator"
+      ],
       "daily_players": {
         "2026-03-13": 12425,
         "2026-03-14": 16299,
@@ -6028,7 +6024,9 @@
       "peak_players": 106595,
       "create_time": "2026-05-17",
       "create_year": 2026,
-      "categories": [],
+      "categories": [
+        "Simulator"
+      ],
       "daily_players": {
         "2026-06-23": 4591,
         "2026-06-24": 16630,
@@ -7723,7 +7721,9 @@
       "peak_players": 79652,
       "create_time": "2026-01-25",
       "create_year": 2026,
-      "categories": [],
+      "categories": [
+        "Simulator"
+      ],
       "daily_players": {
         "2026-03-11": 18343,
         "2026-03-12": 40303,
@@ -8087,7 +8087,9 @@
       "peak_players": 74395,
       "create_time": "2026-05-23",
       "create_year": 2026,
-      "categories": [],
+      "categories": [
+        "Simulator"
+      ],
       "daily_players": {
         "2026-06-25": 10270,
         "2026-06-26": 15039,
@@ -8496,7 +8498,9 @@
       "peak_players": 67529,
       "create_time": "2022-06-10",
       "create_year": 2022,
-      "categories": [],
+      "categories": [
+        "Escape"
+      ],
       "daily_players": {
         "2026-02-27": 60346,
         "2026-02-28": 66511,
@@ -9791,7 +9795,9 @@
       "peak_players": 54894,
       "create_time": "2017-07-01",
       "create_year": 2017,
-      "categories": [],
+      "categories": [
+        "Escape"
+      ],
       "daily_players": {
         "2026-03-01": 38278,
         "2026-03-03": 27989,
@@ -10192,7 +10198,9 @@
       "peak_players": 52270,
       "create_time": "2026-06-03",
       "create_year": 2026,
-      "categories": [],
+      "categories": [
+        "Simulator"
+      ],
       "daily_players": {
         "2026-06-16": 8217,
         "2026-06-17": 14797,
@@ -10235,7 +10243,9 @@
       "peak_players": 51668,
       "create_time": "2026-03-29",
       "create_year": 2026,
-      "categories": [],
+      "categories": [
+        "Simulator"
+      ],
       "daily_players": {
         "2026-05-13": 7330,
         "2026-05-14": 7930,
@@ -10276,7 +10286,9 @@
       "peak_players": 51639,
       "create_time": "2026-04-18",
       "create_year": 2026,
-      "categories": [],
+      "categories": [
+        "Simulator"
+      ],
       "daily_players": {
         "2026-05-29": 14272,
         "2026-05-30": 12197,
@@ -10308,7 +10320,9 @@
       "peak_players": 51334,
       "create_time": "2026-05-18",
       "create_year": 2026,
-      "categories": [],
+      "categories": [
+        "Simulator"
+      ],
       "daily_players": {
         "2026-06-12": 8527,
         "2026-06-13": 19175,
@@ -10470,7 +10484,9 @@
       "peak_players": 50675,
       "create_time": "2026-05-19",
       "create_year": 2026,
-      "categories": [],
+      "categories": [
+        "Escape"
+      ],
       "daily_players": {
         "2026-06-21": 3701,
         "2026-06-22": 10121,
@@ -10508,7 +10524,9 @@
       "peak_players": 50606,
       "create_time": "2016-11-02",
       "create_year": 2016,
-      "categories": [],
+      "categories": [
+        "Simulator"
+      ],
       "daily_players": {
         "2026-03-03": 16963,
         "2026-03-04": 15825,
@@ -10655,7 +10673,9 @@
       "peak_players": 49809,
       "create_time": "2025-04-05",
       "create_year": 2025,
-      "categories": [],
+      "categories": [
+        "Survival"
+      ],
       "daily_players": {
         "2026-03-08": 10930,
         "2026-03-16": 9282,
@@ -11174,7 +11194,9 @@
       "peak_players": 46955,
       "create_time": "2014-11-04",
       "create_year": 2014,
-      "categories": [],
+      "categories": [
+        "RP"
+      ],
       "daily_players": {
         "2026-03-01": 34503,
         "2026-03-03": 19741,
@@ -12333,7 +12355,9 @@
       "peak_players": 42070,
       "create_time": "2025-01-03",
       "create_year": 2025,
-      "categories": [],
+      "categories": [
+        "Simulator"
+      ],
       "daily_players": {
         "2026-02-27": 61424,
         "2026-03-04": 14089,
@@ -13356,7 +13380,9 @@
       "peak_players": 39053,
       "create_time": "2024-11-06",
       "create_year": 2024,
-      "categories": [],
+      "categories": [
+        "Simulator"
+      ],
       "daily_players": {
         "2026-03-01": 23852,
         "2026-03-03": 21945,
@@ -14459,7 +14485,9 @@
       "peak_players": 33865,
       "create_time": "2026-04-01",
       "create_year": 2026,
-      "categories": [],
+      "categories": [
+        "Tycoon"
+      ],
       "daily_players": {
         "2026-05-19": 7324,
         "2026-05-20": 8847,
@@ -14789,7 +14817,9 @@
       "peak_players": 32629,
       "create_time": "2024-10-27",
       "create_year": 2024,
-      "categories": [],
+      "categories": [
+        "Simulator"
+      ],
       "daily_players": {
         "2026-03-14": 27541,
         "2026-03-15": 7837
@@ -15135,7 +15165,9 @@
       "peak_players": 31782,
       "create_time": "2023-07-31",
       "create_year": 2023,
-      "categories": [],
+      "categories": [
+        "Simulator"
+      ],
       "daily_players": {
         "2026-03-08": 8713,
         "2026-03-09": 7770,
@@ -15348,7 +15380,9 @@
       "peak_players": 31061,
       "create_time": "2023-06-17",
       "create_year": 2023,
-      "categories": [],
+      "categories": [
+        "Simulator"
+      ],
       "daily_players": {
         "2026-03-03": 17009,
         "2026-03-04": 16459,
@@ -15516,7 +15550,9 @@
       "peak_players": 30966,
       "create_time": "2026-02-17",
       "create_year": 2026,
-      "categories": [],
+      "categories": [
+        "Simulator"
+      ],
       "daily_players": {},
       "latest_players": 0,
       "latest_date": "",
@@ -16400,7 +16436,9 @@
       "peak_players": 28070,
       "create_time": "2022-10-25",
       "create_year": 2022,
-      "categories": [],
+      "categories": [
+        "Fight"
+      ],
       "daily_players": {
         "2026-03-04": 16194,
         "2026-03-05": 16393,
@@ -16805,7 +16843,9 @@
       "peak_players": 27707,
       "create_time": "2024-07-16",
       "create_year": 2024,
-      "categories": [],
+      "categories": [
+        "Obby"
+      ],
       "daily_players": {
         "2026-03-04": 8336,
         "2026-03-05": 8527,
@@ -17760,7 +17800,9 @@
       "peak_players": 25548,
       "create_time": "2025-07-28",
       "create_year": 2025,
-      "categories": [],
+      "categories": [
+        "Tycoon"
+      ],
       "daily_players": {
         "2026-03-08": 10351,
         "2026-03-09": 7369,
@@ -18053,7 +18095,9 @@
       "peak_players": 25013,
       "create_time": "2025-11-05",
       "create_year": 2025,
-      "categories": [],
+      "categories": [
+        "Simulator"
+      ],
       "daily_players": {
         "2026-03-05": 5914
       },
@@ -18132,7 +18176,9 @@
       "peak_players": 24769,
       "create_time": "2025-12-07",
       "create_year": 2025,
-      "categories": [],
+      "categories": [
+        "Survival"
+      ],
       "daily_players": {
         "2026-06-08": 6681,
         "2026-06-25": 12645,
@@ -18712,7 +18758,9 @@
       "peak_players": 24035,
       "create_time": "2025-12-08",
       "create_year": 2025,
-      "categories": [],
+      "categories": [
+        "Survival"
+      ],
       "daily_players": {
         "2026-03-05": 7481,
         "2026-03-08": 13992
@@ -18890,7 +18938,9 @@
       "peak_players": 23302,
       "create_time": "2026-04-22",
       "create_year": 2026,
-      "categories": [],
+      "categories": [
+        "Simulator"
+      ],
       "daily_players": {
         "2026-06-03": 7879,
         "2026-06-04": 12431,
@@ -19294,7 +19344,9 @@
       "peak_players": 22668,
       "create_time": "2022-02-01",
       "create_year": 2022,
-      "categories": [],
+      "categories": [
+        "Simulator"
+      ],
       "daily_players": {
         "2026-03-03": 11444,
         "2026-03-05": 12703,
@@ -19426,7 +19478,9 @@
       "peak_players": 22600,
       "create_time": "2026-04-12",
       "create_year": 2026,
-      "categories": [],
+      "categories": [
+        "Escape"
+      ],
       "daily_players": {
         "2026-06-20": 16809,
         "2026-06-21": 18289,
@@ -19582,7 +19636,9 @@
       "peak_players": 22150,
       "create_time": "2026-02-19",
       "create_year": 2026,
-      "categories": [],
+      "categories": [
+        "Simulator"
+      ],
       "daily_players": {
         "2026-04-12": 9619,
         "2026-04-13": 6853,
@@ -19742,7 +19798,9 @@
       "peak_players": 21587,
       "create_time": "2026-06-10",
       "create_year": 2026,
-      "categories": [],
+      "categories": [
+        "Simulator"
+      ],
       "daily_players": {
         "2026-07-03": 21587,
         "2026-07-04": 18534,
@@ -19869,7 +19927,9 @@
       "peak_players": 21363,
       "create_time": "2026-04-29",
       "create_year": 2026,
-      "categories": [],
+      "categories": [
+        "Simulator"
+      ],
       "daily_players": {
         "2026-07-02": 12775,
         "2026-07-03": 16805,
@@ -20322,7 +20382,10 @@
       "peak_players": 20300,
       "create_time": "2024-08-04",
       "create_year": 2024,
-      "categories": [],
+      "categories": [
+        "Survival",
+        "Escape"
+      ],
       "daily_players": {
         "2026-03-03": 9405,
         "2026-03-04": 8249,
@@ -20688,7 +20751,9 @@
       "peak_players": 19393,
       "create_time": "2026-05-28",
       "create_year": 2026,
-      "categories": [],
+      "categories": [
+        "Survival"
+      ],
       "daily_players": {
         "2026-06-19": 8815,
         "2026-06-20": 17524,
@@ -20739,7 +20804,10 @@
       "peak_players": 19373,
       "create_time": "2026-02-13",
       "create_year": 2026,
-      "categories": [],
+      "categories": [
+        "Simulator",
+        "Obby"
+      ],
       "daily_players": {
         "2026-03-07": 31569,
         "2026-03-08": 27320,
@@ -20863,7 +20931,9 @@
       "peak_players": 19284,
       "create_time": "2026-01-14",
       "create_year": 2026,
-      "categories": [],
+      "categories": [
+        "Survival"
+      ],
       "daily_players": {
         "2026-03-19": 10159,
         "2026-03-20": 12770,
@@ -20920,7 +20990,9 @@
       "peak_players": 18968,
       "create_time": "2026-01-10",
       "create_year": 2026,
-      "categories": [],
+      "categories": [
+        "Fight"
+      ],
       "daily_players": {
         "2026-03-03": 11025,
         "2026-03-04": 11948,
@@ -21036,7 +21108,9 @@
       "peak_players": 18839,
       "create_time": "2025-04-11",
       "create_year": 2025,
-      "categories": [],
+      "categories": [
+        "Survival"
+      ],
       "daily_players": {
         "2026-03-03": 6601,
         "2026-03-04": 7859,
@@ -21515,7 +21589,9 @@
       "peak_players": 18153,
       "create_time": "2026-01-03",
       "create_year": 2026,
-      "categories": [],
+      "categories": [
+        "Survival"
+      ],
       "daily_players": {
         "2026-05-28": 7595,
         "2026-05-29": 12464,
@@ -21772,7 +21848,9 @@
       "peak_players": 17869,
       "create_time": "2026-03-17",
       "create_year": 2026,
-      "categories": [],
+      "categories": [
+        "Simulator"
+      ],
       "daily_players": {
         "2026-04-07": 22224,
         "2026-04-08": 28479,
@@ -21968,7 +22046,9 @@
       "peak_players": 17543,
       "create_time": "2025-06-10",
       "create_year": 2025,
-      "categories": [],
+      "categories": [
+        "Fight"
+      ],
       "daily_players": {
         "2026-03-03": 8751,
         "2026-03-05": 8394,
@@ -22173,7 +22253,9 @@
       "peak_players": 16980,
       "create_time": "2023-10-08",
       "create_year": 2023,
-      "categories": [],
+      "categories": [
+        "Simulator"
+      ],
       "daily_players": {
         "2026-03-04": 10709,
         "2026-03-05": 11082,
@@ -22305,7 +22387,9 @@
       "peak_players": 16969,
       "create_time": "2022-10-03",
       "create_year": 2022,
-      "categories": [],
+      "categories": [
+        "Survival"
+      ],
       "daily_players": {
         "2026-03-06": 13196,
         "2026-03-07": 21498,
@@ -22462,7 +22546,9 @@
       "peak_players": 16943,
       "create_time": "2025-05-02",
       "create_year": 2025,
-      "categories": [],
+      "categories": [
+        "Simulator"
+      ],
       "daily_players": {},
       "latest_players": 0,
       "latest_date": "",
@@ -22482,7 +22568,9 @@
       "peak_players": 16928,
       "create_time": "2026-05-27",
       "create_year": 2026,
-      "categories": [],
+      "categories": [
+        "Fight"
+      ],
       "daily_players": {
         "2026-06-10": 6212,
         "2026-06-11": 7224,
@@ -22856,7 +22944,9 @@
       "peak_players": 16410,
       "create_time": "2025-12-28",
       "create_year": 2025,
-      "categories": [],
+      "categories": [
+        "Simulator"
+      ],
       "daily_players": {
         "2026-03-28": 57845,
         "2026-03-29": 29268,
@@ -23555,7 +23645,9 @@
       "peak_players": 14986,
       "create_time": "2025-08-24",
       "create_year": 2025,
-      "categories": [],
+      "categories": [
+        "Survival"
+      ],
       "daily_players": {},
       "latest_players": 0,
       "latest_date": "",
@@ -23999,7 +24091,9 @@
       "peak_players": 14511,
       "create_time": "2026-01-30",
       "create_year": 2026,
-      "categories": [],
+      "categories": [
+        "Fight"
+      ],
       "daily_players": {
         "2026-05-02": 9787,
         "2026-05-03": 14511,
@@ -24289,7 +24383,10 @@
       "peak_players": 14217,
       "create_time": "2025-06-01",
       "create_year": 2025,
-      "categories": [],
+      "categories": [
+        "Survival",
+        "Simulator"
+      ],
       "daily_players": {
         "2026-03-03": 7651,
         "2026-03-05": 7261,
@@ -24430,7 +24527,9 @@
       "peak_players": 14142,
       "create_time": "",
       "create_year": null,
-      "categories": [],
+      "categories": [
+        "Simulator"
+      ],
       "daily_players": {
         "2026-04-12": 11593,
         "2026-04-13": 8835,
@@ -24490,7 +24589,9 @@
       "peak_players": 14108,
       "create_time": "2024-11-02",
       "create_year": 2024,
-      "categories": [],
+      "categories": [
+        "Simulator"
+      ],
       "daily_players": {
         "2026-03-08": 8746,
         "2026-03-09": 6434,
@@ -24665,7 +24766,9 @@
       "peak_players": 14010,
       "create_time": "2026-01-05",
       "create_year": 2026,
-      "categories": [],
+      "categories": [
+        "Fight"
+      ],
       "daily_players": {
         "2026-05-01": 6169,
         "2026-05-02": 8926,
@@ -25056,7 +25159,9 @@
       "peak_players": 13459,
       "create_time": "2021-02-12",
       "create_year": 2021,
-      "categories": [],
+      "categories": [
+        "Simulator"
+      ],
       "daily_players": {
         "2026-03-04": 5635,
         "2026-03-08": 10562,
@@ -25121,7 +25226,9 @@
       "peak_players": 13439,
       "create_time": "2021-08-12",
       "create_year": 2021,
-      "categories": [],
+      "categories": [
+        "Simulator"
+      ],
       "daily_players": {
         "2026-03-23": 9461,
         "2026-03-24": 9864,
@@ -25207,7 +25314,9 @@
       "peak_players": 13378,
       "create_time": "2018-11-01",
       "create_year": 2018,
-      "categories": [],
+      "categories": [
+        "Survival"
+      ],
       "daily_players": {
         "2026-03-06": 11134,
         "2026-03-07": 14324,
@@ -25331,7 +25440,9 @@
       "peak_players": 13290,
       "create_time": "2026-01-18",
       "create_year": 2026,
-      "categories": [],
+      "categories": [
+        "Simulator"
+      ],
       "daily_players": {
         "2026-05-28": 7667,
         "2026-05-29": 7687,
@@ -25641,7 +25752,9 @@
       "peak_players": 13028,
       "create_time": "2023-03-29",
       "create_year": 2023,
-      "categories": [],
+      "categories": [
+        "Survival"
+      ],
       "daily_players": {
         "2026-03-20": 7824,
         "2026-03-23": 8117,
@@ -26073,7 +26186,9 @@
       "peak_players": 12909,
       "create_time": "2021-01-15",
       "create_year": 2021,
-      "categories": [],
+      "categories": [
+        "Survival"
+      ],
       "daily_players": {
         "2026-06-22": 32121,
         "2026-06-23": 12264,
@@ -26106,7 +26221,9 @@
       "peak_players": 12882,
       "create_time": "2026-05-01",
       "create_year": 2026,
-      "categories": [],
+      "categories": [
+        "Simulator"
+      ],
       "daily_players": {
         "2026-07-04": 12882
       },
@@ -26668,7 +26785,9 @@
       "peak_players": 12424,
       "create_time": "2023-12-20",
       "create_year": 2023,
-      "categories": [],
+      "categories": [
+        "Fight"
+      ],
       "daily_players": {
         "2026-03-03": 6926,
         "2026-03-04": 7253,
@@ -27430,7 +27549,9 @@
       "peak_players": 11867,
       "create_time": "2026-05-11",
       "create_year": 2026,
-      "categories": [],
+      "categories": [
+        "Simulator"
+      ],
       "daily_players": {
         "2026-06-04": 10232,
         "2026-06-05": 12449,
@@ -27738,7 +27859,9 @@
       "peak_players": 11681,
       "create_time": "2025-05-22",
       "create_year": 2025,
-      "categories": [],
+      "categories": [
+        "Survival"
+      ],
       "daily_players": {
         "2026-03-03": 4824,
         "2026-03-04": 4754,
@@ -27820,7 +27943,9 @@
       "peak_players": 11612,
       "create_time": "2024-09-13",
       "create_year": 2024,
-      "categories": [],
+      "categories": [
+        "Simulator"
+      ],
       "daily_players": {
         "2026-03-06": 13847,
         "2026-03-07": 16304,
@@ -29085,7 +29210,9 @@
       "peak_players": 11121,
       "create_time": "2025-01-19",
       "create_year": 2025,
-      "categories": [],
+      "categories": [
+        "Fight"
+      ],
       "daily_players": {
         "2026-04-12": 15704,
         "2026-04-13": 12204,
@@ -29413,7 +29540,9 @@
       "peak_players": 11048,
       "create_time": "2024-02-18",
       "create_year": 2024,
-      "categories": [],
+      "categories": [
+        "Survival"
+      ],
       "daily_players": {
         "2026-05-10": 14179,
         "2026-05-23": 18037,
@@ -29466,7 +29595,9 @@
       "peak_players": 11028,
       "create_time": "2025-10-25",
       "create_year": 2025,
-      "categories": [],
+      "categories": [
+        "Simulator"
+      ],
       "daily_players": {
         "2026-06-05": 11028
       },
@@ -29515,7 +29646,9 @@
       "peak_players": 10973,
       "create_time": "2025-01-09",
       "create_year": 2025,
-      "categories": [],
+      "categories": [
+        "Survival"
+      ],
       "daily_players": {
         "2026-03-09": 8883,
         "2026-03-14": 10274,
@@ -30227,7 +30360,9 @@
       "peak_players": 10610,
       "create_time": "2014-05-02",
       "create_year": 2014,
-      "categories": [],
+      "categories": [
+        "Simulator"
+      ],
       "daily_players": {
         "2026-03-03": 10730,
         "2026-03-05": 11055,
@@ -30359,7 +30494,10 @@
       "peak_players": 10598,
       "create_time": "2023-06-21",
       "create_year": 2023,
-      "categories": [],
+      "categories": [
+        "Survival",
+        "Escape"
+      ],
       "daily_players": {
         "2026-03-03": 6401,
         "2026-03-05": 7289,
@@ -30462,7 +30600,9 @@
       "peak_players": 10575,
       "create_time": "2026-05-24",
       "create_year": 2026,
-      "categories": [],
+      "categories": [
+        "Simulator"
+      ],
       "daily_players": {
         "2026-06-16": 17163,
         "2026-06-17": 13324,
@@ -30632,7 +30772,9 @@
       "peak_players": 10347,
       "create_time": "2025-01-22",
       "create_year": 2025,
-      "categories": [],
+      "categories": [
+        "Simulator"
+      ],
       "daily_players": {
         "2026-04-03": 19856,
         "2026-04-19": 5795,
@@ -30900,7 +31042,10 @@
       "peak_players": 10135,
       "create_time": "2026-05-10",
       "create_year": 2026,
-      "categories": [],
+      "categories": [
+        "Simulator",
+        "Escape"
+      ],
       "daily_players": {
         "2026-06-09": 6539,
         "2026-06-10": 6094,
@@ -30996,7 +31141,9 @@
       "peak_players": 10048,
       "create_time": "2026-02-14",
       "create_year": 2026,
-      "categories": [],
+      "categories": [
+        "Tower"
+      ],
       "daily_players": {
         "2026-05-21": 10048,
         "2026-05-22": 9309
@@ -31236,7 +31383,9 @@
       "peak_players": 9913,
       "create_time": "2025-02-19",
       "create_year": 2025,
-      "categories": [],
+      "categories": [
+        "Fight"
+      ],
       "daily_players": {
         "2026-03-08": 8229,
         "2026-03-09": 6476,
@@ -31444,7 +31593,9 @@
       "peak_players": 9814,
       "create_time": "2021-08-12",
       "create_year": 2021,
-      "categories": [],
+      "categories": [
+        "Fight"
+      ],
       "daily_players": {
         "2026-06-09": 6578,
         "2026-06-12": 8706,
@@ -31513,7 +31664,9 @@
       "peak_players": 9694,
       "create_time": "2026-03-20",
       "create_year": 2026,
-      "categories": [],
+      "categories": [
+        "Survival"
+      ],
       "daily_players": {
         "2026-06-03": 6147,
         "2026-06-04": 6864,
@@ -31539,7 +31692,9 @@
       "peak_players": 9672,
       "create_time": "",
       "create_year": null,
-      "categories": [],
+      "categories": [
+        "Survival"
+      ],
       "daily_players": {
         "2026-05-08": 6870,
         "2026-05-09": 9809,
@@ -31571,7 +31726,9 @@
       "peak_players": 9659,
       "create_time": "2026-02-02",
       "create_year": 2026,
-      "categories": [],
+      "categories": [
+        "Simulator"
+      ],
       "daily_players": {},
       "latest_players": 0,
       "latest_date": "",
@@ -31640,7 +31797,10 @@
       "peak_players": 9609,
       "create_time": "2026-01-20",
       "create_year": 2026,
-      "categories": [],
+      "categories": [
+        "Survival",
+        "Simulator"
+      ],
       "daily_players": {},
       "latest_players": 0,
       "latest_date": "",
@@ -32346,7 +32506,9 @@
       "peak_players": 9300,
       "create_time": "2026-01-02",
       "create_year": 2026,
-      "categories": [],
+      "categories": [
+        "Simulator"
+      ],
       "daily_players": {
         "2026-04-13": 6412,
         "2026-04-14": 5877,
@@ -32432,7 +32594,9 @@
       "peak_players": 9259,
       "create_time": "2026-03-05",
       "create_year": 2026,
-      "categories": [],
+      "categories": [
+        "Simulator"
+      ],
       "daily_players": {
         "2026-04-22": 5896,
         "2026-04-23": 6653,
@@ -32630,7 +32794,9 @@
       "peak_players": 9116,
       "create_time": "2025-06-10",
       "create_year": 2025,
-      "categories": [],
+      "categories": [
+        "Simulator"
+      ],
       "daily_players": {
         "2026-04-19": 9116
       },
@@ -32975,7 +33141,10 @@
       "peak_players": 8896,
       "create_time": "2025-06-17",
       "create_year": 2025,
-      "categories": [],
+      "categories": [
+        "Survival",
+        "Tower"
+      ],
       "daily_players": {
         "2026-03-22": 10697,
         "2026-04-19": 4689,
@@ -33186,7 +33355,9 @@
       "peak_players": 8817,
       "create_time": "2026-02-18",
       "create_year": 2026,
-      "categories": [],
+      "categories": [
+        "Simulator"
+      ],
       "daily_players": {
         "2026-03-20": 7258
       },
@@ -33635,7 +33806,9 @@
       "peak_players": 8547,
       "create_time": "2026-03-31",
       "create_year": 2026,
-      "categories": [],
+      "categories": [
+        "Simulator"
+      ],
       "daily_players": {
         "2026-04-18": 6525,
         "2026-04-20": 8103,
@@ -33878,7 +34051,9 @@
       "peak_players": 8494,
       "create_time": "2024-06-09",
       "create_year": 2024,
-      "categories": [],
+      "categories": [
+        "Tower"
+      ],
       "daily_players": {
         "2026-04-17": 8494
       },
@@ -34011,7 +34186,9 @@
       "peak_players": 8370,
       "create_time": "2026-05-02",
       "create_year": 2026,
-      "categories": [],
+      "categories": [
+        "Survival"
+      ],
       "daily_players": {
         "2026-06-04": 7140,
         "2026-06-05": 8370
@@ -34034,7 +34211,9 @@
       "peak_players": 8359,
       "create_time": "2026-02-03",
       "create_year": 2026,
-      "categories": [],
+      "categories": [
+        "Simulator"
+      ],
       "daily_players": {
         "2026-04-30": 8582,
         "2026-05-01": 10783,
@@ -35552,7 +35731,9 @@
       "peak_players": 7728,
       "create_time": "2025-05-24",
       "create_year": 2025,
-      "categories": [],
+      "categories": [
+        "Simulator"
+      ],
       "daily_players": {
         "2026-05-29": 7634,
         "2026-05-30": 9563,
@@ -35808,7 +35989,9 @@
       "peak_players": 7606,
       "create_time": "2022-10-27",
       "create_year": 2022,
-      "categories": [],
+      "categories": [
+        "Survival"
+      ],
       "daily_players": {
         "2026-03-06": 10032,
         "2026-03-07": 12391,
@@ -35986,7 +36169,9 @@
       "peak_players": 7516,
       "create_time": "2026-02-22",
       "create_year": 2026,
-      "categories": [],
+      "categories": [
+        "Escape"
+      ],
       "daily_players": {
         "2026-05-03": 7703,
         "2026-05-04": 9250,
@@ -36023,7 +36208,9 @@
       "peak_players": 7511,
       "create_time": "2025-05-04",
       "create_year": 2025,
-      "categories": [],
+      "categories": [
+        "Escape"
+      ],
       "daily_players": {
         "2026-04-30": 6225,
         "2026-05-04": 5881,
@@ -36072,7 +36259,9 @@
       "peak_players": 7470,
       "create_time": "2022-02-08",
       "create_year": 2022,
-      "categories": [],
+      "categories": [
+        "Survival"
+      ],
       "daily_players": {},
       "latest_players": 0,
       "latest_date": "",
@@ -36188,7 +36377,9 @@
       "peak_players": 7395,
       "create_time": "2025-07-04",
       "create_year": 2025,
-      "categories": [],
+      "categories": [
+        "Simulator"
+      ],
       "daily_players": {
         "2026-03-03": 8910,
         "2026-03-04": 8673,
@@ -36475,7 +36666,9 @@
       "peak_players": 7304,
       "create_time": "2026-04-29",
       "create_year": 2026,
-      "categories": [],
+      "categories": [
+        "Fight"
+      ],
       "daily_players": {
         "2026-05-24": 10090,
         "2026-05-25": 11600,
@@ -36778,7 +36971,9 @@
       "peak_players": 7048,
       "create_time": "2026-01-06",
       "create_year": 2026,
-      "categories": [],
+      "categories": [
+        "Escape"
+      ],
       "daily_players": {
         "2026-05-01": 7048
       },
@@ -36800,7 +36995,9 @@
       "peak_players": 7035,
       "create_time": "2026-02-16",
       "create_year": 2026,
-      "categories": [],
+      "categories": [
+        "Fight"
+      ],
       "daily_players": {
         "2026-04-13": 5848,
         "2026-04-14": 6640,
@@ -36866,7 +37063,9 @@
       "peak_players": 7032,
       "create_time": "2024-05-24",
       "create_year": 2024,
-      "categories": [],
+      "categories": [
+        "Tycoon"
+      ],
       "daily_players": {
         "2026-05-06": 7988,
         "2026-05-07": 6935,
@@ -36894,7 +37093,9 @@
       "peak_players": 7021,
       "create_time": "2025-09-03",
       "create_year": 2025,
-      "categories": [],
+      "categories": [
+        "Survival"
+      ],
       "daily_players": {},
       "latest_players": 0,
       "latest_date": "",
@@ -36914,7 +37115,9 @@
       "peak_players": 7013,
       "create_time": "2026-01-19",
       "create_year": 2026,
-      "categories": [],
+      "categories": [
+        "Fight"
+      ],
       "daily_players": {
         "2026-04-12": 9456,
         "2026-04-17": 6814,
@@ -36958,7 +37161,9 @@
       "peak_players": 6901,
       "create_time": "2026-01-03",
       "create_year": 2026,
-      "categories": [],
+      "categories": [
+        "Simulator"
+      ],
       "daily_players": {
         "2026-04-09": 17478,
         "2026-04-10": 24999,
@@ -37096,7 +37301,9 @@
       "peak_players": 6826,
       "create_time": "2025-04-18",
       "create_year": 2025,
-      "categories": [],
+      "categories": [
+        "Simulator"
+      ],
       "daily_players": {
         "2026-04-14": 5998,
         "2026-04-15": 6193,
@@ -37163,7 +37370,10 @@
       "peak_players": 6802,
       "create_time": "2026-01-04",
       "create_year": 2026,
-      "categories": [],
+      "categories": [
+        "Survival",
+        "Simulator"
+      ],
       "daily_players": {
         "2026-03-04": 4721,
         "2026-03-05": 6802
@@ -37505,7 +37715,9 @@
       "peak_players": 6577,
       "create_time": "2026-02-06",
       "create_year": 2026,
-      "categories": [],
+      "categories": [
+        "Simulator"
+      ],
       "daily_players": {
         "2026-03-03": 5031,
         "2026-03-04": 4850
@@ -37779,7 +37991,9 @@
       "peak_players": 6265,
       "create_time": "2026-02-24",
       "create_year": 2026,
-      "categories": [],
+      "categories": [
+        "Simulator"
+      ],
       "daily_players": {
         "2026-05-15": 8647,
         "2026-05-16": 10566,
@@ -38024,7 +38238,9 @@
       "peak_players": 6174,
       "create_time": "2025-12-12",
       "create_year": 2025,
-      "categories": [],
+      "categories": [
+        "Tycoon"
+      ],
       "daily_players": {
         "2026-05-03": 8638,
         "2026-05-04": 7693,
@@ -38153,7 +38369,9 @@
       "peak_players": 6095,
       "create_time": "2025-10-28",
       "create_year": 2025,
-      "categories": [],
+      "categories": [
+        "Fight"
+      ],
       "daily_players": {
         "2026-04-14": 10338,
         "2026-04-15": 18179,
@@ -38257,7 +38475,9 @@
       "peak_players": 5977,
       "create_time": "2025-09-20",
       "create_year": 2025,
-      "categories": [],
+      "categories": [
+        "Survival"
+      ],
       "daily_players": {
         "2026-06-09": 5977
       },
@@ -38279,7 +38499,9 @@
       "peak_players": 5973,
       "create_time": "2025-06-01",
       "create_year": 2025,
-      "categories": [],
+      "categories": [
+        "Escape"
+      ],
       "daily_players": {
         "2026-06-08": 5973
       },
@@ -38301,7 +38523,9 @@
       "peak_players": 5831,
       "create_time": "",
       "create_year": null,
-      "categories": [],
+      "categories": [
+        "Simulator"
+      ],
       "daily_players": {
         "2026-05-25": 5831
       },
@@ -38433,7 +38657,10 @@
       "peak_players": 5788,
       "create_time": "2025-07-29",
       "create_year": 2025,
-      "categories": [],
+      "categories": [
+        "Survival",
+        "Simulator"
+      ],
       "daily_players": {
         "2026-04-19": 4839,
         "2026-05-06": 3989,
@@ -38610,7 +38837,9 @@
       "peak_players": 5617,
       "create_time": "2025-11-22",
       "create_year": 2025,
-      "categories": [],
+      "categories": [
+        "Survival"
+      ],
       "daily_players": {
         "2026-06-15": 13225,
         "2026-06-23": 5617
@@ -38800,7 +39029,9 @@
       "peak_players": 5441,
       "create_time": "2025-09-19",
       "create_year": 2025,
-      "categories": [],
+      "categories": [
+        "Simulator"
+      ],
       "daily_players": {
         "2026-03-03": 6126,
         "2026-03-04": 6275,
@@ -38923,7 +39154,9 @@
       "peak_players": 5321,
       "create_time": "2026-06-04",
       "create_year": 2026,
-      "categories": [],
+      "categories": [
+        "Survival"
+      ],
       "daily_players": {
         "2026-06-14": 5321
       },
@@ -39003,7 +39236,9 @@
       "peak_players": 5271,
       "create_time": "2021-10-11",
       "create_year": 2021,
-      "categories": [],
+      "categories": [
+        "Survival"
+      ],
       "daily_players": {
         "2026-03-03": 18991,
         "2026-03-05": 17780,
@@ -39099,7 +39334,9 @@
       "peak_players": 5197,
       "create_time": "2025-03-08",
       "create_year": 2025,
-      "categories": [],
+      "categories": [
+        "Survival"
+      ],
       "daily_players": {
         "2026-03-08": 9717,
         "2026-03-09": 6789,
@@ -39389,7 +39626,9 @@
       "peak_players": 4131,
       "create_time": "2022-11-24",
       "create_year": 2022,
-      "categories": [],
+      "categories": [
+        "Simulator"
+      ],
       "daily_players": {
         "2026-03-29": 10760,
         "2026-06-19": 5345,
@@ -39538,7 +39777,9 @@
       "peak_players": 0,
       "create_time": "",
       "create_year": null,
-      "categories": [],
+      "categories": [
+        "Simulator"
+      ],
       "daily_players": {
         "2026-03-03": 15976,
         "2026-03-04": 16847,
