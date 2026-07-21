@@ -10,104 +10,146 @@
     "total_days": 129,
     "note": "Roblox 平台游戏排行榜数据,每日玩家数时序",
     "icons_count": 796,
-    "categorized_count": 432
+    "categorized_count": 796
   },
   "categories": {
+    "Other": {
+      "zh": "其他",
+      "en": "Other",
+      "count": 306,
+      "steam_official": false
+    },
     "Simulator": {
       "zh": "模拟",
+      "en": "Simulator",
       "count": 91,
-      "steam_official": false,
-      "en": "Simulator"
+      "steam_official": false
     },
     "Brainrot": {
       "zh": "脑腐",
+      "en": "Brainrot",
       "count": 89,
-      "steam_official": false,
-      "en": "Brainrot"
+      "steam_official": false
     },
     "Escape": {
       "zh": "逃脱",
+      "en": "Escape",
       "count": 56,
-      "steam_official": false,
-      "en": "Escape"
+      "steam_official": false
     },
     "Tower": {
       "zh": "塔防",
+      "en": "Tower Defense",
       "count": 50,
-      "steam_official": false,
-      "en": "Tower Defense"
+      "steam_official": false
     },
     "Survival": {
       "zh": "生存",
-      "count": 41,
-      "steam_official": false,
-      "en": "Survival"
+      "en": "Survival",
+      "count": 43,
+      "steam_official": false
     },
     "Fight": {
       "zh": "格斗",
-      "count": 38,
-      "steam_official": false,
-      "en": "Fighting"
+      "en": "Fighting",
+      "count": 41,
+      "steam_official": false
     },
     "RP": {
       "zh": "角色扮演",
+      "en": "Roleplay",
       "count": 28,
-      "steam_official": false,
-      "en": "Roleplay"
+      "steam_official": false
     },
     "Anime": {
       "zh": "动漫",
+      "en": "Anime",
       "count": 26,
-      "steam_official": false,
-      "en": "Anime"
+      "steam_official": false
+    },
+    "Racing": {
+      "zh": "竞速",
+      "en": "Racing",
+      "count": 18,
+      "steam_official": false
     },
     "Tycoon": {
       "zh": "大亨",
-      "count": 14,
-      "steam_official": false,
-      "en": "Tycoon"
-    },
-    "Obby": {
-      "zh": "跑酷",
-      "count": 13,
-      "steam_official": false,
-      "en": "Obby"
-    },
-    "War": {
-      "zh": "战争",
-      "count": 12,
-      "steam_official": false,
-      "en": "War"
-    },
-    "Murder": {
-      "zh": "推理",
-      "count": 7,
-      "steam_official": false,
-      "en": "Mystery"
-    },
-    "Grow": {
-      "zh": "种植",
-      "count": 6,
-      "steam_official": false,
-      "en": "Garden"
-    },
-    "Pets": {
-      "zh": "宠物",
-      "count": 6,
-      "steam_official": false,
-      "en": "Pets"
-    },
-    "Parkour": {
-      "zh": "跑酷",
-      "count": 3,
-      "steam_official": false,
-      "en": "Parkour"
+      "en": "Tycoon",
+      "count": 17,
+      "steam_official": false
     },
     "Adopt": {
       "zh": "养成",
+      "en": "Adopt",
+      "count": 14,
+      "steam_official": false
+    },
+    "Obby": {
+      "zh": "跑酷",
+      "en": "Obby",
+      "count": 13,
+      "steam_official": false
+    },
+    "War": {
+      "zh": "战争",
+      "en": "War",
+      "count": 12,
+      "steam_official": false
+    },
+    "Murder": {
+      "zh": "推理",
+      "en": "Mystery",
+      "count": 8,
+      "steam_official": false
+    },
+    "Sports": {
+      "zh": "体育",
+      "en": "Sports",
+      "count": 7,
+      "steam_official": false
+    },
+    "Grow": {
+      "zh": "种植",
+      "en": "Garden",
+      "count": 6,
+      "steam_official": false
+    },
+    "Pets": {
+      "zh": "宠物",
+      "en": "Pets",
+      "count": 6,
+      "steam_official": false
+    },
+    "Story": {
+      "zh": "剧情",
+      "en": "Story",
+      "count": 6,
+      "steam_official": false
+    },
+    "Cooking": {
+      "zh": "烹饪",
+      "en": "Cooking",
+      "count": 6,
+      "steam_official": false
+    },
+    "Horror": {
+      "zh": "恐怖",
+      "en": "Horror",
+      "count": 4,
+      "steam_official": false
+    },
+    "Parkour": {
+      "zh": "跑酷",
+      "en": "Parkour",
+      "count": 3,
+      "steam_official": false
+    },
+    "Merge": {
+      "zh": "合成",
+      "en": "Merge",
       "count": 1,
-      "steam_official": false,
-      "en": "Adopt"
+      "steam_official": false
     }
   },
   "games": [
@@ -1525,7 +1567,9 @@
       "peak_players": 745566,
       "create_time": "2025-11-17",
       "create_year": 2025,
-      "categories": [],
+      "categories": [
+        "Other"
+      ],
       "daily_players": {
         "2026-02-27": 32456,
         "2026-02-28": 34836,
@@ -1725,7 +1769,9 @@
       "peak_players": 666050,
       "create_time": "2023-10-18",
       "create_year": 2023,
-      "categories": [],
+      "categories": [
+        "Other"
+      ],
       "daily_players": {
         "2026-02-27": 84626,
         "2026-02-28": 109642,
@@ -2600,7 +2646,9 @@
       "peak_players": 348199,
       "create_time": "2024-01-26",
       "create_year": 2024,
-      "categories": [],
+      "categories": [
+        "Other"
+      ],
       "daily_players": {
         "2026-02-27": 560639,
         "2026-02-28": 261766,
@@ -3575,7 +3623,9 @@
       "peak_players": 182626,
       "create_time": "2025-03-17",
       "create_year": 2025,
-      "categories": [],
+      "categories": [
+        "Other"
+      ],
       "daily_players": {
         "2026-05-26": 8398,
         "2026-05-27": 11433,
@@ -3639,7 +3689,9 @@
       "peak_players": 177699,
       "create_time": "2025-11-02",
       "create_year": 2025,
-      "categories": [],
+      "categories": [
+        "Other"
+      ],
       "daily_players": {
         "2026-02-27": 28639,
         "2026-02-28": 29513,
@@ -3780,7 +3832,9 @@
       "peak_players": 171932,
       "create_time": "2017-01-06",
       "create_year": 2017,
-      "categories": [],
+      "categories": [
+        "Other"
+      ],
       "daily_players": {
         "2026-03-05": 11421,
         "2026-03-06": 12949,
@@ -3913,7 +3967,10 @@
       "peak_players": 167923,
       "create_time": "2025-11-30",
       "create_year": 2025,
-      "categories": [],
+      "categories": [
+        "Sports",
+        "Racing"
+      ],
       "daily_players": {
         "2026-03-10": 13014,
         "2026-03-13": 20405,
@@ -4040,7 +4097,9 @@
       "peak_players": 166821,
       "create_time": "2024-10-31",
       "create_year": 2024,
-      "categories": [],
+      "categories": [
+        "Other"
+      ],
       "daily_players": {
         "2026-02-27": 35598,
         "2026-02-28": 38216,
@@ -4294,7 +4353,9 @@
       "peak_players": 157736,
       "create_time": "2024-07-28",
       "create_year": 2024,
-      "categories": [],
+      "categories": [
+        "Other"
+      ],
       "daily_players": {
         "2026-02-27": 105167,
         "2026-02-28": 104655,
@@ -4446,7 +4507,9 @@
       "peak_players": 155340,
       "create_time": "2023-12-03",
       "create_year": 2023,
-      "categories": [],
+      "categories": [
+        "Other"
+      ],
       "daily_players": {
         "2026-02-27": 49261,
         "2026-02-28": 62092,
@@ -4994,7 +5057,9 @@
       "peak_players": 141033,
       "create_time": "2023-09-26",
       "create_year": 2023,
-      "categories": [],
+      "categories": [
+        "Other"
+      ],
       "daily_players": {
         "2026-02-28": 79468,
         "2026-03-01": 113713,
@@ -5509,7 +5574,9 @@
       "peak_players": 126531,
       "create_time": "2025-07-13",
       "create_year": 2025,
-      "categories": [],
+      "categories": [
+        "Other"
+      ],
       "daily_players": {
         "2026-03-03": 7014,
         "2026-03-04": 5991,
@@ -5537,7 +5604,9 @@
       "peak_players": 121361,
       "create_time": "2025-11-09",
       "create_year": 2025,
-      "categories": [],
+      "categories": [
+        "Other"
+      ],
       "daily_players": {},
       "latest_players": 0,
       "latest_date": "",
@@ -5557,7 +5626,9 @@
       "peak_players": 121093,
       "create_time": "2019-02-02",
       "create_year": 2019,
-      "categories": [],
+      "categories": [
+        "Story"
+      ],
       "daily_players": {
         "2026-03-28": 12345,
         "2026-03-29": 14388,
@@ -5846,7 +5917,9 @@
       "peak_players": 112111,
       "create_time": "2023-02-08",
       "create_year": 2023,
-      "categories": [],
+      "categories": [
+        "Other"
+      ],
       "daily_players": {
         "2026-03-28": 112111,
         "2026-03-29": 43551,
@@ -5930,7 +6003,9 @@
       "peak_players": 107794,
       "create_time": "2026-04-02",
       "create_year": 2026,
-      "categories": [],
+      "categories": [
+        "Adopt"
+      ],
       "daily_players": {
         "2026-06-16": 7435,
         "2026-06-17": 9209,
@@ -5973,7 +6048,9 @@
       "peak_players": 107077,
       "create_time": "2026-05-21",
       "create_year": 2026,
-      "categories": [],
+      "categories": [
+        "Merge"
+      ],
       "daily_players": {
         "2026-06-08": 11363,
         "2026-06-09": 16682,
@@ -6102,7 +6179,9 @@
       "peak_players": 106096,
       "create_time": "2026-03-03",
       "create_year": 2026,
-      "categories": [],
+      "categories": [
+        "Other"
+      ],
       "daily_players": {
         "2026-06-20": 13171,
         "2026-06-21": 14712,
@@ -6195,7 +6274,9 @@
       "peak_players": 101286,
       "create_time": "2021-07-03",
       "create_year": 2021,
-      "categories": [],
+      "categories": [
+        "Other"
+      ],
       "daily_players": {
         "2026-02-27": 107364,
         "2026-02-28": 115710,
@@ -6347,7 +6428,9 @@
       "peak_players": 100131,
       "create_time": "2026-04-02",
       "create_year": 2026,
-      "categories": [],
+      "categories": [
+        "Other"
+      ],
       "daily_players": {
         "2026-06-19": 16120,
         "2026-06-20": 25964,
@@ -6571,7 +6654,9 @@
       "peak_players": 93409,
       "create_time": "2025-09-23",
       "create_year": 2025,
-      "categories": [],
+      "categories": [
+        "Tycoon"
+      ],
       "daily_players": {
         "2026-03-20": 6947,
         "2026-03-23": 7599,
@@ -6653,7 +6738,9 @@
       "peak_players": 90252,
       "create_time": "2026-06-06",
       "create_year": 2026,
-      "categories": [],
+      "categories": [
+        "Other"
+      ],
       "daily_players": {
         "2026-06-22": 10567,
         "2026-06-23": 9331,
@@ -6775,7 +6862,9 @@
       "peak_players": 87458,
       "create_time": "2026-05-25",
       "create_year": 2026,
-      "categories": [],
+      "categories": [
+        "Sports"
+      ],
       "daily_players": {
         "2026-06-21": 13125,
         "2026-06-22": 12825,
@@ -6961,7 +7050,9 @@
       "peak_players": 85537,
       "create_time": "2025-12-10",
       "create_year": 2025,
-      "categories": [],
+      "categories": [
+        "Other"
+      ],
       "daily_players": {},
       "latest_players": 0,
       "latest_date": "",
@@ -6983,7 +7074,9 @@
       "peak_players": 84523,
       "create_time": "2025-03-18",
       "create_year": 2025,
-      "categories": [],
+      "categories": [
+        "Other"
+      ],
       "daily_players": {
         "2026-03-03": 6826
       },
@@ -7161,7 +7254,10 @@
       "peak_players": 84245,
       "create_time": "2024-06-25",
       "create_year": 2024,
-      "categories": [],
+      "categories": [
+        "Survival",
+        "Horror"
+      ],
       "daily_players": {
         "2026-04-14": 6119,
         "2026-04-17": 7351,
@@ -7265,7 +7361,9 @@
       "peak_players": 83598,
       "create_time": "2026-05-26",
       "create_year": 2026,
-      "categories": [],
+      "categories": [
+        "Other"
+      ],
       "daily_players": {
         "2026-06-14": 11562,
         "2026-06-15": 12034,
@@ -7310,7 +7408,9 @@
       "peak_players": 83255,
       "create_time": "2023-01-16",
       "create_year": 2023,
-      "categories": [],
+      "categories": [
+        "Sports"
+      ],
       "daily_players": {
         "2026-03-05": 8647,
         "2026-03-08": 11665,
@@ -7667,7 +7767,9 @@
       "peak_players": 80532,
       "create_time": "2021-01-19",
       "create_year": 2021,
-      "categories": [],
+      "categories": [
+        "Other"
+      ],
       "daily_players": {
         "2026-06-05": 555,
         "2026-06-06": 80532,
@@ -7778,7 +7880,9 @@
       "peak_players": 76959,
       "create_time": "2025-08-29",
       "create_year": 2025,
-      "categories": [],
+      "categories": [
+        "Other"
+      ],
       "daily_players": {
         "2026-02-28": 71826,
         "2026-03-03": 15152,
@@ -8039,7 +8143,9 @@
       "peak_players": 75361,
       "create_time": "2026-02-13",
       "create_year": 2026,
-      "categories": [],
+      "categories": [
+        "Other"
+      ],
       "daily_players": {
         "2026-02-27": 63287,
         "2026-02-28": 75361,
@@ -8191,7 +8297,9 @@
       "peak_players": 69672,
       "create_time": "2026-04-06",
       "create_year": 2026,
-      "categories": [],
+      "categories": [
+        "Other"
+      ],
       "daily_players": {
         "2026-06-13": 69672,
         "2026-06-14": 27084,
@@ -8222,7 +8330,10 @@
       "peak_players": 68488,
       "create_time": "2019-06-23",
       "create_year": 2019,
-      "categories": [],
+      "categories": [
+        "Tycoon",
+        "Racing"
+      ],
       "daily_players": {
         "2026-02-27": 81163,
         "2026-02-28": 78002,
@@ -8652,7 +8763,9 @@
       "peak_players": 67158,
       "create_time": "2025-12-07",
       "create_year": 2025,
-      "categories": [],
+      "categories": [
+        "Other"
+      ],
       "daily_players": {
         "2026-03-03": 5520
       },
@@ -8676,7 +8789,9 @@
       "peak_players": 66849,
       "create_time": "2025-08-14",
       "create_year": 2025,
-      "categories": [],
+      "categories": [
+        "Other"
+      ],
       "daily_players": {
         "2026-03-15": 19969
       },
@@ -8700,7 +8815,9 @@
       "peak_players": 66732,
       "create_time": "2025-01-01",
       "create_year": 2025,
-      "categories": [],
+      "categories": [
+        "Other"
+      ],
       "daily_players": {
         "2026-02-27": 28830,
         "2026-02-28": 32813,
@@ -8851,7 +8968,9 @@
       "peak_players": 66361,
       "create_time": "2024-12-31",
       "create_year": 2024,
-      "categories": [],
+      "categories": [
+        "Other"
+      ],
       "daily_players": {
         "2026-03-05": 11760,
         "2026-03-06": 14232,
@@ -8993,7 +9112,9 @@
       "peak_players": 65755,
       "create_time": "2025-11-10",
       "create_year": 2025,
-      "categories": [],
+      "categories": [
+        "Horror"
+      ],
       "daily_players": {
         "2026-02-27": 64308,
         "2026-02-28": 55452,
@@ -9143,7 +9264,9 @@
       "peak_players": 65666,
       "create_time": "2025-11-10",
       "create_year": 2025,
-      "categories": [],
+      "categories": [
+        "Other"
+      ],
       "daily_players": {
         "2026-05-02": 50205,
         "2026-05-03": 65666
@@ -9193,7 +9316,9 @@
       "peak_players": 64266,
       "create_time": "2020-06-25",
       "create_year": 2020,
-      "categories": [],
+      "categories": [
+        "Other"
+      ],
       "daily_players": {
         "2026-02-27": 43534,
         "2026-02-28": 41416,
@@ -9425,7 +9550,9 @@
       "peak_players": 62477,
       "create_time": "2026-06-15",
       "create_year": 2026,
-      "categories": [],
+      "categories": [
+        "Other"
+      ],
       "daily_players": {
         "2026-06-27": 15047,
         "2026-06-28": 29483,
@@ -9457,7 +9584,9 @@
       "peak_players": 61543,
       "create_time": "2025-11-10",
       "create_year": 2025,
-      "categories": [],
+      "categories": [
+        "Other"
+      ],
       "daily_players": {
         "2026-04-30": 44393,
         "2026-05-01": 61543
@@ -9616,7 +9745,9 @@
       "peak_players": 59564,
       "create_time": "2026-02-26",
       "create_year": 2026,
-      "categories": [],
+      "categories": [
+        "Other"
+      ],
       "daily_players": {
         "2026-04-17": 46382,
         "2026-04-18": 53790,
@@ -9649,7 +9780,9 @@
       "peak_players": 58133,
       "create_time": "2026-01-12",
       "create_year": 2026,
-      "categories": [],
+      "categories": [
+        "Other"
+      ],
       "daily_players": {
         "2026-02-27": 54537,
         "2026-02-28": 54292,
@@ -9680,7 +9813,9 @@
       "peak_players": 56435,
       "create_time": "2025-11-14",
       "create_year": 2025,
-      "categories": [],
+      "categories": [
+        "Other"
+      ],
       "daily_players": {
         "2026-03-15": 11790,
         "2026-03-20": 10858,
@@ -9738,7 +9873,9 @@
       "peak_players": 56262,
       "create_time": "2026-04-19",
       "create_year": 2026,
-      "categories": [],
+      "categories": [
+        "Racing"
+      ],
       "daily_players": {
         "2026-05-26": 6750,
         "2026-05-29": 15992,
@@ -9945,7 +10082,9 @@
       "peak_players": 54711,
       "create_time": "2021-06-16",
       "create_year": 2021,
-      "categories": [],
+      "categories": [
+        "Other"
+      ],
       "daily_players": {
         "2026-02-27": 44132,
         "2026-02-28": 49500,
@@ -10146,7 +10285,9 @@
       "peak_players": 53896,
       "create_time": "2026-05-06",
       "create_year": 2026,
-      "categories": [],
+      "categories": [
+        "Other"
+      ],
       "daily_players": {
         "2026-05-09": 52336,
         "2026-05-10": 53896
@@ -10169,7 +10310,9 @@
       "peak_players": 52367,
       "create_time": "2025-11-19",
       "create_year": 2025,
-      "categories": [],
+      "categories": [
+        "Other"
+      ],
       "daily_players": {
         "2026-06-27": 12454,
         "2026-07-01": 34009,
@@ -10369,7 +10512,9 @@
       "peak_players": 50954,
       "create_time": "2023-01-31",
       "create_year": 2023,
-      "categories": [],
+      "categories": [
+        "Other"
+      ],
       "daily_players": {
         "2026-03-04": 9778,
         "2026-03-05": 11758,
@@ -10976,7 +11121,9 @@
       "peak_players": 49213,
       "create_time": "2023-07-15",
       "create_year": 2023,
-      "categories": [],
+      "categories": [
+        "Other"
+      ],
       "daily_players": {
         "2026-05-07": 35,
         "2026-05-10": 49213,
@@ -11097,7 +11244,9 @@
       "peak_players": 47579,
       "create_time": "2026-06-02",
       "create_year": 2026,
-      "categories": [],
+      "categories": [
+        "Other"
+      ],
       "daily_players": {
         "2026-06-23": 8878,
         "2026-06-24": 17149,
@@ -11133,7 +11282,9 @@
       "peak_players": 47169,
       "create_time": "2026-04-28",
       "create_year": 2026,
-      "categories": [],
+      "categories": [
+        "Other"
+      ],
       "daily_players": {
         "2026-05-28": 9167,
         "2026-05-29": 17192,
@@ -11466,7 +11617,9 @@
       "peak_players": 46336,
       "create_time": "2024-05-17",
       "create_year": 2024,
-      "categories": [],
+      "categories": [
+        "Other"
+      ],
       "daily_players": {
         "2026-02-27": 34535,
         "2026-02-28": 37685,
@@ -11616,7 +11769,9 @@
       "peak_players": 45435,
       "create_time": "2024-12-20",
       "create_year": 2024,
-      "categories": [],
+      "categories": [
+        "Other"
+      ],
       "daily_players": {
         "2026-03-06": 9217,
         "2026-03-09": 9464,
@@ -11939,7 +12094,9 @@
       "peak_players": 43538,
       "create_time": "2026-01-28",
       "create_year": 2026,
-      "categories": [],
+      "categories": [
+        "Other"
+      ],
       "daily_players": {
         "2026-04-12": 54491,
         "2026-04-13": 43538,
@@ -11965,7 +12122,9 @@
       "peak_players": 43429,
       "create_time": "2026-04-30",
       "create_year": 2026,
-      "categories": [],
+      "categories": [
+        "Sports"
+      ],
       "daily_players": {
         "2026-05-02": 14649,
         "2026-05-03": 24786,
@@ -11998,7 +12157,9 @@
       "peak_players": 42727,
       "create_time": "2019-07-15",
       "create_year": 2019,
-      "categories": [],
+      "categories": [
+        "Story"
+      ],
       "daily_players": {
         "2026-03-04": 10524,
         "2026-03-05": 9832,
@@ -12132,7 +12293,9 @@
       "peak_players": 42498,
       "create_time": "2025-10-18",
       "create_year": 2025,
-      "categories": [],
+      "categories": [
+        "Other"
+      ],
       "daily_players": {
         "2026-03-06": 9910
       },
@@ -12494,7 +12657,9 @@
       "peak_players": 42034,
       "create_time": "2025-10-14",
       "create_year": 2025,
-      "categories": [],
+      "categories": [
+        "Other"
+      ],
       "daily_players": {
         "2026-04-18": 22282,
         "2026-04-19": 11190,
@@ -12533,7 +12698,9 @@
       "peak_players": 41982,
       "create_time": "2026-05-04",
       "create_year": 2026,
-      "categories": [],
+      "categories": [
+        "Other"
+      ],
       "daily_players": {
         "2026-06-23": 8557,
         "2026-06-25": 9930,
@@ -12568,7 +12735,9 @@
       "peak_players": 41938,
       "create_time": "2023-08-04",
       "create_year": 2023,
-      "categories": [],
+      "categories": [
+        "Sports"
+      ],
       "daily_players": {
         "2026-03-03": 12270,
         "2026-03-04": 12151,
@@ -12729,7 +12898,9 @@
       "peak_players": 41799,
       "create_time": "2018-02-25",
       "create_year": 2018,
-      "categories": [],
+      "categories": [
+        "Other"
+      ],
       "daily_players": {
         "2026-03-03": 7778,
         "2026-03-04": 8262,
@@ -12837,7 +13008,9 @@
       "peak_players": 41309,
       "create_time": "2025-11-08",
       "create_year": 2025,
-      "categories": [],
+      "categories": [
+        "Other"
+      ],
       "daily_players": {
         "2026-04-12": 12526,
         "2026-04-14": 5485,
@@ -12947,7 +13120,9 @@
       "peak_players": 41102,
       "create_time": "2026-05-21",
       "create_year": 2026,
-      "categories": [],
+      "categories": [
+        "Other"
+      ],
       "daily_players": {
         "2026-06-18": 10744,
         "2026-06-19": 16543,
@@ -13065,7 +13240,9 @@
       "peak_players": 39882,
       "create_time": "2025-11-28",
       "create_year": 2025,
-      "categories": [],
+      "categories": [
+        "Other"
+      ],
       "daily_players": {
         "2026-02-27": 26843,
         "2026-02-28": 29588,
@@ -13094,7 +13271,9 @@
       "peak_players": 39877,
       "create_time": "2024-04-03",
       "create_year": 2024,
-      "categories": [],
+      "categories": [
+        "Other"
+      ],
       "daily_players": {},
       "latest_players": 0,
       "latest_date": "",
@@ -13116,7 +13295,9 @@
       "peak_players": 39730,
       "create_time": "2026-05-06",
       "create_year": 2026,
-      "categories": [],
+      "categories": [
+        "Other"
+      ],
       "daily_players": {
         "2026-05-11": 18369,
         "2026-05-12": 29650,
@@ -13598,7 +13779,9 @@
       "peak_players": 38571,
       "create_time": "2026-04-08",
       "create_year": 2026,
-      "categories": [],
+      "categories": [
+        "Story"
+      ],
       "daily_players": {
         "2026-05-15": 14955,
         "2026-05-16": 18309,
@@ -13679,7 +13862,9 @@
       "peak_players": 38259,
       "create_time": "2026-06-10",
       "create_year": 2026,
-      "categories": [],
+      "categories": [
+        "Other"
+      ],
       "daily_players": {
         "2026-06-11": 31491,
         "2026-06-12": 33583,
@@ -13707,7 +13892,9 @@
       "peak_players": 37106,
       "create_time": "2025-02-25",
       "create_year": 2025,
-      "categories": [],
+      "categories": [
+        "Other"
+      ],
       "daily_players": {},
       "latest_players": 0,
       "latest_date": "",
@@ -13791,7 +13978,9 @@
       "peak_players": 36507,
       "create_time": "2026-06-04",
       "create_year": 2026,
-      "categories": [],
+      "categories": [
+        "Other"
+      ],
       "daily_players": {
         "2026-06-04": 24527,
         "2026-06-05": 33859,
@@ -13817,7 +14006,9 @@
       "peak_players": 36274,
       "create_time": "2025-10-15",
       "create_year": 2025,
-      "categories": [],
+      "categories": [
+        "Other"
+      ],
       "daily_players": {},
       "latest_players": 0,
       "latest_date": "",
@@ -13864,7 +14055,9 @@
       "peak_players": 36264,
       "create_time": "2026-03-16",
       "create_year": 2026,
-      "categories": [],
+      "categories": [
+        "Other"
+      ],
       "daily_players": {
         "2026-04-21": 8719,
         "2026-04-22": 7531,
@@ -13910,7 +14103,9 @@
       "peak_players": 35803,
       "create_time": "2026-06-03",
       "create_year": 2026,
-      "categories": [],
+      "categories": [
+        "Other"
+      ],
       "daily_players": {
         "2026-07-04": 17676,
         "2026-07-05": 35803
@@ -13935,7 +14130,9 @@
       "peak_players": 35757,
       "create_time": "2026-05-28",
       "create_year": 2026,
-      "categories": [],
+      "categories": [
+        "Other"
+      ],
       "daily_players": {
         "2026-05-28": 27230,
         "2026-05-29": 30274,
@@ -14056,7 +14253,9 @@
       "peak_players": 35233,
       "create_time": "2025-09-15",
       "create_year": 2025,
-      "categories": [],
+      "categories": [
+        "Other"
+      ],
       "daily_players": {
         "2026-03-03": 8987,
         "2026-03-04": 8200,
@@ -14199,7 +14398,9 @@
       "peak_players": 35180,
       "create_time": "2026-04-11",
       "create_year": 2026,
-      "categories": [],
+      "categories": [
+        "Other"
+      ],
       "daily_players": {
         "2026-05-06": 7582,
         "2026-05-08": 11450,
@@ -14278,7 +14479,9 @@
       "peak_players": 34760,
       "create_time": "2020-01-02",
       "create_year": 2020,
-      "categories": [],
+      "categories": [
+        "Racing"
+      ],
       "daily_players": {},
       "latest_players": 0,
       "latest_date": "",
@@ -14333,7 +14536,9 @@
       "peak_players": 34449,
       "create_time": "2026-05-26",
       "create_year": 2026,
-      "categories": [],
+      "categories": [
+        "Other"
+      ],
       "daily_players": {
         "2026-05-26": 34127,
         "2026-05-27": 34449
@@ -14358,7 +14563,9 @@
       "peak_players": 34129,
       "create_time": "2021-07-29",
       "create_year": 2021,
-      "categories": [],
+      "categories": [
+        "Other"
+      ],
       "daily_players": {
         "2026-03-03": 15431,
         "2026-03-04": 13839,
@@ -14604,7 +14811,9 @@
       "peak_players": 33759,
       "create_time": "2024-04-08",
       "create_year": 2024,
-      "categories": [],
+      "categories": [
+        "Other"
+      ],
       "daily_players": {
         "2026-03-03": 12835,
         "2026-03-04": 12741,
@@ -14637,7 +14846,9 @@
       "peak_players": 32992,
       "create_time": "2021-02-07",
       "create_year": 2021,
-      "categories": [],
+      "categories": [
+        "Other"
+      ],
       "daily_players": {
         "2026-03-03": 11003,
         "2026-03-04": 10737,
@@ -14712,7 +14923,9 @@
       "peak_players": 32835,
       "create_time": "2017-06-28",
       "create_year": 2017,
-      "categories": [],
+      "categories": [
+        "Other"
+      ],
       "daily_players": {
         "2026-03-10": 7127,
         "2026-03-11": 6709,
@@ -14844,7 +15057,9 @@
       "peak_players": 32614,
       "create_time": "2025-12-14",
       "create_year": 2025,
-      "categories": [],
+      "categories": [
+        "Other"
+      ],
       "daily_players": {
         "2026-03-04": 5787,
         "2026-03-05": 6467
@@ -14869,7 +15084,9 @@
       "peak_players": 32347,
       "create_time": "2019-01-20",
       "create_year": 2019,
-      "categories": [],
+      "categories": [
+        "Other"
+      ],
       "daily_players": {
         "2026-03-03": 8483,
         "2026-03-05": 7788,
@@ -15136,7 +15353,9 @@
       "peak_players": 32059,
       "create_time": "2026-05-18",
       "create_year": 2026,
-      "categories": [],
+      "categories": [
+        "Other"
+      ],
       "daily_players": {
         "2026-06-29": 15400,
         "2026-06-30": 11428,
@@ -15272,7 +15491,9 @@
       "peak_players": 31616,
       "create_time": "2026-05-28",
       "create_year": 2026,
-      "categories": [],
+      "categories": [
+        "Other"
+      ],
       "daily_players": {
         "2026-06-23": 4899,
         "2026-06-24": 28613,
@@ -15308,7 +15529,9 @@
       "peak_players": 31294,
       "create_time": "2026-05-23",
       "create_year": 2026,
-      "categories": [],
+      "categories": [
+        "Other"
+      ],
       "daily_players": {
         "2026-05-24": 26869,
         "2026-05-25": 31294
@@ -15331,7 +15554,9 @@
       "peak_players": 31290,
       "create_time": "2024-08-12",
       "create_year": 2024,
-      "categories": [],
+      "categories": [
+        "Other"
+      ],
       "daily_players": {
         "2026-06-17": 10106,
         "2026-06-20": 31290,
@@ -15528,7 +15753,9 @@
       "peak_players": 31003,
       "create_time": "2025-08-30",
       "create_year": 2025,
-      "categories": [],
+      "categories": [
+        "Other"
+      ],
       "daily_players": {
         "2026-05-08": 31003
       },
@@ -15572,7 +15799,9 @@
       "peak_players": 30871,
       "create_time": "2026-04-09",
       "create_year": 2026,
-      "categories": [],
+      "categories": [
+        "Other"
+      ],
       "daily_players": {
         "2026-06-01": 8326,
         "2026-06-02": 7808,
@@ -15788,7 +16017,9 @@
       "peak_players": 30243,
       "create_time": "2026-06-01",
       "create_year": 2026,
-      "categories": [],
+      "categories": [
+        "Other"
+      ],
       "daily_players": {
         "2026-06-02": 30243
       },
@@ -15810,7 +16041,9 @@
       "peak_players": 30057,
       "create_time": "2025-05-15",
       "create_year": 2025,
-      "categories": [],
+      "categories": [
+        "Other"
+      ],
       "daily_players": {
         "2026-05-02": 30057
       },
@@ -15970,7 +16203,9 @@
       "peak_players": 29869,
       "create_time": "2026-05-22",
       "create_year": 2026,
-      "categories": [],
+      "categories": [
+        "Other"
+      ],
       "daily_players": {
         "2026-05-22": 29869
       },
@@ -16129,7 +16364,9 @@
       "peak_players": 29536,
       "create_time": "2020-05-29",
       "create_year": 2020,
-      "categories": [],
+      "categories": [
+        "Other"
+      ],
       "daily_players": {
         "2026-03-23": 7472
       },
@@ -16151,7 +16388,9 @@
       "peak_players": 29393,
       "create_time": "2025-11-08",
       "create_year": 2025,
-      "categories": [],
+      "categories": [
+        "Other"
+      ],
       "daily_players": {},
       "latest_players": 0,
       "latest_date": "",
@@ -16214,7 +16453,9 @@
       "peak_players": 28539,
       "create_time": "2024-09-18",
       "create_year": 2024,
-      "categories": [],
+      "categories": [
+        "Other"
+      ],
       "daily_players": {
         "2026-04-13": 8834,
         "2026-04-17": 6354,
@@ -16287,7 +16528,9 @@
       "peak_players": 28372,
       "create_time": "2026-05-14",
       "create_year": 2026,
-      "categories": [],
+      "categories": [
+        "Cooking"
+      ],
       "daily_players": {
         "2026-06-05": 14751,
         "2026-06-06": 28372,
@@ -16339,7 +16582,9 @@
       "peak_players": 28135,
       "create_time": "2026-05-11",
       "create_year": 2026,
-      "categories": [],
+      "categories": [
+        "Other"
+      ],
       "daily_players": {
         "2026-06-23": 9363,
         "2026-06-24": 12894,
@@ -16888,7 +17133,9 @@
       "peak_players": 27447,
       "create_time": "2026-05-17",
       "create_year": 2026,
-      "categories": [],
+      "categories": [
+        "Other"
+      ],
       "daily_players": {
         "2026-05-19": 27447
       },
@@ -16962,7 +17209,9 @@
       "peak_players": 27022,
       "create_time": "2026-05-27",
       "create_year": 2026,
-      "categories": [],
+      "categories": [
+        "Other"
+      ],
       "daily_players": {
         "2026-06-14": 11205,
         "2026-06-15": 18319,
@@ -17136,7 +17385,9 @@
       "peak_players": 26714,
       "create_time": "2024-02-16",
       "create_year": 2024,
-      "categories": [],
+      "categories": [
+        "Story"
+      ],
       "daily_players": {
         "2026-03-03": 10708,
         "2026-03-04": 11771,
@@ -17400,7 +17651,9 @@
       "peak_players": 26609,
       "create_time": "2021-09-24",
       "create_year": 2021,
-      "categories": [],
+      "categories": [
+        "Adopt"
+      ],
       "daily_players": {
         "2026-03-03": 12365,
         "2026-03-04": 12879,
@@ -17556,7 +17809,9 @@
       "peak_players": 26346,
       "create_time": "2026-04-03",
       "create_year": 2026,
-      "categories": [],
+      "categories": [
+        "Racing"
+      ],
       "daily_players": {
         "2026-04-08": 26346
       },
@@ -17643,7 +17898,9 @@
       "peak_players": 26048,
       "create_time": "2023-11-10",
       "create_year": 2023,
-      "categories": [],
+      "categories": [
+        "Other"
+      ],
       "daily_players": {
         "2026-06-02": 7420,
         "2026-06-03": 8309,
@@ -17828,7 +18085,9 @@
       "peak_players": 25327,
       "create_time": "2025-10-13",
       "create_year": 2025,
-      "categories": [],
+      "categories": [
+        "Other"
+      ],
       "daily_players": {},
       "latest_players": 0,
       "latest_date": "",
@@ -17848,7 +18107,9 @@
       "peak_players": 25272,
       "create_time": "2025-12-04",
       "create_year": 2025,
-      "categories": [],
+      "categories": [
+        "Other"
+      ],
       "daily_players": {
         "2026-03-03": 9506,
         "2026-03-05": 10382,
@@ -18145,7 +18406,9 @@
       "peak_players": 24911,
       "create_time": "2026-01-21",
       "create_year": 2026,
-      "categories": [],
+      "categories": [
+        "Other"
+      ],
       "daily_players": {
         "2026-03-03": 14760,
         "2026-03-04": 14807,
@@ -18210,7 +18473,9 @@
       "peak_players": 24574,
       "create_time": "2026-03-21",
       "create_year": 2026,
-      "categories": [],
+      "categories": [
+        "Other"
+      ],
       "daily_players": {
         "2026-03-22": 6832,
         "2026-03-23": 7156
@@ -18398,7 +18663,9 @@
       "peak_players": 24287,
       "create_time": "2026-06-07",
       "create_year": 2026,
-      "categories": [],
+      "categories": [
+        "Other"
+      ],
       "daily_players": {
         "2026-06-08": 24050,
         "2026-06-09": 24287
@@ -18421,7 +18688,9 @@
       "peak_players": 24257,
       "create_time": "2024-06-23",
       "create_year": 2024,
-      "categories": [],
+      "categories": [
+        "Other"
+      ],
       "daily_players": {
         "2026-03-03": 6174,
         "2026-03-28": 8566
@@ -18444,7 +18713,10 @@
       "peak_players": 24133,
       "create_time": "2023-06-02",
       "create_year": 2023,
-      "categories": [],
+      "categories": [
+        "Fight",
+        "Adopt"
+      ],
       "daily_players": {
         "2026-03-03": 7240,
         "2026-03-05": 7920,
@@ -18562,7 +18834,9 @@
       "peak_players": 24108,
       "create_time": "2024-03-29",
       "create_year": 2024,
-      "categories": [],
+      "categories": [
+        "Cooking"
+      ],
       "daily_players": {
         "2026-03-03": 5256,
         "2026-03-04": 5552
@@ -18585,7 +18859,9 @@
       "peak_players": 24090,
       "create_time": "2025-04-17",
       "create_year": 2025,
-      "categories": [],
+      "categories": [
+        "Other"
+      ],
       "daily_players": {
         "2026-03-03": 11243,
         "2026-03-04": 10971,
@@ -18990,7 +19266,9 @@
       "peak_players": 23234,
       "create_time": "2026-02-26",
       "create_year": 2026,
-      "categories": [],
+      "categories": [
+        "Other"
+      ],
       "daily_players": {
         "2026-03-08": 17175,
         "2026-03-18": 14868
@@ -19013,7 +19291,9 @@
       "peak_players": 23133,
       "create_time": "2025-12-19",
       "create_year": 2025,
-      "categories": [],
+      "categories": [
+        "Other"
+      ],
       "daily_players": {
         "2026-02-27": 134788,
         "2026-02-28": 423446,
@@ -19233,7 +19513,9 @@
       "peak_players": 22711,
       "create_time": "2022-02-05",
       "create_year": 2022,
-      "categories": [],
+      "categories": [
+        "Other"
+      ],
       "daily_players": {
         "2026-03-02": 18419,
         "2026-03-03": 17547,
@@ -19516,7 +19798,9 @@
       "peak_players": 22311,
       "create_time": "2025-03-18",
       "create_year": 2025,
-      "categories": [],
+      "categories": [
+        "Other"
+      ],
       "daily_players": {
         "2026-03-07": 13822,
         "2026-03-10": 8646,
@@ -19587,7 +19871,9 @@
       "peak_players": 22156,
       "create_time": "2026-03-30",
       "create_year": 2026,
-      "categories": [],
+      "categories": [
+        "Other"
+      ],
       "daily_players": {
         "2026-06-08": 8197,
         "2026-06-09": 9093,
@@ -19720,7 +20006,9 @@
       "peak_players": 22089,
       "create_time": "2021-06-06",
       "create_year": 2021,
-      "categories": [],
+      "categories": [
+        "Other"
+      ],
       "daily_players": {
         "2026-06-30": 18662,
         "2026-07-01": 12519,
@@ -19747,7 +20035,9 @@
       "peak_players": 21938,
       "create_time": "2026-05-05",
       "create_year": 2026,
-      "categories": [],
+      "categories": [
+        "Other"
+      ],
       "daily_players": {
         "2026-05-05": 21938
       },
@@ -19769,7 +20059,9 @@
       "peak_players": 21588,
       "create_time": "2025-07-17",
       "create_year": 2025,
-      "categories": [],
+      "categories": [
+        "Sports"
+      ],
       "daily_players": {
         "2026-03-09": 10776,
         "2026-03-16": 15457,
@@ -19824,7 +20116,9 @@
       "peak_players": 21544,
       "create_time": "2025-12-31",
       "create_year": 2025,
-      "categories": [],
+      "categories": [
+        "Other"
+      ],
       "daily_players": {
         "2026-03-10": 11599,
         "2026-03-11": 11365,
@@ -19853,7 +20147,9 @@
       "peak_players": 21477,
       "create_time": "2022-08-13",
       "create_year": 2022,
-      "categories": [],
+      "categories": [
+        "Other"
+      ],
       "daily_players": {
         "2026-05-24": 9361,
         "2026-05-28": 7395,
@@ -19901,7 +20197,9 @@
       "peak_players": 21463,
       "create_time": "2025-03-28",
       "create_year": 2025,
-      "categories": [],
+      "categories": [
+        "Other"
+      ],
       "daily_players": {
         "2026-03-15": 24165,
         "2026-04-15": 6054,
@@ -19954,7 +20252,9 @@
       "peak_players": 21207,
       "create_time": "2026-03-05",
       "create_year": 2026,
-      "categories": [],
+      "categories": [
+        "Racing"
+      ],
       "daily_players": {
         "2026-06-18": 9556,
         "2026-06-19": 12029,
@@ -20017,7 +20317,9 @@
       "peak_players": 21128,
       "create_time": "2024-11-05",
       "create_year": 2024,
-      "categories": [],
+      "categories": [
+        "Other"
+      ],
       "daily_players": {
         "2026-03-08": 9122,
         "2026-03-09": 7578,
@@ -20103,7 +20405,9 @@
       "peak_players": 21001,
       "create_time": "",
       "create_year": null,
-      "categories": [],
+      "categories": [
+        "Other"
+      ],
       "daily_players": {
         "2026-05-23": 21001
       },
@@ -20125,7 +20429,9 @@
       "peak_players": 20980,
       "create_time": "2025-02-19",
       "create_year": 2025,
-      "categories": [],
+      "categories": [
+        "Other"
+      ],
       "daily_players": {
         "2026-06-13": 20844,
         "2026-06-14": 20980,
@@ -20154,7 +20460,9 @@
       "peak_players": 20796,
       "create_time": "2020-01-23",
       "create_year": 2020,
-      "categories": [],
+      "categories": [
+        "Other"
+      ],
       "daily_players": {
         "2026-03-06": 15119,
         "2026-03-07": 19633,
@@ -20295,7 +20603,9 @@
       "peak_players": 20777,
       "create_time": "2026-02-27",
       "create_year": 2026,
-      "categories": [],
+      "categories": [
+        "Other"
+      ],
       "daily_players": {
         "2026-05-01": 18170,
         "2026-05-02": 20777,
@@ -20349,7 +20659,9 @@
       "peak_players": 20362,
       "create_time": "2026-04-25",
       "create_year": 2026,
-      "categories": [],
+      "categories": [
+        "Other"
+      ],
       "daily_players": {
         "2026-05-21": 6156,
         "2026-05-22": 9126,
@@ -20474,7 +20786,9 @@
       "peak_players": 20277,
       "create_time": "2023-05-19",
       "create_year": 2023,
-      "categories": [],
+      "categories": [
+        "Adopt"
+      ],
       "daily_players": {},
       "latest_players": 0,
       "latest_date": "",
@@ -20494,7 +20808,9 @@
       "peak_players": 20214,
       "create_time": "2025-12-22",
       "create_year": 2025,
-      "categories": [],
+      "categories": [
+        "Other"
+      ],
       "daily_players": {
         "2026-03-04": 7850
       },
@@ -20516,7 +20832,9 @@
       "peak_players": 20021,
       "create_time": "2022-06-10",
       "create_year": 2022,
-      "categories": [],
+      "categories": [
+        "Other"
+      ],
       "daily_players": {
         "2026-04-10": 22059,
         "2026-04-11": 27348,
@@ -20544,7 +20862,9 @@
       "peak_players": 20013,
       "create_time": "2025-07-17",
       "create_year": 2025,
-      "categories": [],
+      "categories": [
+        "Other"
+      ],
       "daily_players": {},
       "latest_players": 0,
       "latest_date": "",
@@ -20591,7 +20911,9 @@
       "peak_players": 19859,
       "create_time": "2026-03-27",
       "create_year": 2026,
-      "categories": [],
+      "categories": [
+        "Fight"
+      ],
       "daily_players": {
         "2026-04-23": 6299,
         "2026-04-24": 15450,
@@ -20645,7 +20967,9 @@
       "peak_players": 19809,
       "create_time": "2026-05-18",
       "create_year": 2026,
-      "categories": [],
+      "categories": [
+        "Other"
+      ],
       "daily_players": {
         "2026-05-17": 19809
       },
@@ -20690,7 +21014,9 @@
       "peak_players": 19712,
       "create_time": "2023-08-14",
       "create_year": 2023,
-      "categories": [],
+      "categories": [
+        "Other"
+      ],
       "daily_players": {
         "2026-04-23": 6111,
         "2026-04-24": 7552,
@@ -20719,7 +21045,9 @@
       "peak_players": 19703,
       "create_time": "2026-05-04",
       "create_year": 2026,
-      "categories": [],
+      "categories": [
+        "Other"
+      ],
       "daily_players": {
         "2026-05-27": 9409,
         "2026-06-02": 11420,
@@ -20862,7 +21190,9 @@
       "peak_players": 19295,
       "create_time": "2026-03-20",
       "create_year": 2026,
-      "categories": [],
+      "categories": [
+        "Other"
+      ],
       "daily_players": {
         "2026-05-16": 8479,
         "2026-05-17": 9418,
@@ -21134,7 +21464,9 @@
       "peak_players": 18795,
       "create_time": "2025-01-05",
       "create_year": 2025,
-      "categories": [],
+      "categories": [
+        "Other"
+      ],
       "daily_players": {
         "2026-06-18": 8384,
         "2026-06-19": 9535,
@@ -21259,7 +21591,9 @@
       "peak_players": 18458,
       "create_time": "2026-05-29",
       "create_year": 2026,
-      "categories": [],
+      "categories": [
+        "Other"
+      ],
       "daily_players": {
         "2026-06-22": 10581,
         "2026-06-24": 12426,
@@ -21452,7 +21786,9 @@
       "peak_players": 18345,
       "create_time": "2023-10-29",
       "create_year": 2023,
-      "categories": [],
+      "categories": [
+        "Other"
+      ],
       "daily_players": {},
       "latest_players": 0,
       "latest_date": "",
@@ -21891,7 +22227,9 @@
       "peak_players": 17793,
       "create_time": "2026-06-02",
       "create_year": 2026,
-      "categories": [],
+      "categories": [
+        "Other"
+      ],
       "daily_players": {
         "2026-06-22": 9788,
         "2026-06-23": 10567,
@@ -21920,7 +22258,9 @@
       "peak_players": 17751,
       "create_time": "2025-08-23",
       "create_year": 2025,
-      "categories": [],
+      "categories": [
+        "Other"
+      ],
       "daily_players": {
         "2026-05-23": 12409,
         "2026-05-24": 10024,
@@ -21958,7 +22298,9 @@
       "peak_players": 17655,
       "create_time": "2025-05-10",
       "create_year": 2025,
-      "categories": [],
+      "categories": [
+        "Other"
+      ],
       "daily_players": {},
       "latest_players": 0,
       "latest_date": "",
@@ -21978,7 +22320,9 @@
       "peak_players": 17621,
       "create_time": "2026-02-02",
       "create_year": 2026,
-      "categories": [],
+      "categories": [
+        "Other"
+      ],
       "daily_players": {
         "2026-04-22": 6119,
         "2026-04-23": 7163,
@@ -22016,7 +22360,9 @@
       "peak_players": 17619,
       "create_time": "2026-04-05",
       "create_year": 2026,
-      "categories": [],
+      "categories": [
+        "Other"
+      ],
       "daily_players": {
         "2026-05-12": 10987,
         "2026-05-13": 11275,
@@ -22201,7 +22547,9 @@
       "peak_players": 17068,
       "create_time": "2023-02-20",
       "create_year": 2023,
-      "categories": [],
+      "categories": [
+        "Other"
+      ],
       "daily_players": {},
       "latest_players": 0,
       "latest_date": "",
@@ -22642,7 +22990,9 @@
       "peak_players": 16658,
       "create_time": "2023-05-30",
       "create_year": 2023,
-      "categories": [],
+      "categories": [
+        "Other"
+      ],
       "daily_players": {
         "2026-03-05": 8966,
         "2026-03-06": 10147,
@@ -22772,7 +23122,9 @@
       "peak_players": 16550,
       "create_time": "2026-02-08",
       "create_year": 2026,
-      "categories": [],
+      "categories": [
+        "Other"
+      ],
       "daily_players": {
         "2026-03-03": 16524,
         "2026-03-04": 16550,
@@ -22801,7 +23153,9 @@
       "peak_players": 16546,
       "create_time": "2020-01-28",
       "create_year": 2020,
-      "categories": [],
+      "categories": [
+        "Other"
+      ],
       "daily_players": {
         "2026-03-28": 9163,
         "2026-03-29": 9415,
@@ -22921,7 +23275,9 @@
       "peak_players": 16447,
       "create_time": "2026-04-03",
       "create_year": 2026,
-      "categories": [],
+      "categories": [
+        "Other"
+      ],
       "daily_players": {
         "2026-04-17": 13237,
         "2026-04-18": 16447
@@ -23111,7 +23467,9 @@
       "peak_players": 16085,
       "create_time": "2024-07-08",
       "create_year": 2024,
-      "categories": [],
+      "categories": [
+        "Other"
+      ],
       "daily_players": {},
       "latest_players": 0,
       "latest_date": "",
@@ -23131,7 +23489,9 @@
       "peak_players": 15971,
       "create_time": "2025-12-21",
       "create_year": 2025,
-      "categories": [],
+      "categories": [
+        "Other"
+      ],
       "daily_players": {},
       "latest_players": 0,
       "latest_date": "",
@@ -23210,7 +23570,9 @@
       "peak_players": 15833,
       "create_time": "2026-04-29",
       "create_year": 2026,
-      "categories": [],
+      "categories": [
+        "Other"
+      ],
       "daily_players": {
         "2026-05-04": 15833
       },
@@ -23232,7 +23594,9 @@
       "peak_players": 15710,
       "create_time": "2026-05-18",
       "create_year": 2026,
-      "categories": [],
+      "categories": [
+        "Other"
+      ],
       "daily_players": {
         "2026-07-05": 15710
       },
@@ -23279,7 +23643,9 @@
       "peak_players": 15601,
       "create_time": "2025-04-26",
       "create_year": 2025,
-      "categories": [],
+      "categories": [
+        "Other"
+      ],
       "daily_players": {
         "2026-04-19": 12011,
         "2026-04-20": 12327,
@@ -23378,7 +23744,9 @@
       "peak_players": 15448,
       "create_time": "2026-03-24",
       "create_year": 2026,
-      "categories": [],
+      "categories": [
+        "Other"
+      ],
       "daily_players": {
         "2026-05-12": 8262,
         "2026-05-13": 13615,
@@ -23429,7 +23797,9 @@
       "peak_players": 15369,
       "create_time": "2010-01-29",
       "create_year": 2010,
-      "categories": [],
+      "categories": [
+        "Other"
+      ],
       "daily_players": {
         "2026-03-11": 13521,
         "2026-06-03": 9199,
@@ -23539,7 +23909,9 @@
       "peak_players": 15285,
       "create_time": "2026-06-18",
       "create_year": 2026,
-      "categories": [],
+      "categories": [
+        "Adopt"
+      ],
       "daily_players": {
         "2026-07-01": 8322,
         "2026-07-02": 11238,
@@ -23565,7 +23937,9 @@
       "peak_players": 15206,
       "create_time": "2026-05-18",
       "create_year": 2026,
-      "categories": [],
+      "categories": [
+        "Other"
+      ],
       "daily_players": {
         "2026-06-14": 14204,
         "2026-06-15": 14844,
@@ -23667,7 +24041,9 @@
       "peak_players": 14932,
       "create_time": "2022-05-28",
       "create_year": 2022,
-      "categories": [],
+      "categories": [
+        "Adopt"
+      ],
       "daily_players": {
         "2026-03-04": 5308
       },
@@ -23823,7 +24199,10 @@
       "peak_players": 14787,
       "create_time": "2026-05-27",
       "create_year": 2026,
-      "categories": [],
+      "categories": [
+        "Sports",
+        "Racing"
+      ],
       "daily_players": {
         "2026-06-17": 11820,
         "2026-06-18": 14642,
@@ -23910,7 +24289,9 @@
       "peak_players": 14743,
       "create_time": "2025-10-04",
       "create_year": 2025,
-      "categories": [],
+      "categories": [
+        "Other"
+      ],
       "daily_players": {},
       "latest_players": 0,
       "latest_date": "",
@@ -23965,7 +24346,9 @@
       "peak_players": 14707,
       "create_time": "2020-06-03",
       "create_year": 2020,
-      "categories": [],
+      "categories": [
+        "Other"
+      ],
       "daily_players": {
         "2026-04-18": 18954,
         "2026-04-19": 16843,
@@ -24036,7 +24419,9 @@
       "peak_players": 14532,
       "create_time": "2026-06-04",
       "create_year": 2026,
-      "categories": [],
+      "categories": [
+        "Other"
+      ],
       "daily_players": {
         "2026-07-02": 9978,
         "2026-07-03": 11308,
@@ -24061,7 +24446,9 @@
       "peak_players": 14512,
       "create_time": "2026-03-11",
       "create_year": 2026,
-      "categories": [],
+      "categories": [
+        "Other"
+      ],
       "daily_players": {
         "2026-05-27": 12472,
         "2026-05-28": 15280,
@@ -24123,7 +24510,9 @@
       "peak_players": 14461,
       "create_time": "2026-02-25",
       "create_year": 2026,
-      "categories": [],
+      "categories": [
+        "Other"
+      ],
       "daily_players": {
         "2026-04-24": 7257,
         "2026-04-25": 13069,
@@ -24306,7 +24695,9 @@
       "peak_players": 14345,
       "create_time": "2024-11-04",
       "create_year": 2024,
-      "categories": [],
+      "categories": [
+        "Other"
+      ],
       "daily_players": {
         "2026-03-03": 5404,
         "2026-03-04": 5017,
@@ -24910,7 +25301,9 @@
       "peak_players": 13845,
       "create_time": "",
       "create_year": null,
-      "categories": [],
+      "categories": [
+        "Other"
+      ],
       "daily_players": {
         "2026-05-15": 8883,
         "2026-05-16": 11163,
@@ -24991,7 +25384,9 @@
       "peak_players": 13676,
       "create_time": "2021-11-14",
       "create_year": 2021,
-      "categories": [],
+      "categories": [
+        "Other"
+      ],
       "daily_players": {
         "2026-03-08": 14973,
         "2026-03-10": 7651,
@@ -25109,7 +25504,9 @@
       "peak_players": 13633,
       "create_time": "2026-04-07",
       "create_year": 2026,
-      "categories": [],
+      "categories": [
+        "Other"
+      ],
       "daily_players": {
         "2026-06-14": 13633
       },
@@ -25204,7 +25601,9 @@
       "peak_players": 13459,
       "create_time": "2026-04-27",
       "create_year": 2026,
-      "categories": [],
+      "categories": [
+        "Other"
+      ],
       "daily_players": {
         "2026-06-28": 13459
       },
@@ -25483,7 +25882,9 @@
       "peak_players": 13289,
       "create_time": "2026-02-20",
       "create_year": 2026,
-      "categories": [],
+      "categories": [
+        "Other"
+      ],
       "daily_players": {
         "2026-05-02": 10489,
         "2026-05-03": 12043,
@@ -25514,7 +25915,9 @@
       "peak_players": 13245,
       "create_time": "2026-04-20",
       "create_year": 2026,
-      "categories": [],
+      "categories": [
+        "Other"
+      ],
       "daily_players": {
         "2026-07-04": 10688,
         "2026-07-05": 13245
@@ -25537,7 +25940,9 @@
       "peak_players": 13208,
       "create_time": "2025-10-30",
       "create_year": 2025,
-      "categories": [],
+      "categories": [
+        "Other"
+      ],
       "daily_players": {
         "2026-05-02": 12689,
         "2026-05-03": 12047,
@@ -25566,7 +25971,9 @@
       "peak_players": 13190,
       "create_time": "2025-07-23",
       "create_year": 2025,
-      "categories": [],
+      "categories": [
+        "Other"
+      ],
       "daily_players": {
         "2026-05-22": 9548,
         "2026-05-24": 9015,
@@ -25599,7 +26006,9 @@
       "peak_players": 13171,
       "create_time": "2021-08-22",
       "create_year": 2021,
-      "categories": [],
+      "categories": [
+        "Other"
+      ],
       "daily_players": {
         "2026-03-03": 8473,
         "2026-03-04": 8286,
@@ -25640,7 +26049,9 @@
       "peak_players": 13166,
       "create_time": "2025-08-12",
       "create_year": 2025,
-      "categories": [],
+      "categories": [
+        "Other"
+      ],
       "daily_players": {
         "2026-06-27": 13166
       },
@@ -25709,7 +26120,9 @@
       "peak_players": 13129,
       "create_time": "2026-05-05",
       "create_year": 2026,
-      "categories": [],
+      "categories": [
+        "Other"
+      ],
       "daily_players": {
         "2026-06-10": 8980,
         "2026-06-11": 13129
@@ -25732,7 +26145,9 @@
       "peak_players": 13057,
       "create_time": "2025-06-05",
       "create_year": 2025,
-      "categories": [],
+      "categories": [
+        "Other"
+      ],
       "daily_players": {},
       "latest_players": 0,
       "latest_date": "",
@@ -25902,7 +26317,9 @@
       "peak_players": 12975,
       "create_time": "2022-12-26",
       "create_year": 2022,
-      "categories": [],
+      "categories": [
+        "Other"
+      ],
       "daily_players": {
         "2026-06-22": 12975
       },
@@ -26142,7 +26559,9 @@
       "peak_players": 12919,
       "create_time": "2026-05-14",
       "create_year": 2026,
-      "categories": [],
+      "categories": [
+        "Racing"
+      ],
       "daily_players": {
         "2026-05-23": 6712,
         "2026-05-24": 9038,
@@ -26270,7 +26689,9 @@
       "peak_players": 12841,
       "create_time": "2025-02-01",
       "create_year": 2025,
-      "categories": [],
+      "categories": [
+        "Other"
+      ],
       "daily_players": {
         "2026-03-03": 10703,
         "2026-03-04": 10275,
@@ -26493,7 +26914,9 @@
       "peak_players": 12813,
       "create_time": "2026-02-12",
       "create_year": 2026,
-      "categories": [],
+      "categories": [
+        "Other"
+      ],
       "daily_players": {
         "2026-03-03": 9439,
         "2026-03-04": 7557,
@@ -26690,7 +27113,9 @@
       "peak_players": 12703,
       "create_time": "2026-05-17",
       "create_year": 2026,
-      "categories": [],
+      "categories": [
+        "Racing"
+      ],
       "daily_players": {
         "2026-06-29": 11159,
         "2026-06-30": 12080,
@@ -26718,7 +27143,9 @@
       "peak_players": 12585,
       "create_time": "2025-08-10",
       "create_year": 2025,
-      "categories": [],
+      "categories": [
+        "Other"
+      ],
       "daily_players": {
         "2026-05-01": 7410,
         "2026-05-02": 10107,
@@ -26751,7 +27178,9 @@
       "peak_players": 12522,
       "create_time": "",
       "create_year": null,
-      "categories": [],
+      "categories": [
+        "Other"
+      ],
       "daily_players": {
         "2026-03-04": 4721,
         "2026-04-12": 9092,
@@ -26936,7 +27365,9 @@
       "peak_players": 12381,
       "create_time": "2021-07-10",
       "create_year": 2021,
-      "categories": [],
+      "categories": [
+        "Racing"
+      ],
       "daily_players": {
         "2026-03-08": 8964,
         "2026-03-20": 7174,
@@ -27001,7 +27432,9 @@
       "peak_players": 12353,
       "create_time": "2025-08-31",
       "create_year": 2025,
-      "categories": [],
+      "categories": [
+        "Other"
+      ],
       "daily_players": {
         "2026-03-28": 12353,
         "2026-03-29": 12033
@@ -27024,7 +27457,9 @@
       "peak_players": 12321,
       "create_time": "",
       "create_year": null,
-      "categories": [],
+      "categories": [
+        "Cooking"
+      ],
       "daily_players": {
         "2026-05-21": 7612,
         "2026-05-22": 8565,
@@ -27053,7 +27488,9 @@
       "peak_players": 12309,
       "create_time": "2024-05-29",
       "create_year": 2024,
-      "categories": [],
+      "categories": [
+        "Other"
+      ],
       "daily_players": {
         "2026-03-01": 27960,
         "2026-03-03": 13965,
@@ -27149,7 +27586,9 @@
       "peak_players": 12231,
       "create_time": "2026-06-19",
       "create_year": 2026,
-      "categories": [],
+      "categories": [
+        "Other"
+      ],
       "daily_players": {
         "2026-07-01": 6685,
         "2026-07-04": 10056,
@@ -27173,7 +27612,9 @@
       "peak_players": 12221,
       "create_time": "2023-09-14",
       "create_year": 2023,
-      "categories": [],
+      "categories": [
+        "Other"
+      ],
       "daily_players": {
         "2026-05-30": 8297,
         "2026-05-31": 11483,
@@ -27212,7 +27653,9 @@
       "peak_players": 12145,
       "create_time": "2025-12-22",
       "create_year": 2025,
-      "categories": [],
+      "categories": [
+        "Adopt"
+      ],
       "daily_players": {
         "2026-03-03": 9836,
         "2026-03-04": 9543,
@@ -27239,7 +27682,9 @@
       "peak_players": 12110,
       "create_time": "2026-01-08",
       "create_year": 2026,
-      "categories": [],
+      "categories": [
+        "Other"
+      ],
       "daily_players": {
         "2026-05-23": 7100,
         "2026-05-24": 12110,
@@ -27268,7 +27713,9 @@
       "peak_players": 12087,
       "create_time": "2026-02-12",
       "create_year": 2026,
-      "categories": [],
+      "categories": [
+        "Adopt"
+      ],
       "daily_players": {
         "2026-03-20": 9014,
         "2026-03-29": 12087
@@ -27291,7 +27738,9 @@
       "peak_players": 12083,
       "create_time": "2022-05-03",
       "create_year": 2022,
-      "categories": [],
+      "categories": [
+        "Other"
+      ],
       "daily_players": {
         "2026-06-01": 6255,
         "2026-06-02": 5885,
@@ -27336,7 +27785,9 @@
       "peak_players": 12080,
       "create_time": "2026-02-08",
       "create_year": 2026,
-      "categories": [],
+      "categories": [
+        "Other"
+      ],
       "daily_players": {
         "2026-04-28": 7658,
         "2026-04-29": 9156,
@@ -27365,7 +27816,9 @@
       "peak_players": 12061,
       "create_time": "2026-02-18",
       "create_year": 2026,
-      "categories": [],
+      "categories": [
+        "Other"
+      ],
       "daily_players": {},
       "latest_players": 0,
       "latest_date": "",
@@ -27438,7 +27891,9 @@
       "peak_players": 11974,
       "create_time": "2026-05-24",
       "create_year": 2026,
-      "categories": [],
+      "categories": [
+        "Other"
+      ],
       "daily_players": {
         "2026-06-29": 10499,
         "2026-07-01": 11974
@@ -27461,7 +27916,9 @@
       "peak_players": 11962,
       "create_time": "2020-01-06",
       "create_year": 2020,
-      "categories": [],
+      "categories": [
+        "Other"
+      ],
       "daily_players": {
         "2026-03-03": 5722,
         "2026-03-04": 5756,
@@ -27499,7 +27956,9 @@
       "peak_players": 11940,
       "create_time": "2026-04-24",
       "create_year": 2026,
-      "categories": [],
+      "categories": [
+        "Other"
+      ],
       "daily_players": {
         "2026-06-14": 11940
       },
@@ -27521,7 +27980,9 @@
       "peak_players": 11907,
       "create_time": "2026-02-25",
       "create_year": 2026,
-      "categories": [],
+      "categories": [
+        "Other"
+      ],
       "daily_players": {
         "2026-06-20": 11025,
         "2026-06-22": 9948,
@@ -27577,7 +28038,9 @@
       "peak_players": 11865,
       "create_time": "2024-09-03",
       "create_year": 2024,
-      "categories": [],
+      "categories": [
+        "Racing"
+      ],
       "daily_players": {
         "2026-03-01": 30553,
         "2026-03-03": 23507,
@@ -27682,7 +28145,9 @@
       "peak_players": 11832,
       "create_time": "2026-04-20",
       "create_year": 2026,
-      "categories": [],
+      "categories": [
+        "Other"
+      ],
       "daily_players": {
         "2026-06-03": 6405,
         "2026-06-04": 8208,
@@ -27709,7 +28174,9 @@
       "peak_players": 11775,
       "create_time": "2024-03-21",
       "create_year": 2024,
-      "categories": [],
+      "categories": [
+        "Other"
+      ],
       "daily_players": {
         "2026-05-03": 11775
       },
@@ -27806,7 +28273,9 @@
       "peak_players": 11721,
       "create_time": "2026-02-09",
       "create_year": 2026,
-      "categories": [],
+      "categories": [
+        "Other"
+      ],
       "daily_players": {
         "2026-06-28": 8883,
         "2026-06-29": 9206,
@@ -27835,7 +28304,9 @@
       "peak_players": 11705,
       "create_time": "2026-06-03",
       "create_year": 2026,
-      "categories": [],
+      "categories": [
+        "Other"
+      ],
       "daily_players": {
         "2026-07-02": 11447,
         "2026-07-03": 11391,
@@ -27923,7 +28394,9 @@
       "peak_players": 11627,
       "create_time": "2025-07-29",
       "create_year": 2025,
-      "categories": [],
+      "categories": [
+        "Other"
+      ],
       "daily_players": {},
       "latest_players": 0,
       "latest_date": "",
@@ -28072,7 +28545,9 @@
       "peak_players": 11603,
       "create_time": "2026-05-27",
       "create_year": 2026,
-      "categories": [],
+      "categories": [
+        "Other"
+      ],
       "daily_players": {
         "2026-07-01": 10340,
         "2026-07-03": 11603,
@@ -28166,7 +28641,9 @@
       "peak_players": 11574,
       "create_time": "2025-09-24",
       "create_year": 2025,
-      "categories": [],
+      "categories": [
+        "Other"
+      ],
       "daily_players": {
         "2026-03-03": 6024,
         "2026-03-05": 6417,
@@ -28237,7 +28714,9 @@
       "peak_players": 11570,
       "create_time": "2022-12-07",
       "create_year": 2022,
-      "categories": [],
+      "categories": [
+        "Other"
+      ],
       "daily_players": {
         "2026-03-06": 9871,
         "2026-03-07": 28663,
@@ -28406,7 +28885,9 @@
       "peak_players": 11552,
       "create_time": "2024-06-25",
       "create_year": 2024,
-      "categories": [],
+      "categories": [
+        "Other"
+      ],
       "daily_players": {
         "2026-04-13": 7664,
         "2026-04-15": 7043,
@@ -28648,7 +29129,9 @@
       "peak_players": 11518,
       "create_time": "2026-03-27",
       "create_year": 2026,
-      "categories": [],
+      "categories": [
+        "Other"
+      ],
       "daily_players": {
         "2026-05-02": 9952,
         "2026-05-03": 10125,
@@ -28752,7 +29235,9 @@
       "peak_players": 11499,
       "create_time": "2026-03-01",
       "create_year": 2026,
-      "categories": [],
+      "categories": [
+        "Other"
+      ],
       "daily_players": {
         "2026-04-03": 11499
       },
@@ -28774,7 +29259,9 @@
       "peak_players": 11487,
       "create_time": "2023-03-06",
       "create_year": 2023,
-      "categories": [],
+      "categories": [
+        "Other"
+      ],
       "daily_players": {
         "2026-03-07": 11299,
         "2026-03-08": 10561,
@@ -28883,7 +29370,9 @@
       "peak_players": 11466,
       "create_time": "",
       "create_year": null,
-      "categories": [],
+      "categories": [
+        "Other"
+      ],
       "daily_players": {
         "2026-05-27": 10696,
         "2026-05-28": 11466
@@ -28930,7 +29419,9 @@
       "peak_players": 11356,
       "create_time": "2019-12-17",
       "create_year": 2019,
-      "categories": [],
+      "categories": [
+        "Other"
+      ],
       "daily_players": {
         "2026-03-03": 6625,
         "2026-03-04": 6720,
@@ -29128,7 +29619,9 @@
       "peak_players": 11190,
       "create_time": "2026-05-08",
       "create_year": 2026,
-      "categories": [],
+      "categories": [
+        "Adopt"
+      ],
       "daily_players": {
         "2026-06-05": 12796,
         "2026-06-06": 14237,
@@ -29164,7 +29657,9 @@
       "peak_players": 11181,
       "create_time": "2026-03-04",
       "create_year": 2026,
-      "categories": [],
+      "categories": [
+        "Other"
+      ],
       "daily_players": {
         "2026-04-13": 11466,
         "2026-04-14": 12400,
@@ -29188,7 +29683,9 @@
       "peak_players": 11152,
       "create_time": "2024-12-18",
       "create_year": 2024,
-      "categories": [],
+      "categories": [
+        "Other"
+      ],
       "daily_players": {
         "2026-03-23": 11152
       },
@@ -29312,7 +29809,9 @@
       "peak_players": 11102,
       "create_time": "2018-01-24",
       "create_year": 2018,
-      "categories": [],
+      "categories": [
+        "Other"
+      ],
       "daily_players": {
         "2026-03-20": 7962,
         "2026-04-17": 6312,
@@ -29373,7 +29872,9 @@
       "peak_players": 11096,
       "create_time": "2020-07-04",
       "create_year": 2020,
-      "categories": [],
+      "categories": [
+        "Other"
+      ],
       "daily_players": {
         "2026-06-19": 11096
       },
@@ -29395,7 +29896,9 @@
       "peak_players": 11093,
       "create_time": "2025-12-05",
       "create_year": 2025,
-      "categories": [],
+      "categories": [
+        "Other"
+      ],
       "daily_players": {
         "2026-03-14": 11093,
         "2026-03-15": 10854
@@ -29509,7 +30012,9 @@
       "peak_players": 11064,
       "create_time": "2026-03-09",
       "create_year": 2026,
-      "categories": [],
+      "categories": [
+        "Other"
+      ],
       "daily_players": {
         "2026-05-11": 5053,
         "2026-05-12": 7311,
@@ -29566,7 +30071,9 @@
       "peak_players": 11040,
       "create_time": "2026-01-02",
       "create_year": 2026,
-      "categories": [],
+      "categories": [
+        "Racing"
+      ],
       "daily_players": {
         "2026-03-20": 9532,
         "2026-04-12": 9482,
@@ -29791,7 +30298,9 @@
       "peak_players": 10923,
       "create_time": "2022-12-10",
       "create_year": 2022,
-      "categories": [],
+      "categories": [
+        "Other"
+      ],
       "daily_players": {
         "2026-06-15": 10923
       },
@@ -29813,7 +30322,9 @@
       "peak_players": 10894,
       "create_time": "2026-05-05",
       "create_year": 2026,
-      "categories": [],
+      "categories": [
+        "Other"
+      ],
       "daily_players": {
         "2026-05-25": 9327,
         "2026-05-26": 8479,
@@ -29842,7 +30353,9 @@
       "peak_players": 10865,
       "create_time": "2022-07-19",
       "create_year": 2022,
-      "categories": [],
+      "categories": [
+        "Other"
+      ],
       "daily_players": {
         "2026-06-04": 6784,
         "2026-06-05": 7206,
@@ -29903,7 +30416,9 @@
       "peak_players": 10827,
       "create_time": "2023-12-22",
       "create_year": 2023,
-      "categories": [],
+      "categories": [
+        "Other"
+      ],
       "daily_players": {
         "2026-04-25": 8596,
         "2026-04-26": 9905,
@@ -29992,7 +30507,9 @@
       "peak_players": 10759,
       "create_time": "2026-03-18",
       "create_year": 2026,
-      "categories": [],
+      "categories": [
+        "Other"
+      ],
       "daily_players": {
         "2026-05-28": 6373,
         "2026-05-29": 6867,
@@ -30028,7 +30545,9 @@
       "peak_players": 10712,
       "create_time": "2026-04-28",
       "create_year": 2026,
-      "categories": [],
+      "categories": [
+        "Other"
+      ],
       "daily_players": {
         "2026-06-03": 8021,
         "2026-06-04": 18889,
@@ -30072,7 +30591,9 @@
       "peak_players": 10701,
       "create_time": "2021-04-27",
       "create_year": 2021,
-      "categories": [],
+      "categories": [
+        "Other"
+      ],
       "daily_players": {
         "2026-06-23": 10578,
         "2026-06-24": 9084,
@@ -30099,7 +30620,9 @@
       "peak_players": 10685,
       "create_time": "2025-02-04",
       "create_year": 2025,
-      "categories": [],
+      "categories": [
+        "Other"
+      ],
       "daily_players": {
         "2026-04-12": 7974,
         "2026-06-08": 6506,
@@ -30216,7 +30739,9 @@
       "peak_players": 10651,
       "create_time": "",
       "create_year": null,
-      "categories": [],
+      "categories": [
+        "Other"
+      ],
       "daily_players": {
         "2026-05-25": 10651
       },
@@ -30238,7 +30763,9 @@
       "peak_players": 10643,
       "create_time": "",
       "create_year": null,
-      "categories": [],
+      "categories": [
+        "Other"
+      ],
       "daily_players": {
         "2026-03-14": 9512,
         "2026-03-15": 11843,
@@ -30303,7 +30830,9 @@
       "peak_players": 10630,
       "create_time": "2021-02-09",
       "create_year": 2021,
-      "categories": [],
+      "categories": [
+        "Other"
+      ],
       "daily_players": {
         "2026-03-04": 5794,
         "2026-03-05": 5519,
@@ -30639,7 +31168,9 @@
       "peak_players": 10514,
       "create_time": "2025-03-26",
       "create_year": 2025,
-      "categories": [],
+      "categories": [
+        "Other"
+      ],
       "daily_players": {
         "2026-06-19": 18982,
         "2026-06-26": 13873,
@@ -30666,7 +31197,9 @@
       "peak_players": 10453,
       "create_time": "2026-02-15",
       "create_year": 2026,
-      "categories": [],
+      "categories": [
+        "Other"
+      ],
       "daily_players": {
         "2026-03-15": 12437,
         "2026-03-16": 10328,
@@ -30749,7 +31282,9 @@
       "peak_players": 10360,
       "create_time": "2026-01-25",
       "create_year": 2026,
-      "categories": [],
+      "categories": [
+        "Other"
+      ],
       "daily_players": {
         "2026-03-03": 5333,
         "2026-03-04": 4694
@@ -30834,7 +31369,9 @@
       "peak_players": 10241,
       "create_time": "2025-05-02",
       "create_year": 2025,
-      "categories": [],
+      "categories": [
+        "Other"
+      ],
       "daily_players": {
         "2026-03-03": 13460,
         "2026-03-05": 13781,
@@ -31018,7 +31555,9 @@
       "peak_players": 10144,
       "create_time": "2026-05-18",
       "create_year": 2026,
-      "categories": [],
+      "categories": [
+        "Murder"
+      ],
       "daily_players": {
         "2026-05-31": 10144,
         "2026-06-01": 8523,
@@ -31116,7 +31655,9 @@
       "peak_players": 10072,
       "create_time": "2023-10-15",
       "create_year": 2023,
-      "categories": [],
+      "categories": [
+        "Other"
+      ],
       "daily_players": {
         "2026-03-09": 6307,
         "2026-03-15": 8995,
@@ -31166,7 +31707,9 @@
       "peak_players": 10014,
       "create_time": "2026-04-30",
       "create_year": 2026,
-      "categories": [],
+      "categories": [
+        "Other"
+      ],
       "daily_players": {
         "2026-05-29": 9026,
         "2026-05-30": 10014,
@@ -31191,7 +31734,9 @@
       "peak_players": 9989,
       "create_time": "2026-02-02",
       "create_year": 2026,
-      "categories": [],
+      "categories": [
+        "Other"
+      ],
       "daily_players": {
         "2026-03-14": 31019,
         "2026-03-15": 41013,
@@ -31232,7 +31777,9 @@
       "peak_players": 9972,
       "create_time": "2023-08-29",
       "create_year": 2023,
-      "categories": [],
+      "categories": [
+        "Adopt"
+      ],
       "daily_players": {
         "2026-03-06": 19292,
         "2026-03-07": 21092,
@@ -31361,7 +31908,9 @@
       "peak_players": 9921,
       "create_time": "2026-02-11",
       "create_year": 2026,
-      "categories": [],
+      "categories": [
+        "Other"
+      ],
       "daily_players": {
         "2026-05-09": 9921
       },
@@ -31479,7 +32028,9 @@
       "peak_players": 9882,
       "create_time": "2025-11-07",
       "create_year": 2025,
-      "categories": [],
+      "categories": [
+        "Other"
+      ],
       "daily_players": {
         "2026-05-22": 7379,
         "2026-05-23": 9836,
@@ -31619,7 +32170,9 @@
       "peak_players": 9761,
       "create_time": "2026-05-12",
       "create_year": 2026,
-      "categories": [],
+      "categories": [
+        "Racing"
+      ],
       "daily_players": {
         "2026-06-14": 9761
       },
@@ -31641,7 +32194,9 @@
       "peak_players": 9748,
       "create_time": "2026-05-18",
       "create_year": 2026,
-      "categories": [],
+      "categories": [
+        "Other"
+      ],
       "daily_players": {
         "2026-06-16": 7924,
         "2026-06-17": 9748
@@ -31877,7 +32432,9 @@
       "peak_players": 9572,
       "create_time": "2025-07-14",
       "create_year": 2025,
-      "categories": [],
+      "categories": [
+        "Other"
+      ],
       "daily_players": {
         "2026-03-06": 31519,
         "2026-03-07": 33621,
@@ -31902,7 +32459,9 @@
       "peak_players": 9569,
       "create_time": "2017-04-10",
       "create_year": 2017,
-      "categories": [],
+      "categories": [
+        "Other"
+      ],
       "daily_players": {
         "2026-03-03": 21135,
         "2026-03-04": 17420,
@@ -32117,7 +32676,9 @@
       "peak_players": 9546,
       "create_time": "2026-06-01",
       "create_year": 2026,
-      "categories": [],
+      "categories": [
+        "Other"
+      ],
       "daily_players": {
         "2026-06-20": 7360,
         "2026-06-21": 9546
@@ -32140,7 +32701,9 @@
       "peak_players": 9543,
       "create_time": "2025-02-14",
       "create_year": 2025,
-      "categories": [],
+      "categories": [
+        "Other"
+      ],
       "daily_players": {
         "2026-04-08": 12960,
         "2026-04-09": 16021,
@@ -32166,7 +32729,9 @@
       "peak_players": 9519,
       "create_time": "2022-08-02",
       "create_year": 2022,
-      "categories": [],
+      "categories": [
+        "Other"
+      ],
       "daily_players": {
         "2026-03-03": 16157,
         "2026-03-04": 14979,
@@ -32251,7 +32816,9 @@
       "peak_players": 9502,
       "create_time": "2026-02-14",
       "create_year": 2026,
-      "categories": [],
+      "categories": [
+        "Other"
+      ],
       "daily_players": {
         "2026-05-24": 9755,
         "2026-05-25": 10520,
@@ -32458,7 +33025,9 @@
       "peak_players": 9408,
       "create_time": "2022-07-08",
       "create_year": 2022,
-      "categories": [],
+      "categories": [
+        "Other"
+      ],
       "daily_players": {
         "2026-03-23": 8707
       },
@@ -32681,7 +33250,9 @@
       "peak_players": 9166,
       "create_time": "2026-03-17",
       "create_year": 2026,
-      "categories": [],
+      "categories": [
+        "Other"
+      ],
       "daily_players": {
         "2026-04-17": 6887,
         "2026-04-23": 5861,
@@ -32706,7 +33277,9 @@
       "peak_players": 9117,
       "create_time": "2026-02-25",
       "create_year": 2026,
-      "categories": [],
+      "categories": [
+        "Adopt"
+      ],
       "daily_players": {
         "2026-04-24": 7204,
         "2026-04-25": 13139,
@@ -32818,7 +33391,9 @@
       "peak_players": 9053,
       "create_time": "2026-01-04",
       "create_year": 2026,
-      "categories": [],
+      "categories": [
+        "Other"
+      ],
       "daily_players": {
         "2026-05-10": 9053,
         "2026-05-11": 6047,
@@ -32938,7 +33513,9 @@
       "peak_players": 8987,
       "create_time": "2023-12-27",
       "create_year": 2023,
-      "categories": [],
+      "categories": [
+        "Other"
+      ],
       "daily_players": {
         "2026-04-12": 20015,
         "2026-04-13": 17134,
@@ -32985,7 +33562,9 @@
       "peak_players": 8958,
       "create_time": "2024-02-22",
       "create_year": 2024,
-      "categories": [],
+      "categories": [
+        "Other"
+      ],
       "daily_players": {
         "2026-03-04": 10054,
         "2026-03-08": 9644,
@@ -33211,7 +33790,9 @@
       "peak_players": 8873,
       "create_time": "2024-05-20",
       "create_year": 2024,
-      "categories": [],
+      "categories": [
+        "Other"
+      ],
       "daily_players": {
         "2026-03-28": 9543,
         "2026-03-29": 11647,
@@ -33269,7 +33850,9 @@
       "peak_players": 8871,
       "create_time": "2026-01-06",
       "create_year": 2026,
-      "categories": [],
+      "categories": [
+        "Other"
+      ],
       "daily_players": {
         "2026-04-03": 13234,
         "2026-04-12": 9310,
@@ -33446,7 +34029,9 @@
       "peak_players": 8778,
       "create_time": "2026-02-26",
       "create_year": 2026,
-      "categories": [],
+      "categories": [
+        "Other"
+      ],
       "daily_players": {
         "2026-03-28": 9358,
         "2026-03-29": 13847,
@@ -33586,7 +34171,9 @@
       "peak_players": 8697,
       "create_time": "2026-01-15",
       "create_year": 2026,
-      "categories": [],
+      "categories": [
+        "Other"
+      ],
       "daily_players": {},
       "latest_players": 0,
       "latest_date": "",
@@ -33606,7 +34193,9 @@
       "peak_players": 8691,
       "create_time": "2026-04-28",
       "create_year": 2026,
-      "categories": [],
+      "categories": [
+        "Story"
+      ],
       "daily_players": {
         "2026-05-10": 8691
       },
@@ -33653,7 +34242,9 @@
       "peak_players": 8673,
       "create_time": "2026-02-21",
       "create_year": 2026,
-      "categories": [],
+      "categories": [
+        "Other"
+      ],
       "daily_players": {
         "2026-04-17": 6774,
         "2026-04-19": 9664,
@@ -33747,7 +34338,9 @@
       "peak_players": 8567,
       "create_time": "2026-03-15",
       "create_year": 2026,
-      "categories": [],
+      "categories": [
+        "Other"
+      ],
       "daily_players": {
         "2026-05-17": 7254,
         "2026-05-21": 5552,
@@ -33835,7 +34428,9 @@
       "peak_players": 8542,
       "create_time": "2021-01-31",
       "create_year": 2021,
-      "categories": [],
+      "categories": [
+        "Other"
+      ],
       "daily_players": {
         "2026-07-01": 8542
       },
@@ -33857,7 +34452,9 @@
       "peak_players": 8539,
       "create_time": "2024-06-26",
       "create_year": 2024,
-      "categories": [],
+      "categories": [
+        "Other"
+      ],
       "daily_players": {
         "2026-04-12": 10403,
         "2026-04-18": 9620,
@@ -33888,7 +34485,9 @@
       "peak_players": 8537,
       "create_time": "2025-05-26",
       "create_year": 2025,
-      "categories": [],
+      "categories": [
+        "Other"
+      ],
       "daily_players": {
         "2026-04-12": 8863,
         "2026-04-15": 5862,
@@ -33914,7 +34513,9 @@
       "peak_players": 8524,
       "create_time": "2025-04-30",
       "create_year": 2025,
-      "categories": [],
+      "categories": [
+        "Other"
+      ],
       "daily_players": {
         "2026-04-18": 21173,
         "2026-04-19": 13316,
@@ -33998,7 +34599,9 @@
       "peak_players": 8515,
       "create_time": "2021-06-05",
       "create_year": 2021,
-      "categories": [],
+      "categories": [
+        "Racing"
+      ],
       "daily_players": {
         "2026-03-03": 10398,
         "2026-03-04": 9686,
@@ -34028,7 +34631,9 @@
       "peak_players": 8506,
       "create_time": "2026-03-21",
       "create_year": 2026,
-      "categories": [],
+      "categories": [
+        "Other"
+      ],
       "daily_players": {
         "2026-04-30": 5746,
         "2026-05-01": 8506
@@ -34075,7 +34680,9 @@
       "peak_players": 8454,
       "create_time": "2026-02-23",
       "create_year": 2026,
-      "categories": [],
+      "categories": [
+        "Other"
+      ],
       "daily_players": {
         "2026-03-22": 6982,
         "2026-03-28": 8092
@@ -34267,7 +34874,9 @@
       "peak_players": 8321,
       "create_time": "2026-02-11",
       "create_year": 2026,
-      "categories": [],
+      "categories": [
+        "Other"
+      ],
       "daily_players": {
         "2026-05-10": 8321
       },
@@ -34407,7 +35016,9 @@
       "peak_players": 8291,
       "create_time": "2026-04-15",
       "create_year": 2026,
-      "categories": [],
+      "categories": [
+        "Other"
+      ],
       "daily_players": {
         "2026-04-29": 8833,
         "2026-04-30": 13776,
@@ -34433,7 +35044,9 @@
       "peak_players": 8285,
       "create_time": "2023-07-08",
       "create_year": 2023,
-      "categories": [],
+      "categories": [
+        "Other"
+      ],
       "daily_players": {
         "2026-06-09": 6592,
         "2026-06-30": 8285
@@ -34456,7 +35069,9 @@
       "peak_players": 8206,
       "create_time": "",
       "create_year": null,
-      "categories": [],
+      "categories": [
+        "Other"
+      ],
       "daily_players": {
         "2026-05-23": 8880,
         "2026-05-27": 8206
@@ -34538,7 +35153,9 @@
       "peak_players": 8187,
       "create_time": "2018-05-06",
       "create_year": 2018,
-      "categories": [],
+      "categories": [
+        "Other"
+      ],
       "daily_players": {
         "2026-03-03": 7188,
         "2026-03-05": 6974,
@@ -34662,7 +35279,9 @@
       "peak_players": 8109,
       "create_time": "2026-02-24",
       "create_year": 2026,
-      "categories": [],
+      "categories": [
+        "Other"
+      ],
       "daily_players": {
         "2026-06-30": 8109
       },
@@ -34793,7 +35412,9 @@
       "peak_players": 8016,
       "create_time": "2025-04-16",
       "create_year": 2025,
-      "categories": [],
+      "categories": [
+        "Other"
+      ],
       "daily_players": {
         "2026-06-20": 8016
       },
@@ -34815,7 +35436,9 @@
       "peak_players": 8014,
       "create_time": "2026-01-15",
       "create_year": 2026,
-      "categories": [],
+      "categories": [
+        "Other"
+      ],
       "daily_players": {
         "2026-05-02": 12780,
         "2026-05-03": 20152,
@@ -34954,7 +35577,10 @@
       "peak_players": 7977,
       "create_time": "2025-12-05",
       "create_year": 2025,
-      "categories": [],
+      "categories": [
+        "Survival",
+        "Horror"
+      ],
       "daily_players": {
         "2026-04-18": 17437,
         "2026-06-10": 7977
@@ -35001,7 +35627,9 @@
       "peak_players": 7932,
       "create_time": "2008-03-28",
       "create_year": 2008,
-      "categories": [],
+      "categories": [
+        "Cooking"
+      ],
       "daily_players": {
         "2026-03-04": 4926,
         "2026-03-08": 9889,
@@ -35061,7 +35689,9 @@
       "peak_players": 7919,
       "create_time": "2026-03-30",
       "create_year": 2026,
-      "categories": [],
+      "categories": [
+        "Racing"
+      ],
       "daily_players": {
         "2026-04-23": 7919
       },
@@ -35108,7 +35738,9 @@
       "peak_players": 7898,
       "create_time": "2021-08-27",
       "create_year": 2021,
-      "categories": [],
+      "categories": [
+        "Other"
+      ],
       "daily_players": {},
       "latest_players": 0,
       "latest_date": "",
@@ -35128,7 +35760,9 @@
       "peak_players": 7870,
       "create_time": "2026-02-20",
       "create_year": 2026,
-      "categories": [],
+      "categories": [
+        "Other"
+      ],
       "daily_players": {
         "2026-03-06": 27358,
         "2026-03-07": 39931,
@@ -35175,7 +35809,9 @@
       "peak_players": 7859,
       "create_time": "2025-07-31",
       "create_year": 2025,
-      "categories": [],
+      "categories": [
+        "Other"
+      ],
       "daily_players": {
         "2026-03-04": 7272,
         "2026-03-09": 8108,
@@ -35307,7 +35943,9 @@
       "peak_players": 7855,
       "create_time": "2026-05-19",
       "create_year": 2026,
-      "categories": [],
+      "categories": [
+        "Other"
+      ],
       "daily_players": {
         "2026-05-26": 6134,
         "2026-06-11": 6512,
@@ -35380,7 +36018,9 @@
       "peak_players": 7836,
       "create_time": "2026-04-02",
       "create_year": 2026,
-      "categories": [],
+      "categories": [
+        "Other"
+      ],
       "daily_players": {
         "2026-04-29": 4752,
         "2026-04-30": 6464,
@@ -35404,7 +36044,9 @@
       "peak_players": 7836,
       "create_time": "2026-05-14",
       "create_year": 2026,
-      "categories": [],
+      "categories": [
+        "Story"
+      ],
       "daily_players": {
         "2026-05-17": 7836
       },
@@ -35475,7 +36117,9 @@
       "peak_players": 7798,
       "create_time": "2026-05-21",
       "create_year": 2026,
-      "categories": [],
+      "categories": [
+        "Other"
+      ],
       "daily_players": {
         "2026-06-23": 7798
       },
@@ -35497,7 +36141,9 @@
       "peak_players": 7795,
       "create_time": "2019-10-12",
       "create_year": 2019,
-      "categories": [],
+      "categories": [
+        "Other"
+      ],
       "daily_players": {
         "2026-03-10": 6783,
         "2026-03-11": 6862,
@@ -35645,7 +36291,9 @@
       "peak_players": 7735,
       "create_time": "2025-05-27",
       "create_year": 2025,
-      "categories": [],
+      "categories": [
+        "Other"
+      ],
       "daily_players": {
         "2026-04-12": 34052,
         "2026-04-13": 28696,
@@ -35759,7 +36407,9 @@
       "peak_players": 7726,
       "create_time": "2022-12-06",
       "create_year": 2022,
-      "categories": [],
+      "categories": [
+        "Tycoon"
+      ],
       "daily_players": {},
       "latest_players": 0,
       "latest_date": "",
@@ -35839,7 +36489,9 @@
       "peak_players": 7698,
       "create_time": "2026-04-06",
       "create_year": 2026,
-      "categories": [],
+      "categories": [
+        "Other"
+      ],
       "daily_players": {
         "2026-04-30": 8775,
         "2026-05-02": 13421,
@@ -35865,7 +36517,9 @@
       "peak_players": 7694,
       "create_time": "2025-05-02",
       "create_year": 2025,
-      "categories": [],
+      "categories": [
+        "Other"
+      ],
       "daily_players": {
         "2026-03-22": 7349,
         "2026-03-28": 18135,
@@ -35909,7 +36563,9 @@
       "peak_players": 7691,
       "create_time": "2025-01-20",
       "create_year": 2025,
-      "categories": [],
+      "categories": [
+        "Adopt"
+      ],
       "daily_players": {
         "2026-05-03": 9147,
         "2026-06-14": 6558,
@@ -35933,7 +36589,9 @@
       "peak_players": 7686,
       "create_time": "2021-05-12",
       "create_year": 2021,
-      "categories": [],
+      "categories": [
+        "Fight"
+      ],
       "daily_players": {
         "2026-03-28": 7924,
         "2026-04-15": 6631,
@@ -36081,7 +36739,9 @@
       "peak_players": 7583,
       "create_time": "2026-02-19",
       "create_year": 2026,
-      "categories": [],
+      "categories": [
+        "Other"
+      ],
       "daily_players": {},
       "latest_players": 0,
       "latest_date": "",
@@ -36237,7 +36897,9 @@
       "peak_players": 7504,
       "create_time": "2023-06-19",
       "create_year": 2023,
-      "categories": [],
+      "categories": [
+        "Racing"
+      ],
       "daily_players": {
         "2026-05-17": 7504
       },
@@ -36468,7 +37130,9 @@
       "peak_players": 7380,
       "create_time": "2026-04-03",
       "create_year": 2026,
-      "categories": [],
+      "categories": [
+        "Cooking"
+      ],
       "daily_players": {
         "2026-05-06": 5509,
         "2026-05-10": 7380
@@ -36491,7 +37155,9 @@
       "peak_players": 7370,
       "create_time": "2026-04-13",
       "create_year": 2026,
-      "categories": [],
+      "categories": [
+        "Cooking"
+      ],
       "daily_players": {
         "2026-05-10": 8162,
         "2026-05-17": 7370
@@ -36561,7 +37227,9 @@
       "peak_players": 7328,
       "create_time": "2025-03-03",
       "create_year": 2025,
-      "categories": [],
+      "categories": [
+        "Other"
+      ],
       "daily_players": {
         "2026-04-26": 7636,
         "2026-04-27": 6628,
@@ -36588,7 +37256,9 @@
       "peak_players": 7323,
       "create_time": "2025-10-17",
       "create_year": 2025,
-      "categories": [],
+      "categories": [
+        "Other"
+      ],
       "daily_players": {
         "2026-05-02": 7323
       },
@@ -36610,7 +37280,9 @@
       "peak_players": 7313,
       "create_time": "",
       "create_year": null,
-      "categories": [],
+      "categories": [
+        "Other"
+      ],
       "daily_players": {
         "2026-04-13": 6005,
         "2026-04-14": 5541,
@@ -36641,7 +37313,9 @@
       "peak_players": 7310,
       "create_time": "2025-09-07",
       "create_year": 2025,
-      "categories": [],
+      "categories": [
+        "Other"
+      ],
       "daily_players": {
         "2026-04-29": 6810,
         "2026-04-30": 7069,
@@ -36728,7 +37402,9 @@
       "peak_players": 7282,
       "create_time": "2024-11-02",
       "create_year": 2024,
-      "categories": [],
+      "categories": [
+        "Other"
+      ],
       "daily_players": {
         "2026-06-08": 7282
       },
@@ -36750,7 +37426,9 @@
       "peak_players": 7249,
       "create_time": "2025-10-11",
       "create_year": 2025,
-      "categories": [],
+      "categories": [
+        "Other"
+      ],
       "daily_players": {
         "2026-04-29": 6765,
         "2026-04-30": 7535,
@@ -36777,7 +37455,9 @@
       "peak_players": 7241,
       "create_time": "2026-04-24",
       "create_year": 2026,
-      "categories": [],
+      "categories": [
+        "Other"
+      ],
       "daily_players": {
         "2026-05-11": 6760,
         "2026-05-12": 6569,
@@ -36846,7 +37526,9 @@
       "peak_players": 7230,
       "create_time": "2023-11-06",
       "create_year": 2023,
-      "categories": [],
+      "categories": [
+        "Racing"
+      ],
       "daily_players": {
         "2026-04-13": 7230,
         "2026-04-14": 5965,
@@ -36871,7 +37553,9 @@
       "peak_players": 7215,
       "create_time": "2026-02-04",
       "create_year": 2026,
-      "categories": [],
+      "categories": [
+        "Other"
+      ],
       "daily_players": {
         "2026-03-28": 60185,
         "2026-03-29": 57119,
@@ -36949,7 +37633,9 @@
       "peak_players": 7120,
       "create_time": "",
       "create_year": null,
-      "categories": [],
+      "categories": [
+        "Other"
+      ],
       "daily_players": {
         "2026-05-25": 7120
       },
@@ -37141,7 +37827,9 @@
       "peak_players": 6909,
       "create_time": "2025-03-17",
       "create_year": 2025,
-      "categories": [],
+      "categories": [
+        "Other"
+      ],
       "daily_players": {},
       "latest_players": 0,
       "latest_date": "",
@@ -37214,7 +37902,9 @@
       "peak_players": 6865,
       "create_time": "2026-04-17",
       "create_year": 2026,
-      "categories": [],
+      "categories": [
+        "Other"
+      ],
       "daily_players": {
         "2026-04-30": 6865
       },
@@ -37260,7 +37950,9 @@
       "peak_players": 6838,
       "create_time": "2026-03-11",
       "create_year": 2026,
-      "categories": [],
+      "categories": [
+        "Other"
+      ],
       "daily_players": {
         "2026-04-09": 27256,
         "2026-04-10": 27549,
@@ -37396,7 +38088,9 @@
       "peak_players": 6787,
       "create_time": "2021-05-15",
       "create_year": 2021,
-      "categories": [],
+      "categories": [
+        "Racing"
+      ],
       "daily_players": {
         "2026-03-08": 10551,
         "2026-03-10": 7201,
@@ -37429,7 +38123,9 @@
       "peak_players": 6759,
       "create_time": "2025-03-10",
       "create_year": 2025,
-      "categories": [],
+      "categories": [
+        "Other"
+      ],
       "daily_players": {
         "2026-04-19": 7585,
         "2026-04-20": 7050,
@@ -37468,7 +38164,9 @@
       "peak_players": 6731,
       "create_time": "2020-08-15",
       "create_year": 2020,
-      "categories": [],
+      "categories": [
+        "Other"
+      ],
       "daily_players": {
         "2026-05-04": 5223,
         "2026-05-05": 6044,
@@ -37492,7 +38190,9 @@
       "peak_players": 6729,
       "create_time": "2020-06-27",
       "create_year": 2020,
-      "categories": [],
+      "categories": [
+        "Other"
+      ],
       "daily_players": {
         "2026-05-10": 6729,
         "2026-05-11": 5960,
@@ -37567,7 +38267,9 @@
       "peak_players": 6713,
       "create_time": "2020-04-03",
       "create_year": 2020,
-      "categories": [],
+      "categories": [
+        "Other"
+      ],
       "daily_players": {
         "2026-04-20": 6051,
         "2026-04-21": 7224,
@@ -37621,7 +38323,9 @@
       "peak_players": 6687,
       "create_time": "2026-03-20",
       "create_year": 2026,
-      "categories": [],
+      "categories": [
+        "Other"
+      ],
       "daily_players": {
         "2026-06-04": 6083,
         "2026-06-05": 7684,
@@ -37669,7 +38373,9 @@
       "peak_players": 6669,
       "create_time": "2026-04-21",
       "create_year": 2026,
-      "categories": [],
+      "categories": [
+        "Other"
+      ],
       "daily_players": {
         "2026-05-27": 6435,
         "2026-05-28": 6669
@@ -37692,7 +38398,9 @@
       "peak_players": 6590,
       "create_time": "2022-07-10",
       "create_year": 2022,
-      "categories": [],
+      "categories": [
+        "Other"
+      ],
       "daily_players": {
         "2026-06-10": 5651,
         "2026-06-17": 6590
@@ -37740,7 +38448,9 @@
       "peak_players": 6485,
       "create_time": "2020-09-08",
       "create_year": 2020,
-      "categories": [],
+      "categories": [
+        "Other"
+      ],
       "daily_players": {
         "2026-05-18": 6320,
         "2026-05-19": 6485,
@@ -37793,7 +38503,9 @@
       "peak_players": 6444,
       "create_time": "2021-06-22",
       "create_year": 2021,
-      "categories": [],
+      "categories": [
+        "Other"
+      ],
       "daily_players": {
         "2026-05-10": 9774,
         "2026-05-11": 6267,
@@ -37876,7 +38588,9 @@
       "peak_players": 6352,
       "create_time": "2026-01-29",
       "create_year": 2026,
-      "categories": [],
+      "categories": [
+        "Other"
+      ],
       "daily_players": {
         "2026-05-21": 6352
       },
@@ -37922,7 +38636,9 @@
       "peak_players": 6302,
       "create_time": "2026-02-01",
       "create_year": 2026,
-      "categories": [],
+      "categories": [
+        "Other"
+      ],
       "daily_players": {
         "2026-04-15": 5353,
         "2026-05-26": 5052,
@@ -37969,7 +38685,9 @@
       "peak_players": 6276,
       "create_time": "2023-08-13",
       "create_year": 2023,
-      "categories": [],
+      "categories": [
+        "Other"
+      ],
       "daily_players": {
         "2026-05-05": 6276
       },
@@ -38017,7 +38735,9 @@
       "peak_players": 6262,
       "create_time": "2023-11-02",
       "create_year": 2023,
-      "categories": [],
+      "categories": [
+        "Other"
+      ],
       "daily_players": {
         "2026-03-31": 6750,
         "2026-04-01": 26923,
@@ -38155,7 +38875,9 @@
       "peak_players": 6189,
       "create_time": "",
       "create_year": null,
-      "categories": [],
+      "categories": [
+        "Other"
+      ],
       "daily_players": {
         "2026-03-03": 6744,
         "2026-03-04": 8351,
@@ -38280,7 +39002,9 @@
       "peak_players": 6142,
       "create_time": "2026-04-18",
       "create_year": 2026,
-      "categories": [],
+      "categories": [
+        "Adopt"
+      ],
       "daily_players": {
         "2026-05-07": 5133,
         "2026-05-08": 6142
@@ -38452,7 +39176,9 @@
       "peak_players": 6048,
       "create_time": "2025-05-01",
       "create_year": 2025,
-      "categories": [],
+      "categories": [
+        "Other"
+      ],
       "daily_players": {
         "2026-03-28": 7719,
         "2026-04-13": 6048
@@ -38547,7 +39273,9 @@
       "peak_players": 5818,
       "create_time": "2026-02-22",
       "create_year": 2026,
-      "categories": [],
+      "categories": [
+        "Other"
+      ],
       "daily_players": {
         "2026-03-04": 9496,
         "2026-03-05": 13403,
@@ -38684,7 +39412,9 @@
       "peak_players": 5784,
       "create_time": "2024-08-01",
       "create_year": 2024,
-      "categories": [],
+      "categories": [
+        "Other"
+      ],
       "daily_players": {
         "2026-03-31": 9853,
         "2026-04-22": 5784
@@ -38732,7 +39462,9 @@
       "peak_players": 5758,
       "create_time": "2025-01-27",
       "create_year": 2025,
-      "categories": [],
+      "categories": [
+        "Other"
+      ],
       "daily_players": {
         "2026-05-10": 5758,
         "2026-05-11": 5720,
@@ -38756,7 +39488,9 @@
       "peak_players": 5680,
       "create_time": "2025-08-23",
       "create_year": 2025,
-      "categories": [],
+      "categories": [
+        "Other"
+      ],
       "daily_players": {
         "2026-04-04": 29792,
         "2026-04-05": 28174,
@@ -38862,7 +39596,9 @@
       "peak_players": 5592,
       "create_time": "2019-03-03",
       "create_year": 2019,
-      "categories": [],
+      "categories": [
+        "Other"
+      ],
       "daily_players": {
         "2026-03-05": 9348,
         "2026-03-06": 12542,
@@ -39007,7 +39743,9 @@
       "peak_players": 5473,
       "create_time": "",
       "create_year": null,
-      "categories": [],
+      "categories": [
+        "Other"
+      ],
       "daily_players": {
         "2026-05-24": 5473
       },
@@ -39057,7 +39795,9 @@
       "peak_players": 5393,
       "create_time": "2020-11-21",
       "create_year": 2020,
-      "categories": [],
+      "categories": [
+        "Other"
+      ],
       "daily_players": {
         "2026-05-07": 5393
       },
@@ -39105,7 +39845,9 @@
       "peak_players": 5357,
       "create_time": "2026-05-05",
       "create_year": 2026,
-      "categories": [],
+      "categories": [
+        "Other"
+      ],
       "daily_players": {
         "2026-05-20": 5357
       },
@@ -39127,7 +39869,9 @@
       "peak_players": 5335,
       "create_time": "2026-02-25",
       "create_year": 2026,
-      "categories": [],
+      "categories": [
+        "Other"
+      ],
       "daily_players": {
         "2026-03-14": 18223,
         "2026-03-15": 22173,
@@ -39178,7 +39922,9 @@
       "peak_players": 5306,
       "create_time": "2025-05-28",
       "create_year": 2025,
-      "categories": [],
+      "categories": [
+        "Other"
+      ],
       "daily_players": {
         "2026-03-12": 10281,
         "2026-03-13": 12167,
@@ -39204,7 +39950,9 @@
       "peak_players": 5276,
       "create_time": "2026-04-26",
       "create_year": 2026,
-      "categories": [],
+      "categories": [
+        "Horror"
+      ],
       "daily_players": {
         "2026-06-11": 7480,
         "2026-06-12": 8434,
@@ -39386,7 +40134,9 @@
       "peak_players": 5145,
       "create_time": "2025-06-08",
       "create_year": 2025,
-      "categories": [],
+      "categories": [
+        "Other"
+      ],
       "daily_players": {
         "2026-05-09": 7364,
         "2026-05-14": 5145
@@ -39409,7 +40159,9 @@
       "peak_players": 5099,
       "create_time": "2025-04-20",
       "create_year": 2025,
-      "categories": [],
+      "categories": [
+        "Other"
+      ],
       "daily_players": {
         "2026-03-09": 8550,
         "2026-03-10": 6905,
@@ -39434,7 +40186,9 @@
       "peak_players": 4930,
       "create_time": "2026-05-08",
       "create_year": 2026,
-      "categories": [],
+      "categories": [
+        "Other"
+      ],
       "daily_players": {
         "2026-06-11": 9875,
         "2026-06-14": 14335,
@@ -39483,7 +40237,9 @@
       "peak_players": 4602,
       "create_time": "2026-02-06",
       "create_year": 2026,
-      "categories": [],
+      "categories": [
+        "Other"
+      ],
       "daily_players": {
         "2026-04-15": 5413,
         "2026-04-16": 5926,
@@ -39580,7 +40336,9 @@
       "peak_players": 4411,
       "create_time": "2026-05-16",
       "create_year": 2026,
-      "categories": [],
+      "categories": [
+        "Other"
+      ],
       "daily_players": {
         "2026-05-20": 4411
       },
@@ -39652,7 +40410,9 @@
       "peak_players": 3970,
       "create_time": "2023-01-28",
       "create_year": 2023,
-      "categories": [],
+      "categories": [
+        "Other"
+      ],
       "daily_players": {
         "2026-04-17": 3970
       },
@@ -39699,7 +40459,9 @@
       "peak_players": 3471,
       "create_time": "2023-08-13",
       "create_year": 2023,
-      "categories": [],
+      "categories": [
+        "Other"
+      ],
       "daily_players": {
         "2026-03-05": 6999,
         "2026-03-20": 8157,
@@ -39731,7 +40493,9 @@
       "peak_players": 3361,
       "create_time": "2024-02-22",
       "create_year": 2024,
-      "categories": [],
+      "categories": [
+        "Other"
+      ],
       "daily_players": {
         "2026-04-16": 5242,
         "2026-06-21": 3361
@@ -39754,7 +40518,9 @@
       "peak_players": 180,
       "create_time": "2023-04-25",
       "create_year": 2023,
-      "categories": [],
+      "categories": [
+        "Other"
+      ],
       "daily_players": {
         "2026-05-29": 9498,
         "2026-06-01": 180
@@ -39815,7 +40581,9 @@
       "peak_players": 0,
       "create_time": "",
       "create_year": null,
-      "categories": [],
+      "categories": [
+        "Other"
+      ],
       "daily_players": {
         "2026-03-04": 10571,
         "2026-03-05": 10759,
@@ -39844,7 +40612,9 @@
       "peak_players": 0,
       "create_time": "",
       "create_year": null,
-      "categories": [],
+      "categories": [
+        "Other"
+      ],
       "daily_players": {
         "2026-03-05": 7754,
         "2026-03-08": 8462,
@@ -39869,7 +40639,9 @@
       "peak_players": 0,
       "create_time": "",
       "create_year": null,
-      "categories": [],
+      "categories": [
+        "Other"
+      ],
       "daily_players": {
         "2026-03-05": 9271,
         "2026-03-20": 10252,
@@ -40046,7 +40818,9 @@
       "peak_players": 0,
       "create_time": "",
       "create_year": null,
-      "categories": [],
+      "categories": [
+        "Other"
+      ],
       "daily_players": {
         "2026-04-12": 7771
       },
@@ -40068,7 +40842,9 @@
       "peak_players": 0,
       "create_time": "",
       "create_year": null,
-      "categories": [],
+      "categories": [
+        "Other"
+      ],
       "daily_players": {
         "2026-04-12": 7407
       },
