@@ -363,6 +363,10 @@
             background: #FEF2F2;
             border-color: #991B1B;
         }
+        .featured-game-btn:hover {
+            border-color: var(--accent, #991B1B) !important;
+            background: rgba(153,27,27,0.04) !important;
+        }
         .game-list-item .gi-name {
             font-size: 12px;
             font-weight: 500;
@@ -906,6 +910,27 @@
             <div class="gamedetail-layout">
                 <!-- 左侧游戏选择器 -->
                 <aside class="game-selector-panel">
+                    <!-- 重点游戏追踪快捷入口 -->
+                    <div class="featured-games-bar" style="margin-bottom:10px;padding-bottom:10px;border-bottom:1px solid var(--card-border);">
+                        <div class="text-[10px] font-semibold tracking-wider mb-2" style="color:var(--text-muted);" data-i18n="featured_games">重点游戏追踪</div>
+                        <div class="flex flex-col gap-1.5">
+                            <button onclick="selectGame('chaoziran')" class="featured-game-btn" data-fgame="chaoziran" style="display:flex;align-items:center;gap:8px;width:100%;padding:6px 8px;border-radius:6px;border:1px solid var(--card-border);background:var(--card-bg);cursor:pointer;transition:all 0.15s;text-align:left;">
+                                <span style="width:8px;height:8px;border-radius:50%;background:#991B1B;flex-shrink:0;"></span>
+                                <span style="font-size:12px;font-weight:500;color:var(--text-primary);flex:1;" data-i18n="fg_chaoziran">超自然行动组</span>
+                                <span class="text-[9px]" style="color:var(--text-muted);">FILE-001</span>
+                            </button>
+                            <button onclick="selectGame('R.E.P.O.')" class="featured-game-btn" data-fgame="repo" style="display:flex;align-items:center;gap:8px;width:100%;padding:6px 8px;border-radius:6px;border:1px solid var(--card-border);background:var(--card-bg);cursor:pointer;transition:all 0.15s;text-align:left;">
+                                <span style="width:8px;height:8px;border-radius:50%;background:#16A34A;flex-shrink:0;"></span>
+                                <span style="font-size:12px;font-weight:500;color:var(--text-primary);flex:1;">R.E.P.O.</span>
+                                <span class="text-[9px]" style="color:var(--text-muted);">FILE-002</span>
+                            </button>
+                            <button onclick="selectGame('Dead by Daylight')" class="featured-game-btn" data-fgame="dbd" style="display:flex;align-items:center;gap:8px;width:100%;padding:6px 8px;border-radius:6px;border:1px solid var(--card-border);background:var(--card-bg);cursor:pointer;transition:all 0.15s;text-align:left;">
+                                <span style="width:8px;height:8px;border-radius:50%;background:#7C3AED;flex-shrink:0;"></span>
+                                <span style="font-size:12px;font-weight:500;color:var(--text-primary);flex:1;" data-i18n="fg_dbd">黎明杀机</span>
+                                <span class="text-[9px]" style="color:var(--text-muted);">FILE-003</span>
+                            </button>
+                        </div>
+                    </div>
                     <div class="selector-search">
                         <input type="text" id="game-search-input" placeholder="搜索游戏..." oninput="filterGameList()">
                     </div>
@@ -4334,6 +4359,15 @@ If you want to know what happened next, let’s listen to the explanation next t
             // 更新列表选中状态
             document.querySelectorAll('.game-list-item').forEach(el => {
                 el.classList.toggle('active', el.dataset.gameKey === gameKey);
+            });
+            // 更新重点游戏按钮高亮
+            const FG_MAP = { 'chaoziran': 'chaoziran', 'Dead by Daylight': 'dbd', 'R.E.P.O.': 'repo' };
+            const fgId = FG_MAP[gameKey];
+            document.querySelectorAll('.featured-game-btn').forEach(btn => {
+                const isActive = btn.dataset.fgame === fgId;
+                btn.style.borderColor = isActive ? 'var(--accent)' : 'var(--card-border)';
+                btn.style.background = isActive ? 'rgba(153,27,27,0.06)' : 'var(--card-bg)';
+                btn.style.boxShadow = isActive ? 'inset 3px 0 0 var(--accent)' : 'none';
             });
             // 重算图表
             requestAnimationFrame(() => {
@@ -8272,6 +8306,9 @@ If you want to know what happened next, let’s listen to the explanation next t
             no_match: { zh: '无匹配游戏', en: 'No matching games' },
             showing_n_games: { zh: '共 {0} 款游戏', en: 'Showing {0} games' },
             all_tags: { zh: '全部', en: 'All' },
+            featured_games: { zh: '重点游戏追踪', en: 'Featured Games' },
+            fg_chaoziran: { zh: '超自然行动组', en: 'Soul Action Group' },
+            fg_dbd: { zh: '黎明杀机', en: 'Dead by Daylight' },
             th_dev: { zh: '开发商', en: 'Developer' },
             th_tags: { zh: '标签', en: 'Tags' },
             // 标签页
