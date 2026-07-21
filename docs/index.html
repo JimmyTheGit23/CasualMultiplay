@@ -5812,7 +5812,7 @@ If you want to know what happened next, let’s listen to the explanation next t
                 wrap.innerHTML = '<p style="color:var(--text-muted);font-size:12px;">加载中...</p>';
                 return;
             }
-            let games = [...gameRegistry.games];
+            let games = [...gameRegistry.games].filter(g => g.appid && g.appid !== 0); // 排除非 Steam 游戏（如超自然行动组 appid=0）
             // 按当前维度排序
             if (currentLbDim === 'ccu') {
                 games.sort((a, b) => getGameCCU(b) - getGameCCU(a));
