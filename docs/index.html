@@ -3384,7 +3384,7 @@ If you want to know what happened next, let’s listen to the explanation next t
         let robloxGamesData = null;
         let robloxCategories = {};
         let robloxSelectedPlaceId = null;
-        let robloxDiscoverFilter = { keyword: '', minPlayers: 0, category: 'all', sort: 'peak_players' };
+        let robloxDiscoverFilter = { keyword: '', minPlayers: 0, categories: [], sort: 'peak_players' };
         let currentInsightSubTab = 'first_game';
 
         let DBD_DATA = {
@@ -4683,7 +4683,10 @@ If you want to know what happened next, let’s listen to the explanation next t
                     if (!g.name.toLowerCase().includes(kw) && !String(g.placeId).includes(kw)) return false;
                 }
                 if (robloxDiscoverFilter.minPlayers > 0 && g.latest_players < robloxDiscoverFilter.minPlayers) return false;
-                if (robloxDiscoverFilter.category !== 'all' && !(g.categories || []).includes(robloxDiscoverFilter.category)) return false;
+                if (robloxDiscoverFilter.categories.length > 0) {
+                    const gc = g.categories || [];
+                    if (!robloxDiscoverFilter.categories.some(c => gc.includes(c))) return false;
+                }
                 return true;
             });
             // 排序
@@ -4703,7 +4706,7 @@ If you want to know what happened next, let’s listen to the explanation next t
             // 分类 chips
             const catChips = Object.entries(robloxCategories)
                 .sort((a, b) => b[1].count - a[1].count)
-                .map(([k, v]) => `<span class="rbx-cat-chip ${robloxDiscoverFilter.category === k ? 'active' : ''}" onclick="setRobloxCat('${k}')" style="font-size:11px;padding:3px 10px;border-radius:12px;cursor:pointer;background:${robloxDiscoverFilter.category === k ? '#7C3AED' : '#F1F5F9'};color:${robloxDiscoverFilter.category === k ? '#FFFFFF' : '#475569'};margin:2px;display:inline-block;">${rbxCatName(k)} ${v.count}</span>`).join('');
+                .map(([k, v]) => `<span class="rbx-cat-chip ${robloxDiscoverFilter.categories.includes(k) ? 'active' : ''}" onclick="setRobloxCat('${k}')" style="font-size:11px;padding:3px 10px;border-radius:12px;cursor:pointer;background:${robloxDiscoverFilter.categories.includes(k) ? '#7C3AED' : '#F1F5F9'};color:${robloxDiscoverFilter.categories.includes(k) ? '#FFFFFF' : '#475569'};margin:2px;display:inline-block;">${rbxCatName(k)} ${v.count}</span>`).join('');
             section.innerHTML = `
                 <div style="display:flex;gap:12px;margin-bottom:12px;flex-wrap:wrap;">
                     <div style="flex:1;min-width:200px;background:#FFFFFF;border-radius:8px;padding:12px;border:0.5px solid #E2E8F0;">
@@ -4741,7 +4744,7 @@ If you want to know what happened next, let’s listen to the explanation next t
                     </select>
                     <span style="font-size:10px;color:#64748B;">${rbxT("showing", filtered.length, games.length)}</span>
                 </div>
-                <div style="margin-bottom:12px;">${catChips}${robloxDiscoverFilter.category !== 'all' ? `<span class="rbx-cat-chip" onclick="setRobloxCat('all')" style="font-size:11px;padding:3px 10px;border-radius:12px;cursor:pointer;background:#F1F5F9;color:#475569;margin:2px;">${rbxT("clearFilter")}</span>` : ''}</div>
+                <div style="margin-bottom:12px;">${catChips}${robloxDiscoverFilter.categories.length > 0 ? `<span class="rbx-cat-chip" onclick="setRobloxCat('all')" style="font-size:11px;padding:3px 10px;border-radius:12px;cursor:pointer;background:#F1F5F9;color:#475569;margin:2px;">${rbxT("clearFilter")} (${robloxDiscoverFilter.categories.length})</span>` : ''}</div>
                 <div id="rbx-grid" style="display:grid;grid-template-columns:repeat(auto-fill,minmax(280px,1fr));gap:10px;"></div>
             `;
             const grid = document.getElementById('rbx-grid');
@@ -4772,7 +4775,19 @@ If you want to know what happened next, let’s listen to the explanation next t
         function setRobloxKw(v) { robloxDiscoverFilter.keyword = v; renderRobloxDiscover(); }
         function setRobloxMinP(v) { robloxDiscoverFilter.minPlayers = parseInt(v) || 0; renderRobloxDiscover(); }
         function setRobloxSort(v) { robloxDiscoverFilter.sort = v; renderRobloxDiscover(); }
-        function setRobloxCat(c) { robloxDiscoverFilter.category = c; renderRobloxDiscover(); }
+        function setRobloxCat(c) {
+            if (c === 'all') {
+                robloxDiscoverFilter.categories = [];
+            } else {
+                const idx = robloxDiscoverFilter.categories.indexOf(c);
+                if (idx >= 0) {
+                    robloxDiscoverFilter.categories.splice(idx, 1);
+                } else {
+                    robloxDiscoverFilter.categories.push(c);
+                }
+            }
+            renderRobloxDiscover();
+        }
 
         function selectRobloxGame(placeId) {
             robloxSelectedPlaceId = placeId;
@@ -4854,7 +4869,7 @@ If you want to know what happened next, let’s listen to the explanation next t
 
         // --- Roblox 游戏详情 ---
         // Roblox 详情页: 左侧列表 + 搜索 + 分类 chip, 右侧详情
-        let robloxDetailFilter = { keyword: '', category: 'all', sort: 'peak_players' };
+        let robloxDetailFilter = { keyword: '', categories: [], sort: 'peak_players' };
 
         function renderRobloxGameDetail() {
             const section = document.getElementById('section-gamedetail');
@@ -4871,7 +4886,10 @@ If you want to know what happened next, let’s listen to the explanation next t
                     const kw = robloxDetailFilter.keyword.toLowerCase();
                     if (!g.name.toLowerCase().includes(kw) && !String(g.placeId).includes(kw)) return false;
                 }
-                if (robloxDetailFilter.category !== 'all' && !(g.categories || []).includes(robloxDetailFilter.category)) return false;
+                if (robloxDetailFilter.categories.length > 0) {
+                    const gc = g.categories || [];
+                    if (!robloxDetailFilter.categories.some(c => gc.includes(c))) return false;
+                }
                 return true;
             });
             filtered.sort((a, b) => {
@@ -4886,7 +4904,7 @@ If you want to know what happened next, let’s listen to the explanation next t
             // 分类 chips
             const catChips = Object.entries(robloxCategories)
                 .sort((a, b) => b[1].count - a[1].count)
-                .map(([k, v]) => `<span onclick="setRobloxDetailCat('${k}')" style="font-size:10px;padding:2px 8px;border-radius:10px;cursor:pointer;background:${robloxDetailFilter.category===k?'#7C3AED':'#F1F5F9'};color:${robloxDetailFilter.category===k?'#FFFFFF':'#475569'};margin:2px;display:inline-block;">${rbxCatName(k)} ${v.count}</span>`).join('');
+                .map(([k, v]) => `<span onclick="setRobloxDetailCat('${k}')" style="font-size:10px;padding:2px 8px;border-radius:10px;cursor:pointer;background:${robloxDetailFilter.categories.includes(k)?'#7C3AED':'#F1F5F9'};color:${robloxDetailFilter.categories.includes(k)?'#FFFFFF':'#475569'};margin:2px;display:inline-block;">${rbxCatName(k)} ${v.count}</span>`).join('');
 
             section.innerHTML = `
                 <div style="display:flex;gap:14px;align-items:flex-start;">
@@ -4902,7 +4920,7 @@ If you want to know what happened next, let’s listen to the explanation next t
                             <option value="avg_7d" ${robloxDetailFilter.sort==='avg_7d'?'selected':''}>${rbxT('sortByAvg7d')}</option>
                             <option value="create_year" ${robloxDetailFilter.sort==='create_year'?'selected':''}>${rbxT('sortByCreateYear')}</option>
                         </select>
-                        <div style="margin-bottom:6px;">${catChips}${robloxDetailFilter.category !== 'all' ? `<span onclick="setRobloxDetailCat('all')" style="font-size:10px;padding:2px 8px;border-radius:10px;cursor:pointer;background:#F1F5F9;color:#475569;margin:2px;display:inline-block;">${rbxT('clearFilter')}</span>` : ''}</div>
+                        <div style="margin-bottom:6px;">${catChips}${robloxDetailFilter.categories.length > 0 ? `<span onclick="setRobloxDetailCat('all')" style="font-size:10px;padding:2px 8px;border-radius:10px;cursor:pointer;background:#F1F5F9;color:#475569;margin:2px;display:inline-block;">${rbxT('clearFilter')} (${robloxDetailFilter.categories.length})</span>` : ''}</div>
                         <div style="font-size:10px;color:#64748B;margin-bottom:6px;">${rbxT('showing', filtered.length, games.length)}</div>
                         <div id="rbx-detail-list" style="max-height:80vh;overflow-y:auto;border:0.5px solid #E2E8F0;border-radius:6px;background:#FFFFFF;"></div>
                     </div>
@@ -5007,7 +5025,19 @@ If you want to know what happened next, let’s listen to the explanation next t
 
         function setRobloxDetailKw(v) { robloxDetailFilter.keyword = v; renderRobloxGameDetail(); }
         function setRobloxDetailSort(v) { robloxDetailFilter.sort = v; renderRobloxGameDetail(); }
-        function setRobloxDetailCat(c) { robloxDetailFilter.category = c; renderRobloxGameDetail(); }
+        function setRobloxDetailCat(c) {
+            if (c === 'all') {
+                robloxDetailFilter.categories = [];
+            } else {
+                const idx = robloxDetailFilter.categories.indexOf(c);
+                if (idx >= 0) {
+                    robloxDetailFilter.categories.splice(idx, 1);
+                } else {
+                    robloxDetailFilter.categories.push(c);
+                }
+            }
+            renderRobloxGameDetail();
+        }
 
         // ========== 洞察页 ==========
         const INSIGHT_TABS = {
