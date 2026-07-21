@@ -4796,6 +4796,59 @@ If you want to know what happened next, let’s listen to the explanation next t
 
         // --- Roblox 排行榜 ---
         let robloxLbDim = 'peak_players';
+        function computeRbxCategoryInsight(games) {
+            const catStats = {};
+            for (const g of games) {
+                for (const c of (g.categories || [])) {
+                    if (!catStats[c]) catStats[c] = { key: c, count: 0, ccu: 0, avg7d: 0, growth: 0, visits: 0, g7: [], v: 0 };
+                    const s = catStats[c];
+                    s.count++;
+                    s.ccu += g.latest_players || 0;
+                    s.avg7d += g.avg_7d || 0;
+                    s.visits += g.visits || 0;
+                    if (g.growth_7d != null) { s.growth += g.growth_7d; s.g7.push(g.growth_7d); }
+                    s.v++;
+                }
+            }
+            const arr = Object.values(catStats);
+            const totalCats = arr.filter(c => c.count >= 3).length;
+            const ranked = arr.filter(c => c.key !== 'Other' && c.count >= 3);
+            const topByCCU = [...ranked].sort((a, b) => b.ccu - a.ccu)[0] || { key: 'NA', ccu: 0 };
+            const eligible = ranked.filter(c => c.count >= 5);
+            const topByGrowth = [...eligible].sort((a, b) => (b.growth / Math.max(b.v, 1)) - (a.growth / Math.max(a.v, 1)))[0] || topByCCU;
+            const mostActive = [...arr].sort((a, b) => b.count - a.count)[0] || { key: 'NA', count: 0 };
+            const topByAvg7d = [...ranked].sort((a, b) => b.avg7d - a.avg7d).slice(0, 5).map(c => ({
+                key: c.key, zh: rbxCatName(c.key), en: c.key, avg7d: c.avg7d
+            }));
+            const topKey = topByCCU.key || '';
+            const growKey = topByGrowth.key || '';
+            const isZh = currentLang === 'zh';
+            const STEAM_TIPS = {
+                'Brainrot': isZh ? 'Roblox 头部 Brainrot 持续霸榜。Steam 启示: 短平快 + 表情包文化 + 跨游戏 IP 联动。R.E.P.O./PEAK/Dear Passengers 这类合作模拟有空间。' : 'Brainrot dominates Roblox. Steam takeaway: short cycles + meme culture + cross-game IP. Co-op sims like R.E.P.O./PEAK have room.',
+                'Simulator': isZh ? 'Simulator 是 Roblox 永恒长青品类。Steam 启示: 简单上手 + 持续更新 + UGC 创作工具。模拟经营/收集养成/放置点击都有空间。' : 'Simulator is evergreen. Steam takeaway: low-friction + continuous updates + UGC. Idle/collection/sim-tycoon genres.',
+                'Anime': isZh ? 'Anime IP 改编游戏在 Roblox 持续热门。Steam 启示: 联动正版 IP (Jump/集英社) 或做原创动漫风格游戏。' : 'Anime IP stays hot. Steam takeaway: licensed IP collabs (Jump/Shueisha) or original anime-aesthetic games.',
+                'Survival': isZh ? 'Survival 持续有头部 (Forsaken/Piggy)。Steam 启示: 恐怖生存 + 社交互动。Lethal Company/Project Zomboid 这类值得 Steam 轻度方向。' : 'Survival stays on top. Steam takeaway: horror + social. Lethal Company/Project Zomboid-style casual horror has Steam appeal.',
+                'Escape': isZh ? 'Escape 多人逃脱在 Roblox 长青。Steam 启示: 合作逃脱/密室 (Lethal Company 内核/Deceit/Chained Together)。' : 'Escape stays evergreen. Steam takeaway: co-op escape/room (Lethal Company core/Deceit/Chained Together).',
+                'Tower': isZh ? 'Tower Defense 持续有玩家。Steam 启示: 合作塔防 (Deep Rock Galactic 类) 或单人精品塔防。' : 'Tower Defense has steady demand. Steam takeaway: co-op TD (Deep Rock Galactic-style) or premium single-player TD.',
+                'Fight': isZh ? 'Fight 多人对战在 Roblox 持续。Steam 启示: 1v1/小规模多人格斗 (Brawlhalla/Nidhogg)。' : 'Fight/PvP is consistent. Steam takeaway: 1v1/small-group fighters (Brawlhalla/Nidhogg).',
+                'RP': isZh ? 'RP 是 Roblox 最大长青品类 (Brookhaven/Bloxburg)。Steam 启示: 生活模拟/沙盒 RP (Gartic/Rec Room/VRChat)。' : 'RP is Roblox evergreen (Brookhaven/Bloxburg). Steam takeaway: life-sim/sandbox RP (Gartic/Rec Room/VRChat).',
+                'Steal': isZh ? 'Steal 衍生自 Brainrot。Steam 启示: 偷取/收集玩法 (Pocketpair 类卡通风)。' : 'Steal spawned from Brainrot. Steam takeaway: steal/collect mechanics.',
+                'Horror': isZh ? 'Horror 在 Roblox 头部集中 (Forsaken/Piggy/Backrooms)。Steam 启示: 多人恐怖 + 短局制。Lethal Company 范式可复制。' : 'Horror top-heavy on Roblox. Steam takeaway: multiplayer horror + short sessions.',
+                'Adopt': isZh ? 'Adopt Me! 等宠物养成长青。Steam 启示: 收集/养成/装扮 (Nintendogs/Neopets 复兴)。' : 'Adopt Me-style pet games evergreen. Steam takeaway: collection/nurture.',
+                'Racing': isZh ? 'Racing 多人对抗在 Roblox 稳定。Steam 启示: 合作赛车 (Trailmakers) 或休闲卡丁车。' : 'Multiplayer racing stable. Steam takeaway: co-op racing (Trailmakers) or casual kart.',
+            };
+            const t1 = STEAM_TIPS[topKey] || (isZh ? `Roblox 头部 ${rbxCatName(topKey)} 类聚集最高 CCU。Steam 轻度游戏可关注这一品类的用户行为迁移 (玩法/付费/IP)。` : `Roblox's ${topKey} has highest CCU. Steam casual devs can study this category.`);
+            const t2 = growKey && growKey !== topKey ? ' / ' + (STEAM_TIPS[growKey] || (isZh ? `增长率最高的 ${rbxCatName(growKey)} 类正在快速崛起, Steam 轻度向开发者值得关注。` : `${growKey} has fastest growth, worth watching.`)) : '';
+            return {
+                totalCats: totalCats,
+                topByCCU: { ...topByCCU, zh: rbxCatName(topByCCU.key), en: topByCCU.key },
+                topByGrowth: { ...topByGrowth, zh: rbxCatName(topByGrowth.key), en: topByGrowth.key, growth: topByGrowth.growth / Math.max(topByGrowth.v, 1) },
+                mostActive: { ...mostActive, zh: rbxCatName(mostActive.key), en: mostActive.key },
+                topByAvg7d: topByAvg7d,
+                steamTip: t1 + t2
+            };
+        }
+
         function renderRobloxLeaderboard() {
             const section = document.getElementById('section-leaderboard');
             if (!section || !robloxGamesData) return;
@@ -4812,9 +4865,48 @@ If you want to know what happened next, let’s listen to the explanation next t
             if (dim && dim.filter) filtered = filtered.filter(dim.filter);
             const sortKey = dim.sort || robloxLbDim;
             filtered.sort((a, b) => (b[sortKey] || 0) - (a[sortKey] || 0));
+            // 计算分类洞察 (Roblox 哪些分类最受欢迎)
+            const insight = computeRbxCategoryInsight(games);
             section.innerHTML = `
                 <div style="display:flex;gap:4px;margin-bottom:12px;flex-wrap:wrap;">
                     ${dims.map(d => `<button onclick="switchRobloxLb('${d.id}')" style="padding:5px 12px;font-size:11px;border-radius:6px;border:0.5px solid ${robloxLbDim===d.id?'#7C3AED':'#E2E8F0'};background:${robloxLbDim===d.id?'#7C3AED':'#FFFFFF'};color:${robloxLbDim===d.id?'#FFFFFF':'#475569'};cursor:pointer;">${d.label}</button>`).join('')}
+                </div>
+                <div class="glass-card" style="background:linear-gradient(135deg,#7C3AED10,#EDE9FE);border:1px solid #DDD6FE;padding:14px;margin-bottom:14px;border-radius:10px;">
+                    <div style="font-size:12px;font-weight:600;color:#6D28D9;margin-bottom:10px;display:flex;align-items:center;gap:6px;">
+                        <span style="font-size:14px;">📊</span>
+                        <span>${currentLang==='en'?'Roblox Category Insight (last 7 days)':'Roblox 分类洞察 (近 7 天)'}</span>
+                    </div>
+                    <div style="display:grid;grid-template-columns:repeat(4,1fr);gap:10px;margin-bottom:12px;">
+                        <div style="background:#FFFFFF;padding:10px 12px;border-radius:6px;border:0.5px solid #DDD6FE;">
+                            <div style="font-size:10px;color:#64748B;text-transform:uppercase;">${currentLang==='en'?'Categories Tracked':'追踪分类'}</div>
+                            <div style="font-size:18px;font-weight:700;color:#6D28D9;">${insight.totalCats}</div>
+                        </div>
+                        <div style="background:#FFFFFF;padding:10px 12px;border-radius:6px;border:0.5px solid #DDD6FE;">
+                            <div style="font-size:10px;color:#64748B;text-transform:uppercase;">${currentLang==='en'?'Top Category (CCU)':'CCU 冠军分类'}</div>
+                            <div style="font-size:14px;font-weight:700;color:#6D28D9;">${insight.topByCCU.zh} ${insight.topByCCU.en}</div>
+                            <div style="font-size:10px;color:#94A3B8;">${fmtNum(insight.topByCCU.ccu)} ${currentLang==='en'?'CCU':'玩家'}</div>
+                        </div>
+                        <div style="background:#FFFFFF;padding:10px 12px;border-radius:6px;border:0.5px solid #DDD6FE;">
+                            <div style="font-size:10px;color:#64748B;text-transform:uppercase;">${currentLang==='en'?'Fastest Growing':'增长最快'}</div>
+                            <div style="font-size:14px;font-weight:700;color:#16A34A;">${insight.topByGrowth.zh} ${insight.topByGrowth.en}</div>
+                            <div style="font-size:10px;color:#16A34A;">↑ ${fmtPct(insight.topByGrowth.growth)}</div>
+                        </div>
+                        <div style="background:#FFFFFF;padding:10px 12px;border-radius:6px;border:0.5px solid #DDD6FE;">
+                            <div style="font-size:10px;color:#64748B;text-transform:uppercase;">${currentLang==='en'?'Most Active Games':'最活跃游戏数'}</div>
+                            <div style="font-size:14px;font-weight:700;color:#6D28D9;">${insight.mostActive.zh} ${insight.mostActive.en}</div>
+                            <div style="font-size:10px;color:#94A3B8;">${insight.mostActive.count} ${currentLang==='en'?'games':'款游戏'}</div>
+                        </div>
+                    </div>
+                    <div style="display:grid;grid-template-columns:1fr 1fr;gap:10px;">
+                        <div>
+                            <div style="font-size:11px;font-weight:600;color:#475569;margin-bottom:6px;">🏆 ${currentLang==='en'?'Top 5 by 7d Avg CCU':'7 天日均 CCU Top 5'}</div>
+                            ${insight.topByAvg7d.map((c, i) => `<div style="display:flex;justify-content:space-between;align-items:center;padding:5px 8px;background:#FFFFFF;border-radius:4px;margin-bottom:3px;font-size:11px;border:0.5px solid #E2E8F0;"><span><b>${i+1}.</b> ${c.zh} <span style="color:#94A3B8;font-size:10px;">${c.en}</span></span><span style="font-weight:600;color:#6D28D9;">${fmtNum(c.avg7d)}</span></div>`).join('')}
+                        </div>
+                        <div>
+                            <div style="font-size:11px;font-weight:600;color:#475569;margin-bottom:6px;">💡 ${currentLang==='en'?'Insight for Steam Developers':'Steam 开发者启示'}</div>
+                            <div style="background:#FFFFFF;padding:8px 10px;border-radius:4px;font-size:11px;line-height:1.6;color:#334155;border:0.5px solid #E2E8F0;">${insight.steamTip}</div>
+                        </div>
+                    </div>
                 </div>
                 <div style="background:#FFFFFF;border-radius:8px;border:0.5px solid #E2E8F0;overflow:hidden;">
                     <div style="display:grid;grid-template-columns:40px 40px 1fr 110px 110px 110px 100px;gap:8px;padding:8px 12px;background:#F8FAFC;font-size:10px;color:#64748B;font-weight:500;border-bottom:0.5px solid #E2E8F0;">
