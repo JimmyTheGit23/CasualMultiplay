@@ -42,7 +42,7 @@ CATEGORIES = [
     {'key': 'Cooking', 'zh': '烹饪', 'en': 'Cooking', 'keywords': ['pizza', 'cook', 'food', 'restaurant', 'cafe', 'burger', 'kitchen', 'chef', 'cooking', 'bakery', 'boba', 'baking']},
     {'key': 'Merge', 'zh': '合成', 'en': 'Merge', 'keywords': ['merge']},
     {'key': 'Puzzle', 'zh': '解谜', 'en': 'Puzzle', 'keywords': ['puzzle', 'solve', 'logic', 'sudoku', ' word ']},
-    {'key': 'Aviation', 'zh': '飞行', 'en': 'Aviation', 'keywords': ['flight', 'plane', 'airplane', 'pilot', 'aviation', 'fly ']},
+    {'key': 'Aviation', 'zh': '飞行', 'en': 'Flight', 'keywords': ['flight', 'plane', 'airplane', 'pilot', 'aviation', 'fly ']},
     {'key': 'Horror', 'zh': '恐怖', 'en': 'Horror', 'keywords': ['horror', 'scary', 'creepy', 'demon', 'ghost', 'zombie', 'monster', 'night']},
     {'key': 'Story', 'zh': '剧情', 'en': 'Story', 'keywords': [' story', 'quest', 'adventure', 'narrative']},
     {'key': 'Other', 'zh': '其他', 'en': 'Other', 'keywords': []},  # 兜底, classify_game 里特殊处理
