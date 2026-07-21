@@ -37,16 +37,16 @@
       "count": 57,
       "steam_official": false
     },
-    "Survival": {
-      "zh": "生存",
-      "en": "Survival",
-      "count": 54,
-      "steam_official": false
-    },
     "Racing": {
       "zh": "竞速",
       "en": "Racing",
       "count": 53,
+      "steam_official": false
+    },
+    "Survival": {
+      "zh": "生存",
+      "en": "Survival",
+      "count": 48,
       "steam_official": false
     },
     "Tower": {
@@ -136,6 +136,12 @@
     "Pets": {
       "zh": "宠物",
       "en": "Pets",
+      "count": 6,
+      "steam_official": false
+    },
+    "Aviation": {
+      "zh": "飞行",
+      "en": "Aviation",
       "count": 6,
       "steam_official": false
     },
@@ -8274,7 +8280,7 @@
       "create_year": 2026,
       "categories": [
         "Brainrot",
-        "Survival"
+        "Aviation"
       ],
       "daily_players": {
         "2026-03-10": 13859,
@@ -13180,7 +13186,7 @@
       "create_year": 2026,
       "categories": [
         "Brainrot",
-        "Survival"
+        "Aviation"
       ],
       "daily_players": {
         "2026-06-25": 10275,
@@ -21599,7 +21605,7 @@
       "create_year": null,
       "categories": [
         "Simulator",
-        "Survival"
+        "Aviation"
       ],
       "daily_players": {
         "2026-03-05": 4499,
@@ -24850,7 +24856,7 @@
       "create_year": 2025,
       "categories": [
         "Simulator",
-        "Survival"
+        "Aviation"
       ],
       "daily_players": {
         "2026-03-03": 7651,
@@ -34917,7 +34923,7 @@
       "create_time": "2026-05-02",
       "create_year": 2026,
       "categories": [
-        "Survival"
+        "Aviation"
       ],
       "daily_players": {
         "2026-06-04": 7140,
@@ -40954,7 +40960,7 @@
       "create_year": null,
       "categories": [
         "Brainrot",
-        "Survival"
+        "Aviation"
       ],
       "daily_players": {
         "2026-04-12": 7366
