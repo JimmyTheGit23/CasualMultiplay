@@ -16,85 +16,97 @@
     "Other": {
       "zh": "其他",
       "en": "Other",
-      "count": 306,
+      "count": 316,
       "steam_official": false
     },
     "Simulator": {
       "zh": "模拟",
       "en": "Simulator",
-      "count": 91,
+      "count": 108,
       "steam_official": false
     },
     "Brainrot": {
       "zh": "脑腐",
       "en": "Brainrot",
-      "count": 89,
+      "count": 90,
       "steam_official": false
     },
     "Escape": {
       "zh": "逃脱",
       "en": "Escape",
-      "count": 56,
-      "steam_official": false
-    },
-    "Tower": {
-      "zh": "塔防",
-      "en": "Tower Defense",
-      "count": 50,
+      "count": 57,
       "steam_official": false
     },
     "Survival": {
       "zh": "生存",
       "en": "Survival",
-      "count": 43,
-      "steam_official": false
-    },
-    "Fight": {
-      "zh": "格斗",
-      "en": "Fighting",
-      "count": 41,
-      "steam_official": false
-    },
-    "RP": {
-      "zh": "角色扮演",
-      "en": "Roleplay",
-      "count": 28,
-      "steam_official": false
-    },
-    "Anime": {
-      "zh": "动漫",
-      "en": "Anime",
-      "count": 26,
+      "count": 54,
       "steam_official": false
     },
     "Racing": {
       "zh": "竞速",
       "en": "Racing",
-      "count": 18,
+      "count": 53,
       "steam_official": false
     },
-    "Tycoon": {
-      "zh": "大亨",
-      "en": "Tycoon",
-      "count": 17,
+    "Tower": {
+      "zh": "塔防",
+      "en": "Tower Defense",
+      "count": 48,
+      "steam_official": false
+    },
+    "Fight": {
+      "zh": "格斗",
+      "en": "Fighting",
+      "count": 44,
       "steam_official": false
     },
     "Adopt": {
       "zh": "养成",
       "en": "Adopt",
-      "count": 14,
+      "count": 43,
+      "steam_official": false
+    },
+    "RP": {
+      "zh": "角色扮演",
+      "en": "Roleplay",
+      "count": 33,
+      "steam_official": false
+    },
+    "Horror": {
+      "zh": "恐怖",
+      "en": "Horror",
+      "count": 30,
+      "steam_official": false
+    },
+    "Anime": {
+      "zh": "动漫",
+      "en": "Anime",
+      "count": 27,
       "steam_official": false
     },
     "Obby": {
       "zh": "跑酷",
       "en": "Obby",
-      "count": 13,
+      "count": 22,
       "steam_official": false
     },
-    "War": {
-      "zh": "战争",
-      "en": "War",
-      "count": 12,
+    "Tycoon": {
+      "zh": "大亨",
+      "en": "Tycoon",
+      "count": 20,
+      "steam_official": false
+    },
+    "Sports": {
+      "zh": "体育",
+      "en": "Sports",
+      "count": 15,
+      "steam_official": false
+    },
+    "Cooking": {
+      "zh": "烹饪",
+      "en": "Cooking",
+      "count": 9,
       "steam_official": false
     },
     "Murder": {
@@ -103,9 +115,15 @@
       "count": 8,
       "steam_official": false
     },
-    "Sports": {
-      "zh": "体育",
-      "en": "Sports",
+    "Story": {
+      "zh": "剧情",
+      "en": "Story",
+      "count": 8,
+      "steam_official": false
+    },
+    "War": {
+      "zh": "战争",
+      "en": "War",
       "count": 7,
       "steam_official": false
     },
@@ -121,34 +139,16 @@
       "count": 6,
       "steam_official": false
     },
-    "Story": {
-      "zh": "剧情",
-      "en": "Story",
-      "count": 6,
-      "steam_official": false
-    },
-    "Cooking": {
-      "zh": "烹饪",
-      "en": "Cooking",
-      "count": 6,
-      "steam_official": false
-    },
-    "Horror": {
-      "zh": "恐怖",
-      "en": "Horror",
-      "count": 4,
+    "Merge": {
+      "zh": "合成",
+      "en": "Merge",
+      "count": 3,
       "steam_official": false
     },
     "Parkour": {
       "zh": "跑酷",
       "en": "Parkour",
       "count": 3,
-      "steam_official": false
-    },
-    "Merge": {
-      "zh": "合成",
-      "en": "Merge",
-      "count": 1,
       "steam_official": false
     }
   },
@@ -161,7 +161,8 @@
       "create_time": "2026-01-18",
       "create_year": 2026,
       "categories": [
-        "Escape"
+        "Escape",
+        "Racing"
       ],
       "daily_players": {
         "2026-03-12": 15551,
@@ -442,7 +443,8 @@
       "create_time": "2025-03-04",
       "create_year": 2025,
       "categories": [
-        "Survival"
+        "Survival",
+        "Horror"
       ],
       "daily_players": {
         "2026-02-27": 429698,
@@ -1924,7 +1926,7 @@
       "create_time": "2022-04-17",
       "create_year": 2022,
       "categories": [
-        "War"
+        "Other"
       ],
       "daily_players": {
         "2026-02-27": 350585,
@@ -2386,7 +2388,8 @@
       "create_time": "2025-10-11",
       "create_year": 2025,
       "categories": [
-        "Brainrot"
+        "Brainrot",
+        "Simulator"
       ],
       "daily_players": {
         "2026-03-07": 68451,
@@ -3106,7 +3109,8 @@
       "create_time": "2025-07-19",
       "create_year": 2025,
       "categories": [
-        "Survival"
+        "Survival",
+        "Horror"
       ],
       "daily_players": {
         "2026-03-29": 296183,
@@ -3370,8 +3374,9 @@
       "create_time": "2025-12-13",
       "create_year": 2025,
       "categories": [
+        "Fight",
         "Survival",
-        "Fight"
+        "Horror"
       ],
       "daily_players": {
         "2026-04-23": 8824,
@@ -3470,7 +3475,8 @@
       "create_time": "2024-12-17",
       "create_year": 2024,
       "categories": [
-        "Simulator"
+        "Simulator",
+        "Sports"
       ],
       "daily_players": {
         "2026-02-27": 64689,
@@ -4714,6 +4720,7 @@
       "create_time": "2025-02-09",
       "create_year": 2025,
       "categories": [
+        "Fight",
         "Murder"
       ],
       "daily_players": {
@@ -4865,7 +4872,7 @@
       "create_time": "2023-05-07",
       "create_year": 2023,
       "categories": [
-        "Fight"
+        "Other"
       ],
       "daily_players": {
         "2026-03-03": 13960,
@@ -5015,7 +5022,8 @@
       "create_time": "2026-01-16",
       "create_year": 2026,
       "categories": [
-        "Brainrot"
+        "Brainrot",
+        "Obby"
       ],
       "daily_players": {
         "2026-02-27": 80996,
@@ -5656,7 +5664,8 @@
       "create_time": "2026-02-06",
       "create_year": 2026,
       "categories": [
-        "Brainrot"
+        "Brainrot",
+        "Obby"
       ],
       "daily_players": {
         "2026-03-03": 10474,
@@ -5684,7 +5693,8 @@
       "create_year": 2026,
       "categories": [
         "Brainrot",
-        "Escape"
+        "Escape",
+        "Racing"
       ],
       "daily_players": {
         "2026-02-27": 36003,
@@ -5828,7 +5838,7 @@
       "create_time": "2026-03-05",
       "create_year": 2026,
       "categories": [
-        "War"
+        "Other"
       ],
       "daily_players": {
         "2026-05-01": 12576,
@@ -5951,7 +5961,8 @@
       "create_time": "2025-08-05",
       "create_year": 2025,
       "categories": [
-        "Anime"
+        "Anime",
+        "Adopt"
       ],
       "daily_players": {
         "2026-06-08": 8672,
@@ -6625,7 +6636,8 @@
       "create_time": "2025-06-10",
       "create_year": 2025,
       "categories": [
-        "Anime"
+        "Anime",
+        "Adopt"
       ],
       "daily_players": {
         "2026-03-03": 6453,
@@ -6779,7 +6791,8 @@
       "create_year": 2024,
       "categories": [
         "Anime",
-        "War"
+        "Adopt",
+        "Racing"
       ],
       "daily_players": {
         "2026-05-08": 9217,
@@ -7101,7 +7114,8 @@
       "create_time": "2023-07-05",
       "create_year": 2023,
       "categories": [
-        "RP"
+        "RP",
+        "Simulator"
       ],
       "daily_players": {
         "2026-02-27": 49719,
@@ -7990,7 +8004,8 @@
       "create_time": "2024-01-28",
       "create_year": 2024,
       "categories": [
-        "Anime"
+        "Anime",
+        "Adopt"
       ],
       "daily_players": {
         "2026-02-27": 90954,
@@ -8258,7 +8273,8 @@
       "create_time": "2026-02-12",
       "create_year": 2026,
       "categories": [
-        "Brainrot"
+        "Brainrot",
+        "Survival"
       ],
       "daily_players": {
         "2026-03-10": 13859,
@@ -9291,7 +9307,8 @@
       "create_year": 2019,
       "categories": [
         "Anime",
-        "RP"
+        "RP",
+        "Adopt"
       ],
       "daily_players": {
         "2026-03-09": 7214
@@ -9505,7 +9522,8 @@
       "create_time": "2026-05-08",
       "create_year": 2026,
       "categories": [
-        "Escape"
+        "Escape",
+        "Racing"
       ],
       "daily_players": {
         "2026-06-15": 8843,
@@ -10342,7 +10360,8 @@
       "create_time": "2026-06-03",
       "create_year": 2026,
       "categories": [
-        "Simulator"
+        "Simulator",
+        "Sports"
       ],
       "daily_players": {
         "2026-06-16": 8217,
@@ -10387,7 +10406,8 @@
       "create_time": "2026-03-29",
       "create_year": 2026,
       "categories": [
-        "Simulator"
+        "Simulator",
+        "Racing"
       ],
       "daily_players": {
         "2026-05-13": 7330,
@@ -10939,8 +10959,7 @@
       "create_time": "2018-03-21",
       "create_year": 2018,
       "categories": [
-        "Simulator",
-        "War"
+        "Simulator"
       ],
       "daily_players": {
         "2026-02-27": 119927,
@@ -11346,7 +11365,8 @@
       "create_time": "2014-11-04",
       "create_year": 2014,
       "categories": [
-        "RP"
+        "RP",
+        "Adopt"
       ],
       "daily_players": {
         "2026-03-01": 34503,
@@ -11875,7 +11895,8 @@
       "create_year": 2026,
       "categories": [
         "Anime",
-        "Simulator"
+        "Simulator",
+        "Adopt"
       ],
       "daily_players": {
         "2026-06-01": 6153,
@@ -12018,7 +12039,7 @@
       "create_time": "2019-08-16",
       "create_year": 2019,
       "categories": [
-        "War"
+        "Other"
       ],
       "daily_players": {
         "2026-03-15": 8560,
@@ -12047,7 +12068,8 @@
       "create_year": 2025,
       "categories": [
         "Anime",
-        "Simulator"
+        "Simulator",
+        "Adopt"
       ],
       "daily_players": {
         "2026-03-01": 21768,
@@ -12475,7 +12497,8 @@
       "create_year": 2026,
       "categories": [
         "Brainrot",
-        "Obby"
+        "Obby",
+        "Racing"
       ],
       "daily_players": {
         "2026-04-12": 22219,
@@ -12519,7 +12542,8 @@
       "create_time": "2025-01-03",
       "create_year": 2025,
       "categories": [
-        "Simulator"
+        "Simulator",
+        "Sports"
       ],
       "daily_players": {
         "2026-02-27": 61424,
@@ -13155,7 +13179,8 @@
       "create_time": "2026-05-30",
       "create_year": 2026,
       "categories": [
-        "Brainrot"
+        "Brainrot",
+        "Survival"
       ],
       "daily_players": {
         "2026-06-25": 10275,
@@ -13189,7 +13214,8 @@
       "create_time": "2026-03-30",
       "create_year": 2026,
       "categories": [
-        "Brainrot"
+        "Brainrot",
+        "Adopt"
       ],
       "daily_players": {
         "2026-06-09": 7688,
@@ -13365,7 +13391,8 @@
       "create_time": "2026-05-09",
       "create_year": 2026,
       "categories": [
-        "Escape"
+        "Escape",
+        "Racing"
       ],
       "daily_players": {
         "2026-06-11": 6269,
@@ -13408,7 +13435,9 @@
       "create_time": "2025-08-25",
       "create_year": 2025,
       "categories": [
-        "War"
+        "Survival",
+        "Racing",
+        "Horror"
       ],
       "daily_players": {
         "2026-02-27": 45930,
@@ -13946,7 +13975,8 @@
       "create_year": 2026,
       "categories": [
         "Brainrot",
-        "Escape"
+        "Escape",
+        "Obby"
       ],
       "daily_players": {
         "2026-03-04": 11200,
@@ -14207,7 +14237,8 @@
       "categories": [
         "Anime",
         "Simulator",
-        "Fight"
+        "Fight",
+        "Adopt"
       ],
       "daily_players": {
         "2026-06-14": 7947,
@@ -14504,7 +14535,9 @@
       "create_time": "2026-05-05",
       "create_year": 2026,
       "categories": [
-        "Escape"
+        "Escape",
+        "Adopt",
+        "Racing"
       ],
       "daily_players": {
         "2026-06-26": 9601,
@@ -14693,7 +14726,8 @@
       "create_time": "2026-04-01",
       "create_year": 2026,
       "categories": [
-        "Tycoon"
+        "Tycoon",
+        "Cooking"
       ],
       "daily_players": {
         "2026-05-19": 7324,
@@ -15385,7 +15419,8 @@
       "create_time": "2023-07-31",
       "create_year": 2023,
       "categories": [
-        "Simulator"
+        "Simulator",
+        "Sports"
       ],
       "daily_players": {
         "2026-03-08": 8713,
@@ -15581,6 +15616,7 @@
       "create_time": "2025-10-06",
       "create_year": 2025,
       "categories": [
+        "Simulator",
         "Pets"
       ],
       "daily_players": {
@@ -15851,7 +15887,9 @@
       "create_time": "2025-01-16",
       "create_year": 2025,
       "categories": [
-        "Tycoon"
+        "Simulator",
+        "Tycoon",
+        "Cooking"
       ],
       "daily_players": {
         "2026-03-03": 11182,
@@ -16228,7 +16266,8 @@
       "create_time": "2023-04-03",
       "create_year": 2023,
       "categories": [
-        "RP"
+        "RP",
+        "Simulator"
       ],
       "daily_players": {
         "2026-02-28": 27603,
@@ -17834,7 +17873,8 @@
       "create_time": "2025-11-11",
       "create_year": 2025,
       "categories": [
-        "Brainrot"
+        "Brainrot",
+        "Simulator"
       ],
       "daily_players": {
         "2026-03-11": 7988
@@ -17978,7 +18018,8 @@
       "create_time": "2026-02-01",
       "create_year": 2026,
       "categories": [
-        "Escape"
+        "Escape",
+        "Racing"
       ],
       "daily_players": {
         "2026-03-03": 20340,
@@ -18058,6 +18099,7 @@
       "create_time": "2025-07-28",
       "create_year": 2025,
       "categories": [
+        "RP",
         "Tycoon"
       ],
       "daily_players": {
@@ -18250,7 +18292,9 @@
       "create_time": "2025-10-31",
       "create_year": 2025,
       "categories": [
-        "Anime"
+        "Anime",
+        "Survival",
+        "Adopt"
       ],
       "daily_players": {
         "2026-04-28": 5200,
@@ -18381,7 +18425,8 @@
       "create_time": "2023-03-24",
       "create_year": 2023,
       "categories": [
-        "Anime"
+        "Anime",
+        "Adopt"
       ],
       "daily_players": {
         "2026-03-04": 3902,
@@ -18526,7 +18571,8 @@
       "create_time": "2026-03-08",
       "create_year": 2026,
       "categories": [
-        "RP"
+        "RP",
+        "Survival"
       ],
       "daily_players": {
         "2026-06-16": 14029,
@@ -18569,7 +18615,8 @@
       "create_time": "2025-04-02",
       "create_year": 2025,
       "categories": [
-        "Tower"
+        "Tower",
+        "Obby"
       ],
       "daily_players": {
         "2026-03-03": 9761,
@@ -19448,7 +19495,8 @@
       "create_time": "2026-04-26",
       "create_year": 2026,
       "categories": [
-        "Escape"
+        "Escape",
+        "Racing"
       ],
       "daily_players": {
         "2026-05-29": 7782,
@@ -19488,7 +19536,8 @@
       "create_time": "2025-05-06",
       "create_year": 2025,
       "categories": [
-        "Anime"
+        "Anime",
+        "Adopt"
       ],
       "daily_players": {
         "2026-03-03": 9864,
@@ -20695,8 +20744,8 @@
       "create_time": "2024-08-04",
       "create_year": 2024,
       "categories": [
-        "Survival",
-        "Escape"
+        "Escape",
+        "Survival"
       ],
       "daily_players": {
         "2026-03-03": 9405,
@@ -20885,7 +20934,10 @@
       "create_time": "2026-05-09",
       "create_year": 2026,
       "categories": [
-        "Anime"
+        "Anime",
+        "Simulator",
+        "Adopt",
+        "Racing"
       ],
       "daily_players": {
         "2026-06-26": 9737,
@@ -20993,7 +21045,8 @@
       "create_year": 2025,
       "categories": [
         "Brainrot",
-        "Escape"
+        "Escape",
+        "Simulator"
       ],
       "daily_players": {},
       "latest_players": 0,
@@ -21262,7 +21315,8 @@
       "create_time": "2026-01-14",
       "create_year": 2026,
       "categories": [
-        "Survival"
+        "Survival",
+        "Horror"
       ],
       "daily_players": {
         "2026-03-19": 10159,
@@ -21321,6 +21375,7 @@
       "create_time": "2026-01-10",
       "create_year": 2026,
       "categories": [
+        "War",
         "Fight"
       ],
       "daily_players": {
@@ -21543,7 +21598,8 @@
       "create_time": "",
       "create_year": null,
       "categories": [
-        "Simulator"
+        "Simulator",
+        "Survival"
       ],
       "daily_players": {
         "2026-03-05": 4499,
@@ -21628,6 +21684,7 @@
       "create_time": "2023-02-02",
       "create_year": 2023,
       "categories": [
+        "Fight",
         "Murder"
       ],
       "daily_players": {
@@ -21762,7 +21819,8 @@
       "create_time": "2024-04-25",
       "create_year": 2024,
       "categories": [
-        "Anime"
+        "Anime",
+        "Adopt"
       ],
       "daily_players": {
         "2026-03-10": 11509,
@@ -21926,7 +21984,8 @@
       "create_time": "2026-01-03",
       "create_year": 2026,
       "categories": [
-        "Survival"
+        "Survival",
+        "Horror"
       ],
       "daily_players": {
         "2026-05-28": 7595,
@@ -21954,7 +22013,9 @@
       "create_year": 2025,
       "categories": [
         "Anime",
-        "War"
+        "War",
+        "Adopt",
+        "Story"
       ],
       "daily_players": {
         "2026-05-13": 5710,
@@ -22014,6 +22075,7 @@
       "create_time": "2020-07-05",
       "create_year": 2020,
       "categories": [
+        "Anime",
         "RP"
       ],
       "daily_players": {
@@ -22185,7 +22247,8 @@
       "create_time": "2026-03-17",
       "create_year": 2026,
       "categories": [
-        "Simulator"
+        "Simulator",
+        "Racing"
       ],
       "daily_players": {
         "2026-04-07": 22224,
@@ -22865,7 +22928,7 @@
       "create_time": "2025-07-24",
       "create_year": 2025,
       "categories": [
-        "Simulator"
+        "Other"
       ],
       "daily_players": {
         "2026-03-04": 24502,
@@ -22895,7 +22958,7 @@
       "create_time": "2025-05-02",
       "create_year": 2025,
       "categories": [
-        "Simulator"
+        "Other"
       ],
       "daily_players": {},
       "latest_players": 0,
@@ -22958,7 +23021,8 @@
       "create_time": "2025-11-26",
       "create_year": 2025,
       "categories": [
-        "Tower"
+        "Tower",
+        "Simulator"
       ],
       "daily_players": {
         "2026-05-11": 8564,
@@ -23225,7 +23289,8 @@
       "create_year": 2025,
       "categories": [
         "Anime",
-        "RP"
+        "RP",
+        "Adopt"
       ],
       "daily_players": {
         "2026-04-19": 13650,
@@ -23545,7 +23610,8 @@
       "create_time": "2026-06-18",
       "create_year": 2026,
       "categories": [
-        "Escape"
+        "Escape",
+        "Racing"
       ],
       "daily_players": {
         "2026-07-03": 11194,
@@ -23619,7 +23685,7 @@
       "create_time": "2024-10-30",
       "create_year": 2024,
       "categories": [
-        "War"
+        "Fight"
       ],
       "daily_players": {
         "2026-03-04": 4984,
@@ -23718,7 +23784,8 @@
       "create_time": "2026-01-27",
       "create_year": 2026,
       "categories": [
-        "Escape"
+        "Escape",
+        "Racing"
       ],
       "daily_players": {
         "2026-03-04": 8347,
@@ -24020,7 +24087,8 @@
       "create_time": "2025-08-24",
       "create_year": 2025,
       "categories": [
-        "Survival"
+        "Survival",
+        "Horror"
       ],
       "daily_players": {},
       "latest_players": 0,
@@ -24256,7 +24324,8 @@
       "create_time": "2026-05-21",
       "create_year": 2026,
       "categories": [
-        "Escape"
+        "Escape",
+        "Racing"
       ],
       "daily_players": {
         "2026-06-09": 7102,
@@ -24398,7 +24467,8 @@
       "create_time": "2026-03-13",
       "create_year": 2026,
       "categories": [
-        "Brainrot"
+        "Brainrot",
+        "Obby"
       ],
       "daily_players": {},
       "latest_players": 0,
@@ -24674,7 +24744,11 @@
       "create_year": 2021,
       "categories": [
         "Escape",
-        "Obby"
+        "Obby",
+        "Survival",
+        "Racing",
+        "Cooking",
+        "Horror"
       ],
       "daily_players": {},
       "latest_players": 0,
@@ -24775,8 +24849,8 @@
       "create_time": "2025-06-01",
       "create_year": 2025,
       "categories": [
-        "Survival",
-        "Simulator"
+        "Simulator",
+        "Survival"
       ],
       "daily_players": {
         "2026-03-03": 7651,
@@ -24852,7 +24926,8 @@
       "create_time": "",
       "create_year": null,
       "categories": [
-        "Escape"
+        "Escape",
+        "Simulator"
       ],
       "daily_players": {
         "2026-05-14": 7747,
@@ -24885,7 +24960,8 @@
       "create_time": "2026-04-17",
       "create_year": 2026,
       "categories": [
-        "Brainrot"
+        "Brainrot",
+        "Simulator"
       ],
       "daily_players": {
         "2026-05-07": 8122,
@@ -25120,6 +25196,8 @@
       "create_time": "2024-06-01",
       "create_year": 2024,
       "categories": [
+        "RP",
+        "Tycoon",
         "Fight"
       ],
       "daily_players": {
@@ -25336,7 +25414,8 @@
       "create_time": "2025-05-07",
       "create_year": 2025,
       "categories": [
-        "Anime"
+        "Anime",
+        "Adopt"
       ],
       "daily_players": {
         "2026-04-19": 10011,
@@ -25363,7 +25442,8 @@
       "create_time": "2025-06-07",
       "create_year": 2025,
       "categories": [
-        "Anime"
+        "Anime",
+        "Adopt"
       ],
       "daily_players": {},
       "latest_players": 0,
@@ -25664,6 +25744,7 @@
       "create_time": "2026-01-14",
       "create_year": 2026,
       "categories": [
+        "Fight",
         "Murder"
       ],
       "daily_players": {
@@ -25714,7 +25795,8 @@
       "create_time": "2018-11-01",
       "create_year": 2018,
       "categories": [
-        "Survival"
+        "Survival",
+        "Merge"
       ],
       "daily_players": {
         "2026-03-06": 11134,
@@ -26234,7 +26316,9 @@
       "create_time": "2018-03-27",
       "create_year": 2018,
       "categories": [
-        "Tycoon"
+        "Simulator",
+        "Tycoon",
+        "Racing"
       ],
       "daily_players": {
         "2026-03-09": 5906,
@@ -26342,6 +26426,7 @@
       "create_time": "2024-07-27",
       "create_year": 2024,
       "categories": [
+        "Simulator",
         "Tycoon"
       ],
       "daily_players": {
@@ -26509,7 +26594,7 @@
       "create_time": "2017-02-11",
       "create_year": 2017,
       "categories": [
-        "Simulator"
+        "Racing"
       ],
       "daily_players": {
         "2026-06-09": 9623,
@@ -26606,7 +26691,8 @@
       "create_time": "2021-01-15",
       "create_year": 2021,
       "categories": [
-        "Survival"
+        "Survival",
+        "Horror"
       ],
       "daily_players": {
         "2026-06-22": 32121,
@@ -26665,7 +26751,9 @@
       "create_time": "2026-05-17",
       "create_year": 2026,
       "categories": [
-        "Tower"
+        "Tower",
+        "Survival",
+        "Horror"
       ],
       "daily_players": {
         "2026-06-01": 12867,
@@ -27254,7 +27342,9 @@
       "create_time": "2024-10-16",
       "create_year": 2024,
       "categories": [
-        "Anime"
+        "Anime",
+        "Adopt",
+        "Racing"
       ],
       "daily_players": {
         "2026-03-03": 8216,
@@ -27839,7 +27929,8 @@
       "create_time": "2026-05-16",
       "create_year": 2026,
       "categories": [
-        "Tower"
+        "Tower",
+        "Racing"
       ],
       "daily_players": {
         "2026-06-09": 6300,
@@ -28199,7 +28290,9 @@
       "create_time": "2025-05-29",
       "create_year": 2025,
       "categories": [
-        "Anime"
+        "Anime",
+        "Adopt",
+        "Story"
       ],
       "daily_players": {
         "2026-03-06": 13818,
@@ -28331,7 +28424,8 @@
       "create_time": "2025-05-22",
       "create_year": 2025,
       "categories": [
-        "Survival"
+        "Survival",
+        "Horror"
       ],
       "daily_players": {
         "2026-03-03": 4824,
@@ -28417,7 +28511,8 @@
       "create_time": "2024-09-13",
       "create_year": 2024,
       "categories": [
-        "Simulator"
+        "Simulator",
+        "Sports"
       ],
       "daily_players": {
         "2026-03-06": 13847,
@@ -28572,7 +28667,8 @@
       "create_time": "2026-05-08",
       "create_year": 2026,
       "categories": [
-        "Survival"
+        "Survival",
+        "Horror"
       ],
       "daily_players": {
         "2026-06-12": 10222,
@@ -29011,7 +29107,7 @@
       "create_time": "2023-12-05",
       "create_year": 2023,
       "categories": [
-        "War"
+        "Other"
       ],
       "daily_players": {
         "2026-04-03": 17677,
@@ -30046,7 +30142,8 @@
       "create_time": "2024-02-18",
       "create_year": 2024,
       "categories": [
-        "Survival"
+        "Survival",
+        "Horror"
       ],
       "daily_players": {
         "2026-05-10": 14179,
@@ -30103,7 +30200,8 @@
       "create_time": "2025-10-25",
       "create_year": 2025,
       "categories": [
-        "Simulator"
+        "Simulator",
+        "Sports"
       ],
       "daily_players": {
         "2026-06-05": 11028
@@ -30154,7 +30252,9 @@
       "create_time": "2025-01-09",
       "create_year": 2025,
       "categories": [
-        "Survival"
+        "Tycoon",
+        "Survival",
+        "Horror"
       ],
       "daily_players": {
         "2026-03-09": 8883,
@@ -30448,7 +30548,9 @@
       "create_time": "2025-03-28",
       "create_year": 2025,
       "categories": [
-        "Anime"
+        "Anime",
+        "Simulator",
+        "Adopt"
       ],
       "daily_players": {
         "2026-03-11": 13367,
@@ -30475,7 +30577,8 @@
       "create_time": "2025-06-24",
       "create_year": 2025,
       "categories": [
-        "Tower"
+        "Tower",
+        "Simulator"
       ],
       "daily_players": {
         "2026-03-04": 4558,
@@ -30650,7 +30753,8 @@
       "create_time": "2022-03-09",
       "create_year": 2022,
       "categories": [
-        "Simulator"
+        "Simulator",
+        "Racing"
       ],
       "daily_players": {
         "2026-03-14": 14723,
@@ -30866,7 +30970,8 @@
       "create_year": 2026,
       "categories": [
         "Brainrot",
-        "Escape"
+        "Escape",
+        "Obby"
       ],
       "daily_players": {
         "2026-03-04": 6042
@@ -31024,8 +31129,10 @@
       "create_time": "2023-06-21",
       "create_year": 2023,
       "categories": [
+        "Escape",
         "Survival",
-        "Escape"
+        "Racing",
+        "Horror"
       ],
       "daily_players": {
         "2026-03-03": 6401,
@@ -31432,7 +31539,9 @@
       "create_time": "2025-12-15",
       "create_year": 2025,
       "categories": [
-        "Anime"
+        "Anime",
+        "Adopt",
+        "Racing"
       ],
       "daily_players": {
         "2026-03-03": 13153,
@@ -31582,8 +31691,8 @@
       "create_time": "2026-05-10",
       "create_year": 2026,
       "categories": [
-        "Simulator",
-        "Escape"
+        "Escape",
+        "Simulator"
       ],
       "daily_players": {
         "2026-06-09": 6539,
@@ -31629,7 +31738,8 @@
       "create_time": "2026-02-16",
       "create_year": 2026,
       "categories": [
-        "Escape"
+        "Escape",
+        "Racing"
       ],
       "daily_players": {
         "2026-06-09": 8527,
@@ -31683,7 +31793,7 @@
       "create_time": "2026-02-14",
       "create_year": 2026,
       "categories": [
-        "Tower"
+        "Other"
       ],
       "daily_players": {
         "2026-05-21": 10048,
@@ -31933,6 +32043,7 @@
       "create_time": "2025-02-19",
       "create_year": 2025,
       "categories": [
+        "War",
         "Fight"
       ],
       "daily_players": {
@@ -32068,7 +32179,8 @@
       "categories": [
         "Anime",
         "Simulator",
-        "Fight"
+        "Fight",
+        "Adopt"
       ],
       "daily_players": {
         "2026-02-27": 28435,
@@ -32248,7 +32360,9 @@
       "create_time": "",
       "create_year": null,
       "categories": [
-        "Survival"
+        "Survival",
+        "Racing",
+        "Horror"
       ],
       "daily_players": {
         "2026-05-08": 6870,
@@ -32353,8 +32467,10 @@
       "create_time": "2026-01-20",
       "create_year": 2026,
       "categories": [
+        "Simulator",
         "Survival",
-        "Simulator"
+        "Racing",
+        "Horror"
       ],
       "daily_players": {},
       "latest_players": 0,
@@ -32401,7 +32517,8 @@
       "create_time": "2012-01-02",
       "create_year": 2012,
       "categories": [
-        "Tycoon"
+        "Tycoon",
+        "Adopt"
       ],
       "daily_players": {
         "2026-04-14": 6640,
@@ -32790,6 +32907,7 @@
       "create_time": "2023-10-19",
       "create_year": 2023,
       "categories": [
+        "Brainrot",
         "Tower"
       ],
       "daily_players": {
@@ -33368,7 +33486,8 @@
       "create_time": "2025-06-10",
       "create_year": 2025,
       "categories": [
-        "Simulator"
+        "Simulator",
+        "Sports"
       ],
       "daily_players": {
         "2026-04-19": 9116
@@ -33693,7 +33812,8 @@
       "create_time": "2026-04-22",
       "create_year": 2026,
       "categories": [
-        "Brainrot"
+        "Brainrot",
+        "War"
       ],
       "daily_players": {
         "2026-06-07": 6796,
@@ -33721,8 +33841,9 @@
       "create_time": "2025-06-17",
       "create_year": 2025,
       "categories": [
+        "Tower",
         "Survival",
-        "Tower"
+        "Horror"
       ],
       "daily_players": {
         "2026-03-22": 10697,
@@ -34657,7 +34778,7 @@
       "create_time": "2024-06-09",
       "create_year": 2024,
       "categories": [
-        "Tower"
+        "Other"
       ],
       "daily_players": {
         "2026-04-17": 8494
@@ -34706,7 +34827,9 @@
       "create_time": "2024-10-26",
       "create_year": 2024,
       "categories": [
-        "Anime"
+        "Anime",
+        "Adopt",
+        "Horror"
       ],
       "daily_players": {
         "2026-03-03": 11755,
@@ -34921,7 +35044,8 @@
       "create_time": "2018-09-27",
       "create_year": 2018,
       "categories": [
-        "RP"
+        "RP",
+        "Racing"
       ],
       "daily_players": {
         "2026-03-08": 8593,
@@ -35304,7 +35428,8 @@
       "create_time": "2026-03-23",
       "create_year": 2026,
       "categories": [
-        "Escape"
+        "Escape",
+        "Racing"
       ],
       "daily_players": {
         "2026-04-28": 6837,
@@ -35512,7 +35637,8 @@
       "create_time": "2026-01-06",
       "create_year": 2026,
       "categories": [
-        "Escape"
+        "Escape",
+        "Simulator"
       ],
       "daily_players": {
         "2026-02-27": 29593,
@@ -35604,6 +35730,7 @@
       "create_time": "2024-08-05",
       "create_year": 2024,
       "categories": [
+        "Simulator",
         "Fight"
       ],
       "daily_players": {
@@ -35715,7 +35842,8 @@
       "create_year": 2026,
       "categories": [
         "Brainrot",
-        "Escape"
+        "Escape",
+        "Racing"
       ],
       "daily_players": {
         "2026-06-11": 7915
@@ -35908,6 +36036,7 @@
       "create_time": "2022-03-29",
       "create_year": 2022,
       "categories": [
+        "Simulator",
         "Fight"
       ],
       "daily_players": {
@@ -35970,7 +36099,8 @@
       "create_time": "2026-03-14",
       "create_year": 2026,
       "categories": [
-        "Tower"
+        "Tower",
+        "Survival"
       ],
       "daily_players": {
         "2026-04-14": 2014,
@@ -36430,7 +36560,8 @@
       "create_time": "2026-02-18",
       "create_year": 2026,
       "categories": [
-        "Escape"
+        "Escape",
+        "Obby"
       ],
       "daily_players": {
         "2026-06-02": 6377,
@@ -36648,7 +36779,8 @@
       "create_time": "2022-10-27",
       "create_year": 2022,
       "categories": [
-        "Survival"
+        "Survival",
+        "Horror"
       ],
       "daily_players": {
         "2026-03-06": 10032,
@@ -36762,7 +36894,9 @@
       "create_time": "2026-03-18",
       "create_year": 2026,
       "categories": [
-        "Tower"
+        "Tower",
+        "Survival",
+        "Horror"
       ],
       "daily_players": {
         "2026-04-17": 7804,
@@ -36922,7 +37056,8 @@
       "create_time": "2022-02-08",
       "create_year": 2022,
       "categories": [
-        "Survival"
+        "Survival",
+        "Horror"
       ],
       "daily_players": {},
       "latest_players": 0,
@@ -37750,7 +37885,9 @@
       "create_time": "2024-05-24",
       "create_year": 2024,
       "categories": [
-        "Tycoon"
+        "RP",
+        "Tycoon",
+        "Racing"
       ],
       "daily_players": {
         "2026-05-06": 7988,
@@ -37780,7 +37917,8 @@
       "create_time": "2025-09-03",
       "create_year": 2025,
       "categories": [
-        "Survival"
+        "Survival",
+        "Horror"
       ],
       "daily_players": {},
       "latest_players": 0,
@@ -38063,8 +38201,8 @@
       "create_time": "2026-01-04",
       "create_year": 2026,
       "categories": [
-        "Survival",
-        "Simulator"
+        "Simulator",
+        "Survival"
       ],
       "daily_players": {
         "2026-03-04": 4721,
@@ -38302,7 +38440,9 @@
       "create_time": "2026-02-14",
       "create_year": 2026,
       "categories": [
-        "Anime"
+        "Anime",
+        "Simulator",
+        "Adopt"
       ],
       "daily_players": {},
       "latest_players": 0,
@@ -38350,7 +38490,8 @@
       "create_time": "2026-02-26",
       "create_year": 2026,
       "categories": [
-        "Obby"
+        "Obby",
+        "Racing"
       ],
       "daily_players": {
         "2026-04-30": 6682
@@ -38533,7 +38674,9 @@
       "create_time": "2023-08-03",
       "create_year": 2023,
       "categories": [
-        "Obby"
+        "RP",
+        "Obby",
+        "Tycoon"
       ],
       "daily_players": {
         "2026-04-29": 6388
@@ -38613,7 +38756,8 @@
       "create_time": "2026-03-18",
       "create_year": 2026,
       "categories": [
-        "Brainrot"
+        "Brainrot",
+        "Obby"
       ],
       "daily_players": {
         "2026-04-24": 6327
@@ -38710,7 +38854,8 @@
       "create_time": "2026-02-24",
       "create_year": 2026,
       "categories": [
-        "Simulator"
+        "Simulator",
+        "Sports"
       ],
       "daily_players": {
         "2026-05-15": 8647,
@@ -38961,6 +39106,7 @@
       "create_time": "2025-12-12",
       "create_year": 2025,
       "categories": [
+        "RP",
         "Tycoon"
       ],
       "daily_players": {
@@ -39123,7 +39269,8 @@
       "create_time": "2026-01-04",
       "create_year": 2026,
       "categories": [
-        "Tower"
+        "Tower",
+        "Obby"
       ],
       "daily_players": {
         "2026-04-12": 16100,
@@ -39202,7 +39349,8 @@
       "create_time": "2025-09-20",
       "create_year": 2025,
       "categories": [
-        "Survival"
+        "Survival",
+        "Horror"
       ],
       "daily_players": {
         "2026-06-09": 5977
@@ -39361,7 +39509,8 @@
       "create_time": "",
       "create_year": null,
       "categories": [
-        "Escape"
+        "Escape",
+        "Racing"
       ],
       "daily_players": {
         "2026-05-22": 10690,
@@ -39386,8 +39535,9 @@
       "create_time": "2025-07-29",
       "create_year": 2025,
       "categories": [
+        "Simulator",
         "Survival",
-        "Simulator"
+        "Horror"
       ],
       "daily_players": {
         "2026-04-19": 4839,
@@ -39572,7 +39722,9 @@
       "create_time": "2025-11-22",
       "create_year": 2025,
       "categories": [
-        "Survival"
+        "Survival",
+        "Racing",
+        "Horror"
       ],
       "daily_players": {
         "2026-06-15": 13225,
@@ -39985,7 +40137,8 @@
       "create_time": "2021-10-11",
       "create_year": 2021,
       "categories": [
-        "Survival"
+        "Survival",
+        "Merge"
       ],
       "daily_players": {
         "2026-03-03": 18991,
@@ -40032,7 +40185,8 @@
       "create_time": "2026-03-07",
       "create_year": 2026,
       "categories": [
-        "Obby"
+        "Obby",
+        "Adopt"
       ],
       "daily_players": {},
       "latest_players": 0,
@@ -40054,7 +40208,8 @@
       "create_time": "2021-03-12",
       "create_year": 2021,
       "categories": [
-        "RP"
+        "RP",
+        "Racing"
       ],
       "daily_players": {
         "2026-03-04": 5494,
@@ -40270,7 +40425,7 @@
       "create_time": "2023-02-06",
       "create_year": 2023,
       "categories": [
-        "Simulator"
+        "Other"
       ],
       "daily_players": {
         "2026-04-19": 10294,
@@ -40361,7 +40516,9 @@
       "create_time": "2026-03-26",
       "create_year": 2026,
       "categories": [
-        "Brainrot"
+        "Brainrot",
+        "Escape",
+        "Simulator"
       ],
       "daily_players": {
         "2026-05-13": 4285
@@ -40435,7 +40592,8 @@
       "create_time": "2025-07-27",
       "create_year": 2025,
       "categories": [
-        "Brainrot"
+        "Brainrot",
+        "Simulator"
       ],
       "daily_players": {
         "2026-03-11": 7635,
@@ -40795,7 +40953,8 @@
       "create_time": "",
       "create_year": null,
       "categories": [
-        "Brainrot"
+        "Brainrot",
+        "Survival"
       ],
       "daily_players": {
         "2026-04-12": 7366
