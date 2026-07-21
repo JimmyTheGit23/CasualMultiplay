@@ -46,6 +46,21 @@ jobs:
         run: |
           python scripts/calc_potential.py
       
+      - name: Run DBD crawler
+        run: |
+          python scripts/dbd_crawler.py
+        continue-on-error: true
+      
+      - name: Run R.E.P.O. crawler
+        run: |
+          python scripts/repo_crawler.py
+        continue-on-error: true
+      
+      - name: Run Chaoziran crawler
+        run: |
+          python scripts/chaoziran_crawler.py
+        continue-on-error: true
+      
       - name: Run DataValidator
         id: validate
         continue-on-error: true

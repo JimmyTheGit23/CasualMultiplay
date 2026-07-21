@@ -3345,6 +3345,7 @@ If you want to know what happened next, let’s listen to the explanation next t
         let historyData = {};
         let steamNewsData = {};
         let gameRegistry = null;
+        let repoData = null;
         let steamRichData = {};
         let ccuHistoryData = {};
         let developersData = {};
@@ -3697,6 +3698,14 @@ If you want to know what happened next, let’s listen to the explanation next t
                 DBD_DATA.snapshot_date = dbdFresh.snapshot_date || DBD_DATA.snapshot_date;
             } catch(e) {
                 console.warn('DBD数据加载失败（使用内置数据）:', e);
+            }
+
+            // 加载 R.E.P.O. 最新数据 (动态: CCU/评测/新闻/补丁/趋势)
+            try {
+                const repoResp = await fetch('./data/repo_data.json' + suffix);
+                repoData = await repoResp.json();
+            } catch(e) {
+                console.warn('R.E.P.O.数据加载失败:', e);
             }
 
             // 加载Steam新闻（所有游戏的更新动向）
@@ -4307,7 +4316,14 @@ If you want to know what happened next, let’s listen to the explanation next t
 
             // 查找对应游戏
             const game = findGameByKey(gameKey);
-            const target = document.getElementById('section-' + gameKey);
+            // steam_key → subpanel ID 映射 (有专属详情页的游戏)
+            const SUBPANEL_MAP = {
+                'chaoziran': 'chaoziran',
+                'Dead by Daylight': 'dbd',
+                'R.E.P.O.': 'repo'
+            };
+            const subpanelId = SUBPANEL_MAP[gameKey];
+            const target = subpanelId ? document.getElementById('section-' + subpanelId) : document.getElementById('section-' + gameKey);
             if (target) {
                 // 有自定义子面板的游戏(chaoziran/repo/dbd)
                 target.classList.remove('hidden');
@@ -6903,6 +6919,101 @@ If you want to know what happened next, let’s listen to the explanation next t
                 tagsEl.innerHTML = Object.entries(repo.steamspy.tags).slice(0, 12).map(([tag, count]) =>
                     `<span class="bg-gray-100 text-slate-700 px-2 py-0.5 rounded text-xs">${translateSteamTag(tag)} <span class="text-gray-500">${count}</span></span>`
                 ).join('');
+            }
+
+            // 动态区域: 用 repoData (repo_data.json) 渲染最新动向/版本节奏/趋势
+            if (repoData && repoData.operations) {
+                const isZh = currentLang === 'zh';
+                let dynamicHTML = '';
+
+                // 最新动向
+                if (repoData.operations.length > 0) {
+                    dynamicHTML += `
+                    <div class="glass-card mb-6">
+                        <div class="flex items-center gap-2 mb-4">
+                            <h3 class="section-title">${isZh ? '最新动向' : 'Latest Beats'}</h3>
+                            <span class="text-[10px]" style="color:var(--text-muted);">${isZh ? '来源: Steam News API' : 'Source: Steam News API'}</span>
+                        </div>
+                        <div class="grid md:grid-cols-2 gap-3">
+                            ${repoData.operations.slice(0, 10).map(item => `
+                                <a href="${item.url}" target="_blank" class="block rounded-lg border px-3 py-3 hover:border-gray-300 transition" style="border-color:var(--card-border);background:var(--card-bg);">
+                                    <div class="flex items-center justify-between gap-3 mb-1.5">
+                                        <span class="pill" style="background:rgba(22,163,74,0.10);color:var(--data-green);">${isZh ? item.type_zh : item.type_en}</span>
+                                        <span class="text-[10px]" style="color:var(--text-muted);">${item.date}</span>
+                                    </div>
+                                    <div class="text-sm font-semibold" style="color:var(--text-primary);">${item.title}</div>
+                                    <div class="text-[11px] mt-1" style="color:var(--text-muted);">${item.source}</div>
+                                </a>
+                            `).join('')}
+                        </div>
+                    </div>`;
+                }
+
+                // 版本/补丁节奏
+                if (repoData.patches && repoData.patches.length > 0) {
+                    dynamicHTML += `
+                    <div class="glass-card mb-6">
+                        <div class="flex items-center gap-2 mb-4">
+                            <h3 class="section-title">${isZh ? '版本/补丁节奏' : 'Patch Cadence'}</h3>
+                            <span class="text-[10px]" style="color:var(--text-muted);">${repoData.patches.length} ${isZh ? '条' : 'entries'}</span>
+                        </div>
+                        <div class="space-y-2">
+                            ${repoData.patches.slice(0, 8).map(item => `
+                                <a href="${item.url}" target="_blank" class="block rounded-lg border px-3 py-2 hover:border-gray-300 transition" style="border-color:var(--card-border);background:var(--card-bg);">
+                                    <div class="flex items-center justify-between gap-3">
+                                        <div>
+                                            <span class="text-sm font-medium" style="color:var(--text-primary);">${item.title}</span>
+                                            ${item.contents ? `<div class="text-[11px] mt-0.5" style="color:var(--text-muted);">${item.contents.substring(0, 100)}...</div>` : ''}
+                                        </div>
+                                        <span class="text-[10px]" style="color:var(--text-muted);">${item.date}</span>
+                                    </div>
+                                </a>
+                            `).join('')}
+                        </div>
+                    </div>`;
+                }
+
+                // 趋势数据
+                if (repoData.trends && repoData.trends.length > 0) {
+                    dynamicHTML += `
+                    <div class="glass-card mb-6">
+                        <div class="flex items-center gap-2 mb-4">
+                            <h3 class="section-title">${isZh ? '玩家趋势' : 'Player Trend'}</h3>
+                            <span class="text-[10px]" style="color:var(--text-muted);">${isZh ? '来源: CCU 历史快照' : 'Source: CCU History'}</span>
+                        </div>
+                        <div class="space-y-2 text-sm">
+                            ${repoData.trends.map(t => `
+                                <div class="flex justify-between items-center py-1" style="border-bottom:1px solid var(--divider);">
+                                    <span style="color:var(--text-muted);">${t.month}</span>
+                                    <div class="flex gap-4">
+                                        <span>${isZh ? '月均' : 'Avg'}: <b style="color:var(--data-green);">${t.avg_players.toLocaleString()}</b></span>
+                                        <span>${isZh ? '峰值' : 'Peak'}: <b>${t.peak.toLocaleString()}</b></span>
+                                    </div>
+                                </div>
+                            `).join('')}
+                        </div>
+                    </div>`;
+                }
+
+                // 数据快照时间
+                if (repoData.snapshot_date) {
+                    dynamicHTML += `
+                    <div class="text-[10px] text-center py-2" style="color:var(--text-muted);">
+                        ${isZh ? '数据更新于' : 'Data updated'} ${repoData.snapshot_date.substring(0, 19)} · ${isZh ? '来源: Steam Store/Review/News API' : 'Sources: Steam Store/Review/News API'}
+                    </div>`;
+                }
+
+                // 插入到 section-repo 末尾
+                const section = document.getElementById('section-repo');
+                if (section) {
+                    let dynEl = document.getElementById('repo-dynamic');
+                    if (!dynEl) {
+                        dynEl = document.createElement('div');
+                        dynEl.id = 'repo-dynamic';
+                        section.appendChild(dynEl);
+                    }
+                    dynEl.innerHTML = dynamicHTML;
+                }
             }
         }
 

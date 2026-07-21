@@ -1,0 +1,276 @@
+{
+  "snapshot_date": "2026-07-21T11:19:56.296081+08:00",
+  "hero": {
+    "title": "R.E.P.O.",
+    "title_en": "R.E.P.O.",
+    "subtitle_zh": "semiwork · 在线合作恐怖 · 2025 年 2 月 26 日",
+    "subtitle_en": "semiwork · Online Co-op Horror · 2025 年 2 月 26 日",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3241660/a12c92856b71315da885924ea5e1d5290c8025b8/header_alt_assets_2.jpg?t=1778158882"
+  },
+  "operations": [
+    {
+      "date": "2026-06-05",
+      "timestamp": 1780663730,
+      "title": "A NEW R.E.P.O. LEVEL?!",
+      "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1834602721190571",
+      "source": "官方",
+      "type_zh": "公告",
+      "type_en": "Announcement",
+      "contents": "Hey hey semibots! WOHO! We’re alive and we have some exciting stuff to tell you! Check out the Devlog here: If you prefer reading, here are the key takeaways: NEXT UPDATE The main focus of the next update will be a brand new level. TUMBLE CLIMB In the most recent Cosmetic update, we boosted the Tumb"
+    },
+    {
+      "date": "2026-05-25",
+      "timestamp": 1779701699,
+      "title": "R.E.P.O. v0.4.4",
+      "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833334318576798",
+      "source": "官方",
+      "type_zh": "版本更新",
+      "type_en": "Patch",
+      "contents": "Hey hey semibots! Here is yet another small update with some fixes and balancing! CHANGES BALANCING FIXES CHANGES Item Melee Weapons - Handling now properly scales with strength and should feel firmer and better at higher strength. Item Vehicle - Smaller grab area for the button to reduce accidental"
+    },
+    {
+      "date": "2026-05-15",
+      "timestamp": 1778853006,
+      "title": "R.E.P.O. v0.4.3",
+      "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1832700592792065",
+      "source": "官方",
+      "type_zh": "版本更新",
+      "type_en": "Patch",
+      "contents": "Hey hey semibots! Here is yet another small update with some fixes and balancing! CHANGES BALANCING FIXES CHANGES Shopkeeper - When disabled, ruckus tracking is now capped so they won’t wake up too angry. Item Staffs - Smaller objects now get less particles. Item Zero Gravity Staff - Improved the ef"
+    },
+    {
+      "date": "2026-05-12",
+      "timestamp": 1778594395,
+      "title": "R.E.P.O. v0.4.2",
+      "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1832065502823937",
+      "source": "官方",
+      "type_zh": "版本更新",
+      "type_en": "Patch",
+      "contents": "Hey hey semibots! Here is another small update with some fixes and balancing! CHANGES BALANCING FIXES CHANGES Vehicles - Now drift less sharply at low speeds. Added scratch sound effects that scale with velocity, reducing scratch sound spam when cruising at low speeds. Item Semibot Walkies - Valuabl"
+    },
+    {
+      "date": "2026-05-09",
+      "timestamp": 1778335399,
+      "title": "R.E.P.O. v0.4.1",
+      "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1832065502817573",
+      "source": "官方",
+      "type_zh": "版本更新",
+      "type_en": "Patch",
+      "contents": "Hey hey semibots! Hope you are enjoying all the new fashions, here is a patch with some fixes and balancing! CHANGES BALANCING FIXES CHANGES Cosmetic Box Spawn - Increased the \"bad luck\" multiplier slightly. It now persists after a game over and increases at the end of a level instead of at the star"
+    },
+    {
+      "date": "2026-05-07",
+      "timestamp": 1778158855,
+      "title": "R.E.P.O. v0.4.0 - The Cosmetic Update",
+      "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1832065502811979",
+      "source": "官方",
+      "type_zh": "版本更新",
+      "type_en": "Patch",
+      "contents": "Hey hey semibots! Our third major update is now live, The Cosmetic Update! Hope you guys have fun with all the new content, and please share your fresh outfits! ❤️ NEW CHANGES BALANCING FIXES NEW Cosmetics - Over 500 cosmetic parts to unlock and express yourself with! Find boxes in the world and ext"
+    },
+    {
+      "date": "2026-05-01",
+      "timestamp": 1777640450,
+      "title": "Let's talk about the COSMETICS!",
+      "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1831432155571308",
+      "source": "官方",
+      "type_zh": "DLC/皮肤",
+      "type_en": "DLC/Skin",
+      "contents": "Hey hey semibots! And now, for the FINAL DEVLOG before the update launches on May 7th, we’re giving you a rundown of the cosmetics so that you’re well prepared and ready! Check out the Devlog here: If you prefer reading, here are the key takeaways: COSMETICS With the upcoming update, you’ll be able "
+    },
+    {
+      "date": "2026-04-24",
+      "timestamp": 1777039470,
+      "title": "Revealing UPDATE RELEASE DATE with MAGIC!",
+      "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1830797770236271",
+      "source": "官方",
+      "type_zh": "版本更新",
+      "type_en": "Patch",
+      "contents": "Hey hey semibots! It’s devlog time and we can finally reveal the release date for the Cosmetics Update! We are also showcasing some powerful magic for you all! Check out the Devlog here: If you prefer reading, here are the key takeaways: UPDATE RELEASE DATE The Cosmetics Update will arrive on May 7t"
+    },
+    {
+      "date": "2026-03-27",
+      "timestamp": 1774617099,
+      "title": "KART RACING in R.E.P.O.?!",
+      "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1828441623104509",
+      "source": "官方",
+      "type_zh": "公告",
+      "type_en": "Announcement",
+      "contents": "Hey hey semibots! In today’s devlog, we’re revealing a brand new King of the Losers variant, coming together with the Cosmetics Update! We’re also showcasing a bunch of the cosmetics that you’ll be able to get your hands on in the upcoming update! Check out the Devlog here: If you prefer reading, he"
+    },
+    {
+      "date": "2026-03-06",
+      "timestamp": 1772801906,
+      "title": "Addressing the BIGGEST QUESTIONS about R.E.P.O. in 2026",
+      "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1826362059924100",
+      "source": "官方",
+      "type_zh": "公告",
+      "type_en": "Announcement",
+      "contents": "Hey hey semibots! Today we’re answering some of your most burning questions regarding the upcoming update or just R.E.P.O. in general! Check out the Q&A Devlog here: If you prefer reading, here are the key takeaways from the Q&A: Are you planning any variation to the “King of the Losers” minigame? A"
+    },
+    {
+      "date": "2026-02-27",
+      "timestamp": 1772204178,
+      "title": "Did someone say \"R.E.P.O. MERCH\"???",
+      "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1825727806710964",
+      "source": "官方",
+      "type_zh": "公告",
+      "type_en": "Announcement",
+      "contents": "Hey hey semibots! As of yesterday, it was exactly 1 year ago since R.E.P.O. got launched in Early Access and what a year it has been! We feel truly blessed and humbled by our amazing community, gathering valuables and hiding from (or fighting) all the bad guys. To celebrate the 1 year anniversery fo"
+    },
+    {
+      "date": "2026-02-23",
+      "timestamp": 1771845385,
+      "title": "REPO's upcoming cosmetic update is much more than just funny hats and clothes: 'It has become way bigger and way crazier than we anticipated from the start'",
+      "url": "https://steamstore-a.akamaihd.net/news/externalpost/PC Gamer/1825093633193670",
+      "source": "媒体",
+      "type_zh": "版本更新",
+      "type_en": "Patch",
+      "contents": "REPO is gearing up to release its next update, the Cosmetic Update, and thanks to a shiny <a href=\"https://www.youtube.com/watch?v=ArkeOU4FDwU\">new video uploaded to the Semiwork YouTube channel</a>, we've got a sneak peek into what exactly this launch will involve. It's easy to assume that the upda"
+    },
+    {
+      "date": "2026-02-20",
+      "timestamp": 1771592812,
+      "title": "The CONTENT SITUATION is CRAZY",
+      "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1825093633187731",
+      "source": "官方",
+      "type_zh": "公告",
+      "type_en": "Announcement",
+      "contents": "Hey hey semibots! It’s time for another devlog! Yes, can you even believe it?? You may watch it here: For those of you who’d like to read instead of watching the video, here’s the key takeaways: NEXT UPDATE BIGGER THAN ANTICIPATED The upcoming update started out with the main focus being cosmetics, "
+    },
+    {
+      "date": "2026-02-06",
+      "timestamp": 1770392646,
+      "title": "R.E.P.O. REVIVE BOT REVEAL!",
+      "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1823825466499986",
+      "source": "官方",
+      "type_zh": "公告",
+      "type_en": "Announcement",
+      "contents": "Hey hey semibots! We’re at it again with another DEVLOG! You may watch it here: For those of you who’d like to read instead of watching the video, here’s the key takeaways: NEW ITEM REVEAL With the next upcoming update, we’ll be adding a little robot named DEFIBRO that can help you out during your v"
+    },
+    {
+      "date": "2026-01-23",
+      "timestamp": 1769180250,
+      "title": "We made VEHICLES into CARTS?!",
+      "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1822556746162001",
+      "source": "官方",
+      "type_zh": "公告",
+      "type_en": "Announcement",
+      "contents": "Hey hey semibots! It’s 2026 and we’re BACK! Time for another devlog, yes? Here it is: For those of you who’d like to read instead of watching the video, here’s the key takeaways: VEHICLE CHANGES The Semiscooter is no longer a two-seated vehicle, and the back seat has been replaced with storage utili"
+    }
+  ],
+  "patches": [
+    {
+      "date": "2026-05-25",
+      "timestamp": 1779701699,
+      "title": "R.E.P.O. v0.4.4",
+      "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833334318576798",
+      "source": "官方",
+      "type_zh": "版本更新",
+      "type_en": "Patch",
+      "contents": "Hey hey semibots! Here is yet another small update with some fixes and balancing! CHANGES BALANCING FIXES CHANGES Item Melee Weapons - Handling now properly scales with strength and should feel firmer and better at higher strength. Item Vehicle - Smaller grab area for the button to reduce accidental"
+    },
+    {
+      "date": "2026-05-15",
+      "timestamp": 1778853006,
+      "title": "R.E.P.O. v0.4.3",
+      "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1832700592792065",
+      "source": "官方",
+      "type_zh": "版本更新",
+      "type_en": "Patch",
+      "contents": "Hey hey semibots! Here is yet another small update with some fixes and balancing! CHANGES BALANCING FIXES CHANGES Shopkeeper - When disabled, ruckus tracking is now capped so they won’t wake up too angry. Item Staffs - Smaller objects now get less particles. Item Zero Gravity Staff - Improved the ef"
+    },
+    {
+      "date": "2026-05-12",
+      "timestamp": 1778594395,
+      "title": "R.E.P.O. v0.4.2",
+      "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1832065502823937",
+      "source": "官方",
+      "type_zh": "版本更新",
+      "type_en": "Patch",
+      "contents": "Hey hey semibots! Here is another small update with some fixes and balancing! CHANGES BALANCING FIXES CHANGES Vehicles - Now drift less sharply at low speeds. Added scratch sound effects that scale with velocity, reducing scratch sound spam when cruising at low speeds. Item Semibot Walkies - Valuabl"
+    },
+    {
+      "date": "2026-05-09",
+      "timestamp": 1778335399,
+      "title": "R.E.P.O. v0.4.1",
+      "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1832065502817573",
+      "source": "官方",
+      "type_zh": "版本更新",
+      "type_en": "Patch",
+      "contents": "Hey hey semibots! Hope you are enjoying all the new fashions, here is a patch with some fixes and balancing! CHANGES BALANCING FIXES CHANGES Cosmetic Box Spawn - Increased the \"bad luck\" multiplier slightly. It now persists after a game over and increases at the end of a level instead of at the star"
+    },
+    {
+      "date": "2026-05-07",
+      "timestamp": 1778158855,
+      "title": "R.E.P.O. v0.4.0 - The Cosmetic Update",
+      "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1832065502811979",
+      "source": "官方",
+      "type_zh": "版本更新",
+      "type_en": "Patch",
+      "contents": "Hey hey semibots! Our third major update is now live, The Cosmetic Update! Hope you guys have fun with all the new content, and please share your fresh outfits! ❤️ NEW CHANGES BALANCING FIXES NEW Cosmetics - Over 500 cosmetic parts to unlock and express yourself with! Find boxes in the world and ext"
+    },
+    {
+      "date": "2026-04-24",
+      "timestamp": 1777039470,
+      "title": "Revealing UPDATE RELEASE DATE with MAGIC!",
+      "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1830797770236271",
+      "source": "官方",
+      "type_zh": "版本更新",
+      "type_en": "Patch",
+      "contents": "Hey hey semibots! It’s devlog time and we can finally reveal the release date for the Cosmetics Update! We are also showcasing some powerful magic for you all! Check out the Devlog here: If you prefer reading, here are the key takeaways: UPDATE RELEASE DATE The Cosmetics Update will arrive on May 7t"
+    },
+    {
+      "date": "2026-02-23",
+      "timestamp": 1771845385,
+      "title": "REPO's upcoming cosmetic update is much more than just funny hats and clothes: 'It has become way bigger and way crazier than we anticipated from the start'",
+      "url": "https://steamstore-a.akamaihd.net/news/externalpost/PC Gamer/1825093633193670",
+      "source": "媒体",
+      "type_zh": "版本更新",
+      "type_en": "Patch",
+      "contents": "REPO is gearing up to release its next update, the Cosmetic Update, and thanks to a shiny <a href=\"https://www.youtube.com/watch?v=ArkeOU4FDwU\">new video uploaded to the Semiwork YouTube channel</a>, we've got a sneak peek into what exactly this launch will involve. It's easy to assume that the upda"
+    }
+  ],
+  "trends": [
+    {
+      "month": "2026-07",
+      "avg_players": 0,
+      "peak": 0
+    }
+  ],
+  "store": {
+    "name": "R.E.P.O.",
+    "name_en": "R.E.P.O.",
+    "short_description": "An online co-op horror game with up to 6 players. Locate valuable, fully physics-based objects and handle them with care as you retrieve and extract to satisfy your creator's desires.",
+    "short_description_en": "An online co-op horror game with up to 6 players. Locate valuable, fully physics-based objects and handle them with care as you retrieve and extract to satisfy your creator's desires.",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3241660/a12c92856b71315da885924ea5e1d5290c8025b8/header_alt_assets_2.jpg?t=1778158882",
+    "developers": [
+      "semiwork"
+    ],
+    "publishers": [
+      "semiwork"
+    ],
+    "price": "¥ 35.00",
+    "price_en": "$9.99",
+    "release_date": "2025 年 2 月 26 日",
+    "platforms": {
+      "windows": true,
+      "mac": false,
+      "linux": false
+    },
+    "genres": [
+      "动作",
+      "抢先体验"
+    ],
+    "is_free": false
+  },
+  "reviews": {
+    "total_reviews": 411386,
+    "positive": 395165,
+    "negative": 16221,
+    "positive_rate": 96.1,
+    "review_score_desc": "Overwhelmingly Positive"
+  },
+  "ccu": 22683,
+  "crawled_at": "2026-07-21T11:19:56.296081+08:00"
+}
