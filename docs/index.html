@@ -4886,7 +4886,6 @@ If you want to know what happened next, let’s listen to the explanation next t
             // 分类 chips
             const catChips = Object.entries(robloxCategories)
                 .sort((a, b) => b[1].count - a[1].count)
-                .slice(0, 10)
                 .map(([k, v]) => `<span onclick="setRobloxDetailCat('${k}')" style="font-size:10px;padding:2px 8px;border-radius:10px;cursor:pointer;background:${robloxDetailFilter.category===k?'#7C3AED':'#F1F5F9'};color:${robloxDetailFilter.category===k?'#FFFFFF':'#475569'};margin:2px;display:inline-block;">${rbxCatName(k)} ${v.count}</span>`).join('');
 
             section.innerHTML = `

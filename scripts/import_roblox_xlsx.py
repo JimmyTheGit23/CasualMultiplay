@@ -20,22 +20,31 @@ CST = timezone(timedelta(hours=8))
 
 # 自动分类关键词
 CATEGORIES = [
-    {'key': 'Brainrot', 'zh': '脑腐', 'keywords': ['Brainrot']},
-    {'key': 'Tower', 'zh': '塔防', 'keywords': ['Tower', 'Defence', 'Defense']},
-    {'key': 'Escape', 'zh': '逃脱', 'keywords': ['Escape']},
-    {'key': 'Anime', 'zh': '动漫', 'keywords': ['Anime']},
-    {'key': 'RP', 'zh': '角色扮演', 'keywords': ['RP', 'Roleplay']},
-    {'key': 'Simulator', 'zh': '模拟', 'keywords': ['Simulator', ' Sim']},
-    {'key': 'War', 'zh': '战争', 'keywords': ['War']},
-    {'key': 'Obby', 'zh': '跑酷', 'keywords': ['Obby']},
-    {'key': 'Tycoon', 'zh': '大亨', 'keywords': ['Tycoon']},
-    {'key': 'Fight', 'zh': '格斗', 'keywords': ['Fight', 'Battles', 'Battle']},
-    {'key': 'Murder', 'zh': '推理', 'keywords': ['Murder']},
-    {'key': 'Survival', 'zh': '生存', 'keywords': ['Survival']},
-    {'key': 'Parkour', 'zh': '跑酷', 'keywords': ['Parkour']},
-    {'key': 'Adopt', 'zh': '养成', 'keywords': ['Adopt']},
-    {'key': 'Pets', 'zh': '宠物', 'keywords': ['Pet', 'Pets']},
-    {'key': 'Grow', 'zh': '种植', 'keywords': ['Grow', 'Garden']},
+    {'key': 'Brainrot', 'zh': '脑腐', 'en': 'Brainrot', 'keywords': ['brainrot', 'skibidi', 'sigma', 'rizz', 'gyatt', 'skibbidi', 'ohio', 'rizzler']},
+    {'key': 'Tower', 'zh': '塔防', 'en': 'Tower Defense', 'keywords': ['tower', 'defence', 'defense', 'td', 'turret']},
+    {'key': 'Escape', 'zh': '逃脱', 'en': 'Escape', 'keywords': ['escape', 'evade', 'flee', 'chase', 'hide', 'seeker']},
+    {'key': 'Anime', 'zh': '动漫', 'en': 'Anime', 'keywords': ['anime', 'manga', 'waifu', 'naruto', 'demon slayer', 'gacha']},
+    {'key': 'RP', 'zh': '角色扮演', 'en': 'Roleplay', 'keywords': ['rp', 'roleplay', 'brookhaven', 'bloxburg', 'berry avenue', 'welcome to', 'school', 'neighborhood', 'town']},
+    {'key': 'Simulator', 'zh': '模拟', 'en': 'Simulator', 'keywords': ['simulator', ' sim ', 'sim', 'fruit', 'fish', 'fisch', 'build', 'farm', 'hospital', 'ball', 'block', 'life', 'click', 'mining', 'craft', 'trade', 'clicker']},
+    {'key': 'War', 'zh': '战争', 'en': 'War', 'keywords': ['war ', 'wars', 'battlefield', 'frontline', 'military', 'sniper']},
+    {'key': 'Obby', 'zh': '跑酷', 'en': 'Obby', 'keywords': ['obby', 'obstacle', 'jump']},
+    {'key': 'Tycoon', 'zh': '大亨', 'en': 'Tycoon', 'keywords': ['tycoon', 'business', 'restaurant', 'hotel', 'school', 'empire', 'store']},
+    {'key': 'Fight', 'zh': '格斗', 'en': 'Fighting', 'keywords': ['fight', 'battles', 'battle', 'rival', 'arena', 'duel', 'combat', 'fighting', 'gladiator', 'boxing']},
+    {'key': 'Murder', 'zh': '推理', 'en': 'Mystery', 'keywords': ['murder', 'mystery', 'detective']},
+    {'key': 'Survival', 'zh': '生存', 'en': 'Survival', 'keywords': ['survival', 'night', 'forest', 'die', 'plane', 'flight', 'airplane', 'fly ', 'pilot', 'crash', 'emergency', 'zombie', 'apocalypse', 'horror', 'scary', 'creepy', 'demon']},
+    {'key': 'Parkour', 'zh': '跑酷', 'en': 'Parkour', 'keywords': ['parkour']},
+    {'key': 'Adopt', 'zh': '养成', 'en': 'Adopt', 'keywords': ['adopt', 'me ']},
+    {'key': 'Pets', 'zh': '宠物', 'en': 'Pets', 'keywords': ['pet', 'pets']},
+    {'key': 'Grow', 'zh': '种植', 'en': 'Garden', 'keywords': ['grow', 'garden']},
+    {'key': 'Sports', 'zh': '体育', 'en': 'Sports', 'keywords': ['football', 'soccer', 'basketball', 'volleyball', 'tennis', 'golf', 'nba', 'nfl', 'fifa', 'world cup', 'sport', 'baller', 'hoop']},
+    {'key': 'Racing', 'zh': '竞速', 'en': 'Racing', 'keywords': ['car', 'drift', 'race', 'driving', 'racing', 'vehicle', 'bike', 'motor', 'speed', 'sprint', 'boost', 'rider', 'biker', 'bicycle']},
+    {'key': 'Music', 'zh': '音乐', 'en': 'Music', 'keywords': ['music', 'piano', 'guitar', 'drum', 'song', 'singing', 'singer', 'melody', 'rhythm', 'concert']},
+    {'key': 'Cooking', 'zh': '烹饪', 'en': 'Cooking', 'keywords': ['pizza', 'cook', 'food', 'restaurant', 'cafe', 'burger', 'kitchen', 'chef', 'cooking', 'bakery', 'boba', 'baking']},
+    {'key': 'Merge', 'zh': '合成', 'en': 'Merge', 'keywords': ['merge']},
+    {'key': 'Puzzle', 'zh': '解谜', 'en': 'Puzzle', 'keywords': ['puzzle', 'solve', 'logic', 'brain', 'sudoku', 'word']},
+    {'key': 'Horror', 'zh': '恐怖', 'en': 'Horror', 'keywords': ['horror', 'scary', 'creepy', 'demon', 'ghost', 'zombie', 'monster', 'night']},
+    {'key': 'Story', 'zh': '剧情', 'en': 'Story', 'keywords': [' story', 'quest', 'adventure', 'narrative']},
+    {'key': 'Other', 'zh': '其他', 'en': 'Other', 'keywords': []},  # 兜底, classify_game 里特殊处理
 ]
 
 
@@ -43,10 +52,14 @@ def classify_game(name):
     """根据游戏名匹配分类,可能多个"""
     cats = []
     for c in CATEGORIES:
+        if not c['keywords']:
+            continue  # 跳过 Other (兜底)
         for kw in c['keywords']:
             if kw.lower() in name.lower():
                 cats.append(c['key'])
                 break
+    if not cats:
+        cats = ['Other']  # 兜底
     return cats
 
 
@@ -190,8 +203,10 @@ def main():
         if c['key'] in cat_counter:
             categories_meta[c['key']] = {
                 'zh': c['zh'],
+                'en': c.get('en', c['key']),
                 'count': cat_counter[c['key']],
                 'keywords': c['keywords'],
+                'steam_official': False,
             }
 
     output = {
