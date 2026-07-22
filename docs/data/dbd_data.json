@@ -1,10 +1,10 @@
 {
-  "snapshot_date": "2026-07-21T02:46:35+08:00",
+  "snapshot_date": "2026-07-22T02:44:04+08:00",
   "hero": {
     "name": "黎明杀机",
-    "current_players": 59616,
+    "current_players": 63208,
     "positive_rate": 78.4,
-    "reviews_total": 920889,
+    "reviews_total": 921269,
     "price_label": "¥ 93.75",
     "release_date": "2016 年 6 月 14 日",
     "genres": [
@@ -12,6 +12,28 @@
     ]
   },
   "operations": [
+    {
+      "date": "2026-07-21",
+      "timestamp": 1784644290,
+      "title": "10.0.3 | Bugfix Patch",
+      "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1838407329269139",
+      "author": "Donnary21st",
+      "feed_label": "Community Announcements",
+      "feed_type": "官方",
+      "is_patch": false,
+      "contents": "ContentKiller UpdatesThe SlasherJump Scare anti-camp penalty no longer applies across multiple floorsPerk UpdatesNew Survivor PerksCross-ExaminationWhile in the Killer's Terror Radius and not being ch"
+    },
+    {
+      "date": "2026-07-21",
+      "timestamp": 1784624400,
+      "title": "Steam Global Top Sellers for week of 14 Jul — 21 July 2026",
+      "url": "https://steamstore-a.akamaihd.net/news/externalpost/SteamDB/1838407329269011",
+      "author": "SteamDB",
+      "feed_label": "SteamDB",
+      "feed_type": "媒体",
+      "is_patch": false,
+      "contents": "<a href=\"https://steamdb.info/topsellers/2026W30/?utm_source=Steam&utm_medium=Steam&utm_campaign=SteamRSS\"> </a> * <a href=\"https://steamdb.info/app/1623730/charts/?utm_source=Steam&utm_medium=Steam&u"
+    },
     {
       "date": "2026-07-16",
       "timestamp": 1784208682,
@@ -77,28 +99,6 @@
       "feed_type": "媒体",
       "is_patch": false,
       "contents": "\"It has finally happened,\" Limmy says. \"Hello everybody; I have been banned from Dead by Daylight for having a laugh.\" It's official: Limmy has, indeed, been banned from playing Behaviour's iconic hor"
-    },
-    {
-      "date": "2026-06-30",
-      "timestamp": 1782810000,
-      "title": "Steam Global Top Sellers for week of 23 Jun — 30 June 2026",
-      "url": "https://steamstore-a.akamaihd.net/news/externalpost/SteamDB/1836506165562533",
-      "author": "SteamDB",
-      "feed_label": "SteamDB",
-      "feed_type": "媒体",
-      "is_patch": false,
-      "contents": "<a href=\"https://steamdb.info/topsellers/2026W27/?utm_source=Steam&utm_medium=Steam&utm_campaign=SteamRSS\"> </a> * <a href=\"https://steamdb.info/app/4704690/charts/?utm_source=Steam&utm_medium=Steam&u"
-    },
-    {
-      "date": "2026-06-26",
-      "timestamp": 1782509641,
-      "title": "Ice Nine Kills X Dead by Daylight Merch",
-      "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165555270",
-      "author": "amanda_bhvr",
-      "feed_label": "Community Announcements",
-      "feed_type": "官方",
-      "is_patch": false,
-      "contents": "The Dead by Daylight x Ice Nine Kills collection doesn't stop in-game. We've teamed up to bring the collaboration into the real world, and it's everything you'd expect from two icons of horror.Pre-ord"
     }
   ],
   "patches": [],
@@ -159,11 +159,11 @@
     ]
   },
   "reviews": {
-    "total_reviews": 920889,
-    "positive": 722334,
-    "negative": 198555,
+    "total_reviews": 921269,
+    "positive": 722660,
+    "negative": 198609,
     "positive_rate": 78.4
   },
-  "ccu": 59616,
-  "crawled_at": "2026-07-21T02:46:35.334491"
+  "ccu": 63208,
+  "crawled_at": "2026-07-22T02:44:04.245518"
 }
