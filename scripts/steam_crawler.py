@@ -40,21 +40,24 @@ def build_steam_games_from_registry():
 STEAM_GAMES = build_steam_games_from_registry()
 
 
-def fetch_json(url, retries=3):
+def fetch_json(url, retries=3, timeout=15):
     """带重试的JSON请求"""
+    last_err = None
     for attempt in range(retries):
         try:
             req = urllib.request.Request(url, headers={
                 "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
             })
-            with urllib.request.urlopen(req, timeout=15) as resp:
+            with urllib.request.urlopen(req, timeout=timeout) as resp:
                 return json.loads(resp.read().decode("utf-8"))
         except Exception as e:
+            last_err = e
             if attempt < retries - 1:
                 time.sleep(2 ** attempt)
             else:
                 print(f"  [FAIL] {url}: {e}")
                 return None
+    return None
 
 
 def fetch_html(url, retries=3):
@@ -208,40 +211,52 @@ def get_steamspy_data(appid):
 def crawl_steam():
     """主爬虫：采集所有Steam游戏数据"""
     results = {}
+    failures = []
 
     for name, appid in STEAM_GAMES.items():
         print(f"[Steam] 采集 {name} (appid: {appid})...")
+        try:
+            store_data = get_steam_app_data(appid)
+            time.sleep(2)  # Actions 环境 Steam 限流更严, 加长间隔
 
-        store_data = get_steam_app_data(appid)
-        time.sleep(1.5)
+            # 当前在线人数：Steam官方API
+            ccu = get_steamcharts_ccu(appid)
+            time.sleep(2)
 
-        # 当前在线人数：Steam官方API
-        ccu = get_steamcharts_ccu(appid)
-        time.sleep(1)
+            # SteamSpy 在 Actions 环境基本必 403, 跳过
+            spy_data = {"ccu": ccu} if ccu > 0 else None
 
-        # SteamSpy数据(已知403，仅在需要时尝试)
-        spy_data = None
-        if ccu > 0:
-            spy_data = {"ccu": ccu}
-        else:
-            # CCU为0时尝试SteamSpy备用
-            spy_data = get_steamspy_data(appid)
-            time.sleep(1.5)
-            if spy_data and spy_data.get("ccu", 0) > 0:
-                ccu = spy_data["ccu"]
+            review_data = get_steam_reviews(appid)
+            time.sleep(2)
 
-        review_data = get_steam_reviews(appid)
-        time.sleep(1.5)
+            results[name] = {
+                "appid": appid,
+                "store": store_data,
+                "steamspy": spy_data,
+                "reviews": review_data,
+                "ccu": ccu,
+                "crawled_at": datetime.now().isoformat(),
+            }
+            print(f"   {name} 完成 (在线: {ccu})")
+        except Exception as e:
+            failures.append({"game": name, "appid": appid, "error": str(e)})
+            print(f"   [FAIL] {name}: {e}")
+            # 部分失败也保存 (标记失败)
+            results[name] = {
+                "appid": appid,
+                "store": None,
+                "steamspy": None,
+                "reviews": None,
+                "ccu": 0,
+                "crawled_at": datetime.now().isoformat(),
+                "_error": str(e),
+            }
 
-        results[name] = {
-            "appid": appid,
-            "store": store_data,
-            "steamspy": spy_data,
-            "reviews": review_data,
-            "ccu": ccu,
-            "crawled_at": datetime.now().isoformat(),
-        }
-        print(f"   {name} 完成 (在线: {ccu})")
+    # 输出失败统计
+    if failures:
+        print(f"\n[!] {len(failures)}/{len(STEAM_GAMES)} 款游戏采集失败:")
+        for f in failures:
+            print(f"   - {f['game']}: {f['error']}")
 
     return results
 

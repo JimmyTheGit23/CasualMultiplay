@@ -2,153 +2,161 @@
   "chaoziran": {
     "bwiki_updates": [
       {
-        "title": "超自然【中式恐怖大典】重磅福利放送！",
+        "title": "版更速递！小地图优化后能边走边看，阿念脖子拯救计划也已开启！",
         "source": "TapTap官方",
         "url": "https://www.taptap.cn/app/714123/topic?type=official",
         "link_status": "unknown",
-        "category": "event",
+        "category": "patch",
         "content_tags": [
-          "福利活动"
+          "版本更新",
+          "BUG修复"
         ],
-        "priority": "medium",
-        "title_en": "Supernatural 【Chinese Horror Ceremony】Breaking benefit broadcast!",
+        "priority": "low",
+        "title_en": "Updates delivered quickly! The mini map has been optimized so that you can view it while walking, and the A Nian Neck Rescue Plan has also been launched!",
         "source_en": "TapTap Official",
         "content_tags_en": [
-          "Reward Event"
+          "Version Update",
+          "Bug Fix"
         ]
       },
       {
-        "title": "7月30日更新后免费领【驱邪弓】与联动头套，还有联动玩法【无限梦境】同步上线。后续神秘外援也将入职，更有神秘联动免费皮肤正在路上~",
-        "source": "TapTap官方",
-        "url": "https://www.taptap.cn/app/714123/topic?type=official",
-        "link_status": "unknown",
-        "category": "cosmetic",
-        "content_tags": [
-          "新皮肤"
-        ],
-        "priority": "medium",
-        "title_en": "After the update on July 30, you can receive the [Exorcist Bow] and the linked headgear for free, and the linked gameplay [Infinite Dreamland] will be launched simultaneously. In the future, mysterious foreign players will also join the team, and more mysterious linkage free skins are on the way~",
-        "source_en": "TapTap Official",
-        "content_tags_en": [
-          "New Skin"
-        ]
-      },
-      {
-        "title": "7月30日更新后免费领【驱邪弓】与联动头套，还有联动玩法【无限梦境】同步上线。后续神秘外援也将入职，...",
-        "source": "TapTap官方",
-        "url": "https://www.taptap.cn/app/714123/topic?type=official",
-        "link_status": "unknown",
-        "category": "event",
-        "content_tags": [
-          "福利活动"
-        ],
-        "priority": "medium",
-        "title_en": "After the update on July 30, you can receive the [Exorcist Bow] and the linked headgear for free, and the linked gameplay [Infinite Dreamland] will be launched simultaneously. Mysterious foreign players will also join the team in the future...",
-        "source_en": "TapTap Official",
-        "content_tags_en": [
-          "Reward Event"
-        ]
-      },
-      {
-        "title": "超自然行动组确认参展2026Chinajoy~",
-        "source": "TapTap官方",
-        "url": "https://www.taptap.cn/app/714123/topic?type=official",
-        "link_status": "unknown",
-        "category": "other",
-        "content_tags": [],
-        "priority": "low",
-        "title_en": "Supernatural Action Group confirmed to participate in 2026Chinajoy~",
-        "source_en": "TapTap Official",
-        "content_tags_en": []
-      },
-      {
-        "title": "虫谷已启，超大傩女雕像、员工Coser与福利周边，7月31日-8月3日一起来打卡吧~",
-        "source": "TapTap官方",
-        "url": "https://www.taptap.cn/app/714123/topic?type=official",
-        "link_status": "unknown",
-        "category": "event",
-        "content_tags": [
-          "福利活动"
-        ],
-        "priority": "medium",
-        "title_en": "Insect Valley has opened. Come and check in from July 31st to August 3rd with a large Nuo female statue, employee cosplayers and welfare peripherals.",
-        "source_en": "TapTap Official",
-        "content_tags_en": [
-          "Reward Event"
-        ]
-      },
-      {
-        "title": "工区突现莉莉和布布玩偶，多队【魔王护】贡献最帅击杀",
-        "source": "TapTap官方",
-        "url": "https://www.taptap.cn/app/714123/topic?type=official",
-        "link_status": "unknown",
-        "category": "other",
-        "content_tags": [],
-        "priority": "low",
-        "title_en": "Lily and Bubu Doll appeared in the work area, and multiple teams of [Demon King Protectors] contributed the most handsome kills",
-        "source_en": "TapTap Official",
-        "content_tags_en": []
-      },
-      {
-        "title": "橙留香和上官子怡的故事，这次一起来绘梦厅看吧~",
-        "source": "TapTap官方",
-        "url": "https://www.taptap.cn/app/714123/topic?type=official",
-        "link_status": "unknown",
-        "category": "other",
-        "content_tags": [],
-        "priority": "low",
-        "title_en": "Let’s watch the story of Chengliuxiang and Shangguan Ziyi in the Dream Hall together this time~",
-        "source_en": "TapTap Official",
-        "content_tags_en": []
-      },
-      {
-        "title": "7月23日更新——【云南虫谷】多队地图上线！果宝特攻第二弹来啦",
-        "source": "TapTap官方",
-        "url": "https://www.taptap.cn/app/714123/topic?type=official",
-        "link_status": "unknown",
-        "category": "other",
-        "content_tags": [],
-        "priority": "low",
-        "title_en": "Updated on July 23rd - [Yunnan Worm Valley] multi-team map is online! The second round of Fruity Special Attack is here",
-        "source_en": "TapTap Official",
-        "content_tags_en": []
-      },
-      {
-        "title": "虫潮不认来客，人心深过幽谷，【云南虫谷】多队新地图上线啦！\n全新Boss，丰厚秘藏，谁能夺宝而归？\n...",
+        "title": "云南虫谷摸金模式新怪物【巨型戏偶】信息爆料",
         "source": "TapTap官方",
         "url": "https://www.taptap.cn/app/714123/topic?type=official",
         "link_status": "unknown",
         "category": "new_content",
         "content_tags": [
-          "新地图",
-          "新服"
+          "新怪物"
         ],
         "priority": "high",
-        "title_en": "The insect tide does not recognize visitors, and people's hearts are as deep as the deep valley. [Yunnan Worm Valley] A new multi-team map is online!\nBrand new boss, rich treasures, who can win the treasure?\n...",
+        "title_en": "Information about the new monster [Giant Puppet] in Yunnan Worm Valley’s Gold Hunting Mode has been revealed",
         "source_en": "TapTap Official",
         "content_tags_en": [
-          "New Map",
-          "New Server"
+          "New Monster"
         ]
       },
       {
-        "title": "tmd第1把就是挂呀，第1把就是挂，有挂呀，第1把就是啊，第1把呀",
+        "title": "7月23日晚更新后，千万不要和它对视...",
+        "source": "TapTap官方",
+        "url": "https://www.taptap.cn/app/714123/topic?type=official",
+        "link_status": "unknown",
+        "category": "patch",
+        "content_tags": [
+          "版本更新"
+        ],
+        "priority": "low",
+        "title_en": "After the update on the evening of July 23, don’t look at it...",
+        "source_en": "TapTap Official",
+        "content_tags_en": [
+          "Version Update"
+        ]
+      },
+      {
+        "title": "阿念-橙留香和巫铃儿-上官子怡的上工日常......\n7月24日0点记得来绘梦厅呀",
         "source": "TapTap官方",
         "url": "https://www.taptap.cn/app/714123/topic?type=official",
         "link_status": "unknown",
         "category": "other",
         "content_tags": [],
         "priority": "low",
-        "title_en": "tmd The first one is a hang-up, the first one is a hang-up, there is a hang-up, the first one is a hang-up, the first hand is a hang-up",
+        "title_en": "A Nian - Cheng Liuxiang and Wu Ling'er - Shangguan Ziyi's daily work routine...\nRemember to come to Huimeng Hall at 0:00 on July 24th",
         "source_en": "TapTap Official",
         "content_tags_en": []
+      },
+      {
+        "title": "【阿念-橙留香】与【巫铃儿-上官子怡】果宝联动时装展示！",
+        "source": "TapTap官方",
+        "url": "https://www.taptap.cn/app/714123/topic?type=official",
+        "link_status": "unknown",
+        "category": "cosmetic",
+        "content_tags": [
+          "新时装"
+        ],
+        "priority": "medium",
+        "title_en": "[A Nian-Chengliuxiang] and [Wu Ling'er-Shangguan Ziyi] Guobao linked fashion show!",
+        "source_en": "TapTap Official",
+        "content_tags_en": [
+          "New Outfit"
+        ]
+      },
+      {
+        "title": "7月24日0点绘梦厅，一起来喊出“果宝机甲，归位！”",
+        "source": "TapTap官方",
+        "url": "https://www.taptap.cn/app/714123/topic?type=official",
+        "link_status": "unknown",
+        "category": "other",
+        "content_tags": [],
+        "priority": "low",
+        "title_en": "At 0:00 on July 24th in the Dream Hall, let’s shout out “Guobao Mecha, return to your position!”",
+        "source_en": "TapTap Official",
+        "content_tags_en": []
+      },
+      {
+        "title": "超自然行动组 x 果宝特攻 联动第二弹爆料！",
+        "source": "TapTap官方",
+        "url": "https://www.taptap.cn/app/714123/topic?type=official",
+        "link_status": "unknown",
+        "category": "pr",
+        "content_tags": [
+          "品牌联动"
+        ],
+        "priority": "low",
+        "title_en": "Supernatural Action Team x Fruity Strike collaboration second bomb revealed!",
+        "source_en": "TapTap Official",
+        "content_tags_en": [
+          "Brand Collab"
+        ]
+      },
+      {
+        "title": "橙留香与上官子怡的故事即将开启~\n7月24日0点绘梦厅见啦——",
+        "source": "TapTap官方",
+        "url": "https://www.taptap.cn/app/714123/topic?type=official",
+        "link_status": "unknown",
+        "category": "other",
+        "content_tags": [],
+        "priority": "low",
+        "title_en": "The story of Chengliuxiang and Shangguan Ziyi is about to begin~\nSee you at the Dream Hall at 0:00 on July 24——",
+        "source_en": "TapTap Official",
+        "content_tags_en": []
+      },
+      {
+        "title": "戏偶异变后危险等级提升为【极高危】......\n7月23日晚更新后正式上线。",
+        "source": "TapTap官方",
+        "url": "https://www.taptap.cn/app/714123/topic?type=official",
+        "link_status": "unknown",
+        "category": "patch",
+        "content_tags": [
+          "版本更新"
+        ],
+        "priority": "low",
+        "title_en": "After the puppet mutated, the danger level was raised to [Extremely High Risk]...\nIt will be officially launched after the update on the evening of July 23rd.",
+        "source_en": "TapTap Official",
+        "content_tags_en": [
+          "Version Update"
+        ]
+      },
+      {
+        "title": "不需要门票，猛猛博弈！\n傩女异变，恐怖再临。\n7月23日晚更新后，你，能活下来吗？",
+        "source": "TapTap官方",
+        "url": "https://www.taptap.cn/app/714123/topic?type=official",
+        "link_status": "unknown",
+        "category": "patch",
+        "content_tags": [
+          "版本更新"
+        ],
+        "priority": "low",
+        "title_en": "No tickets required, just play fiercely!\nThe Nuo girl mutates and terror returns.\nAfter the update on the evening of July 23, can you survive?",
+        "source_en": "TapTap Official",
+        "content_tags_en": [
+          "Version Update"
+        ]
       }
     ],
     "taptap": {
       "app_id": 714123,
       "source": "taptap_webpage",
-      "fans_count": 12072423,
-      "review_count": 35965,
+      "fans_count": 11996137,
+      "review_count": 35518,
       "score": "7.0",
       "description": "超自然行动组是一款合作游戏，TapTap 提供超自然行动组最新版官方正版下载，一个人玩是恐怖游戏，两个人玩是冒险游戏，三个人玩是寻宝游戏，...",
       "score_display": 7.0,
@@ -281,30 +289,39 @@
     "community": {
       "taptap_forum": [
         {
-          "title": "超自然【中式恐怖大典】重磅福利放送！",
+          "title": "超自然行动组官服下载,超自然行动组非渠道服下载,超自然行动组官网",
           "source": "TapTap论坛",
           "url": "https://www.taptap.cn/app/714123/topic",
           "link_status": "unknown",
-          "sentiment": "positive",
-          "title_en": "Supernatural 【Chinese Horror Ceremony】Breaking benefit broadcast!",
+          "sentiment": "neutral",
+          "title_en": "Supernatural Action Team official server download, Supernatural Action Team off-channel server download, Supernatural Action Team official website",
           "source_en": "TapTap Forum"
         },
         {
-          "title": "7月30日更新后免费领【驱邪弓】与联动头套，还有联动玩法【无限梦境】同步上线。后续神秘外援也将入职，更有神秘联动免费皮肤正在路上~",
+          "title": " (35,518 人评价)\r\n合作,密室,盗墓",
           "source": "TapTap论坛",
           "url": "https://www.taptap.cn/app/714123/topic",
           "link_status": "unknown",
-          "sentiment": "positive",
-          "title_en": "After the update on July 30, you can receive the [Exorcist Bow] and the linked headgear for free, and the linked gameplay [Infinite Dreamland] will be launched simultaneously. In the future, mysterious foreign players will also join the team, and more mysterious linkage free skins are on the way~",
+          "sentiment": "neutral",
+          "title_en": "(35,518 reviews)\r\nCooperation, secret room, tomb robbing",
           "source_en": "TapTap Forum"
         },
         {
-          "title": "7月30日更新后免费领【驱邪弓】与联动头套，还有联动玩法【无限梦境】同步上线。后续神秘外援也将入职，...",
+          "title": "签到得灵契！海量铲铲币&舞蹈宝箱等你领！",
           "source": "TapTap论坛",
           "url": "https://www.taptap.cn/app/714123/topic",
           "link_status": "unknown",
-          "sentiment": "positive",
-          "title_en": "After the update on July 30, you can receive the [Exorcist Bow] and the linked headgear for free, and the linked gameplay [Infinite Dreamland] will be launched simultaneously. Mysterious foreign players will also join the team in the future...",
+          "sentiment": "neutral",
+          "title_en": "Sign in to get a spiritual contract! Massive shoveling coins and dancing treasure chests are waiting for you!",
+          "source_en": "TapTap Forum"
+        },
+        {
+          "title": "精绝女王棺前点起了蜡烛，但这次吹灯的会是谁？",
+          "source": "TapTap论坛",
+          "url": "https://www.taptap.cn/app/714123/topic",
+          "link_status": "unknown",
+          "sentiment": "neutral",
+          "title_en": "Candles were lit in front of Queen Jingjue's coffin, but who would blow out the candle this time?",
           "source_en": "TapTap Forum"
         },
         {
@@ -317,57 +334,48 @@
           "source_en": "TapTap Forum"
         },
         {
-          "title": "工区突现莉莉和布布玩偶，多队【魔王护】贡献最帅击杀",
-          "source": "TapTap论坛",
-          "url": "https://www.taptap.cn/app/714123/topic",
-          "link_status": "unknown",
-          "sentiment": "positive",
-          "title_en": "Lily and Bubu Doll appeared in the work area, and multiple teams of [Demon King Protectors] contributed the most handsome kills",
-          "source_en": "TapTap Forum"
-        },
-        {
-          "title": "希望有一个不忘本的莉莉做我的兔子，最好能随时上线那种，本人只会摸金不会四队，想玩四队的可以不用找我😊玩的好可考虑做独生兔",
+          "title": "主玩超自然，泰拉瑞亚，王者，mc ，15岁左右，主要d女(男也可以)，技术不限，不嫌我菜就行😅情绪稳定的比较好😁有兴趣加taptap，私发id",
           "source": "TapTap论坛",
           "url": "https://www.taptap.cn/app/714123/topic",
           "link_status": "unknown",
           "sentiment": "neutral",
-          "title_en": "I hope to have a Lily who doesn’t forget her roots as my rabbit. It’s best to be online at any time. I can only touch gold but not four teams. If you want to play four teams, you don’t have to ask me. If you play well, you can consider becoming an only child rabbit.",
+          "title_en": "Mainly playing Supernatural, Terraria, King of Kings, MC, about 15 years old, mainly female (male can also be used), no skill limit, just don’t think I am too good for you😅It’s better if you are emotionally stable😁If you are interested in adding taptap, send me your ID privately",
           "source_en": "TapTap Forum"
         },
         {
-          "title": "希望有一个不忘本的莉莉做我的兔子，最好能随时上线那种，本人只会摸金不会四队，想玩四队的可以不用找我😊...",
+          "title": "主玩超自然，泰拉瑞亚，王者，mc ，15岁左右，主要d女(男也可以)，技术不限，不嫌我菜就行😅情绪稳...",
           "source": "TapTap论坛",
           "url": "https://www.taptap.cn/app/714123/topic",
           "link_status": "unknown",
           "sentiment": "neutral",
-          "title_en": "I hope to have a Lily who never forgets her roots as my rabbit. It’s best to be online at any time. I only know how to make money but not the four teams. If you want to play in the four teams, you don’t need to come to me😊...",
+          "title_en": "Mainly plays Supernatural, Terraria, King of Kings, MC, about 15 years old, mainly female (male can also be), no skill limit, just don’t think I’m too good for you😅Emotionally stable...",
           "source_en": "TapTap Forum"
         },
         {
-          "title": "版更速递！小地图优化后能边走边看，阿念脖子拯救计划也已开启！",
+          "title": "这个游戏怎么玩，目前就只能在低级图捡垃圾每把几万的赚，角色也理解不明白，有没有大佬进行指导",
+          "source": "TapTap论坛",
+          "url": "https://www.taptap.cn/app/714123/topic",
+          "link_status": "unknown",
+          "sentiment": "negative",
+          "title_en": "How to play this game? Currently, you can only earn tens of thousands per hand by picking up trash in low-level maps. I don’t understand the characters. Is there anyone who can guide me?",
+          "source_en": "TapTap Forum"
+        },
+        {
+          "title": "参与“2025我的年度游戏报告”活动获得",
           "source": "TapTap论坛",
           "url": "https://www.taptap.cn/app/714123/topic",
           "link_status": "unknown",
           "sentiment": "neutral",
-          "title_en": "Updates delivered quickly! The mini map has been optimized so that you can view it while walking, and the A Nian Neck Rescue Plan has also been launched!",
+          "title_en": "Participate in the \"2025 My Annual Game Report\" activity to obtain",
           "source_en": "TapTap Forum"
         },
         {
-          "title": "希望游戏官方能把莉莉削弱，不是因为他不好玩，在组队里边，几乎全部都是要莉莉背包的其他的角色压根进不了...",
+          "title": "前几天才下的，想找个大佬带我一下，资金给我够撤离的就行，遇到怪你说打我上去就打一点不怂，一点不忘本（...",
           "source": "TapTap论坛",
           "url": "https://www.taptap.cn/app/714123/topic",
           "link_status": "unknown",
           "sentiment": "neutral",
-          "title_en": "I hope the game official can weaken Lily, not because he is not fun. In the team, almost all other characters who need Lily's backpack cannot enter...",
-          "source_en": "TapTap Forum"
-        },
-        {
-          "title": "#超自然行动组摸金 \n我是一个新手，不会摸金，也找不到棺，也不会看小抄，刚开始玩莉莉，可以当莉莉背包...",
-          "source": "TapTap论坛",
-          "url": "https://www.taptap.cn/app/714123/topic",
-          "link_status": "unknown",
-          "sentiment": "neutral",
-          "title_en": "#paranormalactiongrouptouch gold\nI'm a newbie, I don't know how to touch gold, find a coffin, or read cheat sheets. I just started playing Lily, and I can use it as a Lily backpack...",
+          "title_en": "I just downloaded it a few days ago. I want to find a big boss to guide me. I just need to give me enough funds to evacuate. If you encounter a monster and you ask me to attack it, I will fight without fear and without forgetting my roots (...",
           "source_en": "TapTap Forum"
         }
       ],
@@ -381,8 +389,8 @@
             "title": "南瓜入侵，幽魂大运来了！",
             "bvid": "BV1xCkfBjENz",
             "url": "https://www.bilibili.com/video/BV1xCkfBjENz",
-            "play": 5792192,
-            "like": 34732,
+            "play": 5791630,
+            "like": 34725,
             "danmaku": 186,
             "author": "張某人ZSS",
             "duration": "1:27",
@@ -394,9 +402,9 @@
             "title": "教会你们如何在超自然找到大佬",
             "bvid": "BV1d2tGz2E3Z",
             "url": "https://www.bilibili.com/video/BV1d2tGz2E3Z",
-            "play": 4735795,
-            "like": 32011,
-            "danmaku": 401,
+            "play": 4734996,
+            "like": 31997,
+            "danmaku": 400,
             "author": "中二的小溢",
             "duration": "5:45",
             "pic": "https://i2.hdslb.com/bfs/archive/d70e085a135fbe95fd9d6413a3cde6264ad72960.jpg",
@@ -407,8 +415,8 @@
             "title": "超自然行动组怪物图鉴第六期「小熊猫」",
             "bvid": "BV1QCjiz2Evq",
             "url": "https://www.bilibili.com/video/BV1QCjiz2Evq",
-            "play": 3724434,
-            "like": 16780,
+            "play": 3722955,
+            "like": 16773,
             "danmaku": 223,
             "author": "就是黄大毛",
             "duration": "1:45",
@@ -420,9 +428,9 @@
             "title": "本来想卖掉大鹅、看到眼神心软了",
             "bvid": "BV1Wv6bBWEmn",
             "url": "https://www.bilibili.com/video/BV1Wv6bBWEmn",
-            "play": 3513085,
-            "like": 115555,
-            "danmaku": 1697,
+            "play": 3512424,
+            "like": 115540,
+            "danmaku": 1689,
             "author": "虎熊寺",
             "duration": "1:24",
             "pic": "https://i0.hdslb.com/bfs/archive/85eb76c39837c40ba46fd54b2eaef7c07194ce6c.jpg",
@@ -433,8 +441,8 @@
             "title": "搜打撤黑马？！《超自然行动组》凭什么能爆火？",
             "bvid": "BV11hsheJE5i",
             "url": "https://www.bilibili.com/video/BV11hsheJE5i",
-            "play": 2928718,
-            "like": 31666,
+            "play": 2928654,
+            "like": 31667,
             "danmaku": 45,
             "author": "白馆长丶",
             "duration": "4:39",
@@ -446,7 +454,7 @@
             "title": "为什么幸福的人不会来到超自然行动组？",
             "bvid": "BV1Zqu4z5ETn",
             "url": "https://www.bilibili.com/video/BV1Zqu4z5ETn",
-            "play": 2791416,
+            "play": 2791222,
             "like": 9010,
             "danmaku": 146,
             "author": "白白鸭游戏",
@@ -474,8 +482,8 @@
         "us": {
           "name": "美国",
           "rating": 4.55,
-          "rating_count": 786,
-          "current_version": "1.31.9",
+          "rating_count": 770,
+          "current_version": "1.30.5",
           "price": "Free",
           "genre": "Games",
           "name_en": "US"
@@ -483,17 +491,17 @@
         "jp": {
           "name": "日本",
           "rating": 4.43,
-          "rating_count": 2244,
-          "current_version": "1.31.9",
+          "rating_count": 2183,
+          "current_version": "1.30.5",
           "price": "無料",
           "genre": "Games",
           "name_en": "Japan"
         },
         "kr": {
           "name": "韩国",
-          "rating": 3.86,
-          "rating_count": 271,
-          "current_version": "1.31.9",
+          "rating": 3.87,
+          "rating_count": 270,
+          "current_version": "1.30.5",
           "price": "무료",
           "genre": "Games",
           "name_en": "South Korea"
@@ -512,8 +520,8 @@
         }
       },
       "app_store_rating": 4.28,
-      "total_ratings": 3301,
-      "updated": "2026-07-27 03:19",
+      "total_ratings": 3223,
+      "updated": "2026-07-23 02:50",
       "name_en": "Tomb Busters"
     },
     "app_store_rankings": {
@@ -523,7 +531,7 @@
         "free_games": null,
         "grossing_overall": null,
         "grossing_games": null,
-        "updated": "2026-07-27 03:19",
+        "updated": "2026-07-23 02:50",
         "name_en": "US"
       },
       "jp": {
@@ -532,7 +540,7 @@
         "free_games": null,
         "grossing_overall": null,
         "grossing_games": null,
-        "updated": "2026-07-27 03:19",
+        "updated": "2026-07-23 02:50",
         "name_en": "Japan"
       },
       "kr": {
@@ -541,7 +549,7 @@
         "free_games": null,
         "grossing_overall": null,
         "grossing_games": null,
-        "updated": "2026-07-27 03:19",
+        "updated": "2026-07-23 02:50",
         "name_en": "South Korea"
       },
       "tw": {
@@ -550,7 +558,7 @@
         "free_games": null,
         "grossing_overall": null,
         "grossing_games": null,
-        "updated": "2026-07-27 03:19",
+        "updated": "2026-07-23 02:50",
         "name_en": "Taiwan, China"
       },
       "hk": {
@@ -559,7 +567,7 @@
         "free_games": null,
         "grossing_overall": null,
         "grossing_games": null,
-        "updated": "2026-07-27 03:19",
+        "updated": "2026-07-23 02:50",
         "name_en": "Hong Kong, China"
       }
     },
@@ -568,10 +576,10 @@
         "name": "中国",
         "name_en": "China",
         "free_overall": null,
-        "free_games": 18,
-        "grossing_overall": 43,
-        "grossing_games": 25,
-        "updated": "2026-07-27 03:19",
+        "free_games": 19,
+        "grossing_overall": 49,
+        "grossing_games": 26,
+        "updated": "2026-07-23 02:50",
         "peak_grossing_games": 6,
         "peak_free_overall": null
       }
@@ -579,88 +587,35 @@
     "stock_price": {
       "code": "SZ002558",
       "name": "巨人网络",
-      "price": 24.34,
-      "prev_close": 24.18,
-      "change_pct": 0.66,
-      "change_amt": 0.16,
-      "updated": "2026-07-27 03:19",
+      "price": 25.64,
+      "prev_close": 28.02,
+      "change_pct": -8.49,
+      "change_amt": -2.38,
+      "updated": "2026-07-23 02:50",
       "name_en": "Giant Network"
     },
     "new_content_tracker": [
       {
-        "id": "新地图",
-        "name": "新地图",
-        "status": "live",
-        "first_seen": "2026-07-27",
-        "launch_date": null,
-        "tags": [
-          "新地图",
-          "新服"
-        ],
-        "announcements": [
-          {
-            "title": "虫潮不认来客，人心深过幽谷，【云南虫谷】多队新地图上线啦！\n全新Boss，丰厚秘藏，谁能夺宝而归？\n...",
-            "date": "2026-07-27",
-            "source": "TapTap官方",
-            "url": "https://www.taptap.cn/app/714123/topic?type=official",
-            "title_en": "The insect tide does not recognize visitors, and people's hearts are as deep as the deep valley. [Yunnan Worm Valley] A new multi-team map is online!\nBrand new boss, rich treasures, who can win the treasure?\n...",
-            "source_en": "TapTap Official"
-          }
-        ],
-        "player_reactions": {
-          "positive": 0,
-          "neutral": 0,
-          "negative": 0
-        },
-        "name_en": "New Map",
-        "tags_en": [
-          "New Map",
-          "New Server"
-        ]
-      },
-      {
-        "id": "角色重做",
-        "name": "角色重做",
-        "status": "announced",
-        "first_seen": "2026-07-27",
-        "launch_date": null,
-        "tags": [
-          "角色重做"
-        ],
-        "announcements": [
-          {
-            "title": "阿念重做登场！",
-            "date": "2026-07-27",
-            "source": "官网",
-            "url": "https://www.chaoziran.com/news/538",
-            "title_en": "A Nian’s rework is here!",
-            "source_en": "Official Site",
-            "link_status": "valid"
-          }
-        ],
-        "player_reactions": {
-          "positive": 0,
-          "neutral": 0,
-          "negative": 0
-        },
-        "name_en": "Character Rework",
-        "tags_en": [
-          "Character Rework"
-        ]
-      },
-      {
         "id": "新怪物",
         "name": "新怪物",
         "status": "teased",
-        "first_seen": "2026-07-27",
+        "first_seen": "2026-07-23",
         "launch_date": null,
         "tags": [
           "新怪物"
         ],
         "announcements": [
           {
+            "title": "云南虫谷摸金模式新怪物【巨型戏偶】信息爆料",
+            "date": "2026-07-23",
+            "source": "TapTap官方",
+            "url": "https://www.taptap.cn/app/714123/topic?type=official",
+            "title_en": "Information about the new monster [Giant Puppet] in Yunnan Worm Valley’s Gold Hunting Mode has been revealed",
+            "source_en": "TapTap Official"
+          },
+          {
             "title": "新怪物【鸭子】实机展示，追上了命都给你哦",
-            "date": "2026-07-27",
+            "date": "2026-07-23",
             "source": "官网",
             "url": "https://www.chaoziran.com/news/535",
             "title_en": "The new monster [Duck] is shown in action. If you catch up, you will be given life.",
@@ -677,8 +632,38 @@
         "tags_en": [
           "New Monster"
         ]
+      },
+      {
+        "id": "角色重做",
+        "name": "角色重做",
+        "status": "announced",
+        "first_seen": "2026-07-23",
+        "launch_date": null,
+        "tags": [
+          "角色重做"
+        ],
+        "announcements": [
+          {
+            "title": "阿念重做登场！",
+            "date": "2026-07-23",
+            "source": "官网",
+            "url": "https://www.chaoziran.com/news/538",
+            "title_en": "A Nian’s rework is here!",
+            "source_en": "Official Site",
+            "link_status": "valid"
+          }
+        ],
+        "player_reactions": {
+          "positive": 0,
+          "neutral": 0,
+          "negative": 0
+        },
+        "name_en": "Character Rework",
+        "tags_en": [
+          "Character Rework"
+        ]
       }
     ],
-    "crawled_at": "2026-07-27T03:19:08.570055"
+    "crawled_at": "2026-07-23T02:50:06.244251"
   }
 }

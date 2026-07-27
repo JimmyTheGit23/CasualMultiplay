@@ -11,6 +11,7 @@ jobs:
     runs-on: ubuntu-latest
     permissions:
       contents: write
+    timeout-minutes: 20
     
     steps:
       - uses: actions/checkout@v4
@@ -24,13 +25,16 @@ jobs:
         run: |
           pip install requests pillow
       
+      # === Steam 数据 ===
       - name: Run steam crawler
         run: |
           python scripts/steam_crawler.py
+        continue-on-error: true
       
       - name: Run CCU snapshot
         run: |
           python scripts/snapshot_ccu.py
+        continue-on-error: true
       
       - name: Run fetch developers
         run: |
@@ -45,7 +49,9 @@ jobs:
       - name: Run potential calculator
         run: |
           python scripts/calc_potential.py
+        continue-on-error: true
       
+      # === 重点游戏追踪 ===
       - name: Run DBD crawler
         run: |
           python scripts/dbd_crawler.py
@@ -61,27 +67,48 @@ jobs:
           python scripts/chaoziran_crawler.py
         continue-on-error: true
       
+      - name: Run Chaoziran overseas crawler
+        run: |
+          python scripts/chaoziran_overseas_crawler.py
+        continue-on-error: true
+      
+      - name: Run Steam news crawler
+        run: |
+          python scripts/steam_news_crawler.py
+        continue-on-error: true
+      
+      # === Roblox 数据 ===
+      - name: Run Roblox crawler
+        run: |
+          python scripts/roblox_crawler.py
+        continue-on-error: true
+      
+      # === 数据验证 ===
       - name: Run DataValidator
         id: validate
         continue-on-error: true
         run: |
           python scripts/validate_data.py
       
-      - name: Commit and push
-        if: steps.validate.outcome == 'success'
+      # === 健康检查 (数据是否及时更新) ===
+      - name: Health check
+        continue-on-error: true
         run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add docs/data/
-          git diff --staged --quiet || git commit -m "chore: daily data snapshot $(date -u +%Y-%m-%d) [PASS]"
-          git push
+          python scripts/health_check.py
       
-      - name: Commit failed validation (still push data, flag issues)
-        if: steps.validate.outcome == 'failure'
+      # === 强制 commit (即使部分失败也 push 数据) ===
+      - name: Commit and push
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add docs/data/
-          git diff --staged --quiet || git commit -m "chore: daily data snapshot $(date -u +%Y-%m-%d) [VALIDATION FAILED - check report]"
-          git push
-          echo "::warning::DataValidator 发现 ERROR,详见 docs/data/validation_report.json"
+          if git diff --staged --quiet; then
+            echo "No data changes"
+          else
+            VALIDATION_STATUS="PASS"
+            if [ "${{ steps.validate.outcome }}" != "success" ]; then
+              VALIDATION_STATUS="VALIDATION FAILED - check report"
+            fi
+            git commit -m "chore: daily data snapshot $(date -u +%Y-%m-%d) [$VALIDATION_STATUS]"
+            git push
+          fi
