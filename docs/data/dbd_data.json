@@ -1,10 +1,10 @@
 {
-  "snapshot_date": "2026-07-27T23:18:18+08:00",
+  "snapshot_date": "2026-07-28T23:14:56+08:00",
   "hero": {
     "name": "黎明杀机",
-    "current_players": 62359,
+    "current_players": 72236,
     "positive_rate": 78.4,
-    "reviews_total": 922846,
+    "reviews_total": 923080,
     "price_label": "¥ 93.75",
     "release_date": "2016 年 6 月 14 日",
     "genres": [
@@ -12,6 +12,17 @@
     ]
   },
   "operations": [
+    {
+      "date": "2026-07-28",
+      "timestamp": 1785247243,
+      "title": "July Community Stream | Gameplay Showcase Recap",
+      "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1839041357038393",
+      "author": "rblanchard_bhvr",
+      "feed_label": "Community Announcements",
+      "feed_type": "官方",
+      "is_patch": false,
+      "contents": "Greetings Fog Dwellers! Last week, we hosted our July Community Stream, where we dug into upcoming gameplay updates and shared more about the Grimoire (check out the stream recording here). Unfortunat"
+    },
     {
       "date": "2026-07-21",
       "timestamp": 1784644290,
@@ -88,17 +99,6 @@
       "feed_type": "官方",
       "is_patch": false,
       "contents": "ImportantThe Doctor has been re-enabled in the 10th Anniversary Event queue.ContentKiller Add-on UpdatesThe Slasher's add-onsDeputy's Badge (Very Rare)While in Omnipresent Evil, passing within 2m of a"
-    },
-    {
-      "date": "2026-07-06",
-      "timestamp": 1783333363,
-      "title": "Limmy has finally been banned from Dead by Daylight, but he'll be back very soon",
-      "url": "https://steamstore-a.akamaihd.net/news/externalpost/PCGamesN/1836506165575869",
-      "author": "editor@pcgamesn.com",
-      "feed_label": "PCGamesN",
-      "feed_type": "媒体",
-      "is_patch": false,
-      "contents": "\"It has finally happened,\" Limmy says. \"Hello everybody; I have been banned from Dead by Daylight for having a laugh.\" It's official: Limmy has, indeed, been banned from playing Behaviour's iconic hor"
     }
   ],
   "patches": [],
@@ -159,11 +159,11 @@
     ]
   },
   "reviews": {
-    "total_reviews": 922846,
-    "positive": 723857,
-    "negative": 198989,
+    "total_reviews": 923080,
+    "positive": 724035,
+    "negative": 199045,
     "positive_rate": 78.4
   },
-  "ccu": 62359,
-  "crawled_at": "2026-07-27T23:18:18.239251"
+  "ccu": 72236,
+  "crawled_at": "2026-07-28T23:14:56.807202"
 }
