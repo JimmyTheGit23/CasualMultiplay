@@ -249,7 +249,7 @@
       "is_official": true,
       "contents": "Hey hey semibots! Here is yet another small update with some fixes and balancing! CHANGES BALANCING FIXES CHANGES Item Melee Weapons - Handling now properly scales with strength and should feel firmer"
     },
-    "crawled_at": "2026-07-28T23:16:14.411226"
+    "crawled_at": "2026-07-29T23:12:19.222206"
   },
   "Lethal Company": {
     "appid": 1966720,
@@ -501,7 +501,7 @@
       "is_official": true,
       "contents": "Hello, long time no see! Version 80 is out in beta for you to test. You can access it by opting into the public beta branch for Lethal Company on Steam. V80 brings a complete rework of March's exterio"
     },
-    "crawled_at": "2026-07-28T23:16:15.630798"
+    "crawled_at": "2026-07-29T23:12:20.319958"
   },
   "Phasmophobia": {
     "appid": 739630,
@@ -753,7 +753,7 @@
       "is_official": true,
       "contents": "Welcome back, Ghost Hunters. We've deployed a small hotfix to address feedback on the Equipment and Item slot assignments. Patch notes below: ChangesItems and Equipment will now be assigned a slot in "
     },
-    "crawled_at": "2026-07-28T23:16:16.806662"
+    "crawled_at": "2026-07-29T23:12:21.487254"
   },
   "Content Warning": {
     "appid": 2881650,
@@ -1005,7 +1005,7 @@
       "is_official": true,
       "contents": "Hello Spööktubers! Thank you for your patience as we're fixing bugs on all platforms.Here's a new patch fixing some stuff!For those of you wondering when crossplay between Switch 1 & 2 and other platf"
     },
-    "crawled_at": "2026-07-28T23:16:18.090170"
+    "crawled_at": "2026-07-29T23:12:22.816106"
   },
   "FEEDERS": {
     "appid": 4408510,
@@ -1256,12 +1256,23 @@
       "is_official": true,
       "contents": "Gave the HUD a fresh redesign. New look across the board — the status bars (Health, Stamina, Radiation) and the bottom belt all got reworked. Same info, cleaner read. More guns coming with new solo ex"
     },
-    "crawled_at": "2026-07-28T23:16:19.294519"
+    "crawled_at": "2026-07-29T23:12:23.996647"
   },
   "NARAKA: BLADEPOINT": {
     "appid": 1203220,
     "all": [
       {
+        "date": "2026-07-29",
+        "datetime": "2026-07-29T16:03:28",
+        "title": "NARAKA: BLADEPOINT Update – July 30th, 2026",
+        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1839676055882951",
+        "author": "Yeeeeee",
+        "feed_label": "Community Announcements",
+        "is_patch": false,
+        "is_official": true,
+        "contents": "Dear players, The servers of NARAKA: BLADEPOINT will be suspended for maintenance from July 29th, 2026 23:00 (UTC) to July 30th, 2026 04:00 (UTC). We suggest you log out in advance and enter the game "
+      },
+      {
         "date": "2026-07-28",
         "datetime": "2026-07-28T14:25:13",
         "title": "NARAKA: BLADEPOINT Banned Players List July 28th",
@@ -1359,22 +1370,22 @@
         "is_patch": false,
         "is_official": true,
         "contents": "Dear players,   NARAKA: BLADEPOINT is committed to creating a fair and healthy competitive environment. We have not only used new anti-cheat technologies, but also established special cheat-reporting "
-      },
-      {
-        "date": "2026-06-17",
-        "datetime": "2026-06-17T10:48:49",
-        "title": "NARAKA: BLADEPOINT Banned Players List June 17th",
-        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1835871199300311",
-        "author": "Yeeeeee",
-        "feed_label": "Community Announcements",
-        "is_patch": false,
-        "is_official": true,
-        "contents": "Dear players, NARAKA: BLADEPOINT is committed to creating a fair and healthy competitive environment. We have not only used new anti-cheat technologies, but also established special cheat-reporting re"
       }
     ],
     "patches": [],
     "announcements": [
       {
+        "date": "2026-07-29",
+        "datetime": "2026-07-29T16:03:28",
+        "title": "NARAKA: BLADEPOINT Update – July 30th, 2026",
+        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1839676055882951",
+        "author": "Yeeeeee",
+        "feed_label": "Community Announcements",
+        "is_patch": false,
+        "is_official": true,
+        "contents": "Dear players, The servers of NARAKA: BLADEPOINT will be suspended for maintenance from July 29th, 2026 23:00 (UTC) to July 30th, 2026 04:00 (UTC). We suggest you log out in advance and enter the game "
+      },
+      {
         "date": "2026-07-28",
         "datetime": "2026-07-28T14:25:13",
         "title": "NARAKA: BLADEPOINT Banned Players List July 28th",
@@ -1472,37 +1483,37 @@
         "is_patch": false,
         "is_official": true,
         "contents": "Dear players,   NARAKA: BLADEPOINT is committed to creating a fair and healthy competitive environment. We have not only used new anti-cheat technologies, but also established special cheat-reporting "
-      },
-      {
-        "date": "2026-06-17",
-        "datetime": "2026-06-17T10:48:49",
-        "title": "NARAKA: BLADEPOINT Banned Players List June 17th",
-        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1835871199300311",
-        "author": "Yeeeeee",
-        "feed_label": "Community Announcements",
-        "is_patch": false,
-        "is_official": true,
-        "contents": "Dear players, NARAKA: BLADEPOINT is committed to creating a fair and healthy competitive environment. We have not only used new anti-cheat technologies, but also established special cheat-reporting re"
       }
     ],
     "latest": {
-      "date": "2026-07-28",
-      "datetime": "2026-07-28T14:25:13",
-      "title": "NARAKA: BLADEPOINT Banned Players List July 28th",
-      "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1839041357038455",
+      "date": "2026-07-29",
+      "datetime": "2026-07-29T16:03:28",
+      "title": "NARAKA: BLADEPOINT Update – July 30th, 2026",
+      "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1839676055882951",
       "author": "Yeeeeee",
       "feed_label": "Community Announcements",
       "is_patch": false,
       "is_official": true,
-      "contents": "Dear players, NARAKA: BLADEPOINT is committed to creating a fair and healthy competitive environment. We have not only used new anti-cheat technologies, but also established special cheat-reporting re"
+      "contents": "Dear players, The servers of NARAKA: BLADEPOINT will be suspended for maintenance from July 29th, 2026 23:00 (UTC) to July 30th, 2026 04:00 (UTC). We suggest you log out in advance and enter the game "
     },
     "latest_patch": null,
-    "crawled_at": "2026-07-28T23:16:20.495594"
+    "crawled_at": "2026-07-29T23:12:25.122808"
   },
   "Dead by Daylight": {
     "appid": 381210,
     "all": [
       {
+        "date": "2026-07-29",
+        "datetime": "2026-07-29T17:11:32",
+        "title": "Stats | Global Stats",
+        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1839676055883131",
+        "author": "rblanchard_bhvr",
+        "feed_label": "Community Announcements",
+        "is_patch": false,
+        "is_official": true,
+        "contents": "Welcome again, Fog Dwellers, to another round of stats. This time, we’ve got some stats from different parts of the globe. No matter how far apart you are or what language you speak, we are all connec"
+      },
+      {
         "date": "2026-07-28",
         "datetime": "2026-07-28T14:00:43",
         "title": "July Community Stream | Gameplay Showcase Recap",
@@ -1600,22 +1611,22 @@
         "is_patch": false,
         "is_official": false,
         "contents": "\"It has finally happened,\" Limmy says. \"Hello everybody; I have been banned from Dead by Daylight for having a laugh.\" It's official: Limmy has, indeed, been banned from playing Behaviour's iconic hor"
-      },
-      {
-        "date": "2026-06-30",
-        "datetime": "2026-06-30T09:00:00",
-        "title": "Steam Global Top Sellers for week of 23 Jun — 30 June 2026",
-        "url": "https://steamstore-a.akamaihd.net/news/externalpost/SteamDB/1836506165562533",
-        "author": "SteamDB",
-        "feed_label": "SteamDB",
-        "is_patch": false,
-        "is_official": false,
-        "contents": "<a href=\"https://steamdb.info/topsellers/2026W27/?utm_source=Steam&utm_medium=Steam&utm_campaign=SteamRSS\"> </a> * <a href=\"https://steamdb.info/app/4704690/charts/?utm_source=Steam&utm_medium=Steam&u"
       }
     ],
     "patches": [],
     "announcements": [
       {
+        "date": "2026-07-29",
+        "datetime": "2026-07-29T17:11:32",
+        "title": "Stats | Global Stats",
+        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1839676055883131",
+        "author": "rblanchard_bhvr",
+        "feed_label": "Community Announcements",
+        "is_patch": false,
+        "is_official": true,
+        "contents": "Welcome again, Fog Dwellers, to another round of stats. This time, we’ve got some stats from different parts of the globe. No matter how far apart you are or what language you speak, we are all connec"
+      },
+      {
         "date": "2026-07-28",
         "datetime": "2026-07-28T14:00:43",
         "title": "July Community Stream | Gameplay Showcase Recap",
@@ -1713,31 +1724,20 @@
         "is_patch": false,
         "is_official": false,
         "contents": "\"It has finally happened,\" Limmy says. \"Hello everybody; I have been banned from Dead by Daylight for having a laugh.\" It's official: Limmy has, indeed, been banned from playing Behaviour's iconic hor"
-      },
-      {
-        "date": "2026-06-30",
-        "datetime": "2026-06-30T09:00:00",
-        "title": "Steam Global Top Sellers for week of 23 Jun — 30 June 2026",
-        "url": "https://steamstore-a.akamaihd.net/news/externalpost/SteamDB/1836506165562533",
-        "author": "SteamDB",
-        "feed_label": "SteamDB",
-        "is_patch": false,
-        "is_official": false,
-        "contents": "<a href=\"https://steamdb.info/topsellers/2026W27/?utm_source=Steam&utm_medium=Steam&utm_campaign=SteamRSS\"> </a> * <a href=\"https://steamdb.info/app/4704690/charts/?utm_source=Steam&utm_medium=Steam&u"
       }
     ],
     "latest": {
-      "date": "2026-07-28",
-      "datetime": "2026-07-28T14:00:43",
-      "title": "July Community Stream | Gameplay Showcase Recap",
-      "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1839041357038393",
+      "date": "2026-07-29",
+      "datetime": "2026-07-29T17:11:32",
+      "title": "Stats | Global Stats",
+      "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1839676055883131",
       "author": "rblanchard_bhvr",
       "feed_label": "Community Announcements",
       "is_patch": false,
       "is_official": true,
-      "contents": "Greetings Fog Dwellers! Last week, we hosted our July Community Stream, where we dug into upcoming gameplay updates and shared more about the Grimoire (check out the stream recording here). Unfortunat"
+      "contents": "Welcome again, Fog Dwellers, to another round of stats. This time, we’ve got some stats from different parts of the globe. No matter how far apart you are or what language you speak, we are all connec"
     },
     "latest_patch": null,
-    "crawled_at": "2026-07-28T23:16:21.805535"
+    "crawled_at": "2026-07-29T23:12:26.264080"
   }
 }

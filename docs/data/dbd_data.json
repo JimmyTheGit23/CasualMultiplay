@@ -1,10 +1,10 @@
 {
-  "snapshot_date": "2026-07-28T23:14:56+08:00",
+  "snapshot_date": "2026-07-29T23:11:03+08:00",
   "hero": {
     "name": "黎明杀机",
-    "current_players": 72236,
+    "current_players": 65116,
     "positive_rate": 78.4,
-    "reviews_total": 923080,
+    "reviews_total": 923316,
     "price_label": "¥ 93.75",
     "release_date": "2016 年 6 月 14 日",
     "genres": [
@@ -12,6 +12,17 @@
     ]
   },
   "operations": [
+    {
+      "date": "2026-07-29",
+      "timestamp": 1785345092,
+      "title": "Stats | Global Stats",
+      "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1839676055883131",
+      "author": "rblanchard_bhvr",
+      "feed_label": "Community Announcements",
+      "feed_type": "官方",
+      "is_patch": false,
+      "contents": "Welcome again, Fog Dwellers, to another round of stats. This time, we’ve got some stats from different parts of the globe. No matter how far apart you are or what language you speak, we are all connec"
+    },
     {
       "date": "2026-07-28",
       "timestamp": 1785247243,
@@ -88,17 +99,6 @@
       "feed_type": "媒体",
       "is_patch": false,
       "contents": "<a href=\"https://steamdb.info/topsellers/2026W28/?utm_source=Steam&utm_medium=Steam&utm_campaign=SteamRSS\"> </a> * <a href=\"https://steamdb.info/app/4704690/charts/?utm_source=Steam&utm_medium=Steam&u"
-    },
-    {
-      "date": "2026-07-06",
-      "timestamp": 1783348216,
-      "title": "10.0.2 | Bugfix Patch",
-      "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165576085",
-      "author": "Donnary21st",
-      "feed_label": "Community Announcements",
-      "feed_type": "官方",
-      "is_patch": false,
-      "contents": "ImportantThe Doctor has been re-enabled in the 10th Anniversary Event queue.ContentKiller Add-on UpdatesThe Slasher's add-onsDeputy's Badge (Very Rare)While in Omnipresent Evil, passing within 2m of a"
     }
   ],
   "patches": [],
@@ -159,11 +159,11 @@
     ]
   },
   "reviews": {
-    "total_reviews": 923080,
-    "positive": 724035,
-    "negative": 199045,
+    "total_reviews": 923316,
+    "positive": 724222,
+    "negative": 199094,
     "positive_rate": 78.4
   },
-  "ccu": 72236,
-  "crawled_at": "2026-07-28T23:14:56.807202"
+  "ccu": 65116,
+  "crawled_at": "2026-07-29T23:11:03.335246"
 }
