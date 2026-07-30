@@ -249,7 +249,7 @@
       "is_official": true,
       "contents": "Hey hey semibots! Here is yet another small update with some fixes and balancing! CHANGES BALANCING FIXES CHANGES Item Melee Weapons - Handling now properly scales with strength and should feel firmer"
     },
-    "crawled_at": "2026-07-29T23:12:19.222206"
+    "crawled_at": "2026-07-30T23:22:03.659008"
   },
   "Lethal Company": {
     "appid": 1966720,
@@ -501,7 +501,7 @@
       "is_official": true,
       "contents": "Hello, long time no see! Version 80 is out in beta for you to test. You can access it by opting into the public beta branch for Lethal Company on Steam. V80 brings a complete rework of March's exterio"
     },
-    "crawled_at": "2026-07-29T23:12:20.319958"
+    "crawled_at": "2026-07-30T23:22:04.769692"
   },
   "Phasmophobia": {
     "appid": 739630,
@@ -753,7 +753,7 @@
       "is_official": true,
       "contents": "Welcome back, Ghost Hunters. We've deployed a small hotfix to address feedback on the Equipment and Item slot assignments. Patch notes below: ChangesItems and Equipment will now be assigned a slot in "
     },
-    "crawled_at": "2026-07-29T23:12:21.487254"
+    "crawled_at": "2026-07-30T23:22:05.965229"
   },
   "Content Warning": {
     "appid": 2881650,
@@ -1005,7 +1005,7 @@
       "is_official": true,
       "contents": "Hello Spööktubers! Thank you for your patience as we're fixing bugs on all platforms.Here's a new patch fixing some stuff!For those of you wondering when crossplay between Switch 1 & 2 and other platf"
     },
-    "crawled_at": "2026-07-29T23:12:22.816106"
+    "crawled_at": "2026-07-30T23:22:07.098610"
   },
   "FEEDERS": {
     "appid": 4408510,
@@ -1256,12 +1256,23 @@
       "is_official": true,
       "contents": "Gave the HUD a fresh redesign. New look across the board — the status bars (Health, Stamina, Radiation) and the bottom belt all got reworked. Same info, cleaner read. More guns coming with new solo ex"
     },
-    "crawled_at": "2026-07-29T23:12:23.996647"
+    "crawled_at": "2026-07-30T23:22:08.354108"
   },
   "NARAKA: BLADEPOINT": {
     "appid": 1203220,
     "all": [
       {
+        "date": "2026-07-30",
+        "datetime": "2026-07-30T06:20:29",
+        "title": "New Hero Ye Xiu and First Transforming Weapon Available NOW",
+        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1839676055884356",
+        "author": "Misty",
+        "feed_label": "Community Announcements",
+        "is_patch": false,
+        "is_official": true,
+        "contents": "A Fast, Unpredictable New FighterYe Xiu’s skill set has been carefully designed to reflect the tactical approach of his original character, making him far more than a simple cosmetic reskin. His comba"
+      },
+      {
         "date": "2026-07-29",
         "datetime": "2026-07-29T16:03:28",
         "title": "NARAKA: BLADEPOINT Update – July 30th, 2026",
@@ -1359,22 +1370,22 @@
         "is_patch": false,
         "is_official": true,
         "contents": "Dear players, NARAKA: BLADEPOINT is committed to creating a fair and healthy competitive environment. We have not only used new anti-cheat technologies, but also established special cheat-reporting re"
-      },
-      {
-        "date": "2026-06-24",
-        "datetime": "2026-06-24T14:23:22",
-        "title": "NARAKA: BLADEPOINT Banned Players List June 24th",
-        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165546160",
-        "author": "Yeeeeee",
-        "feed_label": "Community Announcements",
-        "is_patch": false,
-        "is_official": true,
-        "contents": "Dear players,   NARAKA: BLADEPOINT is committed to creating a fair and healthy competitive environment. We have not only used new anti-cheat technologies, but also established special cheat-reporting "
       }
     ],
     "patches": [],
     "announcements": [
       {
+        "date": "2026-07-30",
+        "datetime": "2026-07-30T06:20:29",
+        "title": "New Hero Ye Xiu and First Transforming Weapon Available NOW",
+        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1839676055884356",
+        "author": "Misty",
+        "feed_label": "Community Announcements",
+        "is_patch": false,
+        "is_official": true,
+        "contents": "A Fast, Unpredictable New FighterYe Xiu’s skill set has been carefully designed to reflect the tactical approach of his original character, making him far more than a simple cosmetic reskin. His comba"
+      },
+      {
         "date": "2026-07-29",
         "datetime": "2026-07-29T16:03:28",
         "title": "NARAKA: BLADEPOINT Update – July 30th, 2026",
@@ -1472,37 +1483,37 @@
         "is_patch": false,
         "is_official": true,
         "contents": "Dear players, NARAKA: BLADEPOINT is committed to creating a fair and healthy competitive environment. We have not only used new anti-cheat technologies, but also established special cheat-reporting re"
-      },
-      {
-        "date": "2026-06-24",
-        "datetime": "2026-06-24T14:23:22",
-        "title": "NARAKA: BLADEPOINT Banned Players List June 24th",
-        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165546160",
-        "author": "Yeeeeee",
-        "feed_label": "Community Announcements",
-        "is_patch": false,
-        "is_official": true,
-        "contents": "Dear players,   NARAKA: BLADEPOINT is committed to creating a fair and healthy competitive environment. We have not only used new anti-cheat technologies, but also established special cheat-reporting "
       }
     ],
     "latest": {
-      "date": "2026-07-29",
-      "datetime": "2026-07-29T16:03:28",
-      "title": "NARAKA: BLADEPOINT Update – July 30th, 2026",
-      "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1839676055882951",
-      "author": "Yeeeeee",
+      "date": "2026-07-30",
+      "datetime": "2026-07-30T06:20:29",
+      "title": "New Hero Ye Xiu and First Transforming Weapon Available NOW",
+      "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1839676055884356",
+      "author": "Misty",
       "feed_label": "Community Announcements",
       "is_patch": false,
       "is_official": true,
-      "contents": "Dear players, The servers of NARAKA: BLADEPOINT will be suspended for maintenance from July 29th, 2026 23:00 (UTC) to July 30th, 2026 04:00 (UTC). We suggest you log out in advance and enter the game "
+      "contents": "A Fast, Unpredictable New FighterYe Xiu’s skill set has been carefully designed to reflect the tactical approach of his original character, making him far more than a simple cosmetic reskin. His comba"
     },
     "latest_patch": null,
-    "crawled_at": "2026-07-29T23:12:25.122808"
+    "crawled_at": "2026-07-30T23:22:09.462625"
   },
   "Dead by Daylight": {
     "appid": 381210,
     "all": [
       {
+        "date": "2026-07-30",
+        "datetime": "2026-07-30T12:00:12",
+        "title": "Chorus of Sin - Early Access",
+        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1839676055885005",
+        "author": "Omnia_BHVR",
+        "feed_label": "Community Announcements",
+        "is_patch": false,
+        "is_official": true,
+        "contents": "We've spent over a year building the Chorus of Sin Chapter with you through The Grimoire. You've been with us every step of the way, one vote at a time, and we wanted to thank you for helping us bring"
+      },
+      {
         "date": "2026-07-29",
         "datetime": "2026-07-29T17:11:32",
         "title": "Stats | Global Stats",
@@ -1600,22 +1611,22 @@
         "is_patch": false,
         "is_official": true,
         "contents": "ImportantThe Doctor has been re-enabled in the 10th Anniversary Event queue.ContentKiller Add-on UpdatesThe Slasher's add-onsDeputy's Badge (Very Rare)While in Omnipresent Evil, passing within 2m of a"
-      },
-      {
-        "date": "2026-07-06",
-        "datetime": "2026-07-06T10:22:43",
-        "title": "Limmy has finally been banned from Dead by Daylight, but he'll be back very soon",
-        "url": "https://steamstore-a.akamaihd.net/news/externalpost/PCGamesN/1836506165575869",
-        "author": "editor@pcgamesn.com",
-        "feed_label": "PCGamesN",
-        "is_patch": false,
-        "is_official": false,
-        "contents": "\"It has finally happened,\" Limmy says. \"Hello everybody; I have been banned from Dead by Daylight for having a laugh.\" It's official: Limmy has, indeed, been banned from playing Behaviour's iconic hor"
       }
     ],
     "patches": [],
     "announcements": [
       {
+        "date": "2026-07-30",
+        "datetime": "2026-07-30T12:00:12",
+        "title": "Chorus of Sin - Early Access",
+        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1839676055885005",
+        "author": "Omnia_BHVR",
+        "feed_label": "Community Announcements",
+        "is_patch": false,
+        "is_official": true,
+        "contents": "We've spent over a year building the Chorus of Sin Chapter with you through The Grimoire. You've been with us every step of the way, one vote at a time, and we wanted to thank you for helping us bring"
+      },
+      {
         "date": "2026-07-29",
         "datetime": "2026-07-29T17:11:32",
         "title": "Stats | Global Stats",
@@ -1713,31 +1724,20 @@
         "is_patch": false,
         "is_official": true,
         "contents": "ImportantThe Doctor has been re-enabled in the 10th Anniversary Event queue.ContentKiller Add-on UpdatesThe Slasher's add-onsDeputy's Badge (Very Rare)While in Omnipresent Evil, passing within 2m of a"
-      },
-      {
-        "date": "2026-07-06",
-        "datetime": "2026-07-06T10:22:43",
-        "title": "Limmy has finally been banned from Dead by Daylight, but he'll be back very soon",
-        "url": "https://steamstore-a.akamaihd.net/news/externalpost/PCGamesN/1836506165575869",
-        "author": "editor@pcgamesn.com",
-        "feed_label": "PCGamesN",
-        "is_patch": false,
-        "is_official": false,
-        "contents": "\"It has finally happened,\" Limmy says. \"Hello everybody; I have been banned from Dead by Daylight for having a laugh.\" It's official: Limmy has, indeed, been banned from playing Behaviour's iconic hor"
       }
     ],
     "latest": {
-      "date": "2026-07-29",
-      "datetime": "2026-07-29T17:11:32",
-      "title": "Stats | Global Stats",
-      "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1839676055883131",
-      "author": "rblanchard_bhvr",
+      "date": "2026-07-30",
+      "datetime": "2026-07-30T12:00:12",
+      "title": "Chorus of Sin - Early Access",
+      "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1839676055885005",
+      "author": "Omnia_BHVR",
       "feed_label": "Community Announcements",
       "is_patch": false,
       "is_official": true,
-      "contents": "Welcome again, Fog Dwellers, to another round of stats. This time, we’ve got some stats from different parts of the globe. No matter how far apart you are or what language you speak, we are all connec"
+      "contents": "We've spent over a year building the Chorus of Sin Chapter with you through The Grimoire. You've been with us every step of the way, one vote at a time, and we wanted to thank you for helping us bring"
     },
     "latest_patch": null,
-    "crawled_at": "2026-07-29T23:12:26.264080"
+    "crawled_at": "2026-07-30T23:22:10.661545"
   }
 }

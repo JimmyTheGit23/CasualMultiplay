@@ -1,10 +1,10 @@
 {
-  "snapshot_date": "2026-07-29T23:11:03+08:00",
+  "snapshot_date": "2026-07-30T23:20:33+08:00",
   "hero": {
     "name": "黎明杀机",
-    "current_players": 65116,
+    "current_players": 63048,
     "positive_rate": 78.4,
-    "reviews_total": 923316,
+    "reviews_total": 923590,
     "price_label": "¥ 93.75",
     "release_date": "2016 年 6 月 14 日",
     "genres": [
@@ -12,6 +12,17 @@
     ]
   },
   "operations": [
+    {
+      "date": "2026-07-30",
+      "timestamp": 1785412812,
+      "title": "Chorus of Sin - Early Access",
+      "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1839676055885005",
+      "author": "Omnia_BHVR",
+      "feed_label": "Community Announcements",
+      "feed_type": "官方",
+      "is_patch": false,
+      "contents": "We've spent over a year building the Chorus of Sin Chapter with you through The Grimoire. You've been with us every step of the way, one vote at a time, and we wanted to thank you for helping us bring"
+    },
     {
       "date": "2026-07-29",
       "timestamp": 1785345092,
@@ -88,17 +99,6 @@
       "feed_type": "媒体",
       "is_patch": false,
       "contents": "Dead by Daylight has been terrifying players for ten years now, so I caught up with Behaviour to chat about DBD's legacy, and its future. Read the full story on PCGamesN: <a href=\"https://www.pcgamesn"
-    },
-    {
-      "date": "2026-07-07",
-      "timestamp": 1783414800,
-      "title": "Steam Global Top Sellers for week of 30 Jun — 7 July 2026",
-      "url": "https://steamstore-a.akamaihd.net/news/externalpost/SteamDB/1836506165578059",
-      "author": "SteamDB",
-      "feed_label": "SteamDB",
-      "feed_type": "媒体",
-      "is_patch": false,
-      "contents": "<a href=\"https://steamdb.info/topsellers/2026W28/?utm_source=Steam&utm_medium=Steam&utm_campaign=SteamRSS\"> </a> * <a href=\"https://steamdb.info/app/4704690/charts/?utm_source=Steam&utm_medium=Steam&u"
     }
   ],
   "patches": [],
@@ -159,11 +159,11 @@
     ]
   },
   "reviews": {
-    "total_reviews": 923316,
-    "positive": 724222,
-    "negative": 199094,
+    "total_reviews": 923590,
+    "positive": 724443,
+    "negative": 199147,
     "positive_rate": 78.4
   },
-  "ccu": 65116,
-  "crawled_at": "2026-07-29T23:11:03.335246"
+  "ccu": 63048,
+  "crawled_at": "2026-07-30T23:20:33.272425"
 }
