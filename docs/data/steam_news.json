@@ -249,7 +249,7 @@
       "is_official": true,
       "contents": "Hey hey semibots! Here is yet another small update with some fixes and balancing! CHANGES BALANCING FIXES CHANGES Item Melee Weapons - Handling now properly scales with strength and should feel firmer"
     },
-    "crawled_at": "2026-07-30T23:22:03.659008"
+    "crawled_at": "2026-07-31T23:17:54.653120"
   },
   "Lethal Company": {
     "appid": 1966720,
@@ -501,7 +501,7 @@
       "is_official": true,
       "contents": "Hello, long time no see! Version 80 is out in beta for you to test. You can access it by opting into the public beta branch for Lethal Company on Steam. V80 brings a complete rework of March's exterio"
     },
-    "crawled_at": "2026-07-30T23:22:04.769692"
+    "crawled_at": "2026-07-31T23:17:55.874172"
   },
   "Phasmophobia": {
     "appid": 739630,
@@ -753,7 +753,7 @@
       "is_official": true,
       "contents": "Welcome back, Ghost Hunters. We've deployed a small hotfix to address feedback on the Equipment and Item slot assignments. Patch notes below: ChangesItems and Equipment will now be assigned a slot in "
     },
-    "crawled_at": "2026-07-30T23:22:05.965229"
+    "crawled_at": "2026-07-31T23:17:56.984689"
   },
   "Content Warning": {
     "appid": 2881650,
@@ -1005,7 +1005,7 @@
       "is_official": true,
       "contents": "Hello Spööktubers! Thank you for your patience as we're fixing bugs on all platforms.Here's a new patch fixing some stuff!For those of you wondering when crossplay between Switch 1 & 2 and other platf"
     },
-    "crawled_at": "2026-07-30T23:22:07.098610"
+    "crawled_at": "2026-07-31T23:17:58.101580"
   },
   "FEEDERS": {
     "appid": 4408510,
@@ -1256,7 +1256,7 @@
       "is_official": true,
       "contents": "Gave the HUD a fresh redesign. New look across the board — the status bars (Health, Stamina, Radiation) and the bottom belt all got reworked. Same info, cleaner read. More guns coming with new solo ex"
     },
-    "crawled_at": "2026-07-30T23:22:08.354108"
+    "crawled_at": "2026-07-31T23:17:59.240611"
   },
   "NARAKA: BLADEPOINT": {
     "appid": 1203220,
@@ -1497,12 +1497,23 @@
       "contents": "A Fast, Unpredictable New FighterYe Xiu’s skill set has been carefully designed to reflect the tactical approach of his original character, making him far more than a simple cosmetic reskin. His comba"
     },
     "latest_patch": null,
-    "crawled_at": "2026-07-30T23:22:09.462625"
+    "crawled_at": "2026-07-31T23:18:00.450760"
   },
   "Dead by Daylight": {
     "appid": 381210,
     "all": [
       {
+        "date": "2026-07-31",
+        "datetime": "2026-07-31T08:21:49",
+        "title": "Dead by Daylight's Chorus of Sin Chapter to get first-ever early access period, if you're dedicated enough",
+        "url": "https://steamstore-a.akamaihd.net/news/externalpost/PCGamesN/1839676055887482",
+        "author": "editor@pcgamesn.com",
+        "feed_label": "PCGamesN",
+        "is_patch": false,
+        "is_official": false,
+        "contents": "Dead by Daylight keeps shaking things up with the community-driven Chorus of Sin Chapter, providing a means for gamers to get early access. Read the full story on PCGamesN: <a href=\"https://www.pcgame"
+      },
+      {
         "date": "2026-07-30",
         "datetime": "2026-07-30T12:00:12",
         "title": "Chorus of Sin - Early Access",
@@ -1600,22 +1611,22 @@
         "is_patch": false,
         "is_official": false,
         "contents": "<a href=\"https://steamdb.info/topsellers/2026W28/?utm_source=Steam&utm_medium=Steam&utm_campaign=SteamRSS\"> </a> * <a href=\"https://steamdb.info/app/4704690/charts/?utm_source=Steam&utm_medium=Steam&u"
-      },
-      {
-        "date": "2026-07-06",
-        "datetime": "2026-07-06T14:30:16",
-        "title": "10.0.2 | Bugfix Patch",
-        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165576085",
-        "author": "Donnary21st",
-        "feed_label": "Community Announcements",
-        "is_patch": false,
-        "is_official": true,
-        "contents": "ImportantThe Doctor has been re-enabled in the 10th Anniversary Event queue.ContentKiller Add-on UpdatesThe Slasher's add-onsDeputy's Badge (Very Rare)While in Omnipresent Evil, passing within 2m of a"
       }
     ],
     "patches": [],
     "announcements": [
       {
+        "date": "2026-07-31",
+        "datetime": "2026-07-31T08:21:49",
+        "title": "Dead by Daylight's Chorus of Sin Chapter to get first-ever early access period, if you're dedicated enough",
+        "url": "https://steamstore-a.akamaihd.net/news/externalpost/PCGamesN/1839676055887482",
+        "author": "editor@pcgamesn.com",
+        "feed_label": "PCGamesN",
+        "is_patch": false,
+        "is_official": false,
+        "contents": "Dead by Daylight keeps shaking things up with the community-driven Chorus of Sin Chapter, providing a means for gamers to get early access. Read the full story on PCGamesN: <a href=\"https://www.pcgame"
+      },
+      {
         "date": "2026-07-30",
         "datetime": "2026-07-30T12:00:12",
         "title": "Chorus of Sin - Early Access",
@@ -1713,31 +1724,20 @@
         "is_patch": false,
         "is_official": false,
         "contents": "<a href=\"https://steamdb.info/topsellers/2026W28/?utm_source=Steam&utm_medium=Steam&utm_campaign=SteamRSS\"> </a> * <a href=\"https://steamdb.info/app/4704690/charts/?utm_source=Steam&utm_medium=Steam&u"
-      },
-      {
-        "date": "2026-07-06",
-        "datetime": "2026-07-06T14:30:16",
-        "title": "10.0.2 | Bugfix Patch",
-        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165576085",
-        "author": "Donnary21st",
-        "feed_label": "Community Announcements",
-        "is_patch": false,
-        "is_official": true,
-        "contents": "ImportantThe Doctor has been re-enabled in the 10th Anniversary Event queue.ContentKiller Add-on UpdatesThe Slasher's add-onsDeputy's Badge (Very Rare)While in Omnipresent Evil, passing within 2m of a"
       }
     ],
     "latest": {
-      "date": "2026-07-30",
-      "datetime": "2026-07-30T12:00:12",
-      "title": "Chorus of Sin - Early Access",
-      "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1839676055885005",
-      "author": "Omnia_BHVR",
-      "feed_label": "Community Announcements",
+      "date": "2026-07-31",
+      "datetime": "2026-07-31T08:21:49",
+      "title": "Dead by Daylight's Chorus of Sin Chapter to get first-ever early access period, if you're dedicated enough",
+      "url": "https://steamstore-a.akamaihd.net/news/externalpost/PCGamesN/1839676055887482",
+      "author": "editor@pcgamesn.com",
+      "feed_label": "PCGamesN",
       "is_patch": false,
-      "is_official": true,
-      "contents": "We've spent over a year building the Chorus of Sin Chapter with you through The Grimoire. You've been with us every step of the way, one vote at a time, and we wanted to thank you for helping us bring"
+      "is_official": false,
+      "contents": "Dead by Daylight keeps shaking things up with the community-driven Chorus of Sin Chapter, providing a means for gamers to get early access. Read the full story on PCGamesN: <a href=\"https://www.pcgame"
     },
     "latest_patch": null,
-    "crawled_at": "2026-07-30T23:22:10.661545"
+    "crawled_at": "2026-07-31T23:18:01.623965"
   }
 }
