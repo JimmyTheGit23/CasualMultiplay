@@ -249,7 +249,7 @@
       "is_official": true,
       "contents": "Hey hey semibots! Here is yet another small update with some fixes and balancing! CHANGES BALANCING FIXES CHANGES Item Melee Weapons - Handling now properly scales with strength and should feel firmer"
     },
-    "crawled_at": "2026-07-31T23:17:54.653120"
+    "crawled_at": "2026-08-01T23:08:39.875673"
   },
   "Lethal Company": {
     "appid": 1966720,
@@ -501,7 +501,7 @@
       "is_official": true,
       "contents": "Hello, long time no see! Version 80 is out in beta for you to test. You can access it by opting into the public beta branch for Lethal Company on Steam. V80 brings a complete rework of March's exterio"
     },
-    "crawled_at": "2026-07-31T23:17:55.874172"
+    "crawled_at": "2026-08-01T23:08:41.010133"
   },
   "Phasmophobia": {
     "appid": 739630,
@@ -753,7 +753,7 @@
       "is_official": true,
       "contents": "Welcome back, Ghost Hunters. We've deployed a small hotfix to address feedback on the Equipment and Item slot assignments. Patch notes below: ChangesItems and Equipment will now be assigned a slot in "
     },
-    "crawled_at": "2026-07-31T23:17:56.984689"
+    "crawled_at": "2026-08-01T23:08:42.122767"
   },
   "Content Warning": {
     "appid": 2881650,
@@ -1005,7 +1005,7 @@
       "is_official": true,
       "contents": "Hello Spööktubers! Thank you for your patience as we're fixing bugs on all platforms.Here's a new patch fixing some stuff!For those of you wondering when crossplay between Switch 1 & 2 and other platf"
     },
-    "crawled_at": "2026-07-31T23:17:58.101580"
+    "crawled_at": "2026-08-01T23:08:43.296240"
   },
   "FEEDERS": {
     "appid": 4408510,
@@ -1256,7 +1256,7 @@
       "is_official": true,
       "contents": "Gave the HUD a fresh redesign. New look across the board — the status bars (Health, Stamina, Radiation) and the bottom belt all got reworked. Same info, cleaner read. More guns coming with new solo ex"
     },
-    "crawled_at": "2026-07-31T23:17:59.240611"
+    "crawled_at": "2026-08-01T23:08:44.379041"
   },
   "NARAKA: BLADEPOINT": {
     "appid": 1203220,
@@ -1497,7 +1497,7 @@
       "contents": "A Fast, Unpredictable New FighterYe Xiu’s skill set has been carefully designed to reflect the tactical approach of his original character, making him far more than a simple cosmetic reskin. His comba"
     },
     "latest_patch": null,
-    "crawled_at": "2026-07-31T23:18:00.450760"
+    "crawled_at": "2026-08-01T23:08:45.518606"
   },
   "Dead by Daylight": {
     "appid": 381210,
@@ -1738,6 +1738,6 @@
       "contents": "Dead by Daylight keeps shaking things up with the community-driven Chorus of Sin Chapter, providing a means for gamers to get early access. Read the full story on PCGamesN: <a href=\"https://www.pcgame"
     },
     "latest_patch": null,
-    "crawled_at": "2026-07-31T23:18:01.623965"
+    "crawled_at": "2026-08-01T23:08:46.717990"
   }
 }

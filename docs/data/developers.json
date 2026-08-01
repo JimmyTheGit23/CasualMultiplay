@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "fetched_at": "2026-08-01T07:13:19.450258+08:00",
+    "fetched_at": "2026-08-02T07:04:05.674778+08:00",
     "total_developers": 43
   },
   "developers": {
@@ -174,6 +174,19 @@
           "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2569760/0a3d1867d5781f18cb4fd0b1151729605e892c6b/header.jpg?t=1785400715"
         },
         {
+          "appid": "4630460",
+          "name": "The Mound: Omen of Cthulhu - Characters & Items Pack",
+          "release_date": "2026 年 7 月 15 日",
+          "type": "dlc",
+          "developers": [
+            "ACE Team"
+          ],
+          "publishers": [
+            "Nacon"
+          ],
+          "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4630460/85db3585ebdbae1a3603d3a1f4c56e94bbf59493/header.jpg?t=1784819161"
+        },
+        {
           "appid": "865680",
           "name": "The Eternal Cylinder",
           "release_date": "2022 年 10 月 13 日",
@@ -278,19 +291,6 @@
             "Maximum Entertainment"
           ],
           "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1407700/header.jpg?t=1707780903"
-        },
-        {
-          "appid": "1407701",
-          "name": "Rock of Ages III Original Soundtrack (High Quality)",
-          "release_date": "2020 年 8 月 27 日",
-          "type": "dlc",
-          "developers": [
-            "ACE Team"
-          ],
-          "publishers": [
-            "Maximum Entertainment"
-          ],
-          "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1407701/header.jpg?t=1707780973"
         }
       ],
       "is_first_game": false,
@@ -492,6 +492,19 @@
           "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2661270/header.jpg?t=1712678426"
         },
         {
+          "appid": "1135280",
+          "name": "Dead by Daylight - Stranger Things Chapter",
+          "release_date": "2019 年 9 月 17 日",
+          "type": "dlc",
+          "developers": [
+            "Behaviour Interactive Inc."
+          ],
+          "publishers": [
+            "Behaviour Interactive Inc."
+          ],
+          "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1135280/header.jpg?t=1699306162"
+        },
+        {
           "appid": "3103150",
           "name": "Dead by Daylight - Castlevania Chapter",
           "release_date": "2024 年 8 月 27 日",
@@ -514,19 +527,6 @@
           ],
           "publishers": [],
           "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3884020/a393f684ee00bdb302ae76b3cb7be85b1d80054c/header.jpg?t=1754333052"
-        },
-        {
-          "appid": "1135280",
-          "name": "Dead by Daylight - Stranger Things Chapter",
-          "release_date": "2019 年 9 月 17 日",
-          "type": "dlc",
-          "developers": [
-            "Behaviour Interactive Inc."
-          ],
-          "publishers": [
-            "Behaviour Interactive Inc."
-          ],
-          "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1135280/header.jpg?t=1699306162"
         }
       ],
       "is_first_game": true,
@@ -764,19 +764,6 @@
           "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1715130/e1ffdb13c0746e939a91a6846711ca0a90d132c1/header.jpg?t=1783416415"
         },
         {
-          "appid": "3204800",
-          "name": "Hunt: Showdown 1896 - Ghost Face Rampage",
-          "release_date": "2024 年 10 月 24 日",
-          "type": "dlc",
-          "developers": [
-            "Crytek"
-          ],
-          "publishers": [
-            "Crytek"
-          ],
-          "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3204800/header.jpg?t=1782896565"
-        },
-        {
           "appid": "4261930",
           "name": "Hunt: Showdown 1896 - The Heart of Lower DeSalle",
           "release_date": "2026 年 4 月 15 日",
@@ -788,6 +775,19 @@
             "Crytek"
           ],
           "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4261930/05439e0028dfa4cafb12ea5e18768ad5d353539c/header.jpg?t=1782896556"
+        },
+        {
+          "appid": "3204800",
+          "name": "Hunt: Showdown 1896 - Ghost Face Rampage",
+          "release_date": "2024 年 10 月 24 日",
+          "type": "dlc",
+          "developers": [
+            "Crytek"
+          ],
+          "publishers": [
+            "Crytek"
+          ],
+          "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3204800/header.jpg?t=1782896565"
         },
         {
           "appid": "3569970",
@@ -1214,19 +1214,6 @@
           "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4216130/dc31bab14f827b64ec3bacf4d4d7efc464ad623e/header.jpg?t=1779292892"
         },
         {
-          "appid": "3481460",
-          "name": "深岩银河 - 碎颅者皮肤包",
-          "release_date": "2025 年 2 月 27 日",
-          "type": "dlc",
-          "developers": [
-            "Ghost Ship Games"
-          ],
-          "publishers": [
-            "Coffee Stain Publishing"
-          ],
-          "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3481460/header.jpg?t=1772707056"
-        },
-        {
           "appid": "4207910",
           "name": "深岩银河 - 古迹奇兵皮肤包",
           "release_date": "2026 年 1 月 29 日",
@@ -1238,6 +1225,19 @@
             "Coffee Stain Publishing"
           ],
           "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4207910/6c299e8f9abe93d41c906f3334df312350cc917a/header.jpg?t=1772707081"
+        },
+        {
+          "appid": "3481460",
+          "name": "深岩银河 - 碎颅者皮肤包",
+          "release_date": "2025 年 2 月 27 日",
+          "type": "dlc",
+          "developers": [
+            "Ghost Ship Games"
+          ],
+          "publishers": [
+            "Coffee Stain Publishing"
+          ],
+          "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3481460/header.jpg?t=1772707056"
         },
         {
           "appid": "2291670",
@@ -1266,6 +1266,19 @@
           "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1283090/header.jpg?t=1740394534"
         },
         {
+          "appid": "2934390",
+          "name": "深岩银河 - 深渊骑士团皮肤包",
+          "release_date": "2024 年 6 月 13 日",
+          "type": "dlc",
+          "developers": [
+            "Ghost Ship Games"
+          ],
+          "publishers": [
+            "Coffee Stain Publishing"
+          ],
+          "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2934390/header.jpg?t=1772707065"
+        },
+        {
           "appid": "1283091",
           "name": "深岩银河 - 龙头巨擘皮肤包",
           "release_date": "2020 年 5 月 13 日",
@@ -1290,19 +1303,6 @@
             "Coffee Stain Publishing"
           ],
           "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1530640/header.jpg?t=1740397487"
-        },
-        {
-          "appid": "2934390",
-          "name": "深岩银河 - 深渊骑士团皮肤包",
-          "release_date": "2024 年 6 月 13 日",
-          "type": "dlc",
-          "developers": [
-            "Ghost Ship Games"
-          ],
-          "publishers": [
-            "Coffee Stain Publishing"
-          ],
-          "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2934390/header.jpg?t=1772707065"
         }
       ],
       "is_first_game": false,
@@ -2122,17 +2122,6 @@
           "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3030370/header.jpg?t=1744031110"
         },
         {
-          "appid": "3805230",
-          "name": "The Outlast Trials - Porcelain Observer Pack",
-          "release_date": "2025 年 7 月 15 日",
-          "type": "dlc",
-          "developers": [
-            "Red Barrels"
-          ],
-          "publishers": [],
-          "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3805230/6627ca2c91403b2210e2f6838a620043ea133f3a/header.jpg?t=1752587954"
-        },
-        {
           "appid": "3805270",
           "name": "The Outlast Trials - Spelunking For Your Life Pack",
           "release_date": "2025 年 7 月 15 日",
@@ -2142,6 +2131,17 @@
           ],
           "publishers": [],
           "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3805270/9ca565ed97ddb48398c5046ff17065d6ec7ff1d7/header.jpg?t=1752590995"
+        },
+        {
+          "appid": "3805230",
+          "name": "The Outlast Trials - Porcelain Observer Pack",
+          "release_date": "2025 年 7 月 15 日",
+          "type": "dlc",
+          "developers": [
+            "Red Barrels"
+          ],
+          "publishers": [],
+          "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3805230/6627ca2c91403b2210e2f6838a620043ea133f3a/header.jpg?t=1752587954"
         },
         {
           "appid": "3805250",
@@ -2319,6 +2319,19 @@
           "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4704690/163e2a742e5fb8e1f5d1e3a890da98f04ab809d4/header.jpg?t=1785107783"
         },
         {
+          "appid": "3648240",
+          "name": "DEATH BURGER",
+          "release_date": "2025 年 8 月 5 日",
+          "type": "game",
+          "developers": [
+            "lemorion_1224"
+          ],
+          "publishers": [
+            "lemorion_1224"
+          ],
+          "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3648240/1a9ecee753c5476411515395a900a0ff0acebf25/header.jpg?t=1754416405"
+        },
+        {
           "appid": "3969510",
           "name": "LINK Penguins",
           "release_date": "2026 年 4 月 6 日",
@@ -2343,19 +2356,6 @@
             "lemorion_1224"
           ],
           "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3369390/header.jpg?t=1745404760"
-        },
-        {
-          "appid": "3648240",
-          "name": "DEATH BURGER",
-          "release_date": "2025 年 8 月 5 日",
-          "type": "game",
-          "developers": [
-            "lemorion_1224"
-          ],
-          "publishers": [
-            "lemorion_1224"
-          ],
-          "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3648240/1a9ecee753c5476411515395a900a0ff0acebf25/header.jpg?t=1754416405"
         },
         {
           "appid": "3103750",
