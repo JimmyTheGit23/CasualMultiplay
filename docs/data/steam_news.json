@@ -249,7 +249,7 @@
       "is_official": true,
       "contents": "Hey hey semibots! Here is yet another small update with some fixes and balancing! CHANGES BALANCING FIXES CHANGES Item Melee Weapons - Handling now properly scales with strength and should feel firmer"
     },
-    "crawled_at": "2026-08-03T23:18:46.712343"
+    "crawled_at": "2026-08-04T23:17:47.720320"
   },
   "Lethal Company": {
     "appid": 1966720,
@@ -501,7 +501,7 @@
       "is_official": true,
       "contents": "Hello, long time no see! Version 80 is out in beta for you to test. You can access it by opting into the public beta branch for Lethal Company on Steam. V80 brings a complete rework of March's exterio"
     },
-    "crawled_at": "2026-08-03T23:18:47.845164"
+    "crawled_at": "2026-08-04T23:17:48.841078"
   },
   "Phasmophobia": {
     "appid": 739630,
@@ -753,7 +753,7 @@
       "is_official": true,
       "contents": "Welcome back, Ghost Hunters. We've deployed a small hotfix to address feedback on the Equipment and Item slot assignments. Patch notes below: ChangesItems and Equipment will now be assigned a slot in "
     },
-    "crawled_at": "2026-08-03T23:18:48.985564"
+    "crawled_at": "2026-08-04T23:17:50.036766"
   },
   "Content Warning": {
     "appid": 2881650,
@@ -1005,7 +1005,7 @@
       "is_official": true,
       "contents": "Hello Spööktubers! Thank you for your patience as we're fixing bugs on all platforms.Here's a new patch fixing some stuff!For those of you wondering when crossplay between Switch 1 & 2 and other platf"
     },
-    "crawled_at": "2026-08-03T23:18:50.131518"
+    "crawled_at": "2026-08-04T23:17:51.193932"
   },
   "FEEDERS": {
     "appid": 4408510,
@@ -1256,12 +1256,23 @@
       "is_official": true,
       "contents": "Gave the HUD a fresh redesign. New look across the board — the status bars (Health, Stamina, Radiation) and the bottom belt all got reworked. Same info, cleaner read. More guns coming with new solo ex"
     },
-    "crawled_at": "2026-08-03T23:18:51.307061"
+    "crawled_at": "2026-08-04T23:17:52.411009"
   },
   "NARAKA: BLADEPOINT": {
     "appid": 1203220,
     "all": [
       {
+        "date": "2026-08-04",
+        "datetime": "2026-08-04T13:55:58",
+        "title": "NARAKA: BLADEPOINT Banned Players List August 4th",
+        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1839676055897435",
+        "author": "Yeeeeee",
+        "feed_label": "Community Announcements",
+        "is_patch": false,
+        "is_official": true,
+        "contents": "Dear players, NARAKA: BLADEPOINT is committed to creating a fair and healthy competitive environment. We have not only used new anti-cheat technologies, but also established special cheat-reporting re"
+      },
+      {
         "date": "2026-07-30",
         "datetime": "2026-07-30T06:20:29",
         "title": "New Hero Ye Xiu and First Transforming Weapon Available NOW",
@@ -1359,22 +1370,22 @@
         "is_patch": false,
         "is_official": true,
         "contents": "Beneath the Waves, a New Battlefield AwakensAs the highlight of the anniversary update, Wanchu takes the battle royale action underwater for the first time. Built around a dedicated underwater combat "
-      },
-      {
-        "date": "2026-07-01",
-        "datetime": "2026-07-01T13:55:15",
-        "title": "NARAKA: BLADEPOINT Banned Players List July 1st",
-        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165565482",
-        "author": "Yeeeeee",
-        "feed_label": "Community Announcements",
-        "is_patch": false,
-        "is_official": true,
-        "contents": "Dear players, NARAKA: BLADEPOINT is committed to creating a fair and healthy competitive environment. We have not only used new anti-cheat technologies, but also established special cheat-reporting re"
       }
     ],
     "patches": [],
     "announcements": [
       {
+        "date": "2026-08-04",
+        "datetime": "2026-08-04T13:55:58",
+        "title": "NARAKA: BLADEPOINT Banned Players List August 4th",
+        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1839676055897435",
+        "author": "Yeeeeee",
+        "feed_label": "Community Announcements",
+        "is_patch": false,
+        "is_official": true,
+        "contents": "Dear players, NARAKA: BLADEPOINT is committed to creating a fair and healthy competitive environment. We have not only used new anti-cheat technologies, but also established special cheat-reporting re"
+      },
+      {
         "date": "2026-07-30",
         "datetime": "2026-07-30T06:20:29",
         "title": "New Hero Ye Xiu and First Transforming Weapon Available NOW",
@@ -1472,37 +1483,48 @@
         "is_patch": false,
         "is_official": true,
         "contents": "Beneath the Waves, a New Battlefield AwakensAs the highlight of the anniversary update, Wanchu takes the battle royale action underwater for the first time. Built around a dedicated underwater combat "
-      },
-      {
-        "date": "2026-07-01",
-        "datetime": "2026-07-01T13:55:15",
-        "title": "NARAKA: BLADEPOINT Banned Players List July 1st",
-        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165565482",
-        "author": "Yeeeeee",
-        "feed_label": "Community Announcements",
-        "is_patch": false,
-        "is_official": true,
-        "contents": "Dear players, NARAKA: BLADEPOINT is committed to creating a fair and healthy competitive environment. We have not only used new anti-cheat technologies, but also established special cheat-reporting re"
       }
     ],
     "latest": {
-      "date": "2026-07-30",
-      "datetime": "2026-07-30T06:20:29",
-      "title": "New Hero Ye Xiu and First Transforming Weapon Available NOW",
-      "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1839676055884356",
-      "author": "Misty",
+      "date": "2026-08-04",
+      "datetime": "2026-08-04T13:55:58",
+      "title": "NARAKA: BLADEPOINT Banned Players List August 4th",
+      "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1839676055897435",
+      "author": "Yeeeeee",
       "feed_label": "Community Announcements",
       "is_patch": false,
       "is_official": true,
-      "contents": "A Fast, Unpredictable New FighterYe Xiu’s skill set has been carefully designed to reflect the tactical approach of his original character, making him far more than a simple cosmetic reskin. His comba"
+      "contents": "Dear players, NARAKA: BLADEPOINT is committed to creating a fair and healthy competitive environment. We have not only used new anti-cheat technologies, but also established special cheat-reporting re"
     },
     "latest_patch": null,
-    "crawled_at": "2026-08-03T23:18:52.435680"
+    "crawled_at": "2026-08-04T23:17:53.557857"
   },
   "Dead by Daylight": {
     "appid": 381210,
     "all": [
       {
+        "date": "2026-08-04",
+        "datetime": "2026-08-04T15:00:14",
+        "title": "Dead by Daylight's first-ever community-created chapter has finally hit the PTB",
+        "url": "https://steamstore-a.akamaihd.net/news/externalpost/PCGamesN/1839676055897881",
+        "author": "editor@pcgamesn.com",
+        "feed_label": "PCGamesN",
+        "is_patch": false,
+        "is_official": false,
+        "contents": "Dead by Daylight's first community-driven Chapter, Chorus of Sin, has arrived on the PTB, and I'm obsessed with its divine themes. Read the full story on PCGamesN: <a href=\"https://www.pcgamesn.com/de"
+      },
+      {
+        "date": "2026-08-04",
+        "datetime": "2026-08-04T14:30:45",
+        "title": "10.1.0 | PTB Patch Notes",
+        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1839676055897511",
+        "author": "rblanchard_bhvr",
+        "feed_label": "Community Announcements",
+        "is_patch": false,
+        "is_official": true,
+        "contents": "FeaturesNew Killer: The JudgmentPOWER: WILL OF THE GODSDIVINE LIGHTPress and hold the Power Button (M2) to summon Divine Light for up to 3s.Divine Light moves away from The Judgment and is controlled "
+      },
+      {
         "date": "2026-07-31",
         "datetime": "2026-07-31T08:21:49",
         "title": "Dead by Daylight's Chorus of Sin Chapter to get first-ever early access period, if you're dedicated enough",
@@ -1589,33 +1611,33 @@
         "is_patch": false,
         "is_official": false,
         "contents": "<a href=\"https://steamdb.info/topsellers/2026W29/?utm_source=Steam&utm_medium=Steam&utm_campaign=SteamRSS\"> </a> * <a href=\"https://steamdb.info/app/3751950/charts/?utm_source=Steam&utm_medium=Steam&u"
-      },
-      {
-        "date": "2026-07-10",
-        "datetime": "2026-07-10T15:15:38",
-        "title": "Unkillable: inside Dead by Daylight's incredible decade of scares",
-        "url": "https://steamstore-a.akamaihd.net/news/externalpost/PCGamesN/1837955055357223",
-        "author": "editor@pcgamesn.com",
-        "feed_label": "PCGamesN",
-        "is_patch": false,
-        "is_official": false,
-        "contents": "Dead by Daylight has been terrifying players for ten years now, so I caught up with Behaviour to chat about DBD's legacy, and its future. Read the full story on PCGamesN: <a href=\"https://www.pcgamesn"
-      },
-      {
-        "date": "2026-07-07",
-        "datetime": "2026-07-07T09:00:00",
-        "title": "Steam Global Top Sellers for week of 30 Jun — 7 July 2026",
-        "url": "https://steamstore-a.akamaihd.net/news/externalpost/SteamDB/1836506165578059",
-        "author": "SteamDB",
-        "feed_label": "SteamDB",
-        "is_patch": false,
-        "is_official": false,
-        "contents": "<a href=\"https://steamdb.info/topsellers/2026W28/?utm_source=Steam&utm_medium=Steam&utm_campaign=SteamRSS\"> </a> * <a href=\"https://steamdb.info/app/4704690/charts/?utm_source=Steam&utm_medium=Steam&u"
       }
     ],
     "patches": [],
     "announcements": [
       {
+        "date": "2026-08-04",
+        "datetime": "2026-08-04T15:00:14",
+        "title": "Dead by Daylight's first-ever community-created chapter has finally hit the PTB",
+        "url": "https://steamstore-a.akamaihd.net/news/externalpost/PCGamesN/1839676055897881",
+        "author": "editor@pcgamesn.com",
+        "feed_label": "PCGamesN",
+        "is_patch": false,
+        "is_official": false,
+        "contents": "Dead by Daylight's first community-driven Chapter, Chorus of Sin, has arrived on the PTB, and I'm obsessed with its divine themes. Read the full story on PCGamesN: <a href=\"https://www.pcgamesn.com/de"
+      },
+      {
+        "date": "2026-08-04",
+        "datetime": "2026-08-04T14:30:45",
+        "title": "10.1.0 | PTB Patch Notes",
+        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1839676055897511",
+        "author": "rblanchard_bhvr",
+        "feed_label": "Community Announcements",
+        "is_patch": false,
+        "is_official": true,
+        "contents": "FeaturesNew Killer: The JudgmentPOWER: WILL OF THE GODSDIVINE LIGHTPress and hold the Power Button (M2) to summon Divine Light for up to 3s.Divine Light moves away from The Judgment and is controlled "
+      },
+      {
         "date": "2026-07-31",
         "datetime": "2026-07-31T08:21:49",
         "title": "Dead by Daylight's Chorus of Sin Chapter to get first-ever early access period, if you're dedicated enough",
@@ -1702,42 +1724,20 @@
         "is_patch": false,
         "is_official": false,
         "contents": "<a href=\"https://steamdb.info/topsellers/2026W29/?utm_source=Steam&utm_medium=Steam&utm_campaign=SteamRSS\"> </a> * <a href=\"https://steamdb.info/app/3751950/charts/?utm_source=Steam&utm_medium=Steam&u"
-      },
-      {
-        "date": "2026-07-10",
-        "datetime": "2026-07-10T15:15:38",
-        "title": "Unkillable: inside Dead by Daylight's incredible decade of scares",
-        "url": "https://steamstore-a.akamaihd.net/news/externalpost/PCGamesN/1837955055357223",
-        "author": "editor@pcgamesn.com",
-        "feed_label": "PCGamesN",
-        "is_patch": false,
-        "is_official": false,
-        "contents": "Dead by Daylight has been terrifying players for ten years now, so I caught up with Behaviour to chat about DBD's legacy, and its future. Read the full story on PCGamesN: <a href=\"https://www.pcgamesn"
-      },
-      {
-        "date": "2026-07-07",
-        "datetime": "2026-07-07T09:00:00",
-        "title": "Steam Global Top Sellers for week of 30 Jun — 7 July 2026",
-        "url": "https://steamstore-a.akamaihd.net/news/externalpost/SteamDB/1836506165578059",
-        "author": "SteamDB",
-        "feed_label": "SteamDB",
-        "is_patch": false,
-        "is_official": false,
-        "contents": "<a href=\"https://steamdb.info/topsellers/2026W28/?utm_source=Steam&utm_medium=Steam&utm_campaign=SteamRSS\"> </a> * <a href=\"https://steamdb.info/app/4704690/charts/?utm_source=Steam&utm_medium=Steam&u"
       }
     ],
     "latest": {
-      "date": "2026-07-31",
-      "datetime": "2026-07-31T08:21:49",
-      "title": "Dead by Daylight's Chorus of Sin Chapter to get first-ever early access period, if you're dedicated enough",
-      "url": "https://steamstore-a.akamaihd.net/news/externalpost/PCGamesN/1839676055887482",
+      "date": "2026-08-04",
+      "datetime": "2026-08-04T15:00:14",
+      "title": "Dead by Daylight's first-ever community-created chapter has finally hit the PTB",
+      "url": "https://steamstore-a.akamaihd.net/news/externalpost/PCGamesN/1839676055897881",
       "author": "editor@pcgamesn.com",
       "feed_label": "PCGamesN",
       "is_patch": false,
       "is_official": false,
-      "contents": "Dead by Daylight keeps shaking things up with the community-driven Chorus of Sin Chapter, providing a means for gamers to get early access. Read the full story on PCGamesN: <a href=\"https://www.pcgame"
+      "contents": "Dead by Daylight's first community-driven Chapter, Chorus of Sin, has arrived on the PTB, and I'm obsessed with its divine themes. Read the full story on PCGamesN: <a href=\"https://www.pcgamesn.com/de"
     },
     "latest_patch": null,
-    "crawled_at": "2026-08-03T23:18:53.593158"
+    "crawled_at": "2026-08-04T23:17:54.698079"
   }
 }
