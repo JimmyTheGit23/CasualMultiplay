@@ -83,6 +83,11 @@ jobs:
           python scripts/roblox_crawler.py
         continue-on-error: true
       
+      - name: Run Roblox discover (新游戏发现)
+        run: |
+          python scripts/roblox_discover.py
+        continue-on-error: true
+      
       # === 数据验证 ===
       - name: Run DataValidator
         id: validate
