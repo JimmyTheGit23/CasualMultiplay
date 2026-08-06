@@ -14,12 +14,12 @@
       "publishers": [
         "semiwork"
       ],
-      "price": "¥ 35.00",
-      "price_en": "¥ 35.00",
+      "price": "¥ 22.75",
+      "price_en": "¥ 22.75",
       "release_date": "2025 年 2 月 26 日",
       "release_date_en": "26 Feb, 2025",
       "metacritic": null,
-      "recommendations": 329876,
+      "recommendations": 333763,
       "platforms": {
         "windows": true,
         "mac": false,
@@ -59,16 +59,16 @@
       ]
     },
     "steamspy": {
-      "ccu": 13706
+      "ccu": 20002
     },
     "reviews": {
-      "total_reviews": 15346,
-      "positive": 14213,
-      "negative": 1133,
-      "positive_rate": 92.6
+      "total_reviews": 15682,
+      "positive": 14508,
+      "negative": 1174,
+      "positive_rate": 92.5
     },
-    "ccu": 13706,
-    "crawled_at": "2026-07-16T15:06:40.387037"
+    "ccu": 20002,
+    "crawled_at": "2026-08-05T23:07:26.073662"
   },
   "Lethal Company": {
     "appid": 1966720,
@@ -90,7 +90,7 @@
       "release_date": "2023 年 10 月 23 日",
       "release_date_en": "23 Oct, 2023",
       "metacritic": null,
-      "recommendations": 410647,
+      "recommendations": 410910,
       "platforms": {
         "windows": true,
         "mac": false,
@@ -130,16 +130,16 @@
       ]
     },
     "steamspy": {
-      "ccu": 1953
+      "ccu": 2759
     },
     "reviews": {
-      "total_reviews": 17660,
-      "positive": 16407,
-      "negative": 1253,
+      "total_reviews": 17693,
+      "positive": 16436,
+      "negative": 1257,
       "positive_rate": 92.9
     },
-    "ccu": 1953,
-    "crawled_at": "2026-07-16T15:06:47.689981"
+    "ccu": 2759,
+    "crawled_at": "2026-08-05T23:07:32.651679"
   },
   "Content Warning": {
     "appid": 2881650,
@@ -149,7 +149,7 @@
       "type": "game",
       "short_description": "录下好友的惊悚作死镜头，一跃成为“幽哩幽哩”的顶流巨星！（强烈建议开黑游玩）",
       "short_description_en": "Film your friends doing scary things to become SpöökTube famous! (strongly advised to not go alone)",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2881650/header_schinese.jpg?t=1775640428",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2881650/header_schinese.jpg?t=1785137321",
       "developers": [
         "Zorro",
         "Wilnyl",
@@ -160,12 +160,12 @@
       "publishers": [
         "Evil Landfall?"
       ],
-      "price": "¥ 16.50",
-      "price_en": "¥ 16.50",
+      "price": "¥ 33.00",
+      "price_en": "¥ 33.00",
       "release_date": "2024 年 4 月 1 日",
       "release_date_en": "1 Apr, 2024",
       "metacritic": null,
-      "recommendations": 70483,
+      "recommendations": 71402,
       "platforms": {
         "windows": true,
         "mac": false,
@@ -175,6 +175,7 @@
         "多人",
         "合作",
         "在线合作",
+        "跨平台多人",
         "DUALSHOCK 控制器支持",
         "DualSense 控制器支持",
         "部分支持控制器",
@@ -185,6 +186,7 @@
         "Multi-player",
         "Co-op",
         "Online Co-op",
+        "Cross-Platform Multiplayer",
         "DualShock Controller Support",
         "DualSense Controller Support",
         "Partial Controller Support",
@@ -203,16 +205,16 @@
       ]
     },
     "steamspy": {
-      "ccu": 1101
+      "ccu": 880
     },
     "reviews": {
-      "total_reviews": 6881,
-      "positive": 6178,
-      "negative": 703,
-      "positive_rate": 89.8
+      "total_reviews": 6996,
+      "positive": 6261,
+      "negative": 735,
+      "positive_rate": 89.5
     },
-    "ccu": 1101,
-    "crawled_at": "2026-07-16T15:06:55.332663"
+    "ccu": 880,
+    "crawled_at": "2026-08-05T23:07:39.334394"
   },
   "FEEDERS": {
     "appid": 4408510,
@@ -273,13 +275,13 @@
     },
     "steamspy": null,
     "reviews": {
-      "total_reviews": 14,
+      "total_reviews": 13,
       "positive": 9,
-      "negative": 5,
-      "positive_rate": 64.3
+      "negative": 4,
+      "positive_rate": 69.2
     },
     "ccu": 0,
-    "crawled_at": "2026-07-16T15:07:09.187148"
+    "crawled_at": "2026-08-05T23:07:46.138818"
   },
   "Peak": {
     "appid": 3527290,
@@ -297,12 +299,12 @@
         "Aggro Crab",
         "Evil Landfall?"
       ],
-      "price": "¥ 33.00",
-      "price_en": "¥ 33.00",
+      "price": "¥ 16.50",
+      "price_en": "¥ 16.50",
       "release_date": "2025 年 6 月 16 日",
       "release_date_en": "16 Jun, 2025",
       "metacritic": null,
-      "recommendations": 274298,
+      "recommendations": 277968,
       "platforms": {
         "windows": true,
         "mac": false,
@@ -348,16 +350,16 @@
       ]
     },
     "steamspy": {
-      "ccu": 9118
+      "ccu": 11260
     },
     "reviews": {
-      "total_reviews": 19686,
-      "positive": 16410,
-      "negative": 3276,
+      "total_reviews": 20035,
+      "positive": 16711,
+      "negative": 3324,
       "positive_rate": 83.4
     },
-    "ccu": 9118,
-    "crawled_at": "2026-07-16T15:07:17.170440"
+    "ccu": 11260,
+    "crawled_at": "2026-08-05T23:07:52.862771"
   },
   "Phasmophobia": {
     "appid": 739630,
@@ -367,7 +369,7 @@
       "type": "game",
       "short_description": "Phasmophobia is a 4 player online co-op psychological horror. Paranormal activity is on the rise and it’s up to you and your team to use all the ghost-hunting equipment at your disposal in order to gather as much evidence as you can.",
       "short_description_en": "Phasmophobia is a 4 player online co-op psychological horror. Paranormal activity is on the rise and it’s up to you and your team to use all the ghost-hunting equipment at your disposal in order to gather as much evidence as you can.",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/739630/c227a2855aba60f3657bc0c3a46515b8c41fb2b6/header.jpg?t=1782311537",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/739630/c227a2855aba60f3657bc0c3a46515b8c41fb2b6/header.jpg?t=1785937507",
       "developers": [
         "Kinetic Games"
       ],
@@ -379,7 +381,7 @@
       "release_date": "2020 年 9 月 18 日",
       "release_date_en": "18 Sep, 2020",
       "metacritic": null,
-      "recommendations": 679597,
+      "recommendations": 681424,
       "platforms": {
         "windows": true,
         "mac": false,
@@ -445,16 +447,16 @@
       ]
     },
     "steamspy": {
-      "ccu": 4266
+      "ccu": 10295
     },
     "reviews": {
-      "total_reviews": 26956,
-      "positive": 24422,
-      "negative": 2534,
-      "positive_rate": 90.6
+      "total_reviews": 27140,
+      "positive": 24604,
+      "negative": 2536,
+      "positive_rate": 90.7
     },
-    "ccu": 4266,
-    "crawled_at": "2026-07-16T15:07:25.356353"
+    "ccu": 10295,
+    "crawled_at": "2026-08-05T23:07:59.708364"
   },
   "驱魔人": {
     "appid": 1929610,
@@ -464,7 +466,7 @@
       "type": "game",
       "short_description": "恶魔学家是一款合作式恐怖游戏，可由至少1名和最多4名玩家一起玩。你的目标是识别被诅咒的地方的恶灵类型，并使用你的设备将其驱除，无论是单独还是与你的团队合作。",
       "short_description_en": "Demonologist is a Co-Op horror game that can be played with at least 1 and up to 4 players. Your goal is to identify the type of evil spirit in cursed places and exorcise it using your equipment, either alone or with your team.",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1929610/header.jpg?t=1761136310",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1929610/header.jpg?t=1785746147",
       "developers": [
         "Clock Wizard Games"
       ],
@@ -476,7 +478,7 @@
       "release_date": "2023 年 9 月 25 日",
       "release_date_en": "25 Sep, 2023",
       "metacritic": null,
-      "recommendations": 18628,
+      "recommendations": 18695,
       "platforms": {
         "windows": true,
         "mac": false,
@@ -512,7 +514,7 @@
       ]
     },
     "steamspy": {
-      "ccu": 126
+      "ccu": 251
     },
     "reviews": {
       "total_reviews": 441,
@@ -520,8 +522,8 @@
       "negative": 101,
       "positive_rate": 77.1
     },
-    "ccu": 126,
-    "crawled_at": "2026-07-16T15:07:32.995162"
+    "ccu": 251,
+    "crawled_at": "2026-08-05T23:08:06.546626"
   },
   "逃生：试炼": {
     "appid": 1304930,
@@ -538,12 +540,12 @@
       "publishers": [
         "Red Barrels"
       ],
-      "price": "¥ 40.80",
-      "price_en": "¥ 40.80",
+      "price": "¥ 136.00",
+      "price_en": "¥ 136.00",
       "release_date": "2024 年 3 月 5 日",
       "release_date_en": "5 Mar, 2024",
       "metacritic": null,
-      "recommendations": 87442,
+      "recommendations": 89565,
       "platforms": {
         "windows": true,
         "mac": false,
@@ -585,16 +587,16 @@
       ]
     },
     "steamspy": {
-      "ccu": 9372
+      "ccu": 5827
     },
     "reviews": {
-      "total_reviews": 13591,
-      "positive": 11995,
-      "negative": 1596,
-      "positive_rate": 88.3
+      "total_reviews": 14090,
+      "positive": 12418,
+      "negative": 1672,
+      "positive_rate": 88.1
     },
-    "ccu": 9372,
-    "crawled_at": "2026-07-16T15:07:40.794987"
+    "ccu": 5827,
+    "crawled_at": "2026-08-05T23:08:13.352637"
   },
   "猎杀：对决": {
     "appid": 594650,
@@ -604,19 +606,19 @@
       "type": "game",
       "short_description": "《猎杀：对决 1896》是一款硬核高回报的撤离式射击游戏。追踪畸变怪物，在残酷的PvP对抗中生还。深入被历史遗忘的腐化荒泽，夺取悬赏赏金。组队协作，才能求得生存。一无所有葬身荒野，或是满载物资全身而退，都在一念之间。",
       "short_description_en": "Hunt: Showdown 1896 is the brutally rewarding extraction shooter. Track twisted monsters and overcome ruthless PvP. Take bounties in corrupted backwaters lost to history. With a team, you might survive. Die with nothing or get out with everything.",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/594650/6b21392c2e731ea04b965cbfe196058efdbd330e/header_alt_assets_26.jpg?t=1783433975",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/594650/279c054bf947c40225a8f2f56b15bf7f817976f0/header_alt_assets_27.jpg?t=1785847079",
       "developers": [
         "Crytek"
       ],
       "publishers": [
         "Crytek"
       ],
-      "price": "¥ 128.00",
-      "price_en": "¥ 128.00",
+      "price": "¥ 51.20",
+      "price_en": "¥ 51.20",
       "release_date": "2019 年 8 月 27 日",
       "release_date_en": "27 Aug, 2019",
       "metacritic": 81,
-      "recommendations": 210954,
+      "recommendations": 211616,
       "platforms": {
         "windows": true,
         "mac": false,
@@ -658,16 +660,16 @@
       ]
     },
     "steamspy": {
-      "ccu": 9946
+      "ccu": 11762
     },
     "reviews": {
-      "total_reviews": 45662,
-      "positive": 28114,
-      "negative": 17548,
+      "total_reviews": 45907,
+      "positive": 28256,
+      "negative": 17651,
       "positive_rate": 61.6
     },
-    "ccu": 9946,
-    "crawled_at": "2026-07-16T15:07:48.899187"
+    "ccu": 11762,
+    "crawled_at": "2026-08-05T23:08:20.475452"
   },
   "NARAKA: BLADEPOINT": {
     "appid": 1203220,
@@ -677,7 +679,7 @@
       "type": "game",
       "short_description": "风靡全球的中式竞技大作！来这里舞利刃、端火枪，享受远近结合的华丽战斗！驾驭风沙、机甲，化身野兽、大佛，体验风格迥异的英雄能力！",
       "short_description_en": "Dive into the legends of the Far East in NARAKA: BLADEPOINT; team up with friends in fast-paced melee fights for a Battle Royale experience unlike any other. Find your playstyle with a varied cast of heroes with unique skills. More than 40 million players have already joined the fray, play free now!",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1203220/2272894267520c46470064cc4b9e86e7957499bb/header_schinese.jpg?t=1783344476",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1203220/64ac5c56d95a510ae56c7dace46fdafd0881642b/header_schinese.jpg?t=1785376833",
       "developers": [
         "24 Entertainment"
       ],
@@ -689,7 +691,7 @@
       "release_date": "2021 年 8 月 11 日",
       "release_date_en": "11 Aug, 2021",
       "metacritic": null,
-      "recommendations": 197814,
+      "recommendations": 197908,
       "platforms": {
         "windows": true,
         "mac": false,
@@ -729,16 +731,16 @@
       ]
     },
     "steamspy": {
-      "ccu": 49601
+      "ccu": 7307
     },
     "reviews": {
-      "total_reviews": 251378,
-      "positive": 180879,
-      "negative": 70499,
-      "positive_rate": 72.0
+      "total_reviews": 251882,
+      "positive": 181167,
+      "negative": 70715,
+      "positive_rate": 71.9
     },
-    "ccu": 49601,
-    "crawled_at": "2026-07-16T15:07:58.394701"
+    "ccu": 7307,
+    "crawled_at": "2026-08-05T23:08:26.949783"
   },
   "灰境行者": {
     "appid": 3978820,
@@ -746,9 +748,9 @@
       "name": "灰境行者",
       "name_en": "Rules of Engagement: The Grey State",
       "type": "game",
-      "short_description": "欢迎来到《灰境行者》，一款全新的战术射击RPG。你将操控“行者”仿生体进入神秘的“灰境”，面对扭曲的怪物与其他小队，打造你的专属构筑，杀出重围，满载而归！ 记住：一切恐怖，皆是财富。",
-      "short_description_en": "A new gold rush has begun. In this Tactical RPG Shooter, you are a Strider, an elite operative sent into the Grey State to retrieve priceless artifacts. Craft your own build, survive nightmarish creatures and rival squads, and get paid. This isn't about saving the world. It's just business.",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3978820/78e11f819d574de40c71732ec86411e024e333d8/header_schinese.jpg?t=1778642131",
+      "short_description": "《灰境行者》是一款「微恐合作撤离FPS」。在独特的“微恐宇宙”中，想加入哪一种战斗，由你们自己选择：在「合作PvE模式」中，你将和两名队友迎战怪潮、探索规则吊诡的“灰境”；而在「夺宝PvP模式」中，你们将猎杀搜刮、发育变强，与其他小队争夺全局唯一的“灰境核心”。是见好就收，还是夺宝登机，全看你们的胆量和本事。",
+      "short_description_en": "A horror-infused extraction shooter for squads of three. Crush monster hordes with devastating firepower in co-op PvE, or take on rival squads for The Vertex in PvP. Choose your battle, push as far as you dare, and make it out alive.",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3978820/78e11f819d574de40c71732ec86411e024e333d8/header_schinese.jpg?t=1785417328",
       "developers": [
         "Grey State Studio"
       ],
@@ -805,7 +807,7 @@
       "positive_rate": 0.0
     },
     "ccu": 0,
-    "crawled_at": "2026-07-16T15:08:16.784994"
+    "crawled_at": "2026-08-05T23:08:36.911761"
   },
   "Haunted": {
     "appid": 3850670,
@@ -868,7 +870,7 @@
       "positive_rate": 0.0
     },
     "ccu": 0,
-    "crawled_at": "2026-07-16T15:08:34.940777"
+    "crawled_at": "2026-08-05T23:08:47.063195"
   },
   "The Reflection": {
     "appid": 4314340,
@@ -931,7 +933,7 @@
       "positive_rate": 0.0
     },
     "ccu": 0,
-    "crawled_at": "2026-07-16T15:08:53.079680"
+    "crawled_at": "2026-08-05T23:08:57.075608"
   },
   "Radio Decay": {
     "appid": 3956540,
@@ -1000,7 +1002,7 @@
       "positive_rate": 0.0
     },
     "ccu": 0,
-    "crawled_at": "2026-07-16T15:09:10.850974"
+    "crawled_at": "2026-08-05T23:09:07.042702"
   },
   "In Us": {
     "appid": 4640600,
@@ -1069,7 +1071,7 @@
       "positive_rate": 0.0
     },
     "ccu": 0,
-    "crawled_at": "2026-07-16T15:09:28.699597"
+    "crawled_at": "2026-08-05T23:09:17.490164"
   },
   "狂欢猎杀": {
     "appid": 1181550,
@@ -1077,9 +1079,9 @@
       "name": "Carnival Hunt",
       "name_en": "Carnival Hunt",
       "type": "game",
-      "short_description": "Carnival Hunt is an asymmetric multiplayer horror game set inside a living, ever-shifting mechanical carnival designed by the Puppetmaster. One player becomes the Carnival Monster, while others play as puppet Bunnies struggling to survive, ascend, and escape the hunt.",
-      "short_description_en": "Carnival Hunt is an asymmetric multiplayer horror game set inside a living, ever-shifting mechanical carnival designed by the Puppetmaster. One player becomes the Carnival Monster, while others play as puppet Bunnies struggling to survive, ascend, and escape the hunt.",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1181550/header.jpg?t=1784153606",
+      "short_description": "Carnival Hunt 是一款 5 对 1 第一人称非对称恐怖游戏。五只发条兔必须齐心协力，管理会发出声响的钥匙，并逃离不断变化的嘉年华世界。另一名玩家则会化身嘉年华怪物，展开追猎。",
+      "short_description_en": "Carnival Hunt is a 5v1 first-person asymmetrical horror game. Five wind-up Bunnies must work together, manage their noisy keys, and find a way to escape an ever-changing carnival world while one player hunts them as the Carnival Monster.",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1181550/header.jpg?t=1784823412",
       "developers": [
         "Crytivo",
         "Beer Night Studio"
@@ -1087,12 +1089,12 @@
       "publishers": [
         "Crytivo"
       ],
-      "price": "免费",
-      "price_en": "Free To Play",
+      "price": "¥ 69.30",
+      "price_en": "¥ 69.30",
       "release_date": "2026 年 7 月 23 日",
       "release_date_en": "23 Jul, 2026",
       "metacritic": null,
-      "recommendations": 0,
+      "recommendations": 1707,
       "platforms": {
         "windows": true,
         "mac": false,
@@ -1106,8 +1108,7 @@
         "在线合作",
         "跨平台多人",
         "Steam 成就",
-        "统计数据",
-        "家庭共享"
+        "统计数据"
       ],
       "categories_en": [
         "Multi-player",
@@ -1133,15 +1134,17 @@
         "Early Access"
       ]
     },
-    "steamspy": null,
-    "reviews": {
-      "total_reviews": 0,
-      "positive": 0,
-      "negative": 0,
-      "positive_rate": 0.0
+    "steamspy": {
+      "ccu": 552
     },
-    "ccu": 0,
-    "crawled_at": "2026-07-16T15:09:50.344389"
+    "reviews": {
+      "total_reviews": 194,
+      "positive": 50,
+      "negative": 144,
+      "positive_rate": 25.8
+    },
+    "ccu": 552,
+    "crawled_at": "2026-08-05T23:09:24.544855"
   },
   "月光光心慌慌": {
     "appid": 3219630,
@@ -1151,7 +1154,7 @@
       "type": "game",
       "short_description": "1978 年的万圣节之夜，没人能从迈克尔·迈尔斯的手中逃脱。在 Halloween 中，化身“面具杀手”，或者直面邪恶奋起反抗。",
       "short_description_en": "On Halloween night, 1978, no one is safe from Michael Myers. Become the Boogeyman or fight back against the face of evil itself in Halloween.",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3219630/153ed105c4b409fe689783e4f9b6aad72c152646/header.jpg?t=1784076660",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3219630/153ed105c4b409fe689783e4f9b6aad72c152646/header.jpg?t=1785777766",
       "developers": [
         "IllFonic"
       ],
@@ -1177,6 +1180,7 @@
         "线上玩家对战",
         "合作",
         "在线合作",
+        "Steam 成就",
         "完全支持控制器",
         "DUALSHOCK 控制器支持",
         "DualSense 控制器支持",
@@ -1189,6 +1193,7 @@
         "Online PvP",
         "Co-op",
         "Online Co-op",
+        "Steam Achievements",
         "Full controller support",
         "DualShock Controller Support",
         "DualSense Controller Support",
@@ -1209,7 +1214,7 @@
       "positive_rate": 0.0
     },
     "ccu": 0,
-    "crawled_at": "2026-07-16T15:10:08.537882"
+    "crawled_at": "2026-08-05T23:09:34.562370"
   },
   "土丘：克苏鲁恶兆": {
     "appid": 2569760,
@@ -1219,19 +1224,19 @@
       "type": "game",
       "short_description": "最多可四人合作，组建探险者小队，踏上寻宝之旅。这片被诅咒的丛林危机四伏，怪物扭曲了现实。保持冷静，在丛林吞噬你之前征服它……",
       "short_description_en": "In up to four player co-op, form a group of explorers searching for treasure. In this cursed jungle, danger is everywhere and monstrous creatures alter reality. Stay clear-headed and tame the jungle before it devours you…",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2569760/0a3d1867d5781f18cb4fd0b1151729605e892c6b/header.jpg?t=1784110925",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2569760/0a3d1867d5781f18cb4fd0b1151729605e892c6b/header.jpg?t=1785400715",
       "developers": [
         "ACE Team"
       ],
       "publishers": [
         "Nacon"
       ],
-      "price": "¥ 87.20",
-      "price_en": "¥ 87.20",
+      "price": "¥ 109.00",
+      "price_en": "¥ 109.00",
       "release_date": "2026 年 7 月 15 日",
       "release_date_en": "15 Jul, 2026",
       "metacritic": null,
-      "recommendations": 582,
+      "recommendations": 2641,
       "platforms": {
         "windows": true,
         "mac": false,
@@ -1289,16 +1294,16 @@
       ]
     },
     "steamspy": {
-      "ccu": 1583
+      "ccu": 1016
     },
     "reviews": {
-      "total_reviews": 69,
-      "positive": 14,
-      "negative": 55,
-      "positive_rate": 20.3
+      "total_reviews": 194,
+      "positive": 79,
+      "negative": 115,
+      "positive_rate": 40.7
     },
-    "ccu": 1583,
-    "crawled_at": "2026-07-16T15:10:16.216426"
+    "ccu": 1016,
+    "crawled_at": "2026-08-05T23:09:41.224171"
   },
   "MECCHA CHAMELEON": {
     "appid": 4704690,
@@ -1308,7 +1313,7 @@
       "type": "game",
       "short_description": "把自己涂满颜色，融入背景吧！《Meccha Chameleon》是一款全新感觉的捉迷藏游戏，玩家需要在自己纯白的身体上绘图以拟态成关卡中的样子。躲藏地点、姿势，以及最重要的“画功”是生存的关键。用连变色龙都自愧不如的技术欺骗追捕者的眼睛，在时限内逃出生天吧！您还可以轻松享受随机匹配或观众参与型直播。",
       "short_description_en": "Paint yourself to blend in! &quot;Meccha Chameleon&quot; is a new-sensation hide-and-seek game where you paint your white body to mimic the stage. Spot, pose, and &quot;artistic skill&quot; are keys to survival. Deceive Seekers with techniques that put chameleons to shame! Supports public matches and streaming.",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4704690/163e2a742e5fb8e1f5d1e3a890da98f04ab809d4/header.jpg?t=1782561846",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4704690/163e2a742e5fb8e1f5d1e3a890da98f04ab809d4/header.jpg?t=1785908480",
       "developers": [
         "lemorion_1224"
       ],
@@ -1320,7 +1325,7 @@
       "release_date": "2026 年 6 月 9 日",
       "release_date_en": "9 Jun, 2026",
       "metacritic": null,
-      "recommendations": 59418,
+      "recommendations": 71284,
       "platforms": {
         "windows": true,
         "mac": false,
@@ -1333,6 +1338,7 @@
         "Steam 创意工坊",
         "视角舒适度",
         "自定义音量控制",
+        "#category_playable_at_your_own_pace",
         "无需应对快速反应事件",
         "立体声",
         "环绕声",
@@ -1346,6 +1352,7 @@
         "Steam Workshop",
         "Camera Comfort",
         "Custom Volume Controls",
+        "#category_playable_at_your_own_pace",
         "Playable without Timed Input",
         "Stereo Sound",
         "Surround Sound",
@@ -1360,16 +1367,16 @@
       ]
     },
     "steamspy": {
-      "ccu": 26711
+      "ccu": 16311
     },
     "reviews": {
-      "total_reviews": 5312,
-      "positive": 3214,
-      "negative": 2098,
-      "positive_rate": 60.5
+      "total_reviews": 5832,
+      "positive": 3598,
+      "negative": 2234,
+      "positive_rate": 61.7
     },
-    "ccu": 26711,
-    "crawled_at": "2026-07-16T15:10:24.312895"
+    "ccu": 16311,
+    "crawled_at": "2026-08-05T23:09:47.709004"
   },
   "HELLDIVERS 2": {
     "appid": 553850,
@@ -1391,7 +1398,7 @@
       "release_date": "2024 年 2 月 8 日",
       "release_date_en": "8 Feb, 2024",
       "metacritic": null,
-      "recommendations": 831315,
+      "recommendations": 832657,
       "platforms": {
         "windows": true,
         "mac": false,
@@ -1453,16 +1460,16 @@
       ]
     },
     "steamspy": {
-      "ccu": 17481
+      "ccu": 24301
     },
     "reviews": {
-      "total_reviews": 115259,
-      "positive": 36271,
-      "negative": 78988,
-      "positive_rate": 31.5
+      "total_reviews": 115564,
+      "positive": 36525,
+      "negative": 79039,
+      "positive_rate": 31.6
     },
-    "ccu": 17481,
-    "crawled_at": "2026-07-16T15:10:32.363301"
+    "ccu": 24301,
+    "crawled_at": "2026-08-05T23:09:54.179251"
   },
   "Far Far West": {
     "appid": 3124540,
@@ -1484,7 +1491,7 @@
       "release_date": "2026 年 4 月 28 日",
       "release_date_en": "28 Apr, 2026",
       "metacritic": null,
-      "recommendations": 29231,
+      "recommendations": 29638,
       "platforms": {
         "windows": true,
         "mac": false,
@@ -1534,16 +1541,16 @@
       ]
     },
     "steamspy": {
-      "ccu": 576
+      "ccu": 861
     },
     "reviews": {
-      "total_reviews": 1055,
-      "positive": 712,
-      "negative": 343,
-      "positive_rate": 67.5
+      "total_reviews": 1068,
+      "positive": 718,
+      "negative": 350,
+      "positive_rate": 67.2
     },
-    "ccu": 576,
-    "crawled_at": "2026-07-16T15:10:40.081280"
+    "ccu": 861,
+    "crawled_at": "2026-08-05T23:10:00.723415"
   },
   "Burglin' Gnomes": {
     "appid": 3844970,
@@ -1565,7 +1572,7 @@
       "release_date": "2026 年 6 月 10 日",
       "release_date_en": "10 Jun, 2026",
       "metacritic": null,
-      "recommendations": 3258,
+      "recommendations": 3892,
       "platforms": {
         "windows": true,
         "mac": false,
@@ -1601,16 +1608,16 @@
       ]
     },
     "steamspy": {
-      "ccu": 574
+      "ccu": 817
     },
     "reviews": {
-      "total_reviews": 120,
-      "positive": 87,
-      "negative": 33,
-      "positive_rate": 72.5
+      "total_reviews": 142,
+      "positive": 102,
+      "negative": 40,
+      "positive_rate": 71.8
     },
-    "ccu": 574,
-    "crawled_at": "2026-07-16T15:10:47.726320"
+    "ccu": 817,
+    "crawled_at": "2026-08-05T23:10:07.221587"
   },
   "一起开火车2": {
     "appid": 2211170,
@@ -1620,7 +1627,7 @@
       "type": "game",
       "short_description": "《一起开火车》的续作来啦！快呼朋唤友再建铁轨重鸣汽笛吧！更多特色鲜明的地理环境，升级角色和引擎，选择脑洞大开的全新路线；在火车脱轨前，快将你自定义的关卡设计分享给更多轨道爱好者吧！",
       "short_description_en": "The chaotic co-op railroad construction game is back! Team up with your friends to build a railroad through procedurally generated worlds with new biomes and bosses. Permanently upgrade your character and engine, even create your own levels - just don‘t let your train derail!",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2211170/e13148cadb42b138b5edce3e475045d4870ec263/header_alt_assets_6.jpg?t=1782895685",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2211170/eb8aba6090a8be15da184904177bb373cb6de5d6/header_alt_assets_6_schinese.jpg?t=1785434889",
       "developers": [
         "Indoor Astronaut"
       ],
@@ -1633,7 +1640,7 @@
       "release_date": "2026 年 6 月 11 日",
       "release_date_en": "11 Jun, 2026",
       "metacritic": null,
-      "recommendations": 1675,
+      "recommendations": 1740,
       "platforms": {
         "windows": true,
         "mac": true,
@@ -1701,16 +1708,16 @@
       ]
     },
     "steamspy": {
-      "ccu": 70
+      "ccu": 81
     },
     "reviews": {
-      "total_reviews": 380,
-      "positive": 287,
-      "negative": 93,
-      "positive_rate": 75.5
+      "total_reviews": 405,
+      "positive": 306,
+      "negative": 99,
+      "positive_rate": 75.6
     },
-    "ccu": 70,
-    "crawled_at": "2026-07-16T15:10:55.640062"
+    "ccu": 81,
+    "crawled_at": "2026-08-05T23:10:13.829859"
   },
   "Lost Castle 2": {
     "appid": 2445690,
@@ -1720,19 +1727,19 @@
       "type": "game",
       "short_description": "失落城堡2是一款2D卡通横版Rogue-Lite游戏。探寻丰富宝物道具强化自己，精通各类武器玩出花样，挑战强大魔物展现实力。新的冒险正召唤着宝藏猎人们！",
       "short_description_en": "&quot;Lost Castle 2&quot; is a 2D Beat'em up Rogue-Lite game. Explore abundant treasures and items to enhance yourself, master various weapons to showcase your skills, and challenge powerful monsters to demonstrate your strength. A new adventure is calling for treasure hunters!",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2445690/6ba48b065007d13e96a5e01a4976139ad96480ac/header_schinese.jpg?t=1783421439",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2445690/6ba48b065007d13e96a5e01a4976139ad96480ac/header_schinese.jpg?t=1784785941",
       "developers": [
         "Hunter Studio"
       ],
       "publishers": [
         "Hunter Studio"
       ],
-      "price": "¥ 68.00",
-      "price_en": "¥ 68.00",
+      "price": "¥ 47.60",
+      "price_en": "¥ 47.60",
       "release_date": "2026 年 6 月 10 日",
       "release_date_en": "10 Jun, 2026",
       "metacritic": 83,
-      "recommendations": 10192,
+      "recommendations": 10473,
       "platforms": {
         "windows": true,
         "mac": false,
@@ -1792,16 +1799,16 @@
       ]
     },
     "steamspy": {
-      "ccu": 3386
+      "ccu": 801
     },
     "reviews": {
-      "total_reviews": 10390,
-      "positive": 7871,
-      "negative": 2519,
-      "positive_rate": 75.8
+      "total_reviews": 10678,
+      "positive": 8076,
+      "negative": 2602,
+      "positive_rate": 75.6
     },
-    "ccu": 3386,
-    "crawled_at": "2026-07-16T15:11:03.431479"
+    "ccu": 801,
+    "crawled_at": "2026-08-05T23:10:20.385890"
   },
   "Deep Rock Galactic": {
     "appid": 548430,
@@ -1811,19 +1818,19 @@
       "type": "game",
       "short_description": "《深岩银河》是一款多人合作类第一人称射击游戏，有着了不起的矮人、100% 可破坏的地形、由程序生成的洞穴以及无数的外星怪物。",
       "short_description_en": "Deep Rock Galactic is a 1-4 player co-op FPS featuring dwarven space miners, procedurally-generated destructible environments, and endless hordes of alien monsters. Explore cave systems, mine for minerals, and work together to survive!",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/548430/header_schinese.jpg?t=1782116973",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/548430/86327fa5138cb0d9dca05ea03989e3ff28a2be78/header_alt_assets_27_schinese.jpg?t=1785396408",
       "developers": [
         "Ghost Ship Games"
       ],
       "publishers": [
         "Coffee Stain Publishing"
       ],
-      "price": "¥ 108.00",
-      "price_en": "¥ 108.00",
+      "price": "¥ 32.40",
+      "price_en": "¥ 32.40",
       "release_date": "2020 年 5 月 13 日",
       "release_date_en": "13 May, 2020",
       "metacritic": 85,
-      "recommendations": 301572,
+      "recommendations": 302088,
       "platforms": {
         "windows": true,
         "mac": false,
@@ -1879,16 +1886,16 @@
       ]
     },
     "steamspy": {
-      "ccu": 2503
+      "ccu": 3500
     },
     "reviews": {
-      "total_reviews": 36432,
-      "positive": 34200,
-      "negative": 2232,
+      "total_reviews": 36476,
+      "positive": 34240,
+      "negative": 2236,
       "positive_rate": 93.9
     },
-    "ccu": 2503,
-    "crawled_at": "2026-07-16T15:11:11.699898"
+    "ccu": 3500,
+    "crawled_at": "2026-08-05T23:10:27.045285"
   },
   "Among Us": {
     "appid": 945360,
@@ -1905,12 +1912,12 @@
       "publishers": [
         "Innersloth"
       ],
-      "price": "¥ 15.00",
-      "price_en": "¥ 15.00",
+      "price": "¥ 25.00",
+      "price_en": "¥ 25.00",
       "release_date": "2018 年 11 月 16 日",
       "release_date_en": "16 Nov, 2018",
       "metacritic": 85,
-      "recommendations": 650680,
+      "recommendations": 653475,
       "platforms": {
         "windows": true,
         "mac": false,
@@ -1958,16 +1965,16 @@
       ]
     },
     "steamspy": {
-      "ccu": 5698
+      "ccu": 10626
     },
     "reviews": {
-      "total_reviews": 17086,
-      "positive": 15174,
-      "negative": 1912,
+      "total_reviews": 17170,
+      "positive": 15240,
+      "negative": 1930,
       "positive_rate": 88.8
     },
-    "ccu": 5698,
-    "crawled_at": "2026-07-16T15:11:19.284128"
+    "ccu": 10626,
+    "crawled_at": "2026-08-05T23:10:33.625580"
   },
   "Sons Of The Forest": {
     "appid": 1326470,
@@ -1989,7 +1996,7 @@
       "release_date": "2024 年 2 月 22 日",
       "release_date_en": "22 Feb, 2024",
       "metacritic": null,
-      "recommendations": 279327,
+      "recommendations": 281193,
       "platforms": {
         "windows": true,
         "mac": false,
@@ -2037,16 +2044,16 @@
       ]
     },
     "steamspy": {
-      "ccu": 7782
+      "ccu": 5915
     },
     "reviews": {
-      "total_reviews": 34118,
-      "positive": 28149,
-      "negative": 5969,
-      "positive_rate": 82.5
+      "total_reviews": 34352,
+      "positive": 28368,
+      "negative": 5984,
+      "positive_rate": 82.6
     },
-    "ccu": 7782,
-    "crawled_at": "2026-07-16T15:11:28.976564"
+    "ccu": 5915,
+    "crawled_at": "2026-08-05T23:10:40.210112"
   },
   "Risk of Rain 2": {
     "appid": 632360,
@@ -2069,7 +2076,7 @@
       "release_date": "2020 年 8 月 11 日",
       "release_date_en": "11 Aug, 2020",
       "metacritic": 85,
-      "recommendations": 238296,
+      "recommendations": 238774,
       "platforms": {
         "windows": true,
         "mac": false,
@@ -2129,16 +2136,16 @@
       ]
     },
     "steamspy": {
-      "ccu": 3723
+      "ccu": 4923
     },
     "reviews": {
-      "total_reviews": 37630,
-      "positive": 33470,
+      "total_reviews": 37658,
+      "positive": 33498,
       "negative": 4160,
-      "positive_rate": 88.9
+      "positive_rate": 89.0
     },
-    "ccu": 3723,
-    "crawled_at": "2026-07-16T15:11:36.657624"
+    "ccu": 4923,
+    "crawled_at": "2026-08-05T23:10:46.766143"
   },
   "Windblown": {
     "appid": 1911610,
@@ -2148,7 +2155,7 @@
       "type": "game",
       "short_description": "《风中行者》作为《死亡细胞》团队的全新力作，是一款节奏飞快的类 Rogue 动作游戏，支持 1–3 人联机。闯入崩毁的世界，一路畅快突进、俯冲、破坏。自由搭配装备，发动威力惊人的特殊攻击，成为抵御大气旋最后的防线。",
       "short_description_en": "A lightning-fast 1–3 player co-op roguelite from the creators of Dead Cells. DASH, DIVE and DESTROY across a shattered world. Build wild loadouts, unleash devastating Alterattacks, and become the last stand against the Vortex.",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1911610/b91bf8be5d6d4fac5aa2d12443d66dd17cc38e79/header_schinese.jpg?t=1783938649",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1911610/b91bf8be5d6d4fac5aa2d12443d66dd17cc38e79/header_schinese.jpg?t=1784623599",
       "developers": [
         "Motion Twin"
       ],
@@ -2156,12 +2163,12 @@
         "Motion Twin",
         "Kepler Ghost"
       ],
-      "price": "¥ 98.00",
-      "price_en": "¥ 98.00",
+      "price": "¥ 61.60",
+      "price_en": "¥ 61.60",
       "release_date": "2024 年 10 月 24 日",
       "release_date_en": "24 Oct, 2024",
       "metacritic": null,
-      "recommendations": 8940,
+      "recommendations": 8988,
       "platforms": {
         "windows": true,
         "mac": false,
@@ -2209,16 +2216,16 @@
       ]
     },
     "steamspy": {
-      "ccu": 81
+      "ccu": 155
     },
     "reviews": {
-      "total_reviews": 1707,
-      "positive": 1175,
-      "negative": 532,
-      "positive_rate": 68.8
+      "total_reviews": 1717,
+      "positive": 1180,
+      "negative": 537,
+      "positive_rate": 68.7
     },
-    "ccu": 81,
-    "crawled_at": "2026-07-16T15:11:45.090555"
+    "ccu": 155,
+    "crawled_at": "2026-08-05T23:10:53.369711"
   },
   "青蛙小队": {
     "appid": 3989960,
@@ -2240,7 +2247,7 @@
       "release_date": "2026 年 6 月 11 日",
       "release_date_en": "11 Jun, 2026",
       "metacritic": null,
-      "recommendations": 292,
+      "recommendations": 317,
       "platforms": {
         "windows": true,
         "mac": false,
@@ -2288,16 +2295,16 @@
       ]
     },
     "steamspy": {
-      "ccu": 37
+      "ccu": 20
     },
     "reviews": {
-      "total_reviews": 94,
+      "total_reviews": 97,
       "positive": 70,
-      "negative": 24,
-      "positive_rate": 74.5
+      "negative": 27,
+      "positive_rate": 72.2
     },
-    "ccu": 37,
-    "crawled_at": "2026-07-16T15:11:53.080649"
+    "ccu": 20,
+    "crawled_at": "2026-08-05T23:11:00.211545"
   },
   "Garry's Mod": {
     "appid": 4000,
@@ -2319,7 +2326,7 @@
       "release_date": "2006 年 11 月 29 日",
       "release_date_en": "29 Nov, 2006",
       "metacritic": null,
-      "recommendations": 1079403,
+      "recommendations": 1084846,
       "platforms": {
         "windows": true,
         "mac": true,
@@ -2391,16 +2398,16 @@
       ]
     },
     "steamspy": {
-      "ccu": 16567
+      "ccu": 25907
     },
     "reviews": {
-      "total_reviews": 38414,
-      "positive": 37174,
-      "negative": 1240,
+      "total_reviews": 38799,
+      "positive": 37548,
+      "negative": 1251,
       "positive_rate": 96.8
     },
-    "ccu": 16567,
-    "crawled_at": "2026-07-16T15:12:00.765594"
+    "ccu": 25907,
+    "crawled_at": "2026-08-05T23:11:06.956434"
   },
   "Crab Game": {
     "appid": 1782210,
@@ -2460,16 +2467,16 @@
       ]
     },
     "steamspy": {
-      "ccu": 542
+      "ccu": 666
     },
     "reviews": {
-      "total_reviews": 2061,
-      "positive": 1802,
-      "negative": 259,
-      "positive_rate": 87.4
+      "total_reviews": 2071,
+      "positive": 1809,
+      "negative": 262,
+      "positive_rate": 87.3
     },
-    "ccu": 542,
-    "crawled_at": "2026-07-16T15:12:08.092612"
+    "ccu": 666,
+    "crawled_at": "2026-08-05T23:11:13.397469"
   },
   "Dead by Daylight": {
     "appid": 381210,
@@ -2479,7 +2486,7 @@
       "type": "game",
       "short_description": "10年恐惧相伴。10年的惊吓与刺激体验。10年的残暴献祭与惊险逃脱。 永久困于邪恶的幻境之中，即使死亡也无法逃脱，这是一场需要勇气和智慧的较量，四名意志坚定的逃生者在残忍对局中面对嗜血杀手。选择一方，进入多人非对称竞技游戏世界，获得最佳恐怖游戏体验。",
       "short_description_en": "10 years of horror. 10 years of jump scares and close calls. 10 years of brutal sacrifices and thrilling escapes. Trapped forever in a realm of eldritch evil where even death is not an escape, four determined Survivors face a bloodthirsty Killer in a vicious game of nerve and wits.",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/381210/header.jpg?t=1783618189",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/381210/header.jpg?t=1784216454",
       "developers": [
         "Behaviour Interactive Inc."
       ],
@@ -2491,7 +2498,7 @@
       "release_date": "2016 年 6 月 14 日",
       "release_date_en": "14 Jun, 2016",
       "metacritic": null,
-      "recommendations": 673903,
+      "recommendations": 678069,
       "platforms": {
         "windows": true,
         "mac": false,
@@ -2549,16 +2556,16 @@
       ]
     },
     "steamspy": {
-      "ccu": 53369
+      "ccu": 61703
     },
     "reviews": {
-      "total_reviews": 114604,
-      "positive": 72537,
-      "negative": 42067,
+      "total_reviews": 115012,
+      "positive": 72804,
+      "negative": 42208,
       "positive_rate": 63.3
     },
-    "ccu": 53369,
-    "crawled_at": "2026-07-16T15:12:15.791221"
+    "ccu": 61703,
+    "crawled_at": "2026-08-05T23:11:20.080611"
   },
   "Dear Passengers": {
     "appid": 4534960,
@@ -2568,7 +2575,7 @@
       "type": "game",
       "short_description": "Play in co-op as the crew of the world’s worst airline. Your plane is falling apart, your cargo is illegal, and passenger safety barely makes the list.",
       "short_description_en": "Play in co-op as the crew of the world’s worst airline. Your plane is falling apart, your cargo is illegal, and passenger safety barely makes the list.",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4534960/7ddef53346afe3e3d4d479dbed740cdb38cfe09a/header.jpg?t=1784149249",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4534960/7ddef53346afe3e3d4d479dbed740cdb38cfe09a/header.jpg?t=1784401335",
       "developers": [
         "FLEXUS"
       ],
@@ -2619,6 +2626,6 @@
       "positive_rate": 0.0
     },
     "ccu": 0,
-    "crawled_at": "2026-07-16T15:12:34.201660"
+    "crawled_at": "2026-08-05T23:11:30.047043"
   }
 }

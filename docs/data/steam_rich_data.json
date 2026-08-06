@@ -9,7 +9,7 @@
       "publisher": "semiwork",
       "release_date": "2025 年 2 月 26 日",
       "is_free": false,
-      "price": "¥ 35.00",
+      "price": "¥ 22.75",
       "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3241660/a12c92856b71315da885924ea5e1d5290c8025b8/header_alt_assets_2.jpg?t=1778158882",
       "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3241660/e29789d09be972ea786975695bdde1cc047a76e1/capsule_184x69_alt_assets_2.jpg?t=1778158882",
       "short_description": "An online co-op horror game with up to 6 players. Locate valuable, fully physics-based objects and handle them with care as you retrieve and extract to satisfy your creator's desires.",
@@ -36,7 +36,7 @@
         "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3241660/ss_cd332c2299810a65c6aee61c04750197a919692a.600x338.jpg?t=1778158882",
         "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3241660/ss_e4dc1bc0ada8fb7cb164b3ac37be82f51aae5627.600x338.jpg?t=1778158882"
       ],
-      "recommendations": 329876,
+      "recommendations": 333775,
       "achievements": 0,
       "platforms": {
         "windows": true,
@@ -81,7 +81,7 @@
         "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1966720/ss_e07f1d6ee90e3669118096dab1fe52c20ec6ce10.600x338.jpg?t=1775380053",
         "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1966720/ss_0499d96a2b9ca0fc8966d77e6d5c95ae94c38492.600x338.jpg?t=1775380053"
       ],
-      "recommendations": 410647,
+      "recommendations": 410910,
       "achievements": 0,
       "platforms": {
         "windows": true,
@@ -98,14 +98,15 @@
       "publisher": "Evil Landfall?",
       "release_date": "2024 年 4 月 1 日",
       "is_free": false,
-      "price": "¥ 16.50",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2881650/header_schinese.jpg?t=1775640428",
-      "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2881650/capsule_184x69_schinese.jpg?t=1775640428",
+      "price": "¥ 33.00",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2881650/header_schinese.jpg?t=1785137321",
+      "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2881650/capsule_184x69_schinese.jpg?t=1785137321",
       "short_description": "录下好友的惊悚作死镜头，一跃成为“幽哩幽哩”的顶流巨星！（强烈建议开黑游玩）",
       "categories": [
         "多人",
         "合作",
         "在线合作",
+        "跨平台多人",
         "DUALSHOCK 控制器支持",
         "DualSense 控制器支持",
         "部分支持控制器",
@@ -118,14 +119,14 @@
         "独立"
       ],
       "screenshots": [
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2881650/ss_5df7377699e11b22ffbb604f2b3cc74d39d9bb2f.600x338.jpg?t=1775640428",
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2881650/ss_0639604a881c0a0c9e02960b61d108c1f643809d.600x338.jpg?t=1775640428",
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2881650/ss_f7f450f42db587f4e143ad1178500ad786c965a3.600x338.jpg?t=1775640428",
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2881650/ss_ae459a02056e53665b20270b3b2c2ec74e6c4963.600x338.jpg?t=1775640428",
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2881650/ss_86404e1606ca67a485e20c71cddd3cffdc511c71.600x338.jpg?t=1775640428",
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2881650/ss_35c0fbe15af6816fd0d53156f0330e78a73c533d.600x338.jpg?t=1775640428"
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2881650/ss_5df7377699e11b22ffbb604f2b3cc74d39d9bb2f.600x338.jpg?t=1785137321",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2881650/ss_0639604a881c0a0c9e02960b61d108c1f643809d.600x338.jpg?t=1785137321",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2881650/ss_f7f450f42db587f4e143ad1178500ad786c965a3.600x338.jpg?t=1785137321",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2881650/ss_ae459a02056e53665b20270b3b2c2ec74e6c4963.600x338.jpg?t=1785137321",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2881650/ss_86404e1606ca67a485e20c71cddd3cffdc511c71.600x338.jpg?t=1785137321",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2881650/ss_35c0fbe15af6816fd0d53156f0330e78a73c533d.600x338.jpg?t=1785137321"
       ],
-      "recommendations": 70483,
+      "recommendations": 71402,
       "achievements": 48,
       "platforms": {
         "windows": true,
@@ -185,7 +186,7 @@
       "publisher": "Aggro Crab",
       "release_date": "2025 年 6 月 16 日",
       "is_free": false,
-      "price": "¥ 33.00",
+      "price": "¥ 16.50",
       "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3527290/31bac6b2eccf09b368f5e95ce510bae2baf3cfcd/header.jpg?t=1775581133",
       "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3527290/1844964d7a353e50eb3cc979ea922729d8c1b0ad/capsule_184x69.jpg?t=1775581133",
       "short_description": "《PEAK》是一款需要细致合作的登山游戏，作为流落神秘岛屿的童子军探险家，无论单人独闯抑或团队协力，你们唯一获救的希望便是登上岛中那座巍峨的山峰，自然荒野险途漫漫，稍有不慎便会大难临头。顶峰在望，你有魄力能征服它吗？",
@@ -216,7 +217,7 @@
         "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3527290/c673fede352b201b3f897521e4e6eb6814a38c50/ss_c673fede352b201b3f897521e4e6eb6814a38c50.600x338.jpg?t=1775581133",
         "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3527290/63b22127ea64aba8b16c33a172b0fedbf542e834/ss_63b22127ea64aba8b16c33a172b0fedbf542e834.600x338.jpg?t=1775581133"
       ],
-      "recommendations": 274298,
+      "recommendations": 277968,
       "achievements": 54,
       "platforms": {
         "windows": true,
@@ -234,8 +235,8 @@
       "release_date": "2020 年 9 月 18 日",
       "is_free": false,
       "price": "¥ 68.00",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/739630/c227a2855aba60f3657bc0c3a46515b8c41fb2b6/header.jpg?t=1782311537",
-      "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/739630/0268c77668d5643d3f2c19e67e92e252fdfe6c7f/capsule_184x69.jpg?t=1782311537",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/739630/c227a2855aba60f3657bc0c3a46515b8c41fb2b6/header.jpg?t=1785937507",
+      "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/739630/0268c77668d5643d3f2c19e67e92e252fdfe6c7f/capsule_184x69.jpg?t=1785937507",
       "short_description": "Phasmophobia is a 4 player online co-op psychological horror. Paranormal activity is on the rise and it’s up to you and your team to use all the ghost-hunting equipment at your disposal in order to gather as much evidence as you can.",
       "categories": [
         "单人",
@@ -267,14 +268,14 @@
         "抢先体验"
       ],
       "screenshots": [
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/739630/ec30a770064ea10c2bcfb1b3002a3dbd086be516/ss_ec30a770064ea10c2bcfb1b3002a3dbd086be516.600x338.jpg?t=1782311537",
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/739630/e9b67c7a3744a36cd5cc29adc13c6caaa4172e26/ss_e9b67c7a3744a36cd5cc29adc13c6caaa4172e26.600x338.jpg?t=1782311537",
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/739630/1ec54d1d45005e5ddd8360b05e5bbdea3a9090f2/ss_1ec54d1d45005e5ddd8360b05e5bbdea3a9090f2.600x338.jpg?t=1782311537",
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/739630/71f1c151812f056bdbf1aa0c0d5779bb12f31a2a/ss_71f1c151812f056bdbf1aa0c0d5779bb12f31a2a.600x338.jpg?t=1782311537",
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/739630/36bacb3935192ddacb4259cc964ab6e6f4be2d44/ss_36bacb3935192ddacb4259cc964ab6e6f4be2d44.600x338.jpg?t=1782311537",
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/739630/a1a0840e05ff4007115fa2e51f725d1f1a9860c9/ss_a1a0840e05ff4007115fa2e51f725d1f1a9860c9.600x338.jpg?t=1782311537"
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/739630/ec30a770064ea10c2bcfb1b3002a3dbd086be516/ss_ec30a770064ea10c2bcfb1b3002a3dbd086be516.600x338.jpg?t=1785937507",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/739630/e9b67c7a3744a36cd5cc29adc13c6caaa4172e26/ss_e9b67c7a3744a36cd5cc29adc13c6caaa4172e26.600x338.jpg?t=1785937507",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/739630/1ec54d1d45005e5ddd8360b05e5bbdea3a9090f2/ss_1ec54d1d45005e5ddd8360b05e5bbdea3a9090f2.600x338.jpg?t=1785937507",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/739630/71f1c151812f056bdbf1aa0c0d5779bb12f31a2a/ss_71f1c151812f056bdbf1aa0c0d5779bb12f31a2a.600x338.jpg?t=1785937507",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/739630/36bacb3935192ddacb4259cc964ab6e6f4be2d44/ss_36bacb3935192ddacb4259cc964ab6e6f4be2d44.600x338.jpg?t=1785937507",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/739630/a1a0840e05ff4007115fa2e51f725d1f1a9860c9/ss_a1a0840e05ff4007115fa2e51f725d1f1a9860c9.600x338.jpg?t=1785937507"
       ],
-      "recommendations": 679597,
+      "recommendations": 681424,
       "achievements": 54,
       "platforms": {
         "windows": true,
@@ -292,8 +293,8 @@
       "release_date": "2023 年 9 月 25 日",
       "is_free": false,
       "price": "¥ 76.00",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1929610/header.jpg?t=1761136310",
-      "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1929610/capsule_184x69.jpg?t=1761136310",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1929610/header.jpg?t=1785746147",
+      "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1929610/capsule_184x69.jpg?t=1785746147",
       "short_description": "恶魔学家是一款合作式恐怖游戏，可由至少1名和最多4名玩家一起玩。你的目标是识别被诅咒的地方的恶灵类型，并使用你的设备将其驱除，无论是单独还是与你的团队合作。",
       "categories": [
         "单人",
@@ -310,14 +311,14 @@
         "独立"
       ],
       "screenshots": [
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1929610/ss_fecf052208c1c1b8ce475c41cc16bdb1dca85a60.600x338.jpg?t=1761136310",
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1929610/ss_87b862f21a084d11b3574e1ca3fcc21082249019.600x338.jpg?t=1761136310",
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1929610/ss_c8e2c9bb16807970bba18d39803d08b93eac6a57.600x338.jpg?t=1761136310",
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1929610/ss_385d75a41dd69da50e5c6d77330101f294069d56.600x338.jpg?t=1761136310",
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1929610/ss_3cf4a2ae86686d59eab58f7afa1b84f5e703eb5c.600x338.jpg?t=1761136310",
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1929610/ss_b86c81d424bc256e0287e87dc7d472520a494570.600x338.jpg?t=1761136310"
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1929610/ss_fecf052208c1c1b8ce475c41cc16bdb1dca85a60.600x338.jpg?t=1785746147",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1929610/ss_3cf4a2ae86686d59eab58f7afa1b84f5e703eb5c.600x338.jpg?t=1785746147",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1929610/ss_b86c81d424bc256e0287e87dc7d472520a494570.600x338.jpg?t=1785746147",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1929610/ss_32907bae93a241c13eb6c0bec6199bba605e05b5.600x338.jpg?t=1785746147",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1929610/ss_2b5266add515088c9beec6c69d24984bf0e838e3.600x338.jpg?t=1785746147",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1929610/ss_e52c95d2483584d29d707a6cd7fbe7da1155c5c9.600x338.jpg?t=1785746147"
       ],
-      "recommendations": 18628,
+      "recommendations": 18695,
       "achievements": 24,
       "platforms": {
         "windows": true,
@@ -334,7 +335,7 @@
       "publisher": "Red Barrels",
       "release_date": "2024 年 3 月 5 日",
       "is_free": false,
-      "price": "¥ 40.80",
+      "price": "¥ 136.00",
       "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1304930/65fbdba4ad0f1a7ed7a362a086c87042fa40fadc/header_alt_assets_3.jpg?t=1784123708",
       "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1304930/115ccc74cf2a3951184659a5f953c8db1a48e499/capsule_184x69_alt_assets_3.jpg?t=1784123708",
       "short_description": "Red Barrels invites you to experience mind-numbing terror, this time with friends. Whether you go through the trials alone or in teams, if you survive long enough and complete the therapy, Murkoff will happily let you leave… but will you be the same?",
@@ -363,7 +364,7 @@
         "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1304930/ss_da9e1f8fe8ee47b129950570aa1baca12480ae63.600x338.jpg?t=1784123708",
         "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1304930/ss_0a9b163b1458d64c79299353d485160176ca899c.600x338.jpg?t=1784123708"
       ],
-      "recommendations": 87442,
+      "recommendations": 89565,
       "achievements": 27,
       "platforms": {
         "windows": true,
@@ -380,9 +381,9 @@
       "publisher": "Crytek",
       "release_date": "2019 年 8 月 27 日",
       "is_free": false,
-      "price": "¥ 128.00",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/594650/6b21392c2e731ea04b965cbfe196058efdbd330e/header_alt_assets_26.jpg?t=1783433975",
-      "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/594650/078c88d470cfe352b33a97e64d61ca81b961ceaa/capsule_184x69_alt_assets_26.jpg?t=1783433975",
+      "price": "¥ 51.20",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/594650/279c054bf947c40225a8f2f56b15bf7f817976f0/header_alt_assets_27.jpg?t=1785847079",
+      "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/594650/db8d00180552bbcf7068dffda7bf5ce8b4ae0041/capsule_184x69.jpg?t=1785847079",
       "short_description": "《猎杀：对决 1896》是一款硬核高回报的撤离式射击游戏。追踪畸变怪物，在残酷的PvP对抗中生还。深入被历史遗忘的腐化荒泽，夺取悬赏赏金。组队协作，才能求得生存。一无所有葬身荒野，或是满载物资全身而退，都在一念之间。",
       "categories": [
         "多人",
@@ -402,14 +403,14 @@
         "动作"
       ],
       "screenshots": [
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/594650/09fb643d55de8aad0ebdc929bec4758a5232858d/ss_09fb643d55de8aad0ebdc929bec4758a5232858d.600x338.jpg?t=1783433975",
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/594650/d5cd34a1eed17fee5a0c549742840c8d93493663/ss_d5cd34a1eed17fee5a0c549742840c8d93493663.600x338.jpg?t=1783433975",
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/594650/201cbfea739d910328ea3dd2c53fe168792d5f26/ss_201cbfea739d910328ea3dd2c53fe168792d5f26.600x338.jpg?t=1783433975",
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/594650/8bf5d0cca8e6cfc7b6fa5687714ae99e493aecfd/ss_8bf5d0cca8e6cfc7b6fa5687714ae99e493aecfd.600x338.jpg?t=1783433975",
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/594650/77321e59cbedd4bb9c1bab532a9ca02ddd89eb7a/ss_77321e59cbedd4bb9c1bab532a9ca02ddd89eb7a.600x338.jpg?t=1783433975",
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/594650/ss_06e8b64880a467d5a29fa0acc49c27b09b24a473.600x338.jpg?t=1783433975"
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/594650/09fb643d55de8aad0ebdc929bec4758a5232858d/ss_09fb643d55de8aad0ebdc929bec4758a5232858d.600x338.jpg?t=1785847079",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/594650/d5cd34a1eed17fee5a0c549742840c8d93493663/ss_d5cd34a1eed17fee5a0c549742840c8d93493663.600x338.jpg?t=1785847079",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/594650/201cbfea739d910328ea3dd2c53fe168792d5f26/ss_201cbfea739d910328ea3dd2c53fe168792d5f26.600x338.jpg?t=1785847079",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/594650/8bf5d0cca8e6cfc7b6fa5687714ae99e493aecfd/ss_8bf5d0cca8e6cfc7b6fa5687714ae99e493aecfd.600x338.jpg?t=1785847079",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/594650/77321e59cbedd4bb9c1bab532a9ca02ddd89eb7a/ss_77321e59cbedd4bb9c1bab532a9ca02ddd89eb7a.600x338.jpg?t=1785847079",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/594650/ss_06e8b64880a467d5a29fa0acc49c27b09b24a473.600x338.jpg?t=1785847079"
       ],
-      "recommendations": 210953,
+      "recommendations": 211616,
       "achievements": 36,
       "platforms": {
         "windows": true,
@@ -427,8 +428,8 @@
       "release_date": "2021 年 8 月 11 日",
       "is_free": true,
       "price": "免费",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1203220/2272894267520c46470064cc4b9e86e7957499bb/header_schinese.jpg?t=1783344476",
-      "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1203220/3e9b2f6f573f5c6a79d30d837f5b425db3988983/capsule_184x69_schinese.jpg?t=1783344476",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1203220/64ac5c56d95a510ae56c7dace46fdafd0881642b/header_schinese.jpg?t=1785376833",
+      "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1203220/b37fe1664ec8a2ec49831eddf1f0b81b66b898d8/capsule_184x69_schinese.jpg?t=1785376833",
       "short_description": "风靡全球的中式竞技大作！来这里舞利刃、端火枪，享受远近结合的华丽战斗！驾驭风沙、机甲，化身野兽、大佛，体验风格迥异的英雄能力！",
       "categories": [
         "多人",
@@ -447,14 +448,14 @@
         "免费开玩"
       ],
       "screenshots": [
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1203220/c54b4ae1cf41cc13f3912bdd177c1a498b21ea98/ss_c54b4ae1cf41cc13f3912bdd177c1a498b21ea98.600x338.jpg?t=1783344476",
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1203220/5ea6e30dd4e21d32479f6215d5ff7bbab72a420e/ss_5ea6e30dd4e21d32479f6215d5ff7bbab72a420e.600x338.jpg?t=1783344476",
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1203220/4917f5772fa384d7d2a29702e0479581673448b6/ss_4917f5772fa384d7d2a29702e0479581673448b6.600x338.jpg?t=1783344476",
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1203220/dc22eddb8c6ecb1330e6650cafe67c003cdcf243/ss_dc22eddb8c6ecb1330e6650cafe67c003cdcf243.600x338.jpg?t=1783344476",
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1203220/b95e3a4a7dc9904cd2717915a2a646916048e622/ss_b95e3a4a7dc9904cd2717915a2a646916048e622.600x338.jpg?t=1783344476",
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1203220/168640441e9569b0875983077464bf5ebb5d57b1/ss_168640441e9569b0875983077464bf5ebb5d57b1.600x338.jpg?t=1783344476"
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1203220/c54b4ae1cf41cc13f3912bdd177c1a498b21ea98/ss_c54b4ae1cf41cc13f3912bdd177c1a498b21ea98.600x338.jpg?t=1785376833",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1203220/5ea6e30dd4e21d32479f6215d5ff7bbab72a420e/ss_5ea6e30dd4e21d32479f6215d5ff7bbab72a420e.600x338.jpg?t=1785376833",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1203220/4917f5772fa384d7d2a29702e0479581673448b6/ss_4917f5772fa384d7d2a29702e0479581673448b6.600x338.jpg?t=1785376833",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1203220/dc22eddb8c6ecb1330e6650cafe67c003cdcf243/ss_dc22eddb8c6ecb1330e6650cafe67c003cdcf243.600x338.jpg?t=1785376833",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1203220/b95e3a4a7dc9904cd2717915a2a646916048e622/ss_b95e3a4a7dc9904cd2717915a2a646916048e622.600x338.jpg?t=1785376833",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1203220/168640441e9569b0875983077464bf5ebb5d57b1/ss_168640441e9569b0875983077464bf5ebb5d57b1.600x338.jpg?t=1785376833"
       ],
-      "recommendations": 197813,
+      "recommendations": 197908,
       "achievements": 40,
       "platforms": {
         "windows": true,
@@ -472,9 +473,9 @@
       "release_date": "即将宣布",
       "is_free": true,
       "price": "免费",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3978820/78e11f819d574de40c71732ec86411e024e333d8/header_schinese.jpg?t=1778642131",
-      "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3978820/5a163e3e10186b39438963efbb59771ba1b17a09/capsule_184x69_schinese.jpg?t=1778642131",
-      "short_description": "欢迎来到《灰境行者》，一款全新的战术射击RPG。你将操控“行者”仿生体进入神秘的“灰境”，面对扭曲的怪物与其他小队，打造你的专属构筑，杀出重围，满载而归！ 记住：一切恐怖，皆是财富。",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3978820/78e11f819d574de40c71732ec86411e024e333d8/header_schinese.jpg?t=1785417328",
+      "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3978820/5a163e3e10186b39438963efbb59771ba1b17a09/capsule_184x69_schinese.jpg?t=1785417328",
+      "short_description": "《灰境行者》是一款「微恐合作撤离FPS」。在独特的“微恐宇宙”中，想加入哪一种战斗，由你们自己选择：在「合作PvE模式」中，你将和两名队友迎战怪潮、探索规则吊诡的“灰境”；而在「夺宝PvP模式」中，你们将猎杀搜刮、发育变强，与其他小队争夺全局唯一的“灰境核心”。是见好就收，还是夺宝登机，全看你们的胆量和本事。",
       "categories": [
         "多人",
         "大型多人在线",
@@ -491,12 +492,12 @@
         "免费开玩"
       ],
       "screenshots": [
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3978820/021cd602e6708373746ad677dd0d577651b6897e/ss_021cd602e6708373746ad677dd0d577651b6897e.600x338.jpg?t=1778642131",
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3978820/588619646fe68f5099488437d2867577a50ec620/ss_588619646fe68f5099488437d2867577a50ec620.600x338.jpg?t=1778642131",
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3978820/29cee55c93d24971ced9477b095d4653410de4d0/ss_29cee55c93d24971ced9477b095d4653410de4d0.600x338.jpg?t=1778642131",
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3978820/a5ec016d42397640620130fdc4b858c65296c613/ss_a5ec016d42397640620130fdc4b858c65296c613.600x338.jpg?t=1778642131",
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3978820/7841c6006e3250ce1650f75c24b06d6002aff1ef/ss_7841c6006e3250ce1650f75c24b06d6002aff1ef.600x338.jpg?t=1778642131",
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3978820/621a40713b254b15708d5a03a536f3167ad1065a/ss_621a40713b254b15708d5a03a536f3167ad1065a.600x338.jpg?t=1778642131"
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3978820/021cd602e6708373746ad677dd0d577651b6897e/ss_021cd602e6708373746ad677dd0d577651b6897e.600x338.jpg?t=1785417328",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3978820/588619646fe68f5099488437d2867577a50ec620/ss_588619646fe68f5099488437d2867577a50ec620.600x338.jpg?t=1785417328",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3978820/29cee55c93d24971ced9477b095d4653410de4d0/ss_29cee55c93d24971ced9477b095d4653410de4d0.600x338.jpg?t=1785417328",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3978820/a5ec016d42397640620130fdc4b858c65296c613/ss_a5ec016d42397640620130fdc4b858c65296c613.600x338.jpg?t=1785417328",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3978820/7841c6006e3250ce1650f75c24b06d6002aff1ef/ss_7841c6006e3250ce1650f75c24b06d6002aff1ef.600x338.jpg?t=1785417328",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3978820/621a40713b254b15708d5a03a536f3167ad1065a/ss_621a40713b254b15708d5a03a536f3167ad1065a.600x338.jpg?t=1785417328"
       ],
       "recommendations": 0,
       "achievements": 0,
@@ -689,10 +690,10 @@
       "publisher": "Crytivo",
       "release_date": "2026 年 7 月 23 日",
       "is_free": false,
-      "price": "免费",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1181550/header.jpg?t=1784153606",
-      "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1181550/fb4d120ea0f602d26197c83e78511ad0a81afe2c/capsule_184x69.jpg?t=1784153606",
-      "short_description": "Carnival Hunt is an asymmetric multiplayer horror game set inside a living, ever-shifting mechanical carnival designed by the Puppetmaster. One player becomes the Carnival Monster, while others play as puppet Bunnies struggling to survive, ascend, and escape the hunt.",
+      "price": "¥ 69.30",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1181550/header.jpg?t=1784823412",
+      "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1181550/fb4d120ea0f602d26197c83e78511ad0a81afe2c/capsule_184x69.jpg?t=1784823412",
+      "short_description": "Carnival Hunt 是一款 5 对 1 第一人称非对称恐怖游戏。五只发条兔必须齐心协力，管理会发出声响的钥匙，并逃离不断变化的嘉年华世界。另一名玩家则会化身嘉年华怪物，展开追猎。",
       "categories": [
         "多人",
         "玩家对战",
@@ -701,8 +702,7 @@
         "在线合作",
         "跨平台多人",
         "Steam 成就",
-        "统计数据",
-        "家庭共享"
+        "统计数据"
       ],
       "genres": [
         "动作",
@@ -711,15 +711,15 @@
         "抢先体验"
       ],
       "screenshots": [
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1181550/de4480909fa7c4f08b23fe7a7e3cf09185c665ea/ss_de4480909fa7c4f08b23fe7a7e3cf09185c665ea.600x338.jpg?t=1784153606",
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1181550/81ee637a6227e1f7ddd138490c24676933821c3e/ss_81ee637a6227e1f7ddd138490c24676933821c3e.600x338.jpg?t=1784153606",
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1181550/657fc698194b47cd0537e5509c7eaef6ea95a1f3/ss_657fc698194b47cd0537e5509c7eaef6ea95a1f3.600x338.jpg?t=1784153606",
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1181550/a38fbe8ba267e30eda1cb2c6b05b453ea00e1c24/ss_a38fbe8ba267e30eda1cb2c6b05b453ea00e1c24.600x338.jpg?t=1784153606",
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1181550/556f61ceeb139ce34e8039d916b30ec8c9e6a8b7/ss_556f61ceeb139ce34e8039d916b30ec8c9e6a8b7.600x338.jpg?t=1784153606",
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1181550/dbdb7e12610b6e4d76effd77f46e072cd7589750/ss_dbdb7e12610b6e4d76effd77f46e072cd7589750.600x338.jpg?t=1784153606"
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1181550/de4480909fa7c4f08b23fe7a7e3cf09185c665ea/ss_de4480909fa7c4f08b23fe7a7e3cf09185c665ea.600x338.jpg?t=1784823412",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1181550/81ee637a6227e1f7ddd138490c24676933821c3e/ss_81ee637a6227e1f7ddd138490c24676933821c3e.600x338.jpg?t=1784823412",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1181550/657fc698194b47cd0537e5509c7eaef6ea95a1f3/ss_657fc698194b47cd0537e5509c7eaef6ea95a1f3.600x338.jpg?t=1784823412",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1181550/a38fbe8ba267e30eda1cb2c6b05b453ea00e1c24/ss_a38fbe8ba267e30eda1cb2c6b05b453ea00e1c24.600x338.jpg?t=1784823412",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1181550/556f61ceeb139ce34e8039d916b30ec8c9e6a8b7/ss_556f61ceeb139ce34e8039d916b30ec8c9e6a8b7.600x338.jpg?t=1784823412",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1181550/dbdb7e12610b6e4d76effd77f46e072cd7589750/ss_dbdb7e12610b6e4d76effd77f46e072cd7589750.600x338.jpg?t=1784823412"
       ],
-      "recommendations": 0,
-      "achievements": 0,
+      "recommendations": 1707,
+      "achievements": 12,
       "platforms": {
         "windows": true,
         "mac": false,
@@ -736,8 +736,8 @@
       "release_date": "2026 年 9 月 8 日",
       "is_free": false,
       "price": "¥ 137.00",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3219630/153ed105c4b409fe689783e4f9b6aad72c152646/header.jpg?t=1784076660",
-      "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3219630/e0507a9d9a1fed306c87b3576f608b852658dd1a/capsule_184x69.jpg?t=1784076660",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3219630/153ed105c4b409fe689783e4f9b6aad72c152646/header.jpg?t=1785777766",
+      "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3219630/e0507a9d9a1fed306c87b3576f608b852658dd1a/capsule_184x69.jpg?t=1785777766",
       "short_description": "1978 年的万圣节之夜，没人能从迈克尔·迈尔斯的手中逃脱。在 Halloween 中，化身“面具杀手”，或者直面邪恶奋起反抗。",
       "categories": [
         "单人",
@@ -746,6 +746,7 @@
         "线上玩家对战",
         "合作",
         "在线合作",
+        "Steam 成就",
         "完全支持控制器",
         "DUALSHOCK 控制器支持",
         "DualSense 控制器支持",
@@ -755,12 +756,12 @@
         "动作"
       ],
       "screenshots": [
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3219630/fef848f20a2a5e857ee275662acf979b89754af7/ss_fef848f20a2a5e857ee275662acf979b89754af7.600x338.jpg?t=1784076660",
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3219630/b6788a76e909167f1e599e62f52ea0a9734aa133/ss_b6788a76e909167f1e599e62f52ea0a9734aa133.600x338.jpg?t=1784076660",
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3219630/7f588305048a20b69cb7adc70da39cb87a789163/ss_7f588305048a20b69cb7adc70da39cb87a789163.600x338.jpg?t=1784076660",
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3219630/f4df9c361caf2c79b9d8bd4a6478941d3cf09224/ss_f4df9c361caf2c79b9d8bd4a6478941d3cf09224.600x338.jpg?t=1784076660",
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3219630/a02b60b40559506117a765d651a4f9f40681efda/ss_a02b60b40559506117a765d651a4f9f40681efda.600x338.jpg?t=1784076660",
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3219630/d29817fb82877b8ed4733c45ef8d94609c493317/ss_d29817fb82877b8ed4733c45ef8d94609c493317.600x338.jpg?t=1784076660"
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3219630/fef848f20a2a5e857ee275662acf979b89754af7/ss_fef848f20a2a5e857ee275662acf979b89754af7.600x338.jpg?t=1785777766",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3219630/b6788a76e909167f1e599e62f52ea0a9734aa133/ss_b6788a76e909167f1e599e62f52ea0a9734aa133.600x338.jpg?t=1785777766",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3219630/7f588305048a20b69cb7adc70da39cb87a789163/ss_7f588305048a20b69cb7adc70da39cb87a789163.600x338.jpg?t=1785777766",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3219630/f4df9c361caf2c79b9d8bd4a6478941d3cf09224/ss_f4df9c361caf2c79b9d8bd4a6478941d3cf09224.600x338.jpg?t=1785777766",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3219630/a02b60b40559506117a765d651a4f9f40681efda/ss_a02b60b40559506117a765d651a4f9f40681efda.600x338.jpg?t=1785777766",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3219630/d29817fb82877b8ed4733c45ef8d94609c493317/ss_d29817fb82877b8ed4733c45ef8d94609c493317.600x338.jpg?t=1785777766"
       ],
       "recommendations": 0,
       "achievements": 0,
@@ -779,9 +780,9 @@
       "publisher": "Nacon",
       "release_date": "2026 年 7 月 15 日",
       "is_free": false,
-      "price": "¥ 87.20",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2569760/0a3d1867d5781f18cb4fd0b1151729605e892c6b/header.jpg?t=1784110925",
-      "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2569760/cd3170e5e966d284753aab1405541f3ffa07306a/capsule_184x69.jpg?t=1784110925",
+      "price": "¥ 109.00",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2569760/0a3d1867d5781f18cb4fd0b1151729605e892c6b/header.jpg?t=1785400715",
+      "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2569760/cd3170e5e966d284753aab1405541f3ffa07306a/capsule_184x69.jpg?t=1785400715",
       "short_description": "最多可四人合作，组建探险者小队，踏上寻宝之旅。这片被诅咒的丛林危机四伏，怪物扭曲了现实。保持冷静，在丛林吞噬你之前征服它……",
       "categories": [
         "单人",
@@ -809,13 +810,13 @@
         "冒险"
       ],
       "screenshots": [
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2569760/f48693cb21dc49754514718d37ee3a85f8e60a96/ss_f48693cb21dc49754514718d37ee3a85f8e60a96.600x338.jpg?t=1784110925",
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2569760/cb42e74d6b846cdbb8ba632f844adf54cabc5de5/ss_cb42e74d6b846cdbb8ba632f844adf54cabc5de5.600x338.jpg?t=1784110925",
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2569760/0e238e410f6506815173807ab51a08bab98e7a26/ss_0e238e410f6506815173807ab51a08bab98e7a26.600x338.jpg?t=1784110925",
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2569760/39df081534c2bcf4a5de92c21a95cf438481138e/ss_39df081534c2bcf4a5de92c21a95cf438481138e.600x338.jpg?t=1784110925",
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2569760/c5969e5dbb6c052545140038d3eebd77cf00418a/ss_c5969e5dbb6c052545140038d3eebd77cf00418a.600x338.jpg?t=1784110925"
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2569760/f48693cb21dc49754514718d37ee3a85f8e60a96/ss_f48693cb21dc49754514718d37ee3a85f8e60a96.600x338.jpg?t=1785400715",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2569760/cb42e74d6b846cdbb8ba632f844adf54cabc5de5/ss_cb42e74d6b846cdbb8ba632f844adf54cabc5de5.600x338.jpg?t=1785400715",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2569760/0e238e410f6506815173807ab51a08bab98e7a26/ss_0e238e410f6506815173807ab51a08bab98e7a26.600x338.jpg?t=1785400715",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2569760/39df081534c2bcf4a5de92c21a95cf438481138e/ss_39df081534c2bcf4a5de92c21a95cf438481138e.600x338.jpg?t=1785400715",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2569760/c5969e5dbb6c052545140038d3eebd77cf00418a/ss_c5969e5dbb6c052545140038d3eebd77cf00418a.600x338.jpg?t=1785400715"
       ],
-      "recommendations": 593,
+      "recommendations": 2641,
       "achievements": 25,
       "platforms": {
         "windows": true,
@@ -833,8 +834,8 @@
       "release_date": "2026 年 6 月 9 日",
       "is_free": false,
       "price": "¥ 26.00",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4704690/163e2a742e5fb8e1f5d1e3a890da98f04ab809d4/header.jpg?t=1782561846",
-      "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4704690/18d14b8bd834e30a6a25df5ccd7f0a6e644f1577/capsule_184x69.jpg?t=1782561846",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4704690/163e2a742e5fb8e1f5d1e3a890da98f04ab809d4/header.jpg?t=1785908480",
+      "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4704690/18d14b8bd834e30a6a25df5ccd7f0a6e644f1577/capsule_184x69.jpg?t=1785908480",
       "short_description": "把自己涂满颜色，融入背景吧！《Meccha Chameleon》是一款全新感觉的捉迷藏游戏，玩家需要在自己纯白的身体上绘图以拟态成关卡中的样子。躲藏地点、姿势，以及最重要的“画功”是生存的关键。用连变色龙都自愧不如的技术欺骗追捕者的眼睛，在时限内逃出生天吧！您还可以轻松享受随机匹配或观众参与型直播。",
       "categories": [
         "多人",
@@ -843,6 +844,7 @@
         "Steam 创意工坊",
         "视角舒适度",
         "自定义音量控制",
+        "#category_playable_at_your_own_pace",
         "无需应对快速反应事件",
         "立体声",
         "环绕声",
@@ -853,14 +855,14 @@
         "休闲"
       ],
       "screenshots": [
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4704690/6c0a47cc2fba1b160901d1553637a764198bdc98/ss_6c0a47cc2fba1b160901d1553637a764198bdc98.600x338.jpg?t=1782561846",
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4704690/0383a711ed93bf8edd848df4b63b331fc44f3ad5/ss_0383a711ed93bf8edd848df4b63b331fc44f3ad5.600x338.jpg?t=1782561846",
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4704690/51b0a906d1767b1b5abde623350dec64c6877c93/ss_51b0a906d1767b1b5abde623350dec64c6877c93.600x338.jpg?t=1782561846",
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4704690/0a8a562016b13a349349e685f7a4d5a6cbccef3e/ss_0a8a562016b13a349349e685f7a4d5a6cbccef3e.600x338.jpg?t=1782561846",
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4704690/2764a4a42c24a88d0bbb9b67e5c2bde979a24ac9/ss_2764a4a42c24a88d0bbb9b67e5c2bde979a24ac9.600x338.jpg?t=1782561846",
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4704690/c0c3ab9f5f2b41e86606a1c790fef432fe2d65cf/ss_c0c3ab9f5f2b41e86606a1c790fef432fe2d65cf.600x338.jpg?t=1782561846"
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4704690/6c0a47cc2fba1b160901d1553637a764198bdc98/ss_6c0a47cc2fba1b160901d1553637a764198bdc98.600x338.jpg?t=1785908480",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4704690/0383a711ed93bf8edd848df4b63b331fc44f3ad5/ss_0383a711ed93bf8edd848df4b63b331fc44f3ad5.600x338.jpg?t=1785908480",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4704690/51b0a906d1767b1b5abde623350dec64c6877c93/ss_51b0a906d1767b1b5abde623350dec64c6877c93.600x338.jpg?t=1785908480",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4704690/0a8a562016b13a349349e685f7a4d5a6cbccef3e/ss_0a8a562016b13a349349e685f7a4d5a6cbccef3e.600x338.jpg?t=1785908480",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4704690/2764a4a42c24a88d0bbb9b67e5c2bde979a24ac9/ss_2764a4a42c24a88d0bbb9b67e5c2bde979a24ac9.600x338.jpg?t=1785908480",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4704690/c0c3ab9f5f2b41e86606a1c790fef432fe2d65cf/ss_c0c3ab9f5f2b41e86606a1c790fef432fe2d65cf.600x338.jpg?t=1785908480"
       ],
-      "recommendations": 59418,
+      "recommendations": 71284,
       "achievements": 0,
       "platforms": {
         "windows": true,
@@ -916,7 +918,7 @@
         "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/553850/ss_cb276fe9f0b09683bdbc496f82b405dbe0ffa1f1.600x338.jpg?t=1779899567",
         "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/553850/ss_d0ac3830833a68d19d4a97c70aef0fba20bf0761.600x338.jpg?t=1779899567"
       ],
-      "recommendations": 831317,
+      "recommendations": 832657,
       "achievements": 38,
       "platforms": {
         "windows": true,
@@ -966,7 +968,7 @@
         "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3124540/06beed80ffd3560c3dcb89044b1c2c12f525b66d/ss_06beed80ffd3560c3dcb89044b1c2c12f525b66d.600x338.jpg?t=1781702029",
         "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3124540/51f2ed907135f44388a233fe2a6b2ccb2db5a2b2/ss_51f2ed907135f44388a233fe2a6b2ccb2db5a2b2.600x338.jpg?t=1781702029"
       ],
-      "recommendations": 29231,
+      "recommendations": 29638,
       "achievements": 0,
       "platforms": {
         "windows": true,
@@ -1009,7 +1011,7 @@
         "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3844970/3b85e0cfde11d7d4ec689eab772c46dbfa90c9ee/ss_3b85e0cfde11d7d4ec689eab772c46dbfa90c9ee.600x338.jpg?t=1781100001",
         "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3844970/7ff827bfa3f49375c49a8e27b1d5bd658ec86ae5/ss_7ff827bfa3f49375c49a8e27b1d5bd658ec86ae5.600x338.jpg?t=1781100001"
       ],
-      "recommendations": 3258,
+      "recommendations": 3892,
       "achievements": 0,
       "platforms": {
         "windows": true,
@@ -1027,8 +1029,8 @@
       "release_date": "2026 年 6 月 11 日",
       "is_free": false,
       "price": "¥ 78.00",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2211170/e13148cadb42b138b5edce3e475045d4870ec263/header_alt_assets_6.jpg?t=1782895685",
-      "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2211170/b3f78191f2be06dc97482a641dde5389597f6250/capsule_184x69_alt_assets_6_schinese.jpg?t=1782895685",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2211170/eb8aba6090a8be15da184904177bb373cb6de5d6/header_alt_assets_6_schinese.jpg?t=1785434889",
+      "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2211170/b3f78191f2be06dc97482a641dde5389597f6250/capsule_184x69_alt_assets_6_schinese.jpg?t=1785434889",
       "short_description": "《一起开火车》的续作来啦！快呼朋唤友再建铁轨重鸣汽笛吧！更多特色鲜明的地理环境，升级角色和引擎，选择脑洞大开的全新路线；在火车脱轨前，快将你自定义的关卡设计分享给更多轨道爱好者吧！",
       "categories": [
         "单人",
@@ -1061,14 +1063,14 @@
         "策略"
       ],
       "screenshots": [
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2211170/1d2a23322eb68eddde336b7238d76f7ad545d426/ss_1d2a23322eb68eddde336b7238d76f7ad545d426.600x338.jpg?t=1782895685",
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2211170/0c08c1125a7f388af23582b28c3ba418522d6db1/ss_0c08c1125a7f388af23582b28c3ba418522d6db1.600x338.jpg?t=1782895685",
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2211170/a47155de9b64ad54c82cb8985db1e800fa37f903/ss_a47155de9b64ad54c82cb8985db1e800fa37f903.600x338.jpg?t=1782895685",
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2211170/b7d0192015ccab40205f54d378e0e57549535505/ss_b7d0192015ccab40205f54d378e0e57549535505.600x338.jpg?t=1782895685",
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2211170/33f102bb04152ab72690d5dbc8c0ead5cba8b1f2/ss_33f102bb04152ab72690d5dbc8c0ead5cba8b1f2.600x338.jpg?t=1782895685",
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2211170/c237f5dff456d7f84bc8be085d722f620e520e54/ss_c237f5dff456d7f84bc8be085d722f620e520e54.600x338.jpg?t=1782895685"
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2211170/1d2a23322eb68eddde336b7238d76f7ad545d426/ss_1d2a23322eb68eddde336b7238d76f7ad545d426.600x338.jpg?t=1785434889",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2211170/0c08c1125a7f388af23582b28c3ba418522d6db1/ss_0c08c1125a7f388af23582b28c3ba418522d6db1.600x338.jpg?t=1785434889",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2211170/a47155de9b64ad54c82cb8985db1e800fa37f903/ss_a47155de9b64ad54c82cb8985db1e800fa37f903.600x338.jpg?t=1785434889",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2211170/b7d0192015ccab40205f54d378e0e57549535505/ss_b7d0192015ccab40205f54d378e0e57549535505.600x338.jpg?t=1785434889",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2211170/33f102bb04152ab72690d5dbc8c0ead5cba8b1f2/ss_33f102bb04152ab72690d5dbc8c0ead5cba8b1f2.600x338.jpg?t=1785434889",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2211170/c237f5dff456d7f84bc8be085d722f620e520e54/ss_c237f5dff456d7f84bc8be085d722f620e520e54.600x338.jpg?t=1785434889"
       ],
-      "recommendations": 1675,
+      "recommendations": 1740,
       "achievements": 60,
       "platforms": {
         "windows": true,
@@ -1085,9 +1087,9 @@
       "publisher": "Hunter Studio",
       "release_date": "2026 年 6 月 10 日",
       "is_free": false,
-      "price": "¥ 68.00",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2445690/6ba48b065007d13e96a5e01a4976139ad96480ac/header_schinese.jpg?t=1783421439",
-      "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2445690/c3eab2e31c426a76b6bd8f8e3cbfb146a49decad/capsule_184x69_schinese.jpg?t=1783421439",
+      "price": "¥ 47.60",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2445690/6ba48b065007d13e96a5e01a4976139ad96480ac/header_schinese.jpg?t=1784785941",
+      "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2445690/c3eab2e31c426a76b6bd8f8e3cbfb146a49decad/capsule_184x69_schinese.jpg?t=1784785941",
       "short_description": "失落城堡2是一款2D卡通横版Rogue-Lite游戏。探寻丰富宝物道具强化自己，精通各类武器玩出花样，挑战强大魔物展现实力。新的冒险正召唤着宝藏猎人们！",
       "categories": [
         "单人",
@@ -1116,14 +1118,14 @@
         "角色扮演"
       ],
       "screenshots": [
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2445690/1a7b3cd3086710951e070b034caa54bea3df5e26/ss_1a7b3cd3086710951e070b034caa54bea3df5e26.600x338.jpg?t=1783421439",
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2445690/f01ce8244957cf26a1a4ef03ff696368ef145fc3/ss_f01ce8244957cf26a1a4ef03ff696368ef145fc3.600x338.jpg?t=1783421439",
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2445690/ss_17be0a623d5f404bde03d55d31e299de7f122d1d.600x338.jpg?t=1783421439",
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2445690/ss_2743dda05c040097efc9c4ecbf7e8199d2ba052d.600x338.jpg?t=1783421439",
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2445690/ss_73d6b8806d24993b156521807b4fab27614e7d9d.600x338.jpg?t=1783421439",
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2445690/ss_aa08e8ae7cea774a66183d9cc1ec9afddcae313d.600x338.jpg?t=1783421439"
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2445690/1a7b3cd3086710951e070b034caa54bea3df5e26/ss_1a7b3cd3086710951e070b034caa54bea3df5e26.600x338.jpg?t=1784785941",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2445690/f01ce8244957cf26a1a4ef03ff696368ef145fc3/ss_f01ce8244957cf26a1a4ef03ff696368ef145fc3.600x338.jpg?t=1784785941",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2445690/ss_17be0a623d5f404bde03d55d31e299de7f122d1d.600x338.jpg?t=1784785941",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2445690/ss_2743dda05c040097efc9c4ecbf7e8199d2ba052d.600x338.jpg?t=1784785941",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2445690/ss_73d6b8806d24993b156521807b4fab27614e7d9d.600x338.jpg?t=1784785941",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2445690/ss_aa08e8ae7cea774a66183d9cc1ec9afddcae313d.600x338.jpg?t=1784785941"
       ],
-      "recommendations": 10192,
+      "recommendations": 10473,
       "achievements": 85,
       "platforms": {
         "windows": true,
@@ -1140,9 +1142,9 @@
       "publisher": "Coffee Stain Publishing",
       "release_date": "2020 年 5 月 13 日",
       "is_free": false,
-      "price": "¥ 108.00",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/548430/header_schinese.jpg?t=1782116973",
-      "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/548430/capsule_184x69_schinese.jpg?t=1782116973",
+      "price": "¥ 32.40",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/548430/86327fa5138cb0d9dca05ea03989e3ff28a2be78/header_alt_assets_27_schinese.jpg?t=1785396408",
+      "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/548430/capsule_184x69_schinese.jpg?t=1785396408",
       "short_description": "《深岩银河》是一款多人合作类第一人称射击游戏，有着了不起的矮人、100% 可破坏的地形、由程序生成的洞穴以及无数的外星怪物。",
       "categories": [
         "单人",
@@ -1169,14 +1171,14 @@
         "动作"
       ],
       "screenshots": [
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/548430/49a57d16c55b74a6f835c590421d299d417af4f8/ss_49a57d16c55b74a6f835c590421d299d417af4f8.600x338.jpg?t=1782116973",
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/548430/5ffa803484da48da16db9006d7f4313db8999c2a/ss_5ffa803484da48da16db9006d7f4313db8999c2a.600x338.jpg?t=1782116973",
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/548430/cf8c347fac940f99a9a256730aca3cb647cb563f/ss_cf8c347fac940f99a9a256730aca3cb647cb563f.600x338.jpg?t=1782116973",
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/548430/9fad579c755e0c3ed249f581537da3c634d141bb/ss_9fad579c755e0c3ed249f581537da3c634d141bb.600x338.jpg?t=1782116973",
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/548430/5de4ec4baa28c5df1cecb676be0f399f470beb75/ss_5de4ec4baa28c5df1cecb676be0f399f470beb75.600x338.jpg?t=1782116973",
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/548430/03ac295f55defe10866d07a6f81329751c5abfb7/ss_03ac295f55defe10866d07a6f81329751c5abfb7.600x338.jpg?t=1782116973"
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/548430/49a57d16c55b74a6f835c590421d299d417af4f8/ss_49a57d16c55b74a6f835c590421d299d417af4f8.600x338.jpg?t=1785396408",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/548430/5ffa803484da48da16db9006d7f4313db8999c2a/ss_5ffa803484da48da16db9006d7f4313db8999c2a.600x338.jpg?t=1785396408",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/548430/cf8c347fac940f99a9a256730aca3cb647cb563f/ss_cf8c347fac940f99a9a256730aca3cb647cb563f.600x338.jpg?t=1785396408",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/548430/9fad579c755e0c3ed249f581537da3c634d141bb/ss_9fad579c755e0c3ed249f581537da3c634d141bb.600x338.jpg?t=1785396408",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/548430/5de4ec4baa28c5df1cecb676be0f399f470beb75/ss_5de4ec4baa28c5df1cecb676be0f399f470beb75.600x338.jpg?t=1785396408",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/548430/03ac295f55defe10866d07a6f81329751c5abfb7/ss_03ac295f55defe10866d07a6f81329751c5abfb7.600x338.jpg?t=1785396408"
       ],
-      "recommendations": 301572,
+      "recommendations": 302089,
       "achievements": 69,
       "platforms": {
         "windows": true,
@@ -1193,7 +1195,7 @@
       "publisher": "Innersloth",
       "release_date": "2018 年 11 月 16 日",
       "is_free": false,
-      "price": "¥ 15.00",
+      "price": "¥ 25.00",
       "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/945360/header.jpg?t=1781287930",
       "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/945360/capsule_184x69.jpg?t=1781287930",
       "short_description": "这是一款可以连线或本地游玩的派对游戏，4 到 15 名玩家相互合作与背叛... 一切都发生在太空之中！",
@@ -1225,7 +1227,7 @@
         "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/945360/ss_9d11502fa973580a82b532b25f1901b8425c28f9.600x338.jpg?t=1781287930",
         "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/945360/ss_17be75e178e3520c986504504ada8535de19cc0d.600x338.jpg?t=1781287930"
       ],
-      "recommendations": 650680,
+      "recommendations": 653475,
       "achievements": 33,
       "platforms": {
         "windows": true,
@@ -1274,7 +1276,7 @@
         "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1326470/ss_2c537a8c689dd6b21643b8054a64646334ef7391.600x338.jpg?t=1708624856",
         "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1326470/ss_b05310f659a67129e9089fbb22e445b0998d6d1d.600x338.jpg?t=1708624856"
       ],
-      "recommendations": 279327,
+      "recommendations": 281193,
       "achievements": 32,
       "platforms": {
         "windows": true,
@@ -1329,7 +1331,7 @@
         "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/632360/ss_0377ff24b4d60db6a38ddc0824b7f308890b9231.600x338.jpg?t=1783621122",
         "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/632360/ss_85548e86c50ff654c6a49235ea686a956f8ee9ec.600x338.jpg?t=1783621122"
       ],
-      "recommendations": 238296,
+      "recommendations": 238775,
       "achievements": 171,
       "platforms": {
         "windows": true,
@@ -1346,9 +1348,9 @@
       "publisher": "Motion Twin",
       "release_date": "2024 年 10 月 24 日",
       "is_free": false,
-      "price": "¥ 98.00",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1911610/b91bf8be5d6d4fac5aa2d12443d66dd17cc38e79/header_schinese.jpg?t=1783938649",
-      "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1911610/39aecfd8d39bff09ed6b04b94b7b102ccdd641a5/capsule_184x69_schinese.jpg?t=1783938649",
+      "price": "¥ 61.60",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1911610/b91bf8be5d6d4fac5aa2d12443d66dd17cc38e79/header_schinese.jpg?t=1784623599",
+      "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1911610/39aecfd8d39bff09ed6b04b94b7b102ccdd641a5/capsule_184x69_schinese.jpg?t=1784623599",
       "short_description": "《风中行者》作为《死亡细胞》团队的全新力作，是一款节奏飞快的类 Rogue 动作游戏，支持 1–3 人联机。闯入崩毁的世界，一路畅快突进、俯冲、破坏。自由搭配装备，发动威力惊人的特殊攻击，成为抵御大气旋最后的防线。",
       "categories": [
         "单人",
@@ -1371,14 +1373,14 @@
         "抢先体验"
       ],
       "screenshots": [
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1911610/553a13c3899fb45d37d466d52967ececefc53da1/ss_553a13c3899fb45d37d466d52967ececefc53da1.600x338.jpg?t=1783938649",
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1911610/ss_cac5261b41219363b6fa4317b40e9a85e56d136f.600x338.jpg?t=1783938649",
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1911610/3f08076ce9813ee088c82cf4d51b34ca893c60ca/ss_3f08076ce9813ee088c82cf4d51b34ca893c60ca.600x338.jpg?t=1783938649",
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1911610/93b2c8f3927f6f8b81029117e6a1af80d158bebe/ss_93b2c8f3927f6f8b81029117e6a1af80d158bebe.600x338.jpg?t=1783938649",
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1911610/0cd0673f6360cc842303eb260de07ed6c86b1aac/ss_0cd0673f6360cc842303eb260de07ed6c86b1aac.600x338.jpg?t=1783938649",
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1911610/19e829b08d5809b98104d87f1653cf8f5a7a3993/ss_19e829b08d5809b98104d87f1653cf8f5a7a3993.600x338.jpg?t=1783938649"
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1911610/553a13c3899fb45d37d466d52967ececefc53da1/ss_553a13c3899fb45d37d466d52967ececefc53da1.600x338.jpg?t=1784623599",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1911610/ss_cac5261b41219363b6fa4317b40e9a85e56d136f.600x338.jpg?t=1784623599",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1911610/3f08076ce9813ee088c82cf4d51b34ca893c60ca/ss_3f08076ce9813ee088c82cf4d51b34ca893c60ca.600x338.jpg?t=1784623599",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1911610/93b2c8f3927f6f8b81029117e6a1af80d158bebe/ss_93b2c8f3927f6f8b81029117e6a1af80d158bebe.600x338.jpg?t=1784623599",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1911610/0cd0673f6360cc842303eb260de07ed6c86b1aac/ss_0cd0673f6360cc842303eb260de07ed6c86b1aac.600x338.jpg?t=1784623599",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1911610/19e829b08d5809b98104d87f1653cf8f5a7a3993/ss_19e829b08d5809b98104d87f1653cf8f5a7a3993.600x338.jpg?t=1784623599"
       ],
-      "recommendations": 8940,
+      "recommendations": 8988,
       "achievements": 25,
       "platforms": {
         "windows": true,
@@ -1427,7 +1429,7 @@
         "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3989960/8705bde1ea9cac5c24512aea3a529fd7f793692b/ss_8705bde1ea9cac5c24512aea3a529fd7f793692b.600x338.jpg?t=1781613814",
         "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3989960/aeac757e3e9e8e43dc7bac47588e447e0b4b88d3/ss_aeac757e3e9e8e43dc7bac47588e447e0b4b88d3.600x338.jpg?t=1781613814"
       ],
-      "recommendations": 292,
+      "recommendations": 317,
       "achievements": 22,
       "platforms": {
         "windows": true,
@@ -1488,7 +1490,7 @@
         "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4000/ss_74a181b4584a04c88ee316df31a850ab2810fb79.600x338.jpg?t=1776868682",
         "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4000/ss_a6133770663ff34d535adf050f2af64ab47a6974.600x338.jpg?t=1776868682"
       ],
-      "recommendations": 1079407,
+      "recommendations": 1084846,
       "achievements": 29,
       "platforms": {
         "windows": true,
@@ -1550,8 +1552,8 @@
       "release_date": "2016 年 6 月 14 日",
       "is_free": false,
       "price": "¥ 93.75",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/381210/header.jpg?t=1783618189",
-      "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/381210/capsule_184x69.jpg?t=1783618189",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/381210/header.jpg?t=1784216454",
+      "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/381210/capsule_184x69.jpg?t=1784216454",
       "short_description": "10年恐惧相伴。10年的惊吓与刺激体验。10年的残暴献祭与惊险逃脱。 永久困于邪恶的幻境之中，即使死亡也无法逃脱，这是一场需要勇气和智慧的较量，四名意志坚定的逃生者在残忍对局中面对嗜血杀手。选择一方，进入多人非对称竞技游戏世界，获得最佳恐怖游戏体验。",
       "categories": [
         "多人",
@@ -1579,14 +1581,14 @@
         "动作"
       ],
       "screenshots": [
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/381210/5355ac410e985cac27f04b877280a984be4d28a6/ss_5355ac410e985cac27f04b877280a984be4d28a6.600x338.jpg?t=1783618189",
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/381210/76776660827b2b6b73afc4a506c1267462cc70ff/ss_76776660827b2b6b73afc4a506c1267462cc70ff.600x338.jpg?t=1783618189",
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/381210/141a099b39afb31b864e8eda9570c344ad0c70f5/ss_141a099b39afb31b864e8eda9570c344ad0c70f5.600x338.jpg?t=1783618189",
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/381210/30fa7d276001c8b33a60dc1cd8683c6aae5c20b6/ss_30fa7d276001c8b33a60dc1cd8683c6aae5c20b6.600x338.jpg?t=1783618189",
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/381210/49c6658339950517b19f36fb49e6922cfaec8ef0/ss_49c6658339950517b19f36fb49e6922cfaec8ef0.600x338.jpg?t=1783618189",
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/381210/7a898338890f6e0aabf1c8c424a4f33c56c4e1e1/ss_7a898338890f6e0aabf1c8c424a4f33c56c4e1e1.600x338.jpg?t=1783618189"
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/381210/5355ac410e985cac27f04b877280a984be4d28a6/ss_5355ac410e985cac27f04b877280a984be4d28a6.600x338.jpg?t=1784216454",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/381210/76776660827b2b6b73afc4a506c1267462cc70ff/ss_76776660827b2b6b73afc4a506c1267462cc70ff.600x338.jpg?t=1784216454",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/381210/141a099b39afb31b864e8eda9570c344ad0c70f5/ss_141a099b39afb31b864e8eda9570c344ad0c70f5.600x338.jpg?t=1784216454",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/381210/30fa7d276001c8b33a60dc1cd8683c6aae5c20b6/ss_30fa7d276001c8b33a60dc1cd8683c6aae5c20b6.600x338.jpg?t=1784216454",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/381210/49c6658339950517b19f36fb49e6922cfaec8ef0/ss_49c6658339950517b19f36fb49e6922cfaec8ef0.600x338.jpg?t=1784216454",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/381210/7a898338890f6e0aabf1c8c424a4f33c56c4e1e1/ss_7a898338890f6e0aabf1c8c424a4f33c56c4e1e1.600x338.jpg?t=1784216454"
       ],
-      "recommendations": 673903,
+      "recommendations": 678094,
       "achievements": 303,
       "platforms": {
         "windows": true,
@@ -1604,8 +1606,8 @@
       "release_date": "2026 年",
       "is_free": false,
       "price": "免费",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4534960/7ddef53346afe3e3d4d479dbed740cdb38cfe09a/header.jpg?t=1784149249",
-      "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4534960/d7b0a9376fb4cab61548730f3e98d3ba1935bc9d/capsule_184x69.jpg?t=1784149249",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4534960/7ddef53346afe3e3d4d479dbed740cdb38cfe09a/header.jpg?t=1784401335",
+      "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4534960/d7b0a9376fb4cab61548730f3e98d3ba1935bc9d/capsule_184x69.jpg?t=1784401335",
       "short_description": "Play in co-op as the crew of the world’s worst airline. Your plane is falling apart, your cargo is illegal, and passenger safety barely makes the list.",
       "categories": [
         "单人",
@@ -1620,12 +1622,12 @@
         "独立"
       ],
       "screenshots": [
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4534960/b28210ec5549d2cda898099e6d4a5c29153b2f35/ss_b28210ec5549d2cda898099e6d4a5c29153b2f35.600x338.jpg?t=1784149249",
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4534960/8587fe02b49b18e907bc271403aca145aac23b2d/ss_8587fe02b49b18e907bc271403aca145aac23b2d.600x338.jpg?t=1784149249",
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4534960/de1051493ef5690ab1a17d7c2fc35a74a42a4ea1/ss_de1051493ef5690ab1a17d7c2fc35a74a42a4ea1.600x338.jpg?t=1784149249",
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4534960/12ea170121330ac9040a00257436552a9b2368a1/ss_12ea170121330ac9040a00257436552a9b2368a1.600x338.jpg?t=1784149249",
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4534960/7d572221193bf6d9a3294f7a59af4d093afb6ba1/ss_7d572221193bf6d9a3294f7a59af4d093afb6ba1.600x338.jpg?t=1784149249",
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4534960/59919ca43b7423a86e31e69e5f7ddc7b1fe7dcc3/ss_59919ca43b7423a86e31e69e5f7ddc7b1fe7dcc3.600x338.jpg?t=1784149249"
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4534960/b28210ec5549d2cda898099e6d4a5c29153b2f35/ss_b28210ec5549d2cda898099e6d4a5c29153b2f35.600x338.jpg?t=1784401335",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4534960/8587fe02b49b18e907bc271403aca145aac23b2d/ss_8587fe02b49b18e907bc271403aca145aac23b2d.600x338.jpg?t=1784401335",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4534960/de1051493ef5690ab1a17d7c2fc35a74a42a4ea1/ss_de1051493ef5690ab1a17d7c2fc35a74a42a4ea1.600x338.jpg?t=1784401335",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4534960/12ea170121330ac9040a00257436552a9b2368a1/ss_12ea170121330ac9040a00257436552a9b2368a1.600x338.jpg?t=1784401335",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4534960/7d572221193bf6d9a3294f7a59af4d093afb6ba1/ss_7d572221193bf6d9a3294f7a59af4d093afb6ba1.600x338.jpg?t=1784401335",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4534960/59919ca43b7423a86e31e69e5f7ddc7b1fe7dcc3/ss_59919ca43b7423a86e31e69e5f7ddc7b1fe7dcc3.600x338.jpg?t=1784401335"
       ],
       "recommendations": 0,
       "achievements": 0,
