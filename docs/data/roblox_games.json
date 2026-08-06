@@ -9,8 +9,8 @@
     ],
     "total_days": 129,
     "note": "Roblox 平台游戏排行榜数据,每日玩家数时序",
-    "icons_count": 796,
-    "categorized_count": 796,
+    "icons_count": 947,
+    "categorized_count": 947,
     "last_updated": "2026-08-05T23:16:16.952507+00:00",
     "updated_games": 513,
     "last_uid_fetch": "2026-07-27T19:09:38.520195+08:00",
@@ -20,132 +20,150 @@
     "Other": {
       "zh": "其他",
       "en": "Other",
-      "count": 179,
+      "count": 206,
       "steam_official": false
     },
     "Simulator": {
       "zh": "模拟",
       "en": "Simulator",
-      "count": 147,
+      "count": 183,
       "steam_official": false
     },
     "Survival": {
       "zh": "生存",
       "en": "Survival",
-      "count": 121,
+      "count": 139,
       "steam_official": false
     },
     "Horror": {
       "zh": "恐怖",
       "en": "Horror",
-      "count": 98,
+      "count": 112,
       "steam_official": false
     },
     "Brainrot": {
       "zh": "脑腐",
       "en": "Brainrot",
-      "count": 94,
-      "steam_official": false
-    },
-    "Escape": {
-      "zh": "逃脱",
-      "en": "Escape",
-      "count": 57,
+      "count": 86,
       "steam_official": false
     },
     "Racing": {
       "zh": "竞速",
       "en": "Racing",
-      "count": 56,
+      "count": 69,
+      "steam_official": false
+    },
+    "Escape": {
+      "zh": "逃脱",
+      "en": "Escape",
+      "count": 63,
       "steam_official": false
     },
     "Tower": {
       "zh": "塔防",
       "en": "Tower Defense",
-      "count": 52,
-      "steam_official": false
-    },
-    "Anime": {
-      "zh": "动漫",
-      "en": "Anime",
-      "count": 51,
+      "count": 60,
       "steam_official": false
     },
     "Fight": {
       "zh": "格斗",
       "en": "Fighting",
-      "count": 49,
+      "count": 58,
+      "steam_official": false
+    },
+    "Anime": {
+      "zh": "动漫",
+      "en": "Anime",
+      "count": 55,
       "steam_official": false
     },
     "Adopt": {
       "zh": "养成",
       "en": "Adopt",
-      "count": 44,
+      "count": 54,
       "steam_official": false
     },
     "RP": {
       "zh": "角色扮演",
       "en": "Roleplay",
+      "count": 52,
+      "steam_official": false
+    },
+    "Obby": {
+      "zh": "跑酷",
+      "en": "Obby",
+      "count": 40,
+      "steam_official": false
+    },
+    "Tycoon": {
+      "zh": "大亨",
+      "en": "Tycoon",
       "count": 38,
       "steam_official": false
     },
     "Murder": {
       "zh": "推理",
       "en": "Mystery",
-      "count": 29,
-      "steam_official": false
-    },
-    "Obby": {
-      "zh": "跑酷",
-      "en": "Obby",
-      "count": 23,
+      "count": 30,
       "steam_official": false
     },
     "Creator": {
       "zh": "创作",
       "en": "Creator",
-      "count": 23,
+      "count": 30,
       "steam_official": false
     },
     "War": {
       "zh": "战争",
       "en": "War",
-      "count": 22,
-      "steam_official": false
-    },
-    "Tycoon": {
-      "zh": "大亨",
-      "en": "Tycoon",
-      "count": 20,
-      "steam_official": false
-    },
-    "Steal": {
-      "zh": "偷取",
-      "en": "Steal",
-      "count": 15,
+      "count": 24,
       "steam_official": false
     },
     "Sports": {
       "zh": "体育",
       "en": "Sports",
-      "count": 15,
+      "count": 20,
       "steam_official": false
     },
     "Cooking": {
       "zh": "烹饪",
       "en": "Cooking",
-      "count": 9,
+      "count": 15,
       "steam_official": false
     },
-    "Story": {
-      "zh": "剧情",
-      "en": "Story",
-      "count": 8,
+    "Steal": {
+      "zh": "偷取",
+      "en": "Steal",
+      "count": 13,
       "steam_official": false
     },
     "Pets": {
       "zh": "宠物",
       "en": "Pets",
+      "count": 11,
+      "steam_official": false
+    },
+    "Story": {
+      "zh": "剧情",
+      "en": "Story",
+      "count": 9,
+      "steam_official": false
+    },
+    "Aviation": {
+      "zh": "飞行",
+      "en": "Flight",
+      "count": 9,
+      "steam_official": false
+    },
+    "Physics": {
+      "zh": "物理",
+      "en": "Physics",
+      "count": 8,
+      "steam_official": false
+    },
+    "Merge": {
+      "zh": "合成",
+      "en": "Merge",
       "count": 7,
       "steam_official": false
     },
@@ -155,33 +173,21 @@
       "count": 6,
       "steam_official": false
     },
-    "Aviation": {
-      "zh": "飞行",
-      "en": "Flight",
-      "count": 6,
-      "steam_official": false
-    },
     "Cleaning": {
       "zh": "清洁",
       "en": "Cleaning",
       "count": 5,
       "steam_official": false
     },
-    "Physics": {
-      "zh": "物理",
-      "en": "Physics",
-      "count": 5,
-      "steam_official": false
-    },
     "Parkour": {
       "zh": "跑酷",
       "en": "Parkour",
-      "count": 4,
+      "count": 3,
       "steam_official": false
     },
-    "Merge": {
-      "zh": "合成",
-      "en": "Merge",
+    "Puzzle": {
+      "zh": "解谜",
+      "en": "Puzzle",
       "count": 3,
       "steam_official": false
     },
@@ -189,6 +195,12 @@
       "zh": "开放世界",
       "en": "Open World",
       "count": 2,
+      "steam_official": false
+    },
+    "Music": {
+      "zh": "音乐",
+      "en": "Music",
+      "count": 1,
       "steam_official": false
     }
   },
@@ -41206,11 +41218,13 @@
       "create_time": "2026-05-30",
       "create_year": 2026,
       "description": "Welcome to +1 Muscle Evolution 💪\n\n👊 Click to gain Damage!\n🥊 Train using punching bags!\n😈 Fight enemies and clear stages\n💎 Collect Wins to unlock new Evolutions\n🏆 Unlock new areas and become the strongest!\n\n👍 Like & Favorite the game!",
-      "categories": [],
+      "categories": [
+        "Simulator"
+      ],
       "daily_players": {},
       "peak_players": 10670,
       "store_url": "https://www.roblox.com/games/133007106457547/",
-      "icon_url": null
+      "icon_url": "https://tr.rbxcdn.com/180DAY-ea39bdc226444c2112beeab1523c03e0/256/256/Image/Png/noFilter"
     },
     {
       "universe_id": 6163740913,
@@ -41221,11 +41235,13 @@
       "create_time": "2024-06-23",
       "create_year": 2024,
       "description": " See how far you can get and if you can become the biggest HOLE ever\n⭐ If you don't want to get eaten, join a private server they are FREE!\n\nBecome a Giant HOLE and eat the whole city! \n- Destroy the city\n- Eat other players who are also Slimes to become the biggest HOLE!\n- Unlock RARE & OP HOLE skins \n\n ⚡️  Premium benefits: Premium players get 1.5x Cash   ⚡️ \n\nNew updates weekly! Follow the game so you don't miss out!\n\nLIKE, FAVORITE, and JOIN the group for a free LEGENDARY HOLE SKIN!",
-      "categories": [],
+      "categories": [
+        "Other"
+      ],
       "daily_players": {},
       "peak_players": 1881,
       "store_url": "https://www.roblox.com/games/18180213499/",
-      "icon_url": null
+      "icon_url": "https://tr.rbxcdn.com/180DAY-1b3459e41b7f4ac3f203622361834d8a/256/256/Image/Png/noFilter"
     },
     {
       "universe_id": 10454554751,
@@ -41236,11 +41252,13 @@
       "create_time": "2026-07-05",
       "create_year": 2026,
       "description": "📦Unbox ASMR Toys! 🎧Relax & collect! 🔓 Unlock new crates!\n\n✨ Unbox rare ASMR toys!\n⬆️ Upgrade your collection!\n🎧 Enjoy relaxing sounds!\n📦 Unlock better crates!\n👥 Play with Friends for more cash!\n\n👍 Like the game and join the group for ⚡ 2 FREE workers!\n\n🔔 Follow for updates and special codes!",
-      "categories": [],
+      "categories": [
+        "Simulator"
+      ],
       "daily_players": {},
       "peak_players": 28416,
       "store_url": "https://www.roblox.com/games/112233638491976/",
-      "icon_url": null
+      "icon_url": "https://tr.rbxcdn.com/180DAY-8d95b4decb13fb261396aab7bf79b9ff/256/256/Image/Png/noFilter"
     },
     {
       "universe_id": 4582358979,
@@ -41251,11 +41269,14 @@
       "create_time": "2023-04-14",
       "create_year": 2023,
       "description": "Welcome To Arm Wrestle Simulator ⭐️ UPDATE EVERY SATURDAY!\n\n📈 3+ YEARS of content + updates  \n🔢 INSANE scaling (trillions → e100+)\n🌍 26 WORLDS to unlock  \n\n🏋️ Train. 💪 Fight. ♻️ Rebirth. Repeat.  \n🐶 Stack multipliers, upgrade pets, and push as far as you can.\n\n🐱 2500+ Pets & Arms to collect - and max out.\n\n⚡ Built for long-term grinders. Not a short game.\n\n⭐ PREMIUM: +20% Speed & +10% Luck  \n❤️ Lagging? Use a FREE VIP server  \n\n🔔 Join the community for codes, updates & bug reports",
-      "categories": [],
+      "categories": [
+        "Simulator",
+        "Fight"
+      ],
       "daily_players": {},
       "peak_players": 1937,
       "store_url": "https://www.roblox.com/games/13127800756/",
-      "icon_url": null
+      "icon_url": "https://tr.rbxcdn.com/180DAY-029a1359711734390711a9402c234f80/256/256/Image/Png/noFilter"
     },
     {
       "universe_id": 3079618996,
@@ -41266,11 +41287,15 @@
       "create_time": "2021-11-12",
       "create_year": 2021,
       "description": "🎥 Youtuber Tycoon!  ✨\n✨ WELCOME TO THE NEW YOUTUBER TYCOON!\n\n🎮Claim your Tycoon, start recording, and grow your channel to become the BIGGEST YOUTUBER on Roblox!\nCan you be the BEST Youtuber 🏆?\n\nThe game has been completely remade from the ground up with a brand new system, fresh designs, and tons of improvements.\n\n📢 What’s New in This Update:\n🌍 New Map – fully redesigned with more details .\n🎮 Improved Systems – smoother gameplay and better performance.\n✨ Revamped Interfaces \n🚀 New Features & De",
-      "categories": [],
+      "categories": [
+        "Simulator",
+        "Tycoon",
+        "Racing"
+      ],
       "daily_players": {},
       "peak_players": 3618,
       "store_url": "https://www.roblox.com/games/7971857341/",
-      "icon_url": null
+      "icon_url": "https://tr.rbxcdn.com/180DAY-2eb34ac2ef896585ae8292769e870daa/256/256/Image/Png/noFilter"
     },
     {
       "universe_id": 10131390815,
@@ -41281,11 +41306,14 @@
       "create_time": "2026-05-06",
       "create_year": 2026,
       "description": "Throw a Coin 🪙. Get Lucky. Get Rich.\n\n🪙 Toss coins into the magic fountain\n🍀 The luckier you are, the better the loot\n💰 Sell your loot for cash\n⬆️ Upgrade luck & coins to hit the impossible drops\n\n❓ Did you know... the rarest item is 1 in 20 quadrillion? 👀\n\nUSE CODE: BIGBANG\n\n👍 LIKE & FAVORITE to support, it helps the game grow!",
-      "categories": [],
+      "categories": [
+        "Simulator",
+        "Physics"
+      ],
       "daily_players": {},
       "peak_players": 20913,
       "store_url": "https://www.roblox.com/games/115681808123944/",
-      "icon_url": null
+      "icon_url": "https://tr.rbxcdn.com/180DAY-cef2bed11c9757c9d920d727bc193cc8/256/256/Image/Png/noFilter"
     },
     {
       "universe_id": 9330616906,
@@ -41296,11 +41324,13 @@
       "create_time": "2025-12-10",
       "create_year": 2025,
       "description": "NEW CODE: SHARDS \n \n💎 SHARDS UPDATE: MIN-MAX PART 1 💎 \n \n▪ Catch fish for a chance to earn Aquarium Skin Shards \n▪ Collect 25 Shards for a Mythic Aquarium Skin \n▪ Lucky Blocks fall near spawn every 3-5 minutes \n▪ New SPORT CRATE with 4 unique Aquarium Skins \n▪ Every Aquarium Skin boosts your earnings \n▪ Complete the SPORT CRATE set for +24% Cash & +20% Mutation Luck \n \n🛒 NEW GAMEPASSES\n\n▪ Auto-Kill Boss Game Pass instantly defeats Boss Fish\n▪ Toggle Auto-Kill anytime in Settings\n▪ Upgrade your B",
-      "categories": [],
+      "categories": [
+        "Simulator"
+      ],
       "daily_players": {},
       "peak_players": 16723,
       "store_url": "https://www.roblox.com/games/99702578544768/",
-      "icon_url": null
+      "icon_url": "https://tr.rbxcdn.com/180DAY-cac757628f71aaefcca292de8cec9f63/256/256/Image/Png/noFilter"
     },
     {
       "universe_id": 2564505263,
@@ -41311,11 +41341,13 @@
       "create_time": "2021-05-04",
       "create_year": 2021,
       "description": "💪Welcome to Strongman Simulator! 💪\n\n🦆 Drag items across the line to gain energy,\n⚡ Use energy at the gym to gain strength,\n💨 Remove the exit to reach new areas.\n\n⭐ Premium players earn 10% more energy ⭐\nUpdate - Area 29! Bank \n\n🚀 Codes: 🚀\n1500likes\n5000likes\n10000\n25k\n10m\n100M\n400M\nseason1\nstrongman\n",
-      "categories": [],
+      "categories": [
+        "Simulator"
+      ],
       "daily_players": {},
       "peak_players": 1237,
       "store_url": "https://www.roblox.com/games/6766156863/",
-      "icon_url": null
+      "icon_url": "https://tr.rbxcdn.com/180DAY-0aa696aaabcda0fe2862678ee0a3a455/256/256/Image/Png/noFilter"
     },
     {
       "universe_id": 4518160318,
@@ -41326,11 +41358,13 @@
       "create_time": "2023-03-26",
       "create_year": 2023,
       "description": "👍 Like and favorite the game to show us you want more mansions! 👍\n\nBuild a mansion, penthouse, or yacht, drive cool cars, race your cars at the race track, roleplay with other players, and so much more in this epic mansion tycoon! \n\n🔔 Press the follow button so you don't miss out when new updates drop!\n\n🌟 Premium users earn 20% more money! 🌟\n🌟 Join the Capybara's Productions group and verify in the game to receive a free $10k! 🌟",
-      "categories": [],
+      "categories": [
+        "Tycoon"
+      ],
       "daily_players": {},
       "peak_players": 2593,
       "store_url": "https://www.roblox.com/games/12912731475/",
-      "icon_url": null
+      "icon_url": "https://tr.rbxcdn.com/180DAY-b8ec2a62caa1cac9dd8f2072e1eeb1f2/256/256/Image/Png/noFilter"
     },
     {
       "universe_id": 5279216497,
@@ -41341,11 +41375,13 @@
       "create_time": "2023-11-09",
       "create_year": 2023,
       "description": "Welcome to Princess Tycoon 😄, choose your favorite princess 👸 and build 🧱 your tycoon! \n\nYou purchase droppers 🏗️ that generate cash 💸, when you have enough cash you will be able to unlock different weapons ⚔️ of your chosen princess and unlock the princess outfit 👗.\n\nThe objective of the game is to unlock all weapons 🗡️ of the chosen princess and the princess outfit inside your tycoon 👑! Fight others to defend your tycoon and become the most powerful princess ✨ in the game! Make sure to invite ",
-      "categories": [],
+      "categories": [
+        "Tycoon"
+      ],
       "daily_players": {},
       "peak_players": 1106,
       "store_url": "https://www.roblox.com/games/15306809513/",
-      "icon_url": null
+      "icon_url": "https://tr.rbxcdn.com/180DAY-79ba95d2dd24a653e9e7255c4640d94d/256/256/Image/Png/noFilter"
     },
     {
       "universe_id": 3759884822,
@@ -41356,11 +41392,14 @@
       "create_time": "2022-07-18",
       "create_year": 2022,
       "description": "🏢 Welcome to infinite tower tycoon! 🏢\nBuild your amazing tower, earn money and get incredible potions and weapons!\n\nHow to play?\n1- Claim a tycoon\n2- Build conveyors and droppers to earn money 💰\n3- Build walls and reach the highest level you can!\n\n👍 Remember to like the game! 👍\nRedeem the following codes for free cash (english version only):\n\"1klikes\" ✅\n\"5klikes\"✅\n\"10klikes\"✅\n\"25klikes\"✅\n\"35klikes\"✅\n\"50klikes\"❌\n\n💾 Tycoon progress automatically saves! 💾\n\n⭐ Premium benefits: ⭐\n→ ×3 daily spin 🎁\n→ ",
-      "categories": [],
+      "categories": [
+        "Tower",
+        "Tycoon"
+      ],
       "daily_players": {},
       "peak_players": 1420,
       "store_url": "https://www.roblox.com/games/10272636261/",
-      "icon_url": null
+      "icon_url": "https://tr.rbxcdn.com/180DAY-0f5015ff032e5cb7364bf79d3738bb5c/256/256/Image/Png/noFilter"
     },
     {
       "universe_id": 3746418487,
@@ -41371,11 +41410,13 @@
       "create_time": "2022-07-14",
       "create_year": 2022,
       "description": "🔔 Turn on notifications so you'll know when we add another house.\n\n⚠️ [alpha] This game is in early development. Expect bugs and major changes.\n\n🗓️ What's coming:\n   🏘️ More houses\n   🚗 More Cars",
-      "categories": [],
+      "categories": [
+        "Tycoon"
+      ],
       "daily_players": {},
       "peak_players": 2636,
       "store_url": "https://www.roblox.com/games/10224049386/",
-      "icon_url": null
+      "icon_url": "https://tr.rbxcdn.com/180DAY-c0fbc414c2742b39f427abe80a69f94c/256/256/Image/Png/noFilter"
     },
     {
       "universe_id": 9913288302,
@@ -41386,11 +41427,13 @@
       "create_time": "2026-03-21",
       "create_year": 2026,
       "description": "Update V2:\n- Expand the mansion\n\nWelcome to Cliff Mansion Tycoon🌴 — Build your dream cliffside villa!\n\n🏠 Live in a gravity-defying cliffside mansion with waterfalls, play the grand piano in the panoramic living room, and overlook the entire cliff mansion!\n♨️ Relax in the natural cave hot spring right beside the waterfall, unwind under the stars with the sound of flowing water, enjoy snacks while soaking, and savor the quiet cliffside moments!\n💪 Train in the sleek, glass-walled gym with unbeatabl",
-      "categories": [],
+      "categories": [
+        "Tycoon"
+      ],
       "daily_players": {},
       "peak_players": 2357,
       "store_url": "https://www.roblox.com/games/88015023779741/",
-      "icon_url": null
+      "icon_url": "https://tr.rbxcdn.com/180DAY-a45d375ac9b9550442a602b51262512b/256/256/Image/Png/noFilter"
     },
     {
       "universe_id": 6961334611,
@@ -41401,11 +41444,13 @@
       "create_time": "2024-12-23",
       "create_year": 2024,
       "description": "Welcome to New Blox City! 🗽\n\nBuild the BIGGEST Penthouses on ROBLOX! 🏆\n\nLive the CEO lifestyle and trade Stocks 📈 on the top floor of your own skyscraper, accompanied by luxury sports cars, spas, pools, luxury bedrooms, 20 car garages AND MORE!\n\nWho needs a house or a mansion when you can have a mega and giga mansion IN THE SKY?\n\n🎭 Lots of interactable roleplay furniture\n❤️ Lagging? Try a FREE VIP SERVER!\n🎮 Available on ALL platforms: PC, Mac, XBOX, Playstation, Phone/Mobile and Tablet!\n\n🎵 WE AR",
-      "categories": [],
+      "categories": [
+        "Tycoon"
+      ],
       "daily_players": {},
       "peak_players": 1275,
       "store_url": "https://www.roblox.com/games/124943244212764/",
-      "icon_url": null
+      "icon_url": "https://tr.rbxcdn.com/180DAY-d43ab86df4ea0446148a469dbbbce538/256/256/Image/Png/noFilter"
     },
     {
       "universe_id": 4543855070,
@@ -41416,11 +41461,13 @@
       "create_time": "2023-04-04",
       "create_year": 2023,
       "description": "🌟 Welcome to Clone Kingdom Tycoon 🌟 Build a huge clone army! Your progress saves. Earn coins with elixir collectors or collect bounties from other people to upgrade your army. You can control your army! Join the group, Elemental XYZ, for updates and awesomeness! 👍 If you enjoy our game, please leave a Like and Favourite - it would mean a lot to us! \n\nCREDITS 🔨 \nDeveloper - wickedorange23 😃 \nCo-Scripters - PlaasBoer 😊 \nTester - PrettyNahNah 🛠️ \nContributor/Ideas - Aurtheus, ShadyXV ✌️ \nTranslator",
-      "categories": [],
+      "categories": [
+        "Tycoon"
+      ],
       "daily_players": {},
       "peak_players": 1455,
       "store_url": "https://www.roblox.com/games/12997619803/",
-      "icon_url": null
+      "icon_url": "https://tr.rbxcdn.com/180DAY-8ef742991cac2e316d7624ce58580e14/256/256/Image/Png/noFilter"
     },
     {
       "universe_id": 3191268194,
@@ -41431,11 +41478,15 @@
       "create_time": "2021-12-23",
       "create_year": 2021,
       "description": "🌴 Build THE biggest mansions on ROBLOX! Drive luxury cars, roleplay with friends, visit other players houses, and so much more to come!\nJoin the group for a special chat tag!\n\nFREE private servers!\n\n👍 Like the game to support future updates!👍\n\n💾All progress is autosaved so you can resume back at any time!💾\n\n\nCreative Attributions: https://devforum.roblox.com/t/mega-mansion-tycoon/",
-      "categories": [],
+      "categories": [
+        "Tycoon",
+        "Survival",
+        "Horror"
+      ],
       "daily_players": {},
       "peak_players": 2692,
       "store_url": "https://www.roblox.com/games/8328351891/",
-      "icon_url": null
+      "icon_url": "https://tr.rbxcdn.com/180DAY-c17ac352ddedb8c405c75eda01f3707c/256/256/Image/Png/noFilter"
     },
     {
       "universe_id": 10014163822,
@@ -41446,11 +41497,13 @@
       "create_time": "2026-04-10",
       "create_year": 2026,
       "description": "",
-      "categories": [],
+      "categories": [
+        "Tycoon"
+      ],
       "daily_players": {},
       "peak_players": 1176,
       "store_url": "https://www.roblox.com/games/139519585322494/",
-      "icon_url": null
+      "icon_url": "https://tr.rbxcdn.com/180DAY-7ec2282b626a4c289f4ba78408348b4d/256/256/Image/Png/noFilter"
     },
     {
       "universe_id": 7812773438,
@@ -41461,11 +41514,14 @@
       "create_time": "2025-05-31",
       "create_year": 2025,
       "description": "Buckle up, divas... Y2K is crashing the salon with iconic patterns, sparkling charms, and more you're not ready for.\n\n💅Can YOU build the most glamorous nail salon in Roblox? Hire staff, give makeovers, and grow your beauty empire!\n\n🌟💰Your tycoon earns money while you're away! Join back to collect your money!\n\n🛠️Build your nail salon from the ground up \n🎨Give customers manicures \n👨‍💼Hire workers to automate your empire \n👮Protect your money and stop robbers! \n🚓Unlock cool cars \n\n👍🌟 Like and favori",
-      "categories": [],
+      "categories": [
+        "Tycoon",
+        "Creator"
+      ],
       "daily_players": {},
       "peak_players": 1365,
       "store_url": "https://www.roblox.com/games/100072132429741/",
-      "icon_url": null
+      "icon_url": "https://tr.rbxcdn.com/180DAY-21bb803c76645b5ee5579533fda551b5/256/256/Image/Png/noFilter"
     },
     {
       "universe_id": 4343544885,
@@ -41476,11 +41532,13 @@
       "create_time": "2023-01-31",
       "create_year": 2023,
       "description": "🌴 Welcome to Tropical Resort Tycoon 2!\n\n🌟 UPDATE 7/27/26\n🛎️ VIP Guests\n🌴 Check-in guests for income\n\n💵 Build a GIANT resort and live on a private island!\n🚘 Drive luxurious cars!\n😊 Roleplay with friends!\n🏝️ Relax in paradise! \n\n⭐ Premium benefits: +15% cash\n💸 Group member bonus: +10,000 cash ",
-      "categories": [],
+      "categories": [
+        "Tycoon"
+      ],
       "daily_players": {},
       "peak_players": 2646,
       "store_url": "https://www.roblox.com/games/12338455185/",
-      "icon_url": null
+      "icon_url": "https://tr.rbxcdn.com/180DAY-93c96f5e7b665e4b1d0336a8076d7921/256/256/Image/Png/noFilter"
     },
     {
       "universe_id": 1230230722,
@@ -41491,11 +41549,13 @@
       "create_time": "2019-07-12",
       "create_year": 2019,
       "description": "\nLive your dream life in Club Roblox – a vibrant online world full of fun, friendship, and adventure!\n🌟 Adopt a baby or pet and grow your family\n🏡 Design, build, and decorate your perfect home\n🎮 Play exciting mini-games to earn rewards\n🗨️ Roleplay, explore, and make friends from around the world!\n\nYour story starts here – who will you be?\n---------------------------------------------------------------- \n🏆 https://www.roblox.com/My/Groups.aspx?gid=3250407 \n----------------------------------------",
-      "categories": [],
+      "categories": [
+        "RP"
+      ],
       "daily_players": {},
       "peak_players": 1302,
       "store_url": "https://www.roblox.com/games/3457390032/",
-      "icon_url": null
+      "icon_url": "https://tr.rbxcdn.com/180DAY-483b81ebed1dc177a16549d885a0e128/256/256/Image/Png/noFilter"
     },
     {
       "universe_id": 9276049439,
@@ -41506,11 +41566,13 @@
       "create_time": "2025-11-30",
       "create_year": 2025,
       "description": "🛝Welcome to My Daycare! \n\n🌻Summer Event🌻\nCollect summer coins 🌸 from tips and purchase limited time summer decorations and toys! 🪙\n\n\nHow To Play:\n👶 invite kids to your daycare\n🧸 buy toys and furniture\n🏠 build new rooms\n⬆️ upgrade your daycare\n💰 earn money even while offline\n\n🔥 YOUR DAYCARE WORKS OFFLINE! 🔥",
-      "categories": [],
+      "categories": [
+        "Racing"
+      ],
       "daily_players": {},
       "peak_players": 5105,
       "store_url": "https://www.roblox.com/games/132678066262863/",
-      "icon_url": null
+      "icon_url": "https://tr.rbxcdn.com/180DAY-aeb8a3afaaa9645f12e2145058aacfdb/256/256/Image/Png/noFilter"
     },
     {
       "universe_id": 4686994428,
@@ -41521,11 +41583,13 @@
       "create_time": "2023-05-18",
       "create_year": 2023,
       "description": "🌴 Welcome to Boxywood! \nAn action packed city with endless possibility, where you can live any life you want! \n\n🏠 Own a mansion in the Hills with stunning views \n🚗 Explore the vast city of Boxywood in style with cool cars to choose from \n🥑 Or just hangout with your friends/family and cook!\nAnd much more!\n\n👍 ⭐ Support the game by giving us a LIKE and a FAVORITE!\n\nTags: Roleplay, RP, Fun, Family, Life, Adopt, Raise, Baby, Celebrity, Hollywood, Mansion, Car",
-      "categories": [],
+      "categories": [
+        "RP"
+      ],
       "daily_players": {},
       "peak_players": 2273,
       "store_url": "https://www.roblox.com/games/13473615074/",
-      "icon_url": null
+      "icon_url": "https://tr.rbxcdn.com/180DAY-c9642218164af3de0d85c26a9b22dd87/256/256/Image/Png/noFilter"
     },
     {
       "universe_id": 10165276442,
@@ -41536,11 +41600,14 @@
       "create_time": "2026-05-14",
       "create_year": 2026,
       "description": "🐈 Pets vs Police, a prison escape game where pets break out of jail, outsmart the police, rob stores 💰, and cause total chaos! 💥",
-      "categories": [],
+      "categories": [
+        "War",
+        "Pets"
+      ],
       "daily_players": {},
       "peak_players": 4163,
       "store_url": "https://www.roblox.com/games/72450672234943/",
-      "icon_url": null
+      "icon_url": "https://tr.rbxcdn.com/180DAY-7d878fda4de4fc3d0dbef97273ab4862/256/256/Image/Png/noFilter"
     },
     {
       "universe_id": 10426401239,
@@ -41551,11 +41618,13 @@
       "create_time": "2026-07-01",
       "create_year": 2026,
       "description": "🏡 New Sunset Villa house! \n\nMy Family is in Beta, please be patient 😊\nNew features & content daily!\n\n🏡 Create your own family, build & decorate a dream home, then watch them live a life of their own!\n\n👪 CREATE up to 12 members — customize looks & skills, name them, restyle anytime\n🏠 BUILD & furnish your home — place, move & recolor furniture\n🧠 LIVE their lives — they eat, sleep, chat, argue & make friends… or take control yourself!\n💼 WORK 20 careers — earn cash & get promoted\n🐾 ADOPT pets   🚗 EX",
-      "categories": [],
+      "categories": [
+        "Other"
+      ],
       "daily_players": {},
       "peak_players": 3300,
       "store_url": "https://www.roblox.com/games/109778359039301/",
-      "icon_url": null
+      "icon_url": "https://tr.rbxcdn.com/180DAY-783a6950a352496caf25e5481764c13b/256/256/Image/Png/noFilter"
     },
     {
       "universe_id": 2727447177,
@@ -41566,11 +41635,14 @@
       "create_time": "2021-07-09",
       "create_year": 2021,
       "description": "👋 Welcome to Pet Story: Rise and shine... You're getting ADOPTED! \n\n🐶 A sweet grannie has set her eyes on you, a new life awaits, but not everyone is so happy, in the distance from a cold cage red eyes full of anger look at you...\nA pet who is well known, and it is not because of his good character...\nPrepare yourself, because you're about to face the dangers of the real world!\n\n👍 Don't forget to like and join the group if you enjoy the game and would like to see more updates!",
-      "categories": [],
+      "categories": [
+        "Pets",
+        "Story"
+      ],
       "daily_players": {},
       "peak_players": 1264,
       "store_url": "https://www.roblox.com/games/7071444234/",
-      "icon_url": null
+      "icon_url": "https://tr.rbxcdn.com/180DAY-7c339763d588f01511582be0ae344ac2/256/256/Image/Png/noFilter"
     },
     {
       "universe_id": 5688684783,
@@ -41581,11 +41653,15 @@
       "create_time": "2024-02-25",
       "create_year": 2024,
       "description": "Welcome to Mega Obby Fun\n\nCall your friends and have fun in more than 150 stages of Easy Obby\n\nWinner: Magic Carpet as a gift in the last stage.\n\nUpdates:\nWe will constantly increase the stages.\nLike and favorite the game for updates\n\nThanks for playing Obby  \n\nLike Mega Obby Fun👍\nFavorite Mega Obby Fun ⭐\n\nFollow: @Gargula85\nhttps://www.roblox.com/users/3710836848/profile\n\nJoin our group:\nhttps://www.roblox.com/groups/33479457\n\nTags [Ignorar]: RTHRO, bruh , fun obby , oby , rainbow , long , popu",
-      "categories": [],
+      "categories": [
+        "Obby",
+        "Survival",
+        "Horror"
+      ],
       "daily_players": {},
       "peak_players": 1041,
       "store_url": "https://www.roblox.com/games/16518256559/",
-      "icon_url": null
+      "icon_url": "https://tr.rbxcdn.com/180DAY-b09d728b7ac7b57860c2aca1923543ec/256/256/Image/Png/noFilter"
     },
     {
       "universe_id": 8401518398,
@@ -41596,11 +41672,13 @@
       "create_time": "2025-08-10",
       "create_year": 2025,
       "description": "Obby But You're on a Scooter! 💛\n\n🛴💨 Race, jump, drift, and speed your way through 100 challenging scooter stages! \n🏁 Test your skills, master tight turns, hit boosts, and see how far you can go.  \n🏆 Can you beat all 100 stages? \n\n\nTags: Obby, Obby But, Obby But you're, Scooter, Scooter Obby, Obby but you're on a Scooter",
-      "categories": [],
+      "categories": [
+        "Obby"
+      ],
       "daily_players": {},
       "peak_players": 2961,
       "store_url": "https://www.roblox.com/games/122606989565107/",
-      "icon_url": null
+      "icon_url": "https://tr.rbxcdn.com/180DAY-caa1dd5ab8351b7ca0aa3ca5282beab1/256/256/Image/Png/noFilter"
     },
     {
       "universe_id": 3088609243,
@@ -41611,11 +41689,15 @@
       "create_time": "2021-11-15",
       "create_year": 2021,
       "description": "🔥 Earn 🌈 Trails, 🐾 Pets, and 📛 Titles by completing stages!\n\n- 🧪 Mutators Menu\n- 🌀 Morph into small, upside-down, and backward avatars!\n- 🎨 Customize Lighting — switch between Time of Day, Rainbow, Black & White, and Color Blast!\n- 🎵 Official Licensed Music now playing in oMega Obby!\n- 👍 If you’re enjoying the game, don’t forget to like and ⭐ favorite!\n\nTags: Obby, Parkour, Mega Fun, Easy, Rainbow, Music",
-      "categories": [],
+      "categories": [
+        "Obby",
+        "Survival",
+        "Horror"
+      ],
       "daily_players": {},
       "peak_players": 2380,
       "store_url": "https://www.roblox.com/games/8003084678/",
-      "icon_url": null
+      "icon_url": "https://tr.rbxcdn.com/180DAY-264682cea60d40c8bf7e3e792feb4f9b/256/256/Image/Png/noFilter"
     },
     {
       "universe_id": 8152539587,
@@ -41626,11 +41708,13 @@
       "create_time": "2025-07-13",
       "create_year": 2025,
       "description": "⚠️ This isn't your average obby. Nothing is as it seems, you must THINK outside the box. Logic? Throw it out the window. Expect the unexpected, and whatever you do... don’t trust anything.\n\n😈 Think you’re smart enough to survive all 100 mind-blowing stages? Only true clever brains make it to the end.\n\n⭐ Like and favorite the game to get updates and new stages!\n🎁 Join the group for FREE skips and exclusive perks!\n\n🍀 Good luck... you’ll need it.\n\nThis game was inspired by the original Troll Obby\nT",
-      "categories": [],
+      "categories": [
+        "Obby"
+      ],
       "daily_players": {},
       "peak_players": 2581,
       "store_url": "https://www.roblox.com/games/126690911414483/",
-      "icon_url": null
+      "icon_url": "https://tr.rbxcdn.com/180DAY-871ee5a7a9c70f9e342456db010011c8/256/256/Image/Png/noFilter"
     },
     {
       "universe_id": 3420059569,
@@ -41641,11 +41725,15 @@
       "create_time": "2022-03-14",
       "create_year": 2022,
       "description": "(Note: The game is designed to be played in first person but if you don't like that feature you can simply turn it off by pressing the Eye Icon)\r\n\r\nWelcome to....DETENTION! Mr Pickle is the most unfair Teacher in the school, He's Keeping you in Detention over the whole weekend! THATS NOT FAIR! Lets....BREAK OUT! \r\n\r\nTravel through this crazy school and avoid traps, Solve puzzle and of course avoid MR PICKLE! \r\nOnce you beat the game on Easy mode, Why not try HARD MODE!?\r\nWith much more challengi",
-      "categories": [],
+      "categories": [
+        "RP",
+        "Obby",
+        "Tycoon"
+      ],
       "daily_players": {},
       "peak_players": 1299,
       "store_url": "https://www.roblox.com/games/9099326192/",
-      "icon_url": null
+      "icon_url": "https://tr.rbxcdn.com/180DAY-d0294458d25cf596291f7c7509247359/256/256/Image/Png/noFilter"
     },
     {
       "universe_id": 10154405611,
@@ -41656,11 +41744,16 @@
       "create_time": "2026-05-11",
       "create_year": 2026,
       "description": "Kitty has trapped us in her cute but spooky house! \nShe’s set up lots of traps to stop us from escaping, but I’m sure you can beat all the obstacles! 💪\nTry your best and escape to earn amazing rewards! 🏆\n\nIf you enjoy this obby, please leave a like and favorite the game. It really helps! ⭐👍\n\nJoin our group “Punk Creations” for Rewards: https://www.roblox.com/communities/898158305/Punk-Creations#!/about",
-      "categories": [],
+      "categories": [
+        "Escape",
+        "Obby",
+        "Survival",
+        "Horror"
+      ],
       "daily_players": {},
       "peak_players": 1276,
       "store_url": "https://www.roblox.com/games/113211681991036/",
-      "icon_url": null
+      "icon_url": "https://tr.rbxcdn.com/180DAY-8d144bfdb2e3cf94d9b6bae4bc5d3f02/256/256/Image/Png/noFilter"
     },
     {
       "universe_id": 9906154135,
@@ -41671,11 +41764,14 @@
       "create_time": "2026-03-19",
       "create_year": 2026,
       "description": "👋 Welcome to Extreme Gear Troll Tower!\n\n🔍 Find the gears inside the tower!\n💰 Earn coins to buy awesome new gears! 💥\n\n🏆 Can you reach the end without getting trolled?\n😈 Or will you be the troll and stop other players from reaching the end?\n\n👍 Don't forget to Like and Favorite the game! ⭐\n\nInspired by Gear Tower and Other Games.",
-      "categories": [],
+      "categories": [
+        "Tower",
+        "Adopt"
+      ],
       "daily_players": {},
       "peak_players": 5116,
       "store_url": "https://www.roblox.com/games/103285721487694/",
-      "icon_url": null
+      "icon_url": "https://tr.rbxcdn.com/180DAY-2d9c348224f37c3454aeedec7aeda8c9/256/256/Image/Png/noFilter"
     },
     {
       "universe_id": 4908792642,
@@ -41686,11 +41782,14 @@
       "create_time": "2023-07-25",
       "create_year": 2023,
       "description": "\n🚴 Beat the Obby on Your Trusty Bike!\n🏁 Explore 104 unique worlds with 100 challenging stages!\n⏰ Compete on Speedrun Leaderboards and prove you’re the ultimate rider.\n💖 Thank you to all our amazing players for your continued support!\n\nTags: Obby, Bike Trail, Biking, Obstacle Course, Fun, Bike Obby, Parkour, Race\n\nThis game may contain Independent Ads. All Independent Ads are uploaded by our studio, and all analytics are collected by our studio.",
-      "categories": [],
+      "categories": [
+        "Obby",
+        "Racing"
+      ],
       "daily_players": {},
       "peak_players": 1279,
       "store_url": "https://www.roblox.com/games/14184086618/",
-      "icon_url": null
+      "icon_url": "https://tr.rbxcdn.com/180DAY-8442a42292cbd8d0093663c1b1aad4a2/256/256/Image/Png/noFilter"
     },
     {
       "universe_id": 6082237965,
@@ -41701,11 +41800,18 @@
       "create_time": "2024-06-06",
       "create_year": 2024,
       "description": "UGH!!!!!! School just ended but our teacher Mr. Meaniehead, the world's most EVIL robotics teacher isn't letting us leave!!!! I think he wants to keep us in his class FOREVER!!!!!!  Quick, he is distracted working on his newest evil invention, let's use this chance to ESCAPE!!!\n\nDodge epic obstacles, defeat bosses, and use cash to unlock boosts and access to secret areas! \n\nIf you had fun please like and favorite the game to support it. Thank you!",
-      "categories": [],
+      "categories": [
+        "Escape",
+        "RP",
+        "Obby",
+        "Tycoon",
+        "Survival",
+        "Horror"
+      ],
       "daily_players": {},
       "peak_players": 1076,
       "store_url": "https://www.roblox.com/games/17756465378/",
-      "icon_url": null
+      "icon_url": "https://tr.rbxcdn.com/180DAY-21fae1c8cd6e7c4bb1921fdb67edd7a5/256/256/Image/Png/noFilter"
     },
     {
       "universe_id": 4599924264,
@@ -41716,11 +41822,14 @@
       "create_time": "2023-04-19",
       "create_year": 2023,
       "description": "🧩 Team up with up to 3 players to solve puzzles and beat obstacle courses!\n\nDon't leave anybody behind because you will need them later. Earn coins to unlock special trails or replay stages for a faster time. Play with friends for the best experience!",
-      "categories": [],
+      "categories": [
+        "Obby",
+        "Puzzle"
+      ],
       "daily_players": {},
       "peak_players": 1416,
       "store_url": "https://www.roblox.com/games/13184713709/",
-      "icon_url": null
+      "icon_url": "https://tr.rbxcdn.com/180DAY-85b02a212b40cefbee2c6ea6c357272b/256/256/Image/Png/noFilter"
     },
     {
       "universe_id": 2247578975,
@@ -41731,11 +41840,17 @@
       "create_time": "2020-12-28",
       "create_year": 2020,
       "description": "Looks like we have been locked in a Abandoned Carnival by an EVIL CLOWN! We must find a way to ESCAPE!\r\n\r\nTravel though the Carnival and avoid the Traps and Obstacles that get in your way. Hop onto the Rides and RollerCoaster to get to next area. Escape a CRAZY Funhouse and watch out for the EVIL CLOWN! (WARNING MILD JUMPSCARES)\r\n\r\nOver 25 challenging Obstacles to beat, CAN YOU ESCAPE THE CARNIVAL OF TERROR?\r\n\r\nPlease Leave a Like and Favourite if you enjoy my games. That would really help out a",
-      "categories": [],
+      "categories": [
+        "Escape",
+        "Obby",
+        "Survival",
+        "Racing",
+        "Horror"
+      ],
       "daily_players": {},
       "peak_players": 2568,
       "store_url": "https://www.roblox.com/games/6153766069/",
-      "icon_url": null
+      "icon_url": "https://tr.rbxcdn.com/180DAY-efce41d8311e6dcb3a765bd354d42ed4/256/256/Image/Png/noFilter"
     },
     {
       "universe_id": 4601145322,
@@ -41746,11 +41861,13 @@
       "create_time": "2023-04-20",
       "create_year": 2023,
       "description": "👋 Welcome to Troll Obby!\n\nIf you think this is a normal obby, then you're wrong.\nEverything here is unusual, so you have to think out of the box and find a way to complete the stages!!\n\nBe sure to like 👍 and favorite ⭐ the game if you enjoyed it! \n\nHave fun!! :D\n\nNumber of current stages: 106\n\n\n Tags: Troll obby, Troll face, Trollage, Parkour Troll, Hard Obby, obstacle, long obby, parkour, mega,  colorful, iq obby, iq test",
-      "categories": [],
+      "categories": [
+        "Obby"
+      ],
       "daily_players": {},
       "peak_players": 2422,
       "store_url": "https://www.roblox.com/games/13189735542/",
-      "icon_url": null
+      "icon_url": "https://tr.rbxcdn.com/180DAY-540a10db3ad97c4d29b8f31b54fa7fef/256/256/Image/Png/noFilter"
     },
     {
       "universe_id": 10123059921,
@@ -41761,11 +41878,15 @@
       "create_time": "2026-05-04",
       "create_year": 2026,
       "description": "You're home alone. Unexpected visitors keep arriving at your door, but not everyone is who they claim to be. Decide who to trust and survive the night.\n\nUPDATE 2 ( 07.30.2026 ) : New chores were added to the game and Home Alone is now available on consoles!\n\n*New Game, Please Report Bugs*\n\nTags : Anomalies, Anomaly, Horror, Home Alone, Survival, Scary",
-      "categories": [],
+      "categories": [
+        "Survival",
+        "Adopt",
+        "Horror"
+      ],
       "daily_players": {},
       "peak_players": 16478,
       "store_url": "https://www.roblox.com/games/87468080405188/",
-      "icon_url": null
+      "icon_url": "https://tr.rbxcdn.com/180DAY-1c1d2040448e80e56c3f89331c13f3fe/256/256/Image/Png/noFilter"
     },
     {
       "universe_id": 9177208241,
@@ -41776,11 +41897,14 @@
       "create_time": "2025-11-15",
       "create_year": 2025,
       "description": "⚠️ Burrowed Fears is an episodic psychological horror game based on true events.\n\n🚨 It is highly recommended to play on 8 or higher graphics\n👥 Multiplayer is supported for up to 5 people but it is recommended to play solo\n💬 Follow the dialogue closely to experience all horror elements\n🎥 Share your horror experience with clipping software such as Medal\n\nFeatures:\n📱 Text Messages\n🗣️ Interactive Dialogue\n\n👍 Like & Favorite for more episodes\n\nThis game is Inspired by Fears to Fathom",
-      "categories": [],
+      "categories": [
+        "Survival",
+        "Horror"
+      ],
       "daily_players": {},
       "peak_players": 1747,
       "store_url": "https://www.roblox.com/games/105663205434095/",
-      "icon_url": null
+      "icon_url": "https://tr.rbxcdn.com/180DAY-ba0b7cb4e1f4507b088eea79a6e05384/256/256/Image/Png/noFilter"
     },
     {
       "universe_id": 2049551477,
@@ -41791,11 +41915,15 @@
       "create_time": "2020-10-03",
       "create_year": 2020,
       "description": "Another pointless horror game in which you have to survive from a harmless rat.\n\nCheese Escape currently has 3 chapters and one secret ending.\n\nUpdate Logs:\n(06/02/25)\nAdded new game mode: Random Maze.\nNew pass added \"Become a Rat\".\nChapter 4 in development.\n(02/11/24)\n-In сhapter 3 you can now always hide even if a rat spots you.\n-Keys are now saved across all chapters.\n\n\nI advise you to play with the sounds so that you don't miss anything.\n\nCreate a free VIP server and play alone or with frien",
-      "categories": [],
+      "categories": [
+        "Escape",
+        "Survival",
+        "Horror"
+      ],
       "daily_players": {},
       "peak_players": 2227,
       "store_url": "https://www.roblox.com/games/5777099015/",
-      "icon_url": null
+      "icon_url": "https://tr.rbxcdn.com/180DAY-de2311ccbfd9770800fa9f1ff6e837d4/256/256/Image/Png/noFilter"
     },
     {
       "universe_id": 10146192041,
@@ -41806,11 +41934,14 @@
       "create_time": "2026-05-10",
       "create_year": 2026,
       "description": "Your first night shift as a remote park ranger takes a horrifying turn when you learn that Pine Fall’s infamous killer may still be out there...\n\n⚠️ This game is based off a true story\n👁️ The names and locations in this story have been changed\n\n🎧 Best experienced with headphones\n👥 Solo or with friends (1 - 4)\n\n💖👍 Like & Favorite for Chapter 2",
-      "categories": [],
+      "categories": [
+        "Survival",
+        "Horror"
+      ],
       "daily_players": {},
       "peak_players": 1976,
       "store_url": "https://www.roblox.com/games/118936089358184/",
-      "icon_url": null
+      "icon_url": "https://tr.rbxcdn.com/180DAY-e33a066fd0d9e2594f90d810e3c26cb2/256/256/Image/Png/noFilter"
     },
     {
       "universe_id": 10514488908,
@@ -41821,11 +41952,14 @@
       "create_time": "2026-07-16",
       "create_year": 2026,
       "description": "SOBRE O JOGO:\n\nEthan estava sozinho em casa quando uma caixa misteriosa apareceu de repente na varanda da frente.\n\nQuando ele abriu, encontrou algo estranho dentro: uma esfera amarela chamada Verity. No começo, Verity parecia amigável. Ela afirmava saber de tudo e queria ajudar.\n\nMas depois de alguns dias, algo começou a mudar. Verity começou a agir de maneira estranha... observando, ouvindo e ficando cada vez mais perigosa.\n\nPrepare-se e proteja sua casa. Algo está chegando em 3 dias.\n\nCONTROLE",
-      "categories": [],
+      "categories": [
+        "Survival",
+        "Horror"
+      ],
       "daily_players": {},
       "peak_players": 1370,
       "store_url": "https://www.roblox.com/games/129839966867899/",
-      "icon_url": null
+      "icon_url": "https://tr.rbxcdn.com/180DAY-b8e62bc6f2ad8744c836b6c38b10233a/256/256/Image/Png/noFilter"
     },
     {
       "universe_id": 7082244450,
@@ -41836,11 +41970,14 @@
       "create_time": "2025-01-13",
       "create_year": 2025,
       "description": "Mom and Dad ground you, and are doing their daily tasks you gotta find a way to distract them to run from the house and hang out with your friends!\n\n⚠️ This game can be challenging at first, don’t worry if you don’t win right away!\n🔁 Play as many times as you want\n🪙 Collect coins to unlock PERKS\n\n【 Recommendations】\n⚠️ At least 60% graphics recommended\n🤝 Playing with other players can help you win easier\n\n🚀 New content is added every week\n🐞 Found a bug? Please report it!\n❗ Join our Group & Commun",
-      "categories": [],
+      "categories": [
+        "Survival",
+        "Horror"
+      ],
       "daily_players": {},
       "peak_players": 2494,
       "store_url": "https://www.roblox.com/games/128095034580221/",
-      "icon_url": null
+      "icon_url": "https://tr.rbxcdn.com/180DAY-4ee5fd1ec47a53df3aebfcc4b5dba872/256/256/Image/Png/noFilter"
     },
     {
       "universe_id": 9585346472,
@@ -41851,11 +41988,14 @@
       "create_time": "2026-01-18",
       "create_year": 2026,
       "description": "🌙 You’ve been hired for the night shift.\n\nWelcome to the Infirmary.\n\nPatients will arrive throughout the night.\nExamine them carefully, some may not be what they seem...\n\n⚠️ Flashing lights and jumpscares\n🎧 Headphones recommended\n⬆️ High graphics recommended\n\nThis game is in Beta, please report any bugs on the forums and community server!\n\nVisually inspired by DOORS and The Mortuary Assistant\n\n(Anomaly, Haunted, Hospital, Scary, Jumpscare)",
-      "categories": [],
+      "categories": [
+        "Survival",
+        "Horror"
+      ],
       "daily_players": {},
       "peak_players": 7888,
       "store_url": "https://www.roblox.com/games/101610294550592/",
-      "icon_url": null
+      "icon_url": "https://tr.rbxcdn.com/180DAY-235250af6e285fee37a2a40b5dae6333/256/256/Image/Png/noFilter"
     },
     {
       "universe_id": 10455462279,
@@ -41866,11 +42006,13 @@
       "create_time": "2026-07-06",
       "create_year": 2026,
       "description": "🚪 Can YOU survive VERITY in Area 51? 🔦\n\n🗺️ Explore Area 51 and the BACKROOMS! 🗺️\n🔫 FIGHT VERITY with your WEAPONS! 🔫\n🔎 Find ITEMS to help you SURVIVE! 🔍\n🌟 Team up with FRIENDS and CLOSE ONES! 🌟\n\n👍 LIKE and FAVORITE if you enjoyed! 🌟\n❤️ Join our GROUP to stay updated! ❤️",
-      "categories": [],
+      "categories": [
+        "Other"
+      ],
       "daily_players": {},
       "peak_players": 4688,
       "store_url": "https://www.roblox.com/games/74716719697996/",
-      "icon_url": null
+      "icon_url": "https://tr.rbxcdn.com/180DAY-d9ba82eaef601627ee27b8fe90709cc5/256/256/Image/Png/noFilter"
     },
     {
       "universe_id": 8504461817,
@@ -41881,11 +42023,15 @@
       "create_time": "2025-08-21",
       "create_year": 2025,
       "description": "🔥 Escape The Lava 🔥\n\n❤️ Survive lava to get to the end and earn wins!\n⚡ Train your speed and get to the top of obstacles for protection!\n🏆 Get pets for more speed and unlock new worlds with wins!\n🌍 Beat other players and get on top of the leaderboards!",
-      "categories": [],
+      "categories": [
+        "Escape",
+        "Survival",
+        "Horror"
+      ],
       "daily_players": {},
       "peak_players": 2251,
       "store_url": "https://www.roblox.com/games/140481779622210/",
-      "icon_url": null
+      "icon_url": "https://tr.rbxcdn.com/180DAY-0e522cf0fd7f43253a875e22af077755/256/256/Image/Png/noFilter"
     },
     {
       "universe_id": 10200291205,
@@ -41896,11 +42042,15 @@
       "create_time": "2026-05-21",
       "create_year": 2026,
       "description": " 🧈 Welcome to +1 Speed Crunchy Wax ASMR | Butter & Nee Doh 🧈\n\n⚡ Every step = +1 Speed\n👟 Run, jump, and escape across a world made of Butter & Nee Doh Squishies\n💪 Train your speed and unlock powerful multipliers\n👥 Race against friends and other players\n🌍 Become the FASTEST on the server\n🚀 Speed is everything… but one wrong move and you’re back at the start 😱\n\n🎧 ASMR vibes included\nSmooth movement, satisfying Squishies clicks, Wax Crunches, creamy visuals, and relaxing candy sounds for a perfect m",
-      "categories": [],
+      "categories": [
+        "Escape",
+        "Survival",
+        "Horror"
+      ],
       "daily_players": {},
       "peak_players": 1047,
       "store_url": "https://www.roblox.com/games/138743684450520/",
-      "icon_url": null
+      "icon_url": "https://tr.rbxcdn.com/180DAY-d821cfbd3412839b8dea5e3ee5d2ba18/256/256/Image/Png/noFilter"
     },
     {
       "universe_id": 2017809925,
@@ -41911,11 +42061,13 @@
       "create_time": "2020-09-17",
       "create_year": 2020,
       "description": "Welcome to the original Climb 1,000 Stairs!\n\nUPDATE COMING SOON\n\n🧗 Climb 1,000 Stairs\n🌟 Earn Stars To Buy Items\n🚗 New Fast Cars\n🐱 Collect And Find Animal Badges!\n😵‍💫 RAGDOLL",
-      "categories": [],
+      "categories": [
+        "Other"
+      ],
       "daily_players": {},
       "peak_players": 1140,
       "store_url": "https://www.roblox.com/games/5702593762/",
-      "icon_url": null
+      "icon_url": "https://tr.rbxcdn.com/180DAY-2e0b794b81259148b5e2495e4f9709b1/256/256/Image/Png/noFilter"
     },
     {
       "universe_id": 7738524573,
@@ -41926,11 +42078,13 @@
       "create_time": "2025-05-20",
       "create_year": 2025,
       "description": "⚔️ RETRO TOWER DEFENSE! Stop the Noob invasion! Summon iconic heroes and relive the golden era of Roblox in the ultimate strategy experience. 🛡️\n\n 📈 You can now trade towers with other players! \n\nGrab your friends and team up to protect the base! Strategize across legendary maps like Crossroads and Doomspire to earn Tix and EXP.\n\nGame Modes: Battle through Casual, Normal, Hard, or test your skills in the infinite Endless mode!\n\nMissions: Complete quests with your squad to unlock powerful Towers.",
-      "categories": [],
+      "categories": [
+        "Tower"
+      ],
       "daily_players": {},
       "peak_players": 1247,
       "store_url": "https://www.roblox.com/games/98936097545088/",
-      "icon_url": null
+      "icon_url": "https://tr.rbxcdn.com/180DAY-35b5faa5a32cd17806b8d914cc0c4821/256/256/Image/Png/noFilter"
     },
     {
       "universe_id": 8343243056,
@@ -41941,11 +42095,14 @@
       "create_time": "2025-08-04",
       "create_year": 2025,
       "description": "🗣️ Welcome to Brainrot Tower Defense\n\n👍 Like the game and join the group\n\nHow to Play:\n🦈 Place your Brainrot!\n💰 Defeat enemies to earn money!\n🚀 Evolve your Brainrot!\n🎉 Win the battle!!!! 🎉\n\n🤼‍♂Invite your friends to help you defend your base!\n\n🚀 RELEASE CODE:  bbtd\n\n📝Join the Social Links to see Announcement and Updates\n🛠️ Weekly Updates\n\n🔗 Tags: Brainrot, Italian Brainrot, Tower Defense, Strategy, TD, Survival, Defense",
-      "categories": [],
+      "categories": [
+        "Brainrot",
+        "Tower"
+      ],
       "daily_players": {},
       "peak_players": 1333,
       "store_url": "https://www.roblox.com/games/111199269199811/",
-      "icon_url": null
+      "icon_url": "https://tr.rbxcdn.com/180DAY-d1433a34f29f64205fc45b140ac44f21/256/256/Image/Png/noFilter"
     },
     {
       "universe_id": 10253235584,
@@ -41956,11 +42113,13 @@
       "create_time": "2026-05-31",
       "create_year": 2026,
       "description": "🌊 TSUNAMI UPDATE! In this hourly event you can fight new sea enemies, and get NEW WEAPONS!\n\nYour base fights offline!\n\nRoll 🎲  Build🏗️ Defend🧟‍♂️\nCreate the BEST base possible and become RICH!\n\n❤️Thanks for playing!",
-      "categories": [],
+      "categories": [
+        "Simulator"
+      ],
       "daily_players": {},
       "peak_players": 24315,
       "store_url": "https://www.roblox.com/games/99108783264633/",
-      "icon_url": null
+      "icon_url": "https://tr.rbxcdn.com/180DAY-c81a0515e528a9f6ef920b44807c2734/256/256/Image/Png/noFilter"
     },
     {
       "universe_id": 9627655329,
@@ -41971,11 +42130,13 @@
       "create_time": "2026-01-26",
       "create_year": 2026,
       "description": " ❔ Like the game for SECRET character\n🔥 Welcome to Universal Showdown! 🔥\n📱💻🎮 Playable on ALL devices: Console, PC, and Mobile!\n\n✨Universal Showdown, any character you can think of! 😎\n\n💻 Keybinds:\n👊 Left click - Punch\n⚡ Q - Dash / (🤸 ragdolled) Evasive/Ragdoll Cancel\n🔥 G - Ultimate\n🛡️ F - Block\n🏃 Double Tap W - Run\n😎 B - Emote Wheel\n\nThis game includes randomized rewards (emotes and spins). All items have an equal chance of being obtained. No duplicates are possible.\n\nTags:\n#KJ battlegrounds, #KJ",
-      "categories": [],
+      "categories": [
+        "Other"
+      ],
       "daily_players": {},
       "peak_players": 1895,
       "store_url": "https://www.roblox.com/games/127377897541228/",
-      "icon_url": null
+      "icon_url": "https://tr.rbxcdn.com/180DAY-8015e79f61d3a01f018e0a74511b4503/256/256/Image/Png/noFilter"
     },
     {
       "universe_id": 10059548251,
@@ -41986,11 +42147,13 @@
       "create_time": "2026-04-20",
       "create_year": 2026,
       "description": "SAMURAI DUELS\n\nFace off against other players, charge up your swing, and outclass your opponent to win the round\n\nThis game is in beta, expect some bugs",
-      "categories": [],
+      "categories": [
+        "Fight"
+      ],
       "daily_players": {},
       "peak_players": 2439,
       "store_url": "https://www.roblox.com/games/72248722616845/",
-      "icon_url": null
+      "icon_url": "https://tr.rbxcdn.com/180DAY-94996716796f46378444f1c764c7abdb/256/256/Image/Png/noFilter"
     },
     {
       "universe_id": 5265857965,
@@ -42001,11 +42164,13 @@
       "create_time": "2023-11-05",
       "create_year": 2023,
       "description": "⭐Please like/thumbs up and favorite for more updates!\n\nFight to become the ultimate legend.\n\nKeybinds:\nQ - Dash\nQ (while ragdolled) - Evasive/Ragdoll Cancel\nF - Block\nG - Awaken\nLeft Click - Light Attack\nB - Emote Wheel\n\nThis game's characters are all stickmen, original or from an anime.\n\nYou can play this game on any device.\n\nHelp Legends Battlegrounds (LBG) by leaving a like/thumbs up and favorite!",
-      "categories": [],
+      "categories": [
+        "Fight"
+      ],
       "daily_players": {},
       "peak_players": 3901,
       "store_url": "https://www.roblox.com/games/15269951959/",
-      "icon_url": null
+      "icon_url": "https://tr.rbxcdn.com/180DAY-bfbdf01325b84c265a7724bec47e40c2/256/256/Image/Png/noFilter"
     },
     {
       "universe_id": 7212930772,
@@ -42016,11 +42181,13 @@
       "create_time": "2025-02-08",
       "create_year": 2025,
       "description": "Welcome to Train to Fight! A fierce PvP arena where your body IS your weapon!\nJust launched – Weekly updates!\n\n💪 Train to Grow Stronger – Your physique shapes your power and speed!\n💥 Dominate Rivals & Earn Respect – Steal theirs or risk losing your own!\n🔥 Master Unique Fighting Styles – Unlock them with hard-earned Respect!\n\n🎁 Code: NEW, 100likes, 1KLIKES, 5KLiKEs, 12kliKES, 25KLIkES, 50Klikes\n      Next Code: 120K likes\n\n🤩Join Our Group for Extra code!\n\n❤️ Your support fuels our updates! \n     ",
-      "categories": [],
+      "categories": [
+        "Fight"
+      ],
       "daily_players": {},
       "peak_players": 1206,
       "store_url": "https://www.roblox.com/games/129163919591388/",
-      "icon_url": null
+      "icon_url": "https://tr.rbxcdn.com/180DAY-eb5c7fac2a2c05723f68cb7f3ae55377/256/256/Image/Png/noFilter"
     },
     {
       "universe_id": 2220495353,
@@ -42031,11 +42198,13 @@
       "create_time": "2020-12-18",
       "create_year": 2020,
       "description": "Team up with your crewmates to destroy and sink enemy pirates!\nBe careful not to let your ship get destroyed!\n\nCollect gold to buy new boats, planes, skins, and more!\nWant some extra gold? Join Pseudostudio for 2000 FREE gold!\n\nPRIVATE SERVERS: 4 players are required to start a game!\n\nPilfering Pirates is a Brickbattle destruction fighting game inspired by Black Pearl vs Flying Dutchman and Doomspire Brickbattle\n\nLatest version : 2.13.11",
-      "categories": [],
+      "categories": [
+        "Other"
+      ],
       "daily_players": {},
       "peak_players": 2854,
       "store_url": "https://www.roblox.com/games/6104994594/",
-      "icon_url": null
+      "icon_url": "https://tr.rbxcdn.com/180DAY-5b67c1337ab2a67de6a5a081f3278227/256/256/Image/Png/noFilter"
     },
     {
       "universe_id": 7528417535,
@@ -42046,11 +42215,13 @@
       "create_time": "2025-04-12",
       "create_year": 2025,
       "description": "Welcome to Divaz!\nThe baddest city where you can slay divas, get clout, make money and run the streets!\n\nHow to Play:\n💸 Earn money by grinding jobs or taking risks\n💅 Slay anyone who tries you\n✨ Get clout and become the ultimate baddie\n👗 Create your outfit in our avatar catalog\n💃 Dance and have fun with friends\n\n💜 Make sure to join the group and give your feedback. It helps a lot!\n\nThanks for playing! ",
-      "categories": [],
+      "categories": [
+        "Other"
+      ],
       "daily_players": {},
       "peak_players": 4586,
       "store_url": "https://www.roblox.com/games/88323040672117/",
-      "icon_url": null
+      "icon_url": "https://tr.rbxcdn.com/180DAY-c033225c06d90969d5183d6349b5cbdb/256/256/Image/Png/noFilter"
     },
     {
       "universe_id": 4181957649,
@@ -42061,11 +42232,13 @@
       "create_time": "2022-12-13",
       "create_year": 2022,
       "description": "Quality fighting game, suggest new characters in our server \n\nMORE UPDATES SOON!!\n\n⭐ Please leave a like to show your support!\n\n🖥️ Controls\nG - Transform\nF - block\nQ - dash\nQ (while ragdolled) - ragdoll cancel/evasive\nLeft Click - punch\n\n\nAll devices supported!! 🎮📱💻",
-      "categories": [],
+      "categories": [
+        "Fight"
+      ],
       "daily_players": {},
       "peak_players": 2433,
       "store_url": "https://www.roblox.com/games/11815767793/",
-      "icon_url": null
+      "icon_url": "https://tr.rbxcdn.com/180DAY-8319566da7e915e95d5e2b018504792b/256/256/Image/Png/noFilter"
     },
     {
       "universe_id": 3624423521,
@@ -42076,11 +42249,14 @@
       "create_time": "2022-06-01",
       "create_year": 2022,
       "description": "Welcome to classic game Underground War 2.0\n⛏️ Dig Tunnels, ⚔️ Sword Fight, or 🎯 Snipe Enemies With a Rifle to WIN! I hope you enjoy!\n🚩 Version: 2.8.32\n\n🔔 Follow for update news.\n💜 Thank you for playing!\n\nThe original game «The Underground War» was created by @Stickmasterluke in 2008\n\nGroup: https://www.roblox.com/communities/518426636\nCredits: https://devforum.roblox.com/t/1826354",
-      "categories": [],
+      "categories": [
+        "War",
+        "Survival"
+      ],
       "daily_players": {},
       "peak_players": 2197,
       "store_url": "https://www.roblox.com/games/9791603388/",
-      "icon_url": null
+      "icon_url": "https://tr.rbxcdn.com/180DAY-2d12382dc2468e58383786743297f6b0/256/256/Image/Png/noFilter"
     },
     {
       "universe_id": 10394064134,
@@ -42091,11 +42267,14 @@
       "create_time": "2026-06-25",
       "create_year": 2026,
       "description": "👋 Welcome to Highschool Experience RP where you can become a principal, teacher, security, nurse, meet new friends, use fun gears, dance, ragdoll, and much more!\n\n👫 Make new friends and socialize\n🔊 Use voice chat to talk to players\n👗 Customize your avatar with your imagination\n🕺  Dance and explore the school!\n\n💬 Commands:\n/korblox, /headless\nUpdates come weekly!\n\nLike (👍) + Favorite (⭐) the game for more updates!\n\n🥚 Make sure to join our group \"Master Works\" for FREE gears!",
-      "categories": [],
+      "categories": [
+        "RP",
+        "Tycoon"
+      ],
       "daily_players": {},
       "peak_players": 4685,
       "store_url": "https://www.roblox.com/games/112333343527957/",
-      "icon_url": null
+      "icon_url": "https://tr.rbxcdn.com/180DAY-6d4255cc3e3a1396de702093b2187e30/256/256/Image/Png/noFilter"
     },
     {
       "universe_id": 6940206974,
@@ -42106,11 +42285,14 @@
       "create_time": "2024-12-19",
       "create_year": 2024,
       "description": "🎉 BIG SNUGLIFE UPDATE! 🎉\n\n👨‍👩‍👧‍👦 Adoption system is here! Start your own happy family today! 💖\nBring friends together and make memories! 🏡✨\n🚗 New FREE house unlocked! Go claim it now! 🎁\n🍦 Summer ice cream theme added! Cool treats everywhere! ☀️🍧\n\n🏠 New house available!\n⛳ Golf cart + clubs — grab friends and hit the greens! 🏌️♂️💚\n\n👍 1,3000 likes = car / 20,000 likes = house — keep liking!\n\n\nPlay now and build your dream family! 💕🎉\n\n\n🌟 Welcome to SnugLife! 🌈\nIt’s like a big toy city where YOU mak",
-      "categories": [],
+      "categories": [
+        "RP",
+        "Simulator"
+      ],
       "daily_players": {},
       "peak_players": 1707,
       "store_url": "https://www.roblox.com/games/107792622719098/",
-      "icon_url": null
+      "icon_url": "https://tr.rbxcdn.com/180DAY-08f64bd72a0f4e6739c0f5a46c7a0ec6/256/256/Image/Png/noFilter"
     },
     {
       "universe_id": 10436179466,
@@ -42121,11 +42303,14 @@
       "create_time": "2026-07-03",
       "create_year": 2026,
       "description": "!! NOT AFFILATED WITH ANIMAL HOSPITAL IN ANY-WAY, THIS IS A FAN-ROLEPLAY GAME !!\nyou can play the original game here\nhttps://www.roblox.com/games/78515283254292/Animal-Hospital\n\nmade by felix\nspecial help from cosmo \nother credits are within the game\neverything (if not listed within the game) was created by me and cosmo, so the map, faces,  and animations",
-      "categories": [],
+      "categories": [
+        "RP",
+        "Simulator"
+      ],
       "daily_players": {},
       "peak_players": 1826,
       "store_url": "https://www.roblox.com/games/72550317941153/",
-      "icon_url": null
+      "icon_url": "https://tr.rbxcdn.com/180DAY-cbcc23147af6ddcdcbb7e25d31aef1e8/256/256/Image/Png/noFilter"
     },
     {
       "universe_id": 6937137675,
@@ -42136,11 +42321,13 @@
       "create_time": "2024-12-18",
       "create_year": 2024,
       "description": "Welcome to Calla City 🏡 RP!❤️\n\nThis is a city made with reference to the real world, where we can live with friends or family.👪\n\n🏠️ Build your house and live with friends\n👗 Create your exclusive and exquisite image\n🚗 Create your car and go shopping together\n👔 Play a role in your favorite profession\n📱 Play with friends on your phone\n🛍 Go shopping with friends\n\nJoin our group ⭐  and Like the game 👍  to get Classic sports car!\nWe will create more content for everyone to play. Thank you for your sup",
-      "categories": [],
+      "categories": [
+        "RP"
+      ],
       "daily_players": {},
       "peak_players": 1721,
       "store_url": "https://www.roblox.com/games/73101851322368/",
-      "icon_url": null
+      "icon_url": "https://tr.rbxcdn.com/180DAY-5e4584e40da36cccdacd5bfcabd013fa/256/256/Image/Png/noFilter"
     },
     {
       "universe_id": 6332376065,
@@ -42151,11 +42338,14 @@
       "create_time": "2024-07-28",
       "create_year": 2024,
       "description": "In this roleplay experience, players can take on roles such as teacher, principal, school nurse, or student, and choose how they roleplay their school life.\n\nA structured roleplay and avatar simulation focused on High School Roleplay.\n\n🏫 Take on school roles such as student, teacher, or staff, and participate in classes, activities, and daily school routines.\n\n📚 Attend classes, follow schedules, and use roleplay props and tools designed for High School Roleplay.\n🎒 Customize your avatar with acce",
-      "categories": [],
+      "categories": [
+        "RP",
+        "Tycoon"
+      ],
       "daily_players": {},
       "peak_players": 3068,
       "store_url": "https://www.roblox.com/games/18688598012/",
-      "icon_url": null
+      "icon_url": "https://tr.rbxcdn.com/180DAY-f05a2c8b8d53c5c4d31c4aa5a8e6f45a/256/256/Image/Png/noFilter"
     },
     {
       "universe_id": 10091766471,
@@ -42166,11 +42356,13 @@
       "create_time": "2026-04-27",
       "create_year": 2026,
       "description": "Welcome to Prison RP! Serve your life sentence as a Prisoner and escape, or become a Police officer and guard the prison!\n\n👍⭐ Thumbs up if you like the game and want new updates!\n\n🚨 April 28th:\n- Game Released!\n\n❗Updates often!\n🌟 Everglades Prison group members can obtain a free gun in the armory 🌟",
-      "categories": [],
+      "categories": [
+        "RP"
+      ],
       "daily_players": {},
       "peak_players": 1068,
       "store_url": "https://www.roblox.com/games/107377364123237/",
-      "icon_url": null
+      "icon_url": "https://tr.rbxcdn.com/180DAY-242ff1c5af484afcde5a330011ffdf36/256/256/Image/Png/noFilter"
     },
     {
       "universe_id": 4197966812,
@@ -42181,11 +42373,13 @@
       "create_time": "2022-12-19",
       "create_year": 2022,
       "description": "🌴 Welcome to Seaside RP, a modern roleplay game, which takes inspiration from many different games!\n👍 Please thumbs-up and favorite 👍 if you enjoy the game.\n\n🏙️ Roleplay, hang out, and explore!\n🏡 Own your very own home!\n🚗 Drive cool cars!\n🥗 Cook your favorite dishes!\n🏪 Work in various different jobs including police officer, criminal, and teacher!\n🏥 Roleplay at the hospital, high school, bank, and more!\n\nRoleplay, RP, Town & City, Hangout",
-      "categories": [],
+      "categories": [
+        "RP"
+      ],
       "daily_players": {},
       "peak_players": 1987,
       "store_url": "https://www.roblox.com/games/11862502039/",
-      "icon_url": null
+      "icon_url": "https://tr.rbxcdn.com/180DAY-6ce4bba2391f000bebacc80407e081b2/256/256/Image/Png/noFilter"
     },
     {
       "universe_id": 2979369058,
@@ -42196,11 +42390,13 @@
       "create_time": "2021-10-07",
       "create_year": 2021,
       "description": "Pummu Talladega is a NASCAR-style car game, (though it's NOT affiliated with NASCAR). You'll find a wide variety of cars from all eras, with incredible crash physics—especially the soft-body cars, which you can spawn in VIP servers! Updates typically once a week, and there is a lot planned for the future of this game including a career mode! \n\nNote: To race with AI, you'll need to create and join your own private server.\n\nGroup: https://www.roblox.com/groups/11559306/Pummu-Studio-s#!/about \n\nCre",
-      "categories": [],
+      "categories": [
+        "Other"
+      ],
       "daily_players": {},
       "peak_players": 1454,
       "store_url": "https://www.roblox.com/games/7670825572/",
-      "icon_url": null
+      "icon_url": "https://tr.rbxcdn.com/180DAY-09d880c0e15a811451ff6b5732b686ac/256/256/Image/Png/noFilter"
     },
     {
       "universe_id": 10350558449,
@@ -42211,11 +42407,14 @@
       "create_time": "2026-06-18",
       "create_year": 2026,
       "description": "🎁 New Code: NEW, DOG, WEEKEND\n\nWelcome to Dog Race ⭐️\nRun fast and reach the finish before time is up! 🏁\n\n💪 Train to Get Stronger\n🏆 Race and Win Prizes\n🌍 Climb the Top 50 Leaderboard\n🐾 Hatch Cute Pets\n\n❤️ Like the game to get free codes!\n❤️ Join the group for special rewards!\n\nTags: Race, Puppy, Pet, Speed, Power, Training, Fast, Run, Strong, Cute, Animal, Fun",
-      "categories": [],
+      "categories": [
+        "Sports",
+        "Racing"
+      ],
       "daily_players": {},
       "peak_players": 8579,
       "store_url": "https://www.roblox.com/games/119609933650338/",
-      "icon_url": null
+      "icon_url": "https://tr.rbxcdn.com/180DAY-19dc9804d3e81a7b7aa5a82b021437f2/256/256/Image/Png/noFilter"
     },
     {
       "universe_id": 6751447237,
@@ -42226,11 +42425,13 @@
       "create_time": "2024-11-02",
       "create_year": 2024,
       "description": "🏎️ Car Zone is large open-world racing game where you can feel realistc car driving simulation with detailed cars. \nRace with friends, test hyper cars, sports, classics and whatever you want! Explore a huge map and get your dream cars!\n\n🚗 Collect over 100 cars!\n🔧 Customize your Car!\n🌎 Explore a large realistic open world!\n🏎️ Race with your friends! \n\nInvite you friends to get earnings bonus!\n👥 you will get 5% earnings bonus for each friend you invite!(max 25%)\n\nCreated with ❤️ by Divvine and MrC",
-      "categories": [],
+      "categories": [
+        "Racing"
+      ],
       "daily_players": {},
       "peak_players": 1693,
       "store_url": "https://www.roblox.com/games/80200604311136/",
-      "icon_url": null
+      "icon_url": "https://tr.rbxcdn.com/180DAY-a550d0c726d7d2adb7f7b9cb4c8555ed/256/256/Image/Png/noFilter"
     },
     {
       "universe_id": 3986508457,
@@ -42241,11 +42442,13 @@
       "create_time": "2022-10-02",
       "create_year": 2022,
       "description": "New Update:\n-Optimization Fixed\n\nWelcome to Car Driving Ultimate, where you can explore a large map with an incredible variety of 120 cars, customize them to your liking, and compete against other players! Test your driving skills and enjoy a great driving experience!\nSupport the game by liking it to receive more updates and join us on social media!\n\nControls:\n-W, A, S, D: Move the car\n-Q, E: Up and Down\n-M: Automatic/Semi-Automatic Transmission\n-P: Handbrake\n-V: Camera -B: Camera Lock\n-T: Tract",
-      "categories": [],
+      "categories": [
+        "Racing"
+      ],
       "daily_players": {},
       "peak_players": 2599,
       "store_url": "https://www.roblox.com/games/11145865512/",
-      "icon_url": null
+      "icon_url": "https://tr.rbxcdn.com/180DAY-d838e2f139d4f54bb4b291374656710f/256/256/Image/Png/noFilter"
     },
     {
       "universe_id": 8641602265,
@@ -42256,11 +42459,13 @@
       "create_time": "2025-09-05",
       "create_year": 2025,
       "description": "🏁 Welcome to Drift 36!\n\n🎁 Redeem code:  \"825KMEMBER\" +$40.000\n\n🏆 Compete in intense races with friends and climb the leaderboards\n💰 Win races, earn cash, and expand your garage\n🚗 Collect from over 80+ cars to build your dream lineup\n🛠️ Customize your ride with 30+ unique modifications\n🌍 Explore an open world and showcase your drive skills\n\n🎮 Available on Desktop, Phones, Tablets, XBOX, & PlayStation 5!\n🌟 Join our group to unlock a \"Group Member\" tag\n\n⚠️ Not recommended for players sensitive to f",
-      "categories": [],
+      "categories": [
+        "Racing"
+      ],
       "daily_players": {},
       "peak_players": 1100,
       "store_url": "https://www.roblox.com/games/109170650911069/",
-      "icon_url": null
+      "icon_url": "https://tr.rbxcdn.com/180DAY-df84e3e91b565d4a8a5ed65a8d1c4b8c/256/256/Image/Png/noFilter"
     },
     {
       "universe_id": 8420907710,
@@ -42271,11 +42476,13 @@
       "create_time": "2025-08-12",
       "create_year": 2025,
       "description": "Welcome to Drift Tag 🚗💣 \nPass the bomb, dodge your rivals, and be the last driver standing!\n\n❗ JOIN A LOW PING SERVER FOR BETTER HITBOXES\n\nGrab a car and hit the streets in a high-speed game of hot-potato. Tag other players to pass off the bomb before the timer hits zero.\n🎮 Gamemodes only occur with 4 or more players in a server, [🔥] streaks are uneffected.\n🏴‍☠️ Private server owners get permission to edit round/map, announce, and kick players. \n🚩 Report players via /report\n\n💨 Features:\n\n💣 Fast-",
-      "categories": [],
+      "categories": [
+        "Racing"
+      ],
       "daily_players": {},
       "peak_players": 6617,
       "store_url": "https://www.roblox.com/games/112966546347918/",
-      "icon_url": null
+      "icon_url": "https://tr.rbxcdn.com/180DAY-760bb36c652818ad2865ba5da743d308/256/256/Image/Png/noFilter"
     },
     {
       "universe_id": 10269482409,
@@ -42286,11 +42493,14 @@
       "create_time": "2026-06-04",
       "create_year": 2026,
       "description": "✨ Welcome to Catalog Emotes Testing™ Sandbox! Try out hundreds of FREE dance emotes and avatar items inside our sandbox!\n👍 Leave a thumbs up if you enjoyed!\n👆 Tap on Players to Sync Emotes in real-time with them!\n\n🎶 Emotes come in many varieties, some even have effects! Try to discover every type of emote!\n👗 Dress up with many morphs, or create your own with the built-in avatar editor!\n❤️ All emotes were made by the Byteonix team. Thanks for playing!\n😍 Unlock exclusive emotes through Emote Packs",
-      "categories": [],
+      "categories": [
+        "Simulator",
+        "Creator"
+      ],
       "daily_players": {},
       "peak_players": 2151,
       "store_url": "https://www.roblox.com/games/102130803079779/",
-      "icon_url": null
+      "icon_url": "https://tr.rbxcdn.com/180DAY-989844e02113fc6cdd6fef90ce4c997a/256/256/Image/Png/noFilter"
     },
     {
       "universe_id": 5385674359,
@@ -42301,11 +42511,13 @@
       "create_time": "2023-12-10",
       "create_year": 2023,
       "description": "⚠️ Please provide feedback rather than disliking the game! ⚠️\n\n🎶 Beat Bounce: The Ultimate Rhythm Adventure! 🚀🌟\n\n🚀 Inspired by the classic rhythm game Geometry Dash, Beat Bounce takes you on a musical journey like no other! Navigate a vibrant world of obstacles while timing your moves to enchanting tunes. 🎵✨\n\n🎮 Controls:\n🖱️ Click or tap to jump\n🔄 R for instant respawn\n\n🔥 Features:\n🌈 Colorful, smooth gameplay\n🎨 Advanced level editor for endless creativity\n🔍 Level explorer to find community creati",
-      "categories": [],
+      "categories": [
+        "Physics"
+      ],
       "daily_players": {},
       "peak_players": 1795,
       "store_url": "https://www.roblox.com/games/15598056478/",
-      "icon_url": null
+      "icon_url": "https://tr.rbxcdn.com/180DAY-821b3162a87394a2dae1a1bf4a39207e/256/256/Image/Png/noFilter"
     },
     {
       "universe_id": 6688157118,
@@ -42316,11 +42528,13 @@
       "create_time": "2024-10-18",
       "create_year": 2024,
       "description": "🎵 Welcome to Musical Chairs! 🪑\nDon't be the last one to find a seat!\n\nHow to play:\n- Run around the chairs and find one when the music stops! If you don't, you're out!\n- The last person alive wins!\n\n🪙 Earn coins to buy pets, trails, and chair skins!\n\nPremium users get extra coins every win!\n\nLIKE AND FAVORITE FOR NEW UPDATES AND FEATURES! 👍⭐",
-      "categories": [],
+      "categories": [
+        "Music"
+      ],
       "daily_players": {},
       "peak_players": 3083,
       "store_url": "https://www.roblox.com/games/113323927469374/",
-      "icon_url": null
+      "icon_url": "https://tr.rbxcdn.com/180DAY-6171a111671d697f919567eec318766b/256/256/Image/Png/noFilter"
     },
     {
       "universe_id": 5822068820,
@@ -42331,11 +42545,13 @@
       "create_time": "2024-03-31",
       "create_year": 2024,
       "description": "Dance and roleplay being a KPOP STAR! 💃🕺, collect photocards, create groups, and participate in dance competitions!\nExperience various genres worldwide: American, K-POP, and VOCALOID!",
-      "categories": [],
+      "categories": [
+        "Other"
+      ],
       "daily_players": {},
       "peak_players": 2800,
       "store_url": "https://www.roblox.com/games/16962279458/",
-      "icon_url": null
+      "icon_url": "https://tr.rbxcdn.com/180DAY-77aec30d29f19a91b3eddb2dadd8cbde/256/256/Image/Png/noFilter"
     },
     {
       "universe_id": 4579085368,
@@ -42346,11 +42562,14 @@
       "create_time": "2023-04-13",
       "create_year": 2023,
       "description": "🍳🔥🍟🐟🌭🥐🍗👨‍🍳 \n💽[Welcome]💽\nCook or Be Cooked 🔪🏆🧑‍🤝‍🧑: Join forces with other players to build a culinary empire and become the ultimate chef. Master the art of cooking 👨‍🍳, time management ⏰, and teamwork 💪 to avoid bankruptcy. 💸\n\nServe delectable meals including pasta, ramen, burgers and more!\n\n🚨[UPD2.18.3]🚨 \n- Check the game changelogs!\n\n🖥️[DEVELOPERS]🖥️ \n· Modeller - RatiusRat🔨 \n· Scripter - 00f_developer📜\n· Contributors:  Sky_Fox7071, z38_O, EnervatedVulpus\n\nPublished with Linux",
-      "categories": [],
+      "categories": [
+        "Adopt",
+        "Cooking"
+      ],
       "daily_players": {},
       "peak_players": 1443,
       "store_url": "https://www.roblox.com/games/13118814103/",
-      "icon_url": null
+      "icon_url": "https://tr.rbxcdn.com/180DAY-7da71100ba7a3b7b931ffa9f90b7f153/256/256/Image/Png/noFilter"
     },
     {
       "universe_id": 6136243726,
@@ -42361,11 +42580,13 @@
       "create_time": "2024-06-18",
       "create_year": 2024,
       "description": "🔥 Welcome to CRAZY CHEFS!\n\n👨‍🍳 CHEFS MUST CATCH THE FOOD QUICKLY\n\n🍔 FOOD MUST ESCAPE FROM BEING EATEN\n\nGame inspired by: Bake Da Baby",
-      "categories": [],
+      "categories": [
+        "Cooking"
+      ],
       "daily_players": {},
       "peak_players": 2790,
       "store_url": "https://www.roblox.com/games/18102078939/",
-      "icon_url": null
+      "icon_url": "https://tr.rbxcdn.com/180DAY-e719c067cb77f3cd2ba17dc02e52cdb1/256/256/Image/Png/noFilter"
     },
     {
       "universe_id": 6660920365,
@@ -42376,11 +42597,13 @@
       "create_time": "2024-10-11",
       "create_year": 2024,
       "description": "Welcome to Mad Chefs! 👩‍🍳\n\nBe a chef and cook up players and all kinds of yummy dishes, or be a customer and ruin the chefs' experience while avoiding getting cooked by the angry chefs! It's the craziest kitchen on earth!",
-      "categories": [],
+      "categories": [
+        "Cooking"
+      ],
       "daily_players": {},
       "peak_players": 1288,
       "store_url": "https://www.roblox.com/games/95527201252667/",
-      "icon_url": null
+      "icon_url": "https://tr.rbxcdn.com/180DAY-8b43592e4625a7a0d58aa3d8605fa3f5/256/256/Image/Png/noFilter"
     },
     {
       "universe_id": 7381952833,
@@ -42391,11 +42614,13 @@
       "create_time": "2025-03-15",
       "create_year": 2025,
       "description": "🍕 Work at the pizzeria with your friends! \nPrepare pizzas, serve customers, manage deliveries and keep the restaurant clean so rats don't come in the kitchen!\n\nPrivate servers are available for free!",
-      "categories": [],
+      "categories": [
+        "Cooking"
+      ],
       "daily_players": {},
       "peak_players": 1456,
       "store_url": "https://www.roblox.com/games/86017989016432/",
-      "icon_url": null
+      "icon_url": "https://tr.rbxcdn.com/180DAY-1b13fa2fcdd98e30fdab3ab451e16636/256/256/Image/Png/noFilter"
     },
     {
       "universe_id": 7498898979,
@@ -42406,11 +42631,13 @@
       "create_time": "2025-04-06",
       "create_year": 2025,
       "description": "⚠️Run the Wildest Burger Joint Ever.\n\nHOW TO PLAY:\n🍔 Make burgers & serve customers.\n🔪 Grind customers for meat when supplies low.\n🚨 Survive raids & chaos.\n💰 Upgrade your shop & get rich.",
-      "categories": [],
+      "categories": [
+        "Cooking"
+      ],
       "daily_players": {},
       "peak_players": 1329,
       "store_url": "https://www.roblox.com/games/99817148924004/",
-      "icon_url": null
+      "icon_url": "https://tr.rbxcdn.com/180DAY-d26e02c93eee0031077f6169aac99df7/256/256/Image/Png/noFilter"
     },
     {
       "universe_id": 10417857486,
@@ -42421,11 +42648,13 @@
       "create_time": "2026-06-29",
       "create_year": 2026,
       "description": "💸 EARN CASH WHILE YOU SLEEP! 💸\n\n🧈 Welcome to Crunch My Butter!\n\nHow to Play:\n🧂 Crunch flavored butter!\n💵 Collect cash from your butter!\n🧈 Unlock better butter!\n🚀 Upgrade your roller and expand your butter!\n\nCan YOU crunch the most satisfying butter?\n\n🎧 ASMR vibes included\nSatisfying butter presses, crunchy shell cracks, smooth movement, and creamy visuals for the perfect mix of satisfaction✨\n\n🔑 Tags:\nButter, ASMR, Multiplayer, Incremental, Simulator, Satisfying, Relaxing, Crunchy, Physics, Squis",
-      "categories": [],
+      "categories": [
+        "Other"
+      ],
       "daily_players": {},
       "peak_players": 1235,
       "store_url": "https://www.roblox.com/games/87555052900625/",
-      "icon_url": null
+      "icon_url": "https://tr.rbxcdn.com/180DAY-84c3d6b728df360695eaaac524e706ff/256/256/Image/Png/noFilter"
     },
     {
       "universe_id": 8935993972,
@@ -42436,11 +42665,13 @@
       "create_time": "2025-10-13",
       "create_year": 2025,
       "description": "Welcome to Own a Cafe!\n\n☕ Brew drinks and serve customers!\n🏪 Upgrade and expand into new locations!\n🧑‍🍳 Hire workers to run the shop for you!\n🫘 Unlock new coffee beans for MASSIVE Boosts!\n\nYour cafes earn money offline! 💵",
-      "categories": [],
+      "categories": [
+        "Cooking"
+      ],
       "daily_players": {},
       "peak_players": 4137,
       "store_url": "https://www.roblox.com/games/131906518201863/",
-      "icon_url": null
+      "icon_url": "https://tr.rbxcdn.com/180DAY-17becf0224be32a62afe2bd64fa4d7cc/256/256/Image/Png/noFilter"
     },
     {
       "universe_id": 10236058331,
@@ -42451,11 +42682,13 @@
       "create_time": "2026-05-28",
       "create_year": 2026,
       "description": "Merge a tank\n\n📦Buy tanks and merge them together!\n💸Collect cash from destroying enemy tanks!\n⭐Unlock all different types of tanks!\n✨Upgrade your bases defences!\n\n💸Your tanks keep earning cash when you're offline! 💸\n\nUpdates every week!\n\nPremium players get +20% CASH\n\n🎁 Use Code \"welcome\" for free items!\n\n👍 CODE AT 1000 LIKES!  ❤️❤️",
-      "categories": [],
+      "categories": [
+        "Merge"
+      ],
       "daily_players": {},
       "peak_players": 5738,
       "store_url": "https://www.roblox.com/games/121582128546193/",
-      "icon_url": null
+      "icon_url": "https://tr.rbxcdn.com/180DAY-aa34faad51a2b1fac4725503afa185f1/256/256/Image/Png/noFilter"
     },
     {
       "universe_id": 9948575164,
@@ -42466,11 +42699,13 @@
       "create_time": "2026-03-27",
       "create_year": 2026,
       "description": "Merge food, serve customers, and build your shop!\n\nCharacters & music by ValkinLikesChez.\n\nThis game is still in development. Remember to leave a like if you enjoyed!",
-      "categories": [],
+      "categories": [
+        "Merge"
+      ],
       "daily_players": {},
       "peak_players": 2398,
       "store_url": "https://www.roblox.com/games/120841752776030/",
-      "icon_url": null
+      "icon_url": "https://tr.rbxcdn.com/180DAY-6c57bd9fe3e42bf4b781e39944bc8eaa/256/256/Image/Png/noFilter"
     },
     {
       "universe_id": 10431718987,
@@ -42481,11 +42716,13 @@
       "create_time": "2026-07-02",
       "create_year": 2026,
       "description": "🪖 MERGE A MINI ARMY – Merge troops, build your army, and CONQUER the world!\n\n⚔️ MERGE soldiers into STRONGER troops\n💰 Your army earns CASH every second – even while you're OFFLINE!\n🏕️ Capture enemy CAMPS to expand your empire\n⚡ Build the strongest army and DOMINATE other players!\n\nCan you create the ULTIMATE mini army?\n\n👍 Leave a LIKE if you enjoy the game!\n🔔 Join the group for codes & updates!\n🔥 NEW UPDATES EVERY WEEK",
-      "categories": [],
+      "categories": [
+        "Merge"
+      ],
       "daily_players": {},
       "peak_players": 2795,
       "store_url": "https://www.roblox.com/games/105724836892064/",
-      "icon_url": null
+      "icon_url": "https://tr.rbxcdn.com/180DAY-94b6ad1a0805a6cbe1fc63338683c43e/256/256/Image/Png/noFilter"
     },
     {
       "universe_id": 10308916299,
@@ -42496,11 +42733,13 @@
       "create_time": "2026-06-11",
       "create_year": 2026,
       "description": "Merge black holes. Stack your arsenal. RAID everyone. 💥\n\n🔧 Merge black holes into BIGGER black holes \n💰 Your holes earn CASH every second - even whilst you're OFFLINE!\n🚀 Launch black holes at enemy bases and STEAL their cash\n🛡️ LOCK your base before someone raids YOU back!\n\n🏆 Can you build the deadliest Black Hole collection?\n\n🎮 Playable on Desktop, Mobile, Tablet & Console!\n\n🔥 NEW UPDATES EVERY SUNDAY\n🔔 Join the group for updates!\n🔔 Join the Discord for Codes!",
-      "categories": [],
+      "categories": [
+        "Merge"
+      ],
       "daily_players": {},
       "peak_players": 1986,
       "store_url": "https://www.roblox.com/games/118605709428489/",
-      "icon_url": null
+      "icon_url": "https://tr.rbxcdn.com/180DAY-c8d77ae05703ecabdf3136fcb443f7f7/256/256/Image/Png/noFilter"
     },
     {
       "universe_id": 10329995185,
@@ -42511,11 +42750,14 @@
       "create_time": "2026-06-14",
       "create_year": 2026,
       "description": "Think fast and outsmart your opponent! First one to solve the minigame wins 🎮 \n\n🧩 EASY, MEDIUM, HARD, AND EXPERT \nHARDER GAMES  = MORE IQ\n\n🏆 Tournaments\nDrop into bracket tournaments, knock out the competition round by round, and take the crown.\n\n🪑 Chairs with IQ multipliers\nUnlock better chairs to multiply the IQ you earn\n\n⭐ JOIN THE GROUP FOR A FREE REWARD ⭐",
-      "categories": [],
+      "categories": [
+        "Fight",
+        "Puzzle"
+      ],
       "daily_players": {},
       "peak_players": 5005,
       "store_url": "https://www.roblox.com/games/78724900430513/",
-      "icon_url": null
+      "icon_url": "https://tr.rbxcdn.com/180DAY-c953c29a032619ef76406edd4c251a15/256/256/Image/Png/noFilter"
     },
     {
       "universe_id": 5031482529,
@@ -42526,11 +42768,15 @@
       "create_time": "2023-08-26",
       "create_year": 2023,
       "description": "Prepare for an epic journey in Carry Puzzles, where teamwork is the key! Team up with your friends to carry, toss, and conquer obstacles together as you explore various fun levels.\n\nHow to play:\n-Pair up with a friend or meet someone new!\n-Progress through obstacles as a team\n-Complete levels to earn coins\n\nInspired by Carry Me",
-      "categories": [],
+      "categories": [
+        "Obby",
+        "Racing",
+        "Puzzle"
+      ],
       "daily_players": {},
       "peak_players": 1558,
       "store_url": "https://www.roblox.com/games/14581889272/",
-      "icon_url": null
+      "icon_url": "https://tr.rbxcdn.com/180DAY-02efffb8f695deddc83d495899d99e01/256/256/Image/Png/noFilter"
     },
     {
       "universe_id": 1318971886,
@@ -42541,11 +42787,13 @@
       "create_time": "2019-09-09",
       "create_year": 2019,
       "description": "Move in day! There are white brick balconies, an absence of drapes, nostalgic pictures lining the walls and the smell of new house. A wooden staircase leads upstairs where 12 beds wait lamely for occupants.\r\n \r\nThe night may be stormy, but there are 11 unfamiliar players for you to meet, and a house full of secrets waiting to be discovered. \r\n\r\nOh, and the murderers. I almost forgot to mention the murderers.\r\n\r\nSincerely, your fren\r\nCracky4\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nspecial thanks to:\r\nroytt - spanish ",
-      "categories": [],
+      "categories": [
+        "Other"
+      ],
       "daily_players": {},
       "peak_players": 2960,
       "store_url": "https://www.roblox.com/games/3851622790/",
-      "icon_url": null
+      "icon_url": "https://tr.rbxcdn.com/180DAY-2fc5f39ad2f3e05e52781c181e470e32/256/256/Image/Png/noFilter"
     },
     {
       "universe_id": 1701332290,
@@ -42556,11 +42804,13 @@
       "create_time": "2020-04-28",
       "create_year": 2020,
       "description": "Your life is about to take a Field Trip because of unexpected events, will you be able to survive the Apocalypse? ",
-      "categories": [],
+      "categories": [
+        "Other"
+      ],
       "daily_players": {},
       "peak_players": 1804,
       "store_url": "https://www.roblox.com/games/4954096313/",
-      "icon_url": null
+      "icon_url": "https://tr.rbxcdn.com/180DAY-515f7e1b232f0ee21be3aaf248c3b56b/256/256/Image/Png/noFilter"
     },
     {
       "universe_id": 1617287243,
@@ -42571,11 +42821,13 @@
       "create_time": "2020-03-19",
       "create_year": 2020,
       "description": "You and your friends are on your way to the BEST Daycare in the city! Play around, socialise and explore with 6-12 friends! Everybody is living the best time of their lives ... Or at least that's what they thought.\r\n\r\n🎁Join the Parwaz Studios group for a free toy and pet ingame!🎁\r\n\r\n🔊 Make sure to turn up your volume for the best experience! 🔊\r\n\r\n✨ There are currently TWO different endings! Will you be able to experience them all? ✨\r\n\r\n👍 Be sure to like and favourite this game if you enjoyed it!",
-      "categories": [],
+      "categories": [
+        "Racing"
+      ],
       "daily_players": {},
       "peak_players": 1757,
       "store_url": "https://www.roblox.com/games/4796443083/",
-      "icon_url": null
+      "icon_url": "https://tr.rbxcdn.com/180DAY-612612e0f5fe0bb2ee8b8511dbc49fff/256/256/Image/Png/noFilter"
     },
     {
       "universe_id": 4807308814,
@@ -42586,11 +42838,13 @@
       "create_time": "2023-06-25",
       "create_year": 2023,
       "description": "A family lost with no help in sight,\nrain, hail and thunder made an unpleasant night,\nthey took to the forest for shelter from harm,\nbut the tall trees above could not keep them calm,\nthey travelled along, their aching legs tired,\ntheir hope for a rest had almost expired,\nbut there, in the distance! A wonderful find!\nA building, abandoned, surely no one would mind?\nThey ventured forth, they knew what to do,\nit was finally time for Break In 2.\n\n\n\n\n\nCredits:\n\nMain Building: @FRANCOJ1119\n3D Models:",
-      "categories": [],
+      "categories": [
+        "Other"
+      ],
       "daily_players": {},
       "peak_players": 2399,
       "store_url": "https://www.roblox.com/games/13864661000/",
-      "icon_url": null
+      "icon_url": "https://tr.rbxcdn.com/180DAY-41ffb2bddc7221f14610d9393765ba40/256/256/Image/Png/noFilter"
     },
     {
       "universe_id": 6417564879,
@@ -42601,11 +42855,13 @@
       "create_time": "2024-08-14",
       "create_year": 2024,
       "description": "Chapter 2 at 110,000 Likes \n\n\"I've been living here for many years, and I've seen many owners of this house, but this one is a completely different story. big man, yellow skin, crazy eyes. It doesn't take a genius to figure out that this is a bad person, insane...\"\n\nTry to escape from the lair of the maniac - Mister Mix. Complete various tasks and puzzles, and most importantly, be patient!\n\nWe were inspired by the image of the main villain Mr. Mix from the creepypasta of the same name. \n\nHave a ",
-      "categories": [],
+      "categories": [
+        "Other"
+      ],
       "daily_players": {},
       "peak_players": 1902,
       "store_url": "https://www.roblox.com/games/18948446518/",
-      "icon_url": null
+      "icon_url": "https://tr.rbxcdn.com/180DAY-75c35a589eac8b4fad7117a9889c845f/256/256/Image/Png/noFilter"
     },
     {
       "universe_id": 4252393983,
@@ -42616,11 +42872,13 @@
       "create_time": "2023-01-03",
       "create_year": 2023,
       "description": "Team Soccer is a skill-based soccer game built around team play and authentic ball physics.\n\nMatches play true to soccer, while fun cosmetic elements—like unique ball designs—add style without affecting gameplay.\nJust skill, teamwork, and competitive matches with friends.\n\nCONTROLS: \nShift - Sprint\nE - Tackle\nQ - Dribble\nV - Mouse lock\nHold Left Click - Kick\nSpacebar - Header\n\n🐦",
-      "categories": [],
+      "categories": [
+        "Sports"
+      ],
       "daily_players": {},
       "peak_players": 1093,
       "store_url": "https://www.roblox.com/games/12018893069/",
-      "icon_url": null
+      "icon_url": "https://tr.rbxcdn.com/180DAY-1c59ccc6225dcfc260b95fd18b90de57/256/256/Image/Png/noFilter"
     },
     {
       "universe_id": 10254680421,
@@ -42631,11 +42889,13 @@
       "create_time": "2026-06-01",
       "create_year": 2026,
       "description": "If you read this, you should join immediately.\nWelcome to Soccer Stars 26!\n\n💬 Join our Discord to keep up with every update, claim free Cash codes, and play with the community!\n\nCONTROLS (PC):\nHold F - Power Shot & Pass\nR - Pass\nE - Tackle / Slide\nQ - Dribble Spin\nShift - Sprint\n\n📱 The game has been made very simple for mobile users — on-screen buttons for Shoot, Pass, Tackle, Dash & Spin!\n\nINFO:\n🧍 Realistic characters & animations.\n🧤 Balanced AI Goalkeepers on both goals.\n🕐 Fast-paced 5-minute ",
-      "categories": [],
+      "categories": [
+        "Sports"
+      ],
       "daily_players": {},
       "peak_players": 1330,
       "store_url": "https://www.roblox.com/games/124761153798409/",
-      "icon_url": null
+      "icon_url": "https://tr.rbxcdn.com/180DAY-60e9ff873367e66632b41c195e901249/256/256/Image/Png/noFilter"
     },
     {
       "universe_id": 7372152033,
@@ -42646,11 +42906,13 @@
       "create_time": "2025-03-13",
       "create_year": 2025,
       "description": "Welcome to Blox Golf, the BEST and most REALISTIC golf game on Roblox!\n\nThe game is still in early access so a lot more features will be coming out soon!\n\nPlease report any bugs 🐛 to the server in the social links below! They will be fixed ASAP!\n\nThanks for playing, I hope you like the game :) ",
-      "categories": [],
+      "categories": [
+        "Sports"
+      ],
       "daily_players": {},
       "peak_players": 1730,
       "store_url": "https://www.roblox.com/games/84956402848349/",
-      "icon_url": null
+      "icon_url": "https://tr.rbxcdn.com/180DAY-431817d8eedcf1a37da67d633d0d9ebc/256/256/Image/Png/noFilter"
     },
     {
       "universe_id": 6336741296,
@@ -42661,11 +42923,14 @@
       "create_time": "2024-07-28",
       "create_year": 2024,
       "description": "Welcome to Flight World, the ultimate flying experience on Roblox! Transport passengers, deliver cargo, and earn cash to unlock and pilot a wide variety of aircraft!\n\n💎 Use code \"190KLIKES\"\n❗❗ New code at 225,000 Likes!\n\nTags: Airplane, flying, pilot, jet, aircraft, airport, landing, simulator",
-      "categories": [],
+      "categories": [
+        "RP",
+        "Aviation"
+      ],
       "daily_players": {},
       "peak_players": 2461,
       "store_url": "https://www.roblox.com/games/18700851435/",
-      "icon_url": null
+      "icon_url": "https://tr.rbxcdn.com/180DAY-239037da5bd74d562a83cfc49af7aa11/256/256/Image/Png/noFilter"
     },
     {
       "universe_id": 9067189974,
@@ -42676,11 +42941,15 @@
       "create_time": "2025-10-30",
       "create_year": 2025,
       "description": "Version 3.4\n\nNew in this update: two helicopters (Bell 407 and UH-60), the A320 aircraft, plus a range of bug fixes and performance improvements.\n\nNew code coming at 100K Likes!\nJoin us so you don’t miss future updates and new codes!\n\nWelcome to Plane Crash Simulator!\n\nJump into a crazy world where you can spawn insane aircraft, soar through the skies, and pull off epic crashes!\n\nCreate wild, over-the-top scenarios and enjoy flying like never before!\n\nCREDITS:\n\nAircraft Library by Shade (ds)\n",
-      "categories": [],
+      "categories": [
+        "Simulator",
+        "Aviation",
+        "Survival"
+      ],
       "daily_players": {},
       "peak_players": 2163,
       "store_url": "https://www.roblox.com/games/98306159851135/",
-      "icon_url": null
+      "icon_url": "https://tr.rbxcdn.com/180DAY-b52c6c81449d0a39cc865087de9f115b/256/256/Image/Png/noFilter"
     },
     {
       "universe_id": 10247797619,
@@ -42691,11 +42960,13 @@
       "create_time": "2026-05-30",
       "create_year": 2026,
       "description": "❄️ Stranded in the Arctic.\n\nBuild a shelter. Keep your fire burning. Fish for food. Survive the cold.\n\n🚁 Rescue arrives on Day 7. How many days can you survive? \n\n⚠️ Game is new, so expect a few bugs!",
-      "categories": [],
+      "categories": [
+        "Other"
+      ],
       "daily_players": {},
       "peak_players": 3510,
       "store_url": "https://www.roblox.com/games/138432670504218/",
-      "icon_url": null
+      "icon_url": "https://tr.rbxcdn.com/180DAY-cbe0285e3f739e5c0db67725256dba35/256/256/Image/Png/noFilter"
     },
     {
       "universe_id": 7738927312,
@@ -42706,11 +42977,13 @@
       "create_time": "2025-05-20",
       "create_year": 2025,
       "description": "☢️ Welcome to Build A Bunker!\n\nNukes hit the world every 5 minutes. Get loot from the town and use it to upgrade your bunker. Can you survive until help arrives?\n\n[ How To Play ]\n🍎 Grab food, 🔫 weapons, and 🪵 supplies\n☢️ Get inside the bunker before the nuke\n⚔️ Fight enemies and protect your bunker\n🏗️ Build and upgrade your bunker\n💀 Can you survive?",
-      "categories": [],
+      "categories": [
+        "Simulator"
+      ],
       "daily_players": {},
       "peak_players": 1495,
       "store_url": "https://www.roblox.com/games/103874780798870/",
-      "icon_url": null
+      "icon_url": "https://tr.rbxcdn.com/180DAY-89868819152fbd88364cbf36e0d34280/256/256/Image/Png/noFilter"
     },
     {
       "universe_id": 341654025,
@@ -42721,11 +42994,13 @@
       "create_time": "2017-05-15",
       "create_year": 2017,
       "description": "☀️ SUMMER UPDATE! ☀️\n- Free Event Crate!\n- 10 New Gears!\n\nPREMIUM Users: Play for 10 minutes to get a Lucky Block for FREE!\n\n🌋 Welcome to The Floor Is LAVA, this is a Lava Survival game where you have to survive the platformer obby's and escape the rising lava in countless maps, and collect points to unlock cool gears that can help you survive and escape the lava. \n\nTags: The Floor Is LAVA, Lava, Obby, Lava Survival",
-      "categories": [],
+      "categories": [
+        "Other"
+      ],
       "daily_players": {},
       "peak_players": 2301,
       "store_url": "https://www.roblox.com/games/815405518/",
-      "icon_url": null
+      "icon_url": "https://tr.rbxcdn.com/180DAY-24cfb2895ba3559ba0f5546c69f7d61c/256/256/Image/Png/noFilter"
     },
     {
       "universe_id": 10038413468,
@@ -42736,11 +43011,13 @@
       "create_time": "2026-04-15",
       "create_year": 2026,
       "description": "You're either a Murderer, Sheriff, or just an Innocent bystander. Either kill or be killed. Will you survive?\n\n🌈 50,000 Group Members = Free Chroma!\n\n🎮 Available on Desktop, Phone, Tablet, and Console!\n\n👍 ⭐ Like And Favorite The Game For More Updates!",
-      "categories": [],
+      "categories": [
+        "Murder"
+      ],
       "daily_players": {},
       "peak_players": 13839,
       "store_url": "https://www.roblox.com/games/105562162608017/",
-      "icon_url": null
+      "icon_url": "https://tr.rbxcdn.com/180DAY-563f134566dfeb2a1b221dd12ad09fa6/256/256/Image/Png/noFilter"
     },
     {
       "universe_id": 8348146089,
@@ -42751,11 +43028,15 @@
       "create_time": "2025-08-04",
       "create_year": 2025,
       "description": "💥🖐️ANIME SLAP TOWER 🖐️💥\n⚔️ Climb the tower\n💨 Blast players off the edge!\n🔓 Unlock Characters!\n🔥 TROLL your friends!\n\n👍 Like, ⭐ favorite, and share with friends!\n🎁 Join the group for Limited Characters:\nhttps://www.roblox.com/communities/393625465\n\n📌 Tags:\nAnime Tower, Slap Tower, Gear Tower, Lucky Block Tower, Anime Slap Tower, Anime, Slap, Troll Tower, Troll Button, Obby, Pinning Tower, Slapped Tower, Tower Obby, Troll Is A Pinning Tower 4, Tower Of Hell, Troll, Troll Tower Button, Button Troll",
-      "categories": [],
+      "categories": [
+        "Tower",
+        "Anime",
+        "Adopt"
+      ],
       "daily_players": {},
       "peak_players": 1955,
       "store_url": "https://www.roblox.com/games/100055483398966/",
-      "icon_url": null
+      "icon_url": "https://tr.rbxcdn.com/180DAY-71b0c2e0edb838f70dd29208a75f4acb/256/256/Image/Png/noFilter"
     },
     {
       "universe_id": 10399136326,
@@ -42766,11 +43047,15 @@
       "create_time": "2026-06-26",
       "create_year": 2026,
       "description": "Welcome to Anime Ability Arena.\n\nJump into fast-paced battles, use anime-inspired powers, and defeat players to earn Yen. Use your Yen to unlock new characters, test different movesets, and find the ability that matches your fighting style.\n\n🔥 Game Features\n13 playable characters\nUnique ability movesets\nFast arena combat\nEarn Yen by fighting\nMore characters and updates coming soon\n\n🎮 Supported Devices\nPC, Mobile, Tablet, Xbox, and PlayStation\n\n⭐ Like and favorite the game for more updates!\n\n⚠️ R",
-      "categories": [],
+      "categories": [
+        "Anime",
+        "Fight",
+        "Adopt"
+      ],
       "daily_players": {},
       "peak_players": 2346,
       "store_url": "https://www.roblox.com/games/108567435288296/",
-      "icon_url": null
+      "icon_url": "https://tr.rbxcdn.com/180DAY-aab539fbcc08bdae529e4f84590b7e22/256/256/Image/Png/noFilter"
     },
     {
       "universe_id": 10298144467,
@@ -42781,11 +43066,15 @@
       "create_time": "2026-06-10",
       "create_year": 2026,
       "description": "🔥 Roll an anime to fight!\n\n⚡ Roll for powerful anime fighters!\n💥 Build the strongest team possible!\n📈 Merge animes to level them up!\n👹 Survive endless enemy waves!\n🏆 Reach higher checkpoints and earn huge rewards!\n✨ Collect rare animes and mutations!\n\nCan you reach the final wave?\n\nTags: Anime, Simulator, Defense, Gacha, Merge, Idle, Battle",
-      "categories": [],
+      "categories": [
+        "Anime",
+        "Fight",
+        "Adopt"
+      ],
       "daily_players": {},
       "peak_players": 11090,
       "store_url": "https://www.roblox.com/games/107653945083776/",
-      "icon_url": null
+      "icon_url": "https://tr.rbxcdn.com/180DAY-c7eb4d2f8669bc3d53319615d033962f/256/256/Image/Png/noFilter"
     },
     {
       "universe_id": 10448083800,
@@ -42796,11 +43085,13 @@
       "create_time": "2026-07-04",
       "create_year": 2026,
       "description": "🎌 Welcome to Bid For Anime!\n\nJoin crazy auction duels, bid your cash, and collect the rarest Anime Characters!\n\n✅ How to Play:\n\n🏦 Join an auction table\n💰 Bid against another player\n⚔️ Win Anime Characters and add them to your collection\n📈 Earn money from your Anime collection\n🍀 Upgrade your luck to roll rarer characters\n🌟 Hunt for Golden, Diamond, Galaxy, and RAINBOW variants\n🔄 Rebirth to earn legendary titles — from Extra to Final Boss\n🎁 Gift passes to your friends\n\nCan you outbid everyone and ",
-      "categories": [],
+      "categories": [
+        "Anime"
+      ],
       "daily_players": {},
       "peak_players": 2608,
       "store_url": "https://www.roblox.com/games/87274635966213/",
-      "icon_url": null
+      "icon_url": "https://tr.rbxcdn.com/180DAY-94ac1010fafc6bbf4667425ab71d81df/256/256/Image/Png/noFilter"
     },
     {
       "universe_id": 10376742546,
@@ -42811,11 +43102,14 @@
       "create_time": "2026-06-22",
       "create_year": 2026,
       "description": "👋 Welcome to Become an Anime Billionaire! 👋\n[How to Play]\n💎 Roll for anime characters!\n💸 Earn money!\n♻️ Rebirth to get even more rewards!\n📈 Climb the leaderboard!\n💸 Earn cash even while you're offline!\n👍 Like the game and join the group!",
-      "categories": [],
+      "categories": [
+        "Anime",
+        "Adopt"
+      ],
       "daily_players": {},
       "peak_players": 1736,
       "store_url": "https://www.roblox.com/games/96891089305948/",
-      "icon_url": null
+      "icon_url": "https://tr.rbxcdn.com/180DAY-ab0581d768df1ffb267cd845961a8916/256/256/Image/Png/noFilter"
     },
     {
       "universe_id": 7613921865,
@@ -42826,11 +43120,14 @@
       "create_time": "2025-04-28",
       "create_year": 2025,
       "description": "Welcome to Anime Expeditions! 🧭\n\n🌟 Heroes from across the anime universe have banded together for the expedition of a lifetime, venturing into unknown lands filled with danger at every turn! Will you answer the call and help guide them to victory? 🌟\n\n⚔️ Summon powerful units from your favorite anime universes!\n🔥 Level Up, Evolve, and unlock devastating new abilities!\n🗺️ Explore multiple Expeditions and game modes packed with challenges!\n👥 Team up with friends to take down waves of enemies and to",
-      "categories": [],
+      "categories": [
+        "Anime",
+        "Adopt"
+      ],
       "daily_players": {},
       "peak_players": 127641,
       "store_url": "https://www.roblox.com/games/84515722934860/",
-      "icon_url": null
+      "icon_url": "https://tr.rbxcdn.com/180DAY-ff30bfc6dff778cfc9fec04606670eaa/256/256/Image/Png/noFilter"
     },
     {
       "universe_id": 10024034551,
@@ -42841,11 +43138,13 @@
       "create_time": "2026-04-12",
       "create_year": 2026,
       "description": "Welcome to Split Sea For Brainrots\n\n🌊 Split open the sea!\n🧠 Grab rare Brainrots!\n🏃 Escape before the sea closes!\n💸 Place Brainrots in your base to earn Cash!\n💤 Earn Cash even while offline!\n\nTags: Brainrot, Brainrots, Italian Brainrot, Brainrot Memes, Memes, Funny, Cute, Monsters, Collect, Pets, Sea, Ocean, Split Sea, Base, Cash, Money, Upgrade, Rebirth, Speed, Run, Escape, Weapon, Simulator, Tycoon, Obby, Adventure, Colorful",
-      "categories": [],
+      "categories": [
+        "Brainrot"
+      ],
       "daily_players": {},
       "peak_players": 1600,
       "store_url": "https://www.roblox.com/games/97528307481736/",
-      "icon_url": null
+      "icon_url": "https://tr.rbxcdn.com/180DAY-d875368056f5a05f1558270b58f33bb5/256/256/Image/Png/noFilter"
     },
     {
       "universe_id": 10156435104,
@@ -42856,11 +43155,14 @@
       "create_time": "2026-05-12",
       "create_year": 2026,
       "description": "⛏️ Drill Blocks for Brainrots! \n\n⛏️ Drill insane blocks to uncover rare Brainrots!\n💰 Collect and place Brainrots on your plot to earn cash!\n⚡ Upgrade your drills to mine faster & go deeper!\n🔥 Unlock crazy new zones, blocks, and powerful drills!\n\n🤩 Thank you for playing! Like and favorite if you enjoy the game!",
-      "categories": [],
+      "categories": [
+        "Brainrot",
+        "Simulator"
+      ],
       "daily_players": {},
       "peak_players": 6303,
       "store_url": "https://www.roblox.com/games/78177131121429/",
-      "icon_url": null
+      "icon_url": "https://tr.rbxcdn.com/180DAY-6a26fefa9461b795d0a4cb8ca0680b6e/256/256/Image/Png/noFilter"
     },
     {
       "universe_id": 10406853972,
@@ -42871,11 +43173,15 @@
       "create_time": "2026-06-28",
       "create_year": 2026,
       "description": "Welcome to Break Tape For Brainrots!\n\n💥 Break Tape and Steal Brainrots!\n🏃 Run back to your base to Collect them!\n💵 Get Brainrots and Earn Money Offline!\n📊 Upgrade your Base and Rebirth!\n\n💎 Can you get the RAREST Brainrots?\n\n🎁 Like & Join the group for a FREE Reward in-game!\n🔥 Plus Players get +10% Money",
-      "categories": [],
+      "categories": [
+        "Brainrot",
+        "Survival",
+        "Horror"
+      ],
       "daily_players": {},
       "peak_players": 3438,
       "store_url": "https://www.roblox.com/games/104339804279870/",
-      "icon_url": null
+      "icon_url": "https://tr.rbxcdn.com/180DAY-411562e70753ed12f8b6ef362bce8898/256/256/Image/Png/noFilter"
     },
     {
       "universe_id": 10289025691,
@@ -42886,11 +43192,13 @@
       "create_time": "2026-06-07",
       "create_year": 2026,
       "description": "🥚 Welcome to Find the Egg for a Brainrot! ✨\n\n👍 LIKE the game & join the community for FREE in-game rewards! 🎁\n🏃 Hunt the RAREST eggs across a huge map and explore every biome!\n👹 Monsters are hunting you: escape them and bring your loot back to the village... or lose it ALL!\n🎒 Go for GIANT eggs: heavier to carry, but up to x5 hatch chance!\n🔮 Hatch them at the cauldron, place your brainrots and earn money non-stop — even offline!\n📈 EVOLVE your brainrots (lvl 75) and rebirth to MULTIPLY your earnin",
-      "categories": [],
+      "categories": [
+        "Brainrot"
+      ],
       "daily_players": {},
       "peak_players": 1170,
       "store_url": "https://www.roblox.com/games/114507117535918/",
-      "icon_url": null
+      "icon_url": "https://tr.rbxcdn.com/180DAY-0a2ddd66c3357fec391de47b30192c44/256/256/Image/Png/noFilter"
     },
     {
       "universe_id": 10214798872,
@@ -42901,11 +43209,13 @@
       "create_time": "2026-05-24",
       "create_year": 2026,
       "description": "🧠💥 BLAST giant Lucky Blocks and collect the RAREST and most POWERFUL Brainrots!\n\nHOW TO PLAY:\n1. 🧠 GET SMARTER — the more Brain Power you build, the FURTHER your Lucky Block flies!\n2. 💥 BLAST your Lucky Block across the map — reach further to unlock LEGENDARY Brainrots!\n3. 🏠 Fill your BASE with Brainrots and earn money!\n4. 🔄 REBIRTH for OP Permanent Boosts!\n\n💲 Remember, your Brainrots earn money even while you're offline!\n\nCODES:\n10MVISITS\n1MMEMBERS\nUPDATE5\n\n⭐ LIKE + 🌟 FAVORITE for more updates!",
-      "categories": [],
+      "categories": [
+        "Simulator"
+      ],
       "daily_players": {},
       "peak_players": 5648,
       "store_url": "https://www.roblox.com/games/102990893659741/",
-      "icon_url": null
+      "icon_url": "https://tr.rbxcdn.com/180DAY-9b647cffeff0343da3249518635be561/256/256/Image/Png/noFilter"
     },
     {
       "universe_id": 10356701370,
@@ -42916,11 +43226,13 @@
       "create_time": "2026-06-19",
       "create_year": 2026,
       "description": "Welcome to BUILD A BASE AND STEAL!\n\n💸 YOU EARN MONEY EVEN WHILE YOU'RE AWAY!💸\n\n🎲 Roll for rare pets\n🔨 Build to protect them\n💥 Use gear to destroy and enter other players bases\n🏃Steal pets and prevent yours from being stolen!\n\n😉 Want more peace? Make a private server!\n\nCan you build a better base than your friends?",
-      "categories": [],
+      "categories": [
+        "Simulator"
+      ],
       "daily_players": {},
       "peak_players": 16483,
       "store_url": "https://www.roblox.com/games/132016691802922/",
-      "icon_url": null
+      "icon_url": "https://tr.rbxcdn.com/180DAY-3756573343a195ffc0c1b0b924c262c7/256/256/Image/Png/noFilter"
     },
     {
       "universe_id": 9472441390,
@@ -42931,11 +43243,13 @@
       "create_time": "2025-12-31",
       "create_year": 2025,
       "description": "💎Are you ready to ROB IT?💎\n\nHOW DO I ROB?\n- Select your mission 🗺️\n- Break in and steal everything 💰\n- Don't let the guard see you 🤫",
-      "categories": [],
+      "categories": [
+        "Other"
+      ],
       "daily_players": {},
       "peak_players": 2703,
       "store_url": "https://www.roblox.com/games/96168869671905/",
-      "icon_url": null
+      "icon_url": "https://tr.rbxcdn.com/180DAY-624f2cf24b047e3ae1d24fae4c535bf6/256/256/Image/Png/noFilter"
     },
     {
       "universe_id": 10283025251,
@@ -42946,11 +43260,15 @@
       "create_time": "2026-06-06",
       "create_year": 2026,
       "description": "🟢 Welcome to Jump To Steal Slime! 🟢\n\n💡- Get the Lucky Blocks to your base without getting caught to unlock new Slimes!\n💵- Use the money from the Slimes to upgrade your character and base!\n⏰- Your slimes make money offline, so make sure to check on them everyday!\n\nUPDATE:\n+ 6 New Slimes!\n+ Beach Zone!\n+ New Lucky Block!\n+ Bug Fixes\n\n⚠️(the update is live on new servers!)\n\nIf you enjoy our game, Like it and join our group for surprises and more updates!☺️\n",
-      "categories": [],
+      "categories": [
+        "Obby",
+        "Adopt",
+        "Steal"
+      ],
       "daily_players": {},
       "peak_players": 2056,
       "store_url": "https://www.roblox.com/games/131776241538171/",
-      "icon_url": null
+      "icon_url": "https://tr.rbxcdn.com/180DAY-6633d9a99b60075969525ca7f1419a25/256/256/Image/Png/noFilter"
     },
     {
       "universe_id": 10563114921,
@@ -42961,11 +43279,14 @@
       "create_time": "2026-07-25",
       "create_year": 2026,
       "description": "How to Play:\n\n▪ Steal eggs from dangerous nests 🪺\n▪ Escape the guards before they catch you! 😈\n▪ Watch out—other players can hit you and steal your egg! 🫵\n▪ Bring eggs safely back to your base 🏠\n▪ Hatch pets to earn money and unlock more speed ⚡\n▪ Train on your treadmill to reach new biomes 🏃\n▪ Discover Huge, Mutated, Secret, Eternal, and Divine pets 🌈\n\n🚨 Rare eggs spawn every 5 minutes!\nRare eggs make the whole server race to claim them.\n\nYour pets keep hatching while you're offline! ⏰\n\nCan you",
-      "categories": [],
+      "categories": [
+        "Brainrot",
+        "Steal"
+      ],
       "daily_players": {},
       "peak_players": 6550,
       "store_url": "https://www.roblox.com/games/107778070777162/",
-      "icon_url": null
+      "icon_url": "https://tr.rbxcdn.com/180DAY-c7e450516f83aad0a972cc185eb5b2af/256/256/Image/Png/noFilter"
     },
     {
       "universe_id": 10066929248,
@@ -42976,11 +43297,13 @@
       "create_time": "2026-04-21",
       "create_year": 2026,
       "description": "Welcome to Hack a Business!\n\n📡 Place Antennas to steal company Data! 💾\n💻 Place Servers to collect stolen Data!\n⛰ Run from big company bosses and sell their Data for Money!\n🥷 Rob from other players!",
-      "categories": [],
+      "categories": [
+        "Tycoon"
+      ],
       "daily_players": {},
       "peak_players": 1694,
       "store_url": "https://www.roblox.com/games/118055952211055/",
-      "icon_url": null
+      "icon_url": "https://tr.rbxcdn.com/180DAY-4c2a1b424298efdc9826100dbb4ccff1/256/256/Image/Png/noFilter"
     },
     {
       "universe_id": 10343795685,
@@ -42991,11 +43314,13 @@
       "create_time": "2026-06-17",
       "create_year": 2026,
       "description": "🥟 Welcome to My Squishy Box Store !\n\nOpen adorable mystery boxes and collect cute Dumpling Squishies to build the ultimate blind box store!\n\n✨ Open limited mystery boxes\n🏪 Upgrade and decorate your store\n💖 Serve customers and earn coins\n🌈 Discover Secret, Shiny & Mythic Squishies\n📚 Complete your collection book\n🎁 Daily rewards and special events\n\nUpdate: NewNeedohs And Second Floor\nCan you become the #1 Squishy Shop Owner?\n\n👍 Like + Favorite for more updates!\n\nNew Code:Emoji",
-      "categories": [],
+      "categories": [
+        "Tycoon"
+      ],
       "daily_players": {},
       "peak_players": 1848,
       "store_url": "https://www.roblox.com/games/137849500783095/",
-      "icon_url": null
+      "icon_url": "https://tr.rbxcdn.com/180DAY-24b2560b9e550ce8bc11db93615726d6/256/256/Image/Png/noFilter"
     },
     {
       "universe_id": 2954818192,
@@ -43006,11 +43331,13 @@
       "create_time": "2021-09-30",
       "create_year": 2021,
       "description": "🎮 Inspired by the hit Netflix series Squid Game\n\n⭐ Don’t forget to like the game if you enjoy it!\n\nStep into a world of intense mini-games where every round tests your skill, timing, and courage. Only the smartest players make it to the end!\n\n✨ Season 1 Games\nRed Light, Green Light\nHoneycomb\nLights Out\nTug of War\nMarbles\nGlass Steppingstones\nSquid Game\n\n✨ Season 2 / 3 Games\nRed Light, Green Light\nJump Rope\nLights Out\nPentathlon\nMingle\nRebellion\n\n\n⚠️ Do you have what it takes to survive every cha",
-      "categories": [],
+      "categories": [
+        "Other"
+      ],
       "daily_players": {},
       "peak_players": 1550,
       "store_url": "https://www.roblox.com/games/7605357829/",
-      "icon_url": null
+      "icon_url": "https://tr.rbxcdn.com/180DAY-08342c6d40754e92564dbf8b2e10b70a/256/256/Image/Png/noFilter"
     },
     {
       "universe_id": 10276281921,
@@ -43021,11 +43348,13 @@
       "create_time": "2026-06-05",
       "create_year": 2026,
       "description": "🎨 CHAMELEON\n\nBlend in. Paint yourself. Trick the seekers.\n\nChameleon is a hide and seek painting game inspired by Meccha Chameleon, where hiders use colors, brushes, and smart camouflage to survive while seekers hunt them down with abilities.\n\nPaint your character to match the map, hide in plain sight, use taunts, freeze in place, and outplay the seekers before time runs out.\n\nJoin our group for updates, rewards, codes, testing access, and future content drops.\n\nControls:\nB Brush\nG Fill\nC Color ",
-      "categories": [],
+      "categories": [
+        "Creator"
+      ],
       "daily_players": {},
       "peak_players": 8271,
       "store_url": "https://www.roblox.com/games/110808833601416/",
-      "icon_url": null
+      "icon_url": "https://tr.rbxcdn.com/180DAY-ea771210f0a71ca8ef289f97676cfdf3/256/256/Image/Png/noFilter"
     },
     {
       "universe_id": 6128091457,
@@ -43036,11 +43365,13 @@
       "create_time": "2024-06-16",
       "create_year": 2024,
       "description": "✨ Welcome to my Clone Engine! Make clones that follow you in SUPER satisfying ways!\n\n🔥 Upgrade Size, Speed and Jump while tackling fun obstacles around the playground!\n\n🚀 Premium Players earn 25% more Cash & +5 Clones!\n\n🎮 Group Members get 25% more Cash & +10 Clones! \n\n🔔 Follow for game updates! \n👍 Like the game for new stages! \n👥 Invite your friends for a boost! \n\n🌈JOIN THE GROUP FOR BENEFITS: https://www.roblox.com/groups/34463918/CC-Super-Fun#!/about",
-      "categories": [],
+      "categories": [
+        "Other"
+      ],
       "daily_players": {},
       "peak_players": 1232,
       "store_url": "https://www.roblox.com/games/17882166032/",
-      "icon_url": null
+      "icon_url": "https://tr.rbxcdn.com/180DAY-05cab3d0e7958b31d221e4866ad8f68e/256/256/Image/Png/noFilter"
     },
     {
       "universe_id": 4139766490,
@@ -43051,11 +43382,13 @@
       "create_time": "2022-11-27",
       "create_year": 2022,
       "description": "⚠ THIS GAME IS A BETA TEST, THERE WILL BE BUGS! ⚠\n\nThis is only a beta test (yes, I had to say it twice) of the first world for \"I Wanna Be The Bloxxer\", which is based on a game called \"I Wanna Be The Guy\". This is NOT the full game, as it is still being developed (which is why some elements in the stage DON'T work). People who disliked = Stinky noobs who can't git gud. \n\n---CONTROLS (Keyboard/PC)--- \nDouble press jump to double jump \nPress R or 'Retry' button to retry \nPress Z Or Crouch to sav",
-      "categories": [],
+      "categories": [
+        "Adopt"
+      ],
       "daily_players": {},
       "peak_players": 1702,
       "store_url": "https://www.roblox.com/games/11684369582/",
-      "icon_url": null
+      "icon_url": "https://tr.rbxcdn.com/180DAY-fe8b2cf5c356675619f27cae66d5e1eb/256/256/Image/Png/noFilter"
     },
     {
       "universe_id": 6787216875,
@@ -43066,11 +43399,13 @@
       "create_time": "2024-11-11",
       "create_year": 2024,
       "description": "👨‍⚖️ Become the JUDGE, who goes to HELL or HEAVEN?\n\nAs the player, your mission is to convince 'God' that you belong in Heaven \n\n\n❓Can you make a case for yourself?❓\n\n👍 Like and ⭐ Favorite the game to support us and possibly earn rewards in the future\n🔔 Tap the Notify button to stay informed of FUTURE updates\n\n\n🎵 NON COPYRIGHTED AUDIO 🎵\n\nUGC By Bad_B0y\n\nInspired By Like Or Pass",
-      "categories": [],
+      "categories": [
+        "Other"
+      ],
       "daily_players": {},
       "peak_players": 1529,
       "store_url": "https://www.roblox.com/games/101685456774656/",
-      "icon_url": null
+      "icon_url": "https://tr.rbxcdn.com/180DAY-3ea37a757693d7a7caca7722119929f9/256/256/Image/Png/noFilter"
     },
     {
       "universe_id": 6215464786,
@@ -43081,11 +43416,13 @@
       "create_time": "2024-07-04",
       "create_year": 2024,
       "description": "⚠️THIS GAME IS MADE FOR 2 PLAYERS⚠️\n\nNavigate a thrilling obstacle course with a friend. Chained together, you'll need to cooperate to reach the end. But it won't be easy—you're chained, so teamwork is key! 🔑\n\n🎁 You can win a free Chain by liking the game and joining the group 🎁 -> https://www.roblox.com/groups/34327520/1-Day\n\nControls :\n\nPC 💻 : HOLD \"E\" TO PULL\nMOBILE 📱 : PRESS PULL BUTTON -- STOP PULLING : PRESS PULL BUTTON BACK\nCONSOLE 🎮 : HOLD \"R2/RT\" TO PULL\n\nobby, platformer, obstacle cour",
-      "categories": [],
+      "categories": [
+        "Obby"
+      ],
       "daily_players": {},
       "peak_players": 1522,
       "store_url": "https://www.roblox.com/games/18334179599/",
-      "icon_url": null
+      "icon_url": "https://tr.rbxcdn.com/180DAY-a253d5312ba27af823783b04ad235b1c/256/256/Image/Png/noFilter"
     },
     {
       "universe_id": 6818915584,
@@ -43096,11 +43433,14 @@
       "create_time": "2024-11-20",
       "create_year": 2024,
       "description": "👋 Welcome to Merry Go Round (Squid Game 2), in this game you have to hurry up to survive!\n\n👀 When the music & platform stopped you need to go rooms.\n\n👍 Like and favorite ⭐ the game to support more updates!\n\n🏃‍♂️ Sprint Controls:\nPC > Shift\nConsole > L2\n\nTags: Squid Game, Fish Game, Hexa Game, Red Light, Green Light, Carousel Game, Survival, Glass Game, Merry Go Round",
-      "categories": [],
+      "categories": [
+        "Adopt",
+        "Racing"
+      ],
       "daily_players": {},
       "peak_players": 1670,
       "store_url": "https://www.roblox.com/games/106078822951099/",
-      "icon_url": null
+      "icon_url": "https://tr.rbxcdn.com/180DAY-60eef984f027f3caef0ff09c04818dfe/256/256/Image/Png/noFilter"
     },
     {
       "universe_id": 10191144118,
@@ -43111,11 +43451,13 @@
       "create_time": "2026-05-19",
       "create_year": 2026,
       "description": "Choose a door and grow up your character with each stage! 🧬\nCan you survive all stages without being too old? 🤔\n\nEvery stage gives you random numbers!\n\n💗 Like the game + join the group to TROLL other players! 😈",
-      "categories": [],
+      "categories": [
+        "Tower"
+      ],
       "daily_players": {},
       "peak_players": 1744,
       "store_url": "https://www.roblox.com/games/119473104067789/",
-      "icon_url": null
+      "icon_url": "https://tr.rbxcdn.com/180DAY-d1aec7e5422d576b6e7de128aaa9cf4b/256/256/Image/Png/noFilter"
     },
     {
       "universe_id": 10397566868,
@@ -43126,11 +43468,14 @@
       "create_time": "2026-06-26",
       "create_year": 2026,
       "description": "Paint your Dummy, Camouflage into the map, and hide from the Seekers!\n\n🖌️ PAINT YOURSELF: Navigate all color pools and coat your avatar!\n🦎 BLEND: Blend into walls, floors, and objects!\n🏆 SURVIVE: Fool the seeker with clever hiding spots!\n\nWill you blend into the map... or DIE trying? ☠️👀\n\n✨ Like and Favorite the game if you enjoyed playing!\nInspired by Meccha Chameleon\n\n🏷️Tags: Paint or Oof, Hide and Seek, Camouflage, Camo, Painting, Prop Hunt, Blend In, Multiplayer, Hiding, Seeker, Stealth, Rou",
-      "categories": [],
+      "categories": [
+        "Survival",
+        "Creator"
+      ],
       "daily_players": {},
       "peak_players": 9198,
       "store_url": "https://www.roblox.com/games/74511210941284/",
-      "icon_url": null
+      "icon_url": "https://tr.rbxcdn.com/180DAY-a6cca8f6ad90cd422282f4159496e166/256/256/Image/Png/noFilter"
     },
     {
       "universe_id": 10289201563,
@@ -43141,11 +43486,13 @@
       "create_time": "2026-06-07",
       "create_year": 2026,
       "description": "🎨 Paint & Seek!\n\nBlend in, hide smart, and survive the seekers! In this hide-and-seek game, painters can paint over their characters to match walls, floors, furniture, and the environment around them. Use your colors wisely, disguise yourself, and become almost invisible before the seekers find you! 👀\n\n🏃 Hiders: Paint yourself, blend into the map, and stay hidden until time runs out.\n🔎 Seekers: Search carefully, spot suspicious shapes, and catch every hidden player.\n🎨 Paint System: Change your l",
-      "categories": [],
+      "categories": [
+        "Creator"
+      ],
       "daily_players": {},
       "peak_players": 9603,
       "store_url": "https://www.roblox.com/games/84449017742177/",
-      "icon_url": null
+      "icon_url": "https://tr.rbxcdn.com/180DAY-6dd102c0d7db9022546cccf9402f9f1e/256/256/Image/Png/noFilter"
     },
     {
       "universe_id": 2366560560,
@@ -43156,11 +43503,13 @@
       "create_time": "2021-02-11",
       "create_year": 2021,
       "description": "Official Miraculous™ RP: Quests of Ladybug & Cat Noir takes you into Miraculous Paris. Play as iconic characters from the show, hang out with friends, visit familiar locations & play mini-games! Decorate your own character-themed houses & apartments, hang out with Kwamis, unlock vehicles, battle friends and more.\n\n💫 NEW UPDATE 💫\n🏖️ New Location Added - Brazil\nBrazil Beach Location added\nNew NPC Quests available in Brazil\nFind it in Map > World\n🎯New Quest Tutorial\nQuest Tutorial added\nFind it in ",
-      "categories": [],
+      "categories": [
+        "RP"
+      ],
       "daily_players": {},
       "peak_players": 1087,
       "store_url": "https://www.roblox.com/games/6377740507/",
-      "icon_url": null
+      "icon_url": "https://tr.rbxcdn.com/180DAY-1a043a52daae95741e670088ae9508c1/256/256/Image/Png/noFilter"
     },
     {
       "universe_id": 4075802159,
@@ -43171,11 +43520,15 @@
       "create_time": "2022-11-04",
       "create_year": 2022,
       "description": "Welcome to El Gato Tower 😸!\n\n🐈 Could you make it to the top in this Tower with no checkpoints at all?\n \n🏃‍♀️free coil\n👕free clothing\n⚙ shift lock on mobile\n\n😻 Thanks for playing!\n\n👍 Thumbs up if you enjoyed the game!\n⭐ Favorite if you really enjoyed the game!\n \nJoin this group to help support us! \nLink: https://web.roblox.com/groups/16739947/Love-Pack-Studio#!/about\n\nTags: El Gato Tower, Tower of Hell, Tower, El Gato, Cats, Easy Tower, Parkour, Obby, Tower of Misery, ToH",
-      "categories": [],
+      "categories": [
+        "Tower",
+        "Survival",
+        "Horror"
+      ],
       "daily_players": {},
       "peak_players": 1202,
       "store_url": "https://www.roblox.com/games/11464559285/",
-      "icon_url": null
+      "icon_url": "https://tr.rbxcdn.com/180DAY-5455451a11480276c8961c1619da3ebd/256/256/Image/Png/noFilter"
     },
     {
       "universe_id": 4362771421,
@@ -43186,11 +43539,14 @@
       "create_time": "2023-02-06",
       "create_year": 2023,
       "description": "Enter Banban's Kindergarten, and you're sure to make some friends. Explore the mysterious establishment and don't lose your life and sanity. Uncover the horrifying truth behind the place, but be careful, as you are far from alone…\n\nCertain assets were used in accordance to the Attribution 4.0 International license.\nGarten of Banban Credits [devforum.roblox.com/t/garten-of-banban-roblox-credits/2232918]\n\n© 2026 Euphoric Brothers Ltd.",
-      "categories": [],
+      "categories": [
+        "Sports",
+        "Creator"
+      ],
       "daily_players": {},
       "peak_players": 4082,
       "store_url": "https://www.roblox.com/games/12398038681/",
-      "icon_url": null
+      "icon_url": "https://tr.rbxcdn.com/180DAY-4ef092b556841ea36c408ef77d7b816f/256/256/Image/Png/noFilter"
     },
     {
       "universe_id": 5549835355,
@@ -43201,11 +43557,15 @@
       "create_time": "2024-01-20",
       "create_year": 2024,
       "description": "🏙️ Mega Luxury Bus Tycoon 🏙️\n\nStep into the world of luxury with Mega Luxury Bus Tycoon! 💎\n\n🎉Create the Ultimate Luxury Bus🎉\n🌍Drive through breathtaking environments🌍\n🚍Hire Workers to maintain your bus 🚍\n🚗Unlock CARS to cruise around🚗\n\n🌟 Join the Community🌟\n🐞 Report Bugs on the Group Wall🐞\nhttps://www.roblox.com/groups/4063400/Vanity-Studio \n\nAre you ready to become the ultimate Mega Luxury Bus Tycoon? Let’s roll out!",
-      "categories": [],
+      "categories": [
+        "Tycoon",
+        "Survival",
+        "Horror"
+      ],
       "daily_players": {},
       "peak_players": 1112,
       "store_url": "https://www.roblox.com/games/16055759911/",
-      "icon_url": null
+      "icon_url": "https://tr.rbxcdn.com/180DAY-c4c1667b1f75d42b125b7c99ef066e39/256/256/Image/Png/noFilter"
     },
     {
       "universe_id": 3869462497,
@@ -43216,11 +43576,13 @@
       "create_time": "2022-08-22",
       "create_year": 2022,
       "description": "Welcome to Furinfection, a furry infection game where humans fight the furrys with many differents weapons for sale at the shop (Inside Safe zone)\n\nNEW CODE AT 44,000 LIKES👍\n\nWorking codes are listed on the group !\n\n🙍‍♂️ - The goal as a human is to survive and fight the infecteds using plenty of tools that you can buy with Money (Earn money by collecting Money stacks on the ground).\n🧟‍♂️ - The goal as an infected is to spread the infection and take over the facility ! (Click to grab and infect p",
-      "categories": [],
+      "categories": [
+        "Adopt"
+      ],
       "daily_players": {},
       "peak_players": 1405,
       "store_url": "https://www.roblox.com/games/10679239752/",
-      "icon_url": null
+      "icon_url": "https://tr.rbxcdn.com/180DAY-d056147da40b0b83cbc6ed2bf273a40a/256/256/Image/Png/noFilter"
     },
     {
       "universe_id": 6255528977,
@@ -43231,11 +43593,14 @@
       "create_time": "2024-07-12",
       "create_year": 2024,
       "description": "🔥 NEW UPDATE 2 NEW PLANETS, NEW ASSETS with REWARDS, NPCS, Space and much more!\n\nThis is a game where you use amazing balloon physics to fly yourself up to the planets for rewards!\n\n🏷️ Tags: Simulator, Roleplay, Pets, Balloons, Space, Toy, Candy, Fast Food, Cash, Obby.",
-      "categories": [],
+      "categories": [
+        "Simulator",
+        "Adopt"
+      ],
       "daily_players": {},
       "peak_players": 1001,
       "store_url": "https://www.roblox.com/games/18458777099/",
-      "icon_url": null
+      "icon_url": "https://tr.rbxcdn.com/180DAY-96c4bca60f52443eb54016df8ba67bd2/256/256/Image/Png/noFilter"
     },
     {
       "universe_id": 10442743986,
@@ -43246,11 +43611,14 @@
       "create_time": "2026-07-04",
       "create_year": 2026,
       "description": "You got hired to work at Spuddy's Family Diner.\n\nServe customers, detect anomalies, and DO NOT GET BAD REVIEWS.\n\nLike the game if you enjoy 👍",
-      "categories": [],
+      "categories": [
+        "Survival",
+        "Horror"
+      ],
       "daily_players": {},
       "peak_players": 1845,
       "store_url": "https://www.roblox.com/games/88735661337823/",
-      "icon_url": null
+      "icon_url": "https://tr.rbxcdn.com/180DAY-928fd7b37db8c6c686b646c4a34c6070/256/256/Image/Png/noFilter"
     },
     {
       "universe_id": 4234745929,
@@ -43261,11 +43629,13 @@
       "create_time": "2022-12-29",
       "create_year": 2022,
       "description": "🌊 Answer or Die 🌊\n- 💬 Try to enter the longest answer.\n- 🧱 Gain blocks and survive against the rising water.\n- 🏆 Beat other players and get on top of the leaderboards.\n\n🏆 UPDATE: Pro Servers (5 Wins Required) 🏆\n\nMake sure to 👍 Like the game and ✅ Join the group to unlock the Group Chest with SPECIAL REWARDS 🎁\n⭐ Premium Players Benefits: 💎+5 Gems Per Answer!",
-      "categories": [],
+      "categories": [
+        "Survival"
+      ],
       "daily_players": {},
       "peak_players": 1094,
       "store_url": "https://www.roblox.com/games/11966456877/",
-      "icon_url": null
+      "icon_url": "https://tr.rbxcdn.com/180DAY-93011665399063ee57b9f50cc9b6209d/256/256/Image/Png/noFilter"
     },
     {
       "universe_id": 10393620082,
@@ -43276,11 +43646,14 @@
       "create_time": "2026-06-25",
       "create_year": 2026,
       "description": "⭐ Welcome to \"Build an ASMR Tower\" where you can build your own SATISFYING OBBY!\n\n\nHow to play:\n💰 Buy Satisfying ASMR Tools\n🔨 Place them down at your base and Build Your OBBY!\n🧐 Earn money with placed blocks\n😎 Build the coolest tower and more\n-------\nCan you build the best OBBY?\n\nYour Own ASMR World!",
-      "categories": [],
+      "categories": [
+        "Tower",
+        "Simulator"
+      ],
       "daily_players": {},
       "peak_players": 5185,
       "store_url": "https://www.roblox.com/games/125306084071551/",
-      "icon_url": null
+      "icon_url": "https://tr.rbxcdn.com/180DAY-5a3035364c1b13107bde2fc00a105622/256/256/Image/Png/noFilter"
     },
     {
       "universe_id": 10132466472,
@@ -43291,11 +43664,13 @@
       "create_time": "2026-05-07",
       "create_year": 2026,
       "description": " Welcome to Duckies! 🐤 [2 Player Obby] 🌟\n\n⭐THE CUTEST 2 PLAYER OBBY ON ROBLOX⭐ \n\n🐤 You and your friend are adorable Duckies!\n🤝 Team up to complete this Fun Obby together!\n🦆 Work together to overcome obstacles and reach the finish!\n🌈 Explore colorful worlds filled with exciting challenges!\n\n👍 Like the game if you love Ducks!\n\nHow far can you and your Friend make it? 🏆🐤",
-      "categories": [],
+      "categories": [
+        "Obby"
+      ],
       "daily_players": {},
       "peak_players": 1559,
       "store_url": "https://www.roblox.com/games/101723587858956/",
-      "icon_url": null
+      "icon_url": "https://tr.rbxcdn.com/180DAY-8448889a923a2f07b4232c613b764feb/256/256/Image/Png/noFilter"
     },
     {
       "universe_id": 6505212049,
@@ -43306,11 +43681,13 @@
       "create_time": "2024-09-02",
       "create_year": 2024,
       "description": "🚗 New Free Car Skin\n🎉 New Statrer Pack\n🏆 Tracks Fixes\n\n🎁Bonus Code \"Welcome\"\n\nWelcome to Drive it! 🏎️\n\n⚠️ This game is meant for 2 players, make sure you have a friend to play with! ⚠️\n\nBoth players must work together to reach your next destination while trying to avoid any TRICKS that they may encounter.\nTry not to get sabotaged by other players!\n\n📦 New Update!\n\n🚘Now you won't get stuck on the first track due to a traffic jam!🚘\n\n💾 Checkpoints are saved once reached! 💾\n🎁 Join group for a free ca",
-      "categories": [],
+      "categories": [
+        "Obby"
+      ],
       "daily_players": {},
       "peak_players": 1153,
       "store_url": "https://www.roblox.com/games/100831517378953/",
-      "icon_url": null
+      "icon_url": "https://tr.rbxcdn.com/180DAY-520aff3a9d5a4deb94b00774f9a6841d/256/256/Image/Png/noFilter"
     },
     {
       "universe_id": 9084112733,
@@ -43321,11 +43698,13 @@
       "create_time": "2025-11-02",
       "create_year": 2025,
       "description": "How to play:\n- Fuel the van ⛽\n- Manage the tires ⚙\n- Reach Landmarks 📍\n- Eat 🍞\n- Survive 💖\n- Drive 🚙\n\nJoin our community for game updates and info!\n\ncredits to MIX_sneaky for voice lines for the lore cassette tapes\nGame created and developed by: Daffy734\n\ntags (ignore)\ncamping, campervan, camper van, driving, drive, van, forest, rv there yet, a dusty trip, rv, survival",
-      "categories": [],
+      "categories": [
+        "Other"
+      ],
       "daily_players": {},
       "peak_players": 2206,
       "store_url": "https://www.roblox.com/games/87311102000285/",
-      "icon_url": null
+      "icon_url": "https://tr.rbxcdn.com/180DAY-29d09e647073c3a2ce59e051cda3e17f/256/256/Image/Png/noFilter"
     },
     {
       "universe_id": 8776018564,
@@ -43336,11 +43715,14 @@
       "create_time": "2025-09-22",
       "create_year": 2025,
       "description": "Use code \"NIGHT\" for free gems!\n\n🌙 Night Market Update\n- A special shop happens at Night during Day 3 It appears every couple days after\n- Buy exclusive items only in the night market like a Portal Gun or Gravity gun 👀\n\nPress Ctrl for Shift Lock \n\n🏠 Build your Base to Survive the Night as Dangerous Employees and Scary Monsters roam the Store.\n⭐ You can earn XP Offline\n\nCredit to 3008 for inspiring us!",
-      "categories": [],
+      "categories": [
+        "Survival",
+        "Horror"
+      ],
       "daily_players": {},
       "peak_players": 2184,
       "store_url": "https://www.roblox.com/games/122802147482832/",
-      "icon_url": null
+      "icon_url": "https://tr.rbxcdn.com/180DAY-a0d3824e4878adcc783c38a6c05e3bef/256/256/Image/Png/noFilter"
     },
     {
       "universe_id": 5731967654,
@@ -43351,11 +43733,13 @@
       "create_time": "2024-03-08",
       "create_year": 2024,
       "description": "Welcome to Who's Lying? 🚨 UPDATES EVERY WEEKEND\n\n🎁 NEW code \"UPDATE\" - Use for free in-game rewards!\n\nHow to Play:\n📝 Investigators will be given a random secret word!\n💬 Describe the word without being specific and never tell the exact word. Anyone can be an Liar!\n🕵️‍♂️ Find out who is a Liar (Impostor) and kick out of the game to win!\n\n\n⚠️ WARNING - The game needs at least 3 players to start!\n🏆 PREMIUM BENEFITS - Exclusive reaction!\n\n🔔 Inspired by: Full Squad Gaming's Guess The Impostor Series \n",
-      "categories": [],
+      "categories": [
+        "Other"
+      ],
       "daily_players": {},
       "peak_players": 1000,
       "store_url": "https://www.roblox.com/games/16666497786/",
-      "icon_url": null
+      "icon_url": "https://tr.rbxcdn.com/180DAY-025894efef0745fd70f1ce960c077ddb/256/256/Image/Png/noFilter"
     },
     {
       "universe_id": 972475338,
@@ -43366,11 +43750,13 @@
       "create_time": "2018-12-30",
       "create_year": 2018,
       "description": "❄️🚩Team up with friends or go solo and embark on an epic snowy adventure across Antarctica to reach the South Pole! 🚩❄️\n\nSummit the highest Antarctic mountain and conquer the icebergs, glaciers and mountains. Reach the South Pole in this adventure roleplay world and even meet penguins along the way!🐧\n\n👨‍👩‍👧‍👦 Join 'Playduo Studio' for +25% fall resistance! \nhttps://www.roblox.com/groups/4626344\n\n🔔 Press the 'Follow' button for game news & leave a 👍 to support the game!\n\nDevelopers: RPD777 and RJ",
-      "categories": [],
+      "categories": [
+        "Anime"
+      ],
       "daily_players": {},
       "peak_players": 3639,
       "store_url": "https://www.roblox.com/games/2693023319/",
-      "icon_url": null
+      "icon_url": "https://tr.rbxcdn.com/180DAY-a8b48aeb8db5561affbab310807f9a13/256/256/Image/Png/noFilter"
     },
     {
       "universe_id": 9639553972,
@@ -43381,11 +43767,13 @@
       "create_time": "2026-01-29",
       "create_year": 2026,
       "description": "The world is frozen.\nEvery cold storm could be your last.\n\n🔥 Find shelter, light fires, and manage your warmth\n🌪️ Survive the deadly cold storms\n🗿 Discover and collect the 7 relics to stop the storms forever\n\nCan you survive… or will the cold claim you?\n\n\n\n\n\nNote: this game is new so please expect some bugs. We're regularly updating the game with daily bug fixes and weekly updates!\n",
-      "categories": [],
+      "categories": [
+        "Other"
+      ],
       "daily_players": {},
       "peak_players": 4342,
       "store_url": "https://www.roblox.com/games/134750290201751/",
-      "icon_url": null
+      "icon_url": "https://tr.rbxcdn.com/180DAY-c3158605badbcb8aafa3f4a9476497a3/256/256/Image/Png/noFilter"
     },
     {
       "universe_id": 7261493599,
@@ -43396,11 +43784,13 @@
       "create_time": "2025-02-18",
       "create_year": 2025,
       "description": "There's TREASURE hidden deep in your backyard...\nCan you and your friends defeat the DWARF BOSS and FIND THE TREASURE?\n\n🔊 We recommend you play the game with sound on! \n⏰ Average playtime is 30 to 60+ minutes!\n\nInspired by \"A Game About Digging A Hole\"",
-      "categories": [],
+      "categories": [
+        "Other"
+      ],
       "daily_players": {},
       "peak_players": 1199,
       "store_url": "https://www.roblox.com/games/83704201064817/",
-      "icon_url": null
+      "icon_url": "https://tr.rbxcdn.com/180DAY-b4b4dc3faa7ad7187e6b436b182ae429/256/256/Image/Png/noFilter"
     },
     {
       "universe_id": 9522015993,
@@ -43411,11 +43801,13 @@
       "create_time": "2026-01-08",
       "create_year": 2026,
       "description": "This was a game I made like idk 5 years ago, lost access to it. But it's back! just of course not the same as before but, IT'S MADE BY THE SAME PERSON IT HAS THE SAME ESSENCE THE CLEAN BEAN MACHINE EXPERIENCE. Boat ride by CleanMeanBean\n\nExploiting if caught results in a permanent unappealable ban\n\nIf ur my friend you get all the passes for free. Don't abuse it or you'll get clocked. (I'm watching)",
-      "categories": [],
+      "categories": [
+        "Other"
+      ],
       "daily_players": {},
       "peak_players": 1666,
       "store_url": "https://www.roblox.com/games/71457452830106/",
-      "icon_url": null
+      "icon_url": "https://tr.rbxcdn.com/180DAY-e8b9ccf34b9f9d46b7f9e5d7d73ca1fe/256/256/Image/Png/noFilter"
     },
     {
       "universe_id": 10096155511,
@@ -43426,11 +43818,13 @@
       "create_time": "2026-04-28",
       "create_year": 2026,
       "description": "☢️ STRIKE: WARFARE\n\nStep into the ultimate theater of war. Strike: Warfare delivers a relentless 15v15 combined arms experience where tactical supremacy, squad coordination, and raw firepower dictate the victor. Deploy to the front lines, commandeer heavy armor, and engage in the most immersive, high-stakes military shooter on Roblox.\n\nThe objective is clear. Secure the sector. Eliminate all threats.\n\n⚠ STATUS REPORT: Strike: Warfare is in active development. Join our communities below to leave ",
-      "categories": [],
+      "categories": [
+        "Other"
+      ],
       "daily_players": {},
       "peak_players": 5014,
       "store_url": "https://www.roblox.com/games/130404059693601/",
-      "icon_url": null
+      "icon_url": "https://tr.rbxcdn.com/180DAY-ee05a43c0d5786ba9b4e00b23017608a/256/256/Image/Png/noFilter"
     },
     {
       "universe_id": 2020908522,
@@ -43441,11 +43835,15 @@
       "create_time": "2020-09-19",
       "create_year": 2020,
       "description": "👋 Welcome to Mega Hide and Seek! 😃 \n\n✨ Players have one minute to explore & hide in a spot on the map before the seeker arrives! ✨ \n\n🏃‍♂️ Traverse around the map with cannons, slides, teleporters and bounce pads! 😮 \n\n💎 Earn coins & diamonds to unlock powerups to use as a seeker, and various other fun cosmetics! 🤩 \n\n🏆 Unlock amazing rewards for completing quests! 🏆 \n\n👍 Be sure to like and favourite this game for more updates! ⭐ \n\n🌟VIP server owners unlock access to a server control panel, where y",
-      "categories": [],
+      "categories": [
+        "Escape",
+        "Survival",
+        "Horror"
+      ],
       "daily_players": {},
       "peak_players": 1599,
       "store_url": "https://www.roblox.com/games/5708035517/",
-      "icon_url": null
+      "icon_url": "https://tr.rbxcdn.com/180DAY-85f221917d8a14a3cfa87a4b6ef5b917/256/256/Image/Png/noFilter"
     },
     {
       "universe_id": 98929893,
@@ -43456,11 +43854,13 @@
       "create_time": "2012-01-30",
       "create_year": 2012,
       "description": "NEW CODE AT 700K LIKES\n\nSorry4Delay - 5000 Zeni\nHaveSomeExp - 2x Exp 20min\n\n👊 Fight your enemies, friends, and rivals in Dragon Ball Rage. Unlock epic skills, incredible modes & transformations, and obtain super strength. Will you be the strongest in this action-packed anime RPG?\n\n🎮 Console and Mobile supported!\n🐲 Dragon Balls Added!\n💰 Zeni Added!\n\nCurrent Max: 305 Million 💪\nLimit Breaker Max: 310 Million 💪🔥\nZenkai Boost Max: 50 🌟\n\n⭐Premium Benefits⭐\n- 1.1x Mastery\n- 1.1x Exp",
-      "categories": [],
+      "categories": [
+        "Simulator"
+      ],
       "daily_players": {},
       "peak_players": 2134,
       "store_url": "https://www.roblox.com/games/71315343/",
-      "icon_url": null
+      "icon_url": "https://tr.rbxcdn.com/180DAY-106732308b5f09d55f3d759b0f651554/256/256/Image/Png/noFilter"
     },
     {
       "universe_id": 10343148160,
@@ -43471,11 +43871,13 @@
       "create_time": "2026-06-17",
       "create_year": 2026,
       "description": "🔥 Welcome to +1 Hack Per Click!\n\n💻 Every Click gives you MORE Hacking Power!\n🔓 Use Hacking Power to Break Walls!\n🖥️ Upgrade your PC to hack even faster!\n👑 Earn Wins to become the BEST Hacker!\n\n🐾 Collect Pets for huge boosts!\n🚀 Unlock OP upgrades & dominate!\n📱 Supports ALL Devices!\n\n👍 Like & Favorite if you enjoy the game!",
-      "categories": [],
+      "categories": [
+        "Simulator"
+      ],
       "daily_players": {},
       "peak_players": 1834,
       "store_url": "https://www.roblox.com/games/88968590411663/",
-      "icon_url": null
+      "icon_url": "https://tr.rbxcdn.com/180DAY-eb0f048c0a35e8055fb3abd14b461c86/256/256/Image/Png/noFilter"
     },
     {
       "universe_id": 7265977477,
@@ -43486,11 +43888,14 @@
       "create_time": "2025-02-19",
       "create_year": 2025,
       "description": "Your jump will not be reset!\n\nWelcome to Jump Clicker!\n\nGain jump with every click! 🚀\nComplete towers to increase the amount of jump you get with every click and earn wins! 🏆\nCollect pets! 🐶\nUnlock new worlds! 🌎\n\nRoblox Plus Benefits: +50% Jump and Daily Plus Rewards! 💎\n\nJoin \"lol games..\" to unlock daily group rewards and +10% Jump! https://www.roblox.com/groups/12208023/lol-games 🎁\n\nInvite friends for a jump boost! 👥\n\nIf you enjoy this game leave a like and favorite! 👍\n\nRemember, you keep gain",
-      "categories": [],
+      "categories": [
+        "Simulator",
+        "Obby"
+      ],
       "daily_players": {},
       "peak_players": 1221,
       "store_url": "https://www.roblox.com/games/140317247681516/",
-      "icon_url": null
+      "icon_url": "https://tr.rbxcdn.com/180DAY-fbc7257ebe1b4e607cdd0b7b9b3381ef/256/256/Image/Png/noFilter"
     },
     {
       "universe_id": 7005891584,
@@ -43501,11 +43906,14 @@
       "create_time": "2024-12-30",
       "create_year": 2024,
       "description": "Your speed will not be reset!\n\nWelcome to Speed Clicker!\n\nGain speed with every click! ⚡\nComplete obstacles to increase the amount of speed you get with every click and earn wins! 🏆\nCollect pets! 🐶\nUnlock new worlds! 🌎\n\nRoblox Plus Benefits: +50% Speed and Daily Plus Rewards! 💎\n\nJoin \"lol games..\" to unlock daily group rewards and +10% Speed! https://www.roblox.com/groups/12208023/lol-games 🎁\n\nInvite friends for a speed boost! 👥\n\nIf you enjoy this game leave a like and favorite! 👍\n\nRemember, you",
-      "categories": [],
+      "categories": [
+        "Simulator",
+        "Racing"
+      ],
       "daily_players": {},
       "peak_players": 1899,
       "store_url": "https://www.roblox.com/games/140374914197602/",
-      "icon_url": null
+      "icon_url": "https://tr.rbxcdn.com/180DAY-215af1809156b420c5fd0ca2a147a7c0/256/256/Image/Png/noFilter"
     },
     {
       "universe_id": 10329213173,
@@ -43516,11 +43924,13 @@
       "create_time": "2026-06-14",
       "create_year": 2026,
       "description": "🔥 Welcome to +1 Fat Per Click!\n\n🍔 Every click makes you GAIN FAT!\n💪 Get bigger to push through Obstacles!\n🧱 Smash your way to unlock new Areas!\n⚡ Discover stronger & crazier Buffs!\n👑 Earn Wins to become the BIGGEST!\n\n🐾 Collect Pets for huge boosts!\n🚀 Unlock OP upgrades & dominate!\n📱 Supports ALL Devices!\n\n👍 Like & Favorite if you enjoy the game!",
-      "categories": [],
+      "categories": [
+        "Simulator"
+      ],
       "daily_players": {},
       "peak_players": 5899,
       "store_url": "https://www.roblox.com/games/128329680321338/",
-      "icon_url": null
+      "icon_url": "https://tr.rbxcdn.com/180DAY-a3f0a9954fb9e860f5db53b2610ab6e5/256/256/Image/Png/noFilter"
     },
     {
       "universe_id": 10299695016,
@@ -43531,11 +43941,13 @@
       "create_time": "2026-06-10",
       "create_year": 2026,
       "description": "📱 Welcome to +1 Followers Per Click!\n\n👆 Click to gain Followers and grow your fanbase!\n🎥 Train in the training zones to gain Followers faster!\n🏆 Beat other influencers and unlock new stages!\n🌍 Climb the leaderboard to become the world's most famous influencer!\n\n👍 Like & ⭐ Favorite the game for future updates!\nThank you for playing!",
-      "categories": [],
+      "categories": [
+        "Simulator"
+      ],
       "daily_players": {},
       "peak_players": 3356,
       "store_url": "https://www.roblox.com/games/98695134949589/",
-      "icon_url": null
+      "icon_url": "https://tr.rbxcdn.com/180DAY-1cbff615eb4b6fdaa54ea3254d689937/256/256/Image/Png/noFilter"
     },
     {
       "universe_id": 10374499973,
@@ -43546,11 +43958,16 @@
       "create_time": "2026-06-22",
       "create_year": 2026,
       "description": "Welcome to +1 Double Jump Keyboard Escape!\n\nHow far can you go before you fall? 🔥\n\n1. Avoid obstacles using your Double Jumps.\n2. Reach the end and earn Wins.\n3. Collect Jump Power to jump higher.\n4. Rebirth, unlock Trails & Auras, and go even farther.\n5. Train on Treadmills and buy better Boots.\n\n🎧 ASMR vibes included!\n\n👍 LIKE & FAVORITE for more updates!",
-      "categories": [],
+      "categories": [
+        "Escape",
+        "Obby",
+        "Survival",
+        "Horror"
+      ],
       "daily_players": {},
       "peak_players": 1035,
       "store_url": "https://www.roblox.com/games/109423858328586/",
-      "icon_url": null
+      "icon_url": "https://tr.rbxcdn.com/180DAY-f353e898fea8717bd98e85b3338201f0/256/256/Image/Png/noFilter"
     },
     {
       "universe_id": 10469426282,
@@ -43561,11 +43978,13 @@
       "create_time": "2026-07-08",
       "create_year": 2026,
       "description": "👋 Welcome to Resource Incremental! 🔩\n\n👍 Like and favorite the game for more content!\nUse code: Release\n\n💵 Roblox Plus benefits:\n- 25% Cash\n\n🔩 Collect Scrap & Convert to Cash\n⚡ Upgrade to improve your stats!\n🧩 Discover many features\n🏆 Climb the Leaderboards\n\n🔔 Join our community server for updates!\n✨ Some things are inspired by other games\n\n🤝 CREDITS:\n>> OskiNew1 – Everything",
-      "categories": [],
+      "categories": [
+        "Other"
+      ],
       "daily_players": {},
       "peak_players": 1542,
       "store_url": "https://www.roblox.com/games/84156601481934/",
-      "icon_url": null
+      "icon_url": "https://tr.rbxcdn.com/180DAY-0ec013a77ee6f2a5bf45a68a970ce550/256/256/Image/Png/noFilter"
     },
     {
       "universe_id": 10307710949,
@@ -43576,11 +43995,13 @@
       "create_time": "2026-06-11",
       "create_year": 2026,
       "description": "⛩️ Welcome to [⛩] +1 Katana Evolution! ⚔️\n\n🥷 Gain +1 Katana Power every click!\n⚔️ Train to unlock stronger Katanas!\n🔥 Defeat powerful enemies and bosses!\n🌟 Evolve into stronger Ninja Forms!\n🚀 Each Evolution gives better multipliers!\n👑 Become the ultimate Katana Master!\n\n👍 Like & Favorite for more updates! 🔔",
-      "categories": [],
+      "categories": [
+        "Simulator"
+      ],
       "daily_players": {},
       "peak_players": 2165,
       "store_url": "https://www.roblox.com/games/84757653274750/",
-      "icon_url": null
+      "icon_url": "https://tr.rbxcdn.com/180DAY-a906c152aa1c3b5c0a82f6c049aaa670/256/256/Image/Png/noFilter"
     },
     {
       "universe_id": 10300417123,
@@ -43591,11 +44012,13 @@
       "create_time": "2026-06-10",
       "create_year": 2026,
       "description": "Welcome to +1 Fan per Step!\n\n🚶 Take a step and gain Fame. Every move helps grow your audience!\n👥 Unlock a new Fan every 10 levels. Each Fan gives you a boost, helping you gain even more Fame as you progress.\n⭐ Equip Play Buttons to earn more Fame with every step and level up faster.\n🔓 Push through locked gates and discover exciting new areas to explore.\n🔁 Rebirth to earn huge multipliers and progress even faster.\n🤖 Enable Auto Wins and keep collecting rewards while you play.\n🏆 Climb the leaderbo",
-      "categories": [],
+      "categories": [
+        "Other"
+      ],
       "daily_players": {},
       "peak_players": 2045,
       "store_url": "https://www.roblox.com/games/139177199868845/",
-      "icon_url": null
+      "icon_url": "https://tr.rbxcdn.com/180DAY-0944f4772e6c2105eaa405659882c01d/256/256/Image/Png/noFilter"
     },
     {
       "universe_id": 10456832990,
@@ -43606,11 +44029,15 @@
       "create_time": "2026-07-06",
       "create_year": 2026,
       "description": "Welcome to +1 Pickaxe Swing Escape\n\n1. Swing your pickaxe to smash through blocks.\n2. Beat levels and earn Wins as you go higher and farther.\n3. Unlock powerful Pickaxes for more Power.\n\n👍 LIKE the game and join the GROUP for Reward",
-      "categories": [],
+      "categories": [
+        "Escape",
+        "Survival",
+        "Horror"
+      ],
       "daily_players": {},
       "peak_players": 15759,
       "store_url": "https://www.roblox.com/games/82554996468034/",
-      "icon_url": null
+      "icon_url": "https://tr.rbxcdn.com/180DAY-75ea2a28b0c66fbf49d251cbb855b3ed/256/256/Image/Png/noFilter"
     },
     {
       "universe_id": 10255492538,
@@ -43621,11 +44048,13 @@
       "create_time": "2026-06-01",
       "create_year": 2026,
       "description": "🎲 Welcome to Luck Incremental! 🍀\n\nA laid-back luck & RNG incremental. \n\n• Roll the Dice\n• Roll Traits\n• Grind Runes\n• Craft Relics\n• Unleash Auras!\n• Max the Upgrade Trees!\n• Be #1\n\nTons of interesting Mechanics!\n\nThe more luck you build, the stronger you get!\n\nLike & favorite if you're enjoying! It genuinely helps!",
-      "categories": [],
+      "categories": [
+        "Other"
+      ],
       "daily_players": {},
       "peak_players": 1852,
       "store_url": "https://www.roblox.com/games/114788221976686/",
-      "icon_url": null
+      "icon_url": "https://tr.rbxcdn.com/180DAY-cccce790e00b9b2223ea67517301bb1b/256/256/Image/Png/noFilter"
     },
     {
       "universe_id": 10406668651,
@@ -43636,11 +44065,14 @@
       "create_time": "2026-06-27",
       "create_year": 2026,
       "description": "⛏️ Command a FLEET of laser drones to blast apart a giant voxel PLANET — and get RICH!\nIdle the cash in, evolve your world, and chase 1-in-25-TRILLION rarity drones. 🪐💥\n\n💰 IDLE TYCOON — your drone swarm auto-mines 24/7; cash climbs into the BILLIONS\n🌍 MINE A WHOLE PLANET — ore bursts off in tiers, from Azurite to Aurum and beyond\n✨ EVOLVE YOUR PLANET — cinematic upgrades unlock rarer ore and bigger worlds\n🎰 FREE UNLIMITED ROLLS — boost your Luck and pull god-tier drones\n📈 UPGRADE your fleet — sp",
-      "categories": [],
+      "categories": [
+        "Simulator",
+        "Aviation"
+      ],
       "daily_players": {},
       "peak_players": 6928,
       "store_url": "https://www.roblox.com/games/121125129560252/",
-      "icon_url": null
+      "icon_url": "https://tr.rbxcdn.com/180DAY-790071ec30aafc86ca56a957810cbd64/256/256/Image/Png/noFilter"
     },
     {
       "universe_id": 10270349664,
@@ -43651,11 +44083,13 @@
       "create_time": "2026-06-04",
       "create_year": 2026,
       "description": "HIT the green luck doors to make your squishy box luckier! 🍀\n\n💪 Train your HP\n🚪 Choose the best Luck Doors\n🌊 Survive massive Tsunamis\n🥟 Hatch Cute Squishies\n🚀 Upgrade Everything\nWorks on all Devices!\n\n👍 LIKE at 10K Likes for a HUGE update! 🥟✨",
-      "categories": [],
+      "categories": [
+        "Other"
+      ],
       "daily_players": {},
       "peak_players": 6176,
       "store_url": "https://www.roblox.com/games/90784570995507/",
-      "icon_url": null
+      "icon_url": "https://tr.rbxcdn.com/180DAY-43fc65951e559c5078b90d8fa3268716/256/256/Image/Png/noFilter"
     },
     {
       "universe_id": 7114667385,
@@ -43666,11 +44100,13 @@
       "create_time": "2025-01-20",
       "create_year": 2025,
       "description": "Dress up your animal\nRoleplay\nHangout\n\nGame is still work in progress\nWe will be adding more features and animals\nThanks so much for playing ^^\n\nTags: Animal Simulator, Adopt, Pet, Avatar Creator, Dog, Puppy, Cat, Kitten, Capybara",
-      "categories": [],
+      "categories": [
+        "RP"
+      ],
       "daily_players": {},
       "peak_players": 1376,
       "store_url": "https://www.roblox.com/games/127152805777886/",
-      "icon_url": null
+      "icon_url": "https://tr.rbxcdn.com/180DAY-6bc64eefcd853f4b08b5a7b90b7c18cd/256/256/Image/Png/noFilter"
     },
     {
       "universe_id": 7073604286,
@@ -43681,11 +44117,13 @@
       "create_time": "2025-01-11",
       "create_year": 2025,
       "description": "⭐THE BEST and FUNNIEST 2 PLAYER OBBY GAME⭐\n\n🐶One player is a Dog and the other is the Walker!\n🔑Team up with a friend to complete this Fun Obby!\n🪢Be CAREFUL! You are roped together with a Leash!\n\nIf you called someone Good Boy in game then please give a Like 👍",
-      "categories": [],
+      "categories": [
+        "Obby"
+      ],
       "daily_players": {},
       "peak_players": 1046,
       "store_url": "https://www.roblox.com/games/99758842280353/",
-      "icon_url": null
+      "icon_url": "https://tr.rbxcdn.com/180DAY-7cb0ea98f7676a059ace2f80cbda8923/256/256/Image/Png/noFilter"
     },
     {
       "universe_id": 10053091404,
@@ -43696,11 +44134,14 @@
       "create_time": "2026-04-18",
       "create_year": 2026,
       "description": "My Pet Farm is a new game!\n\nRoll for rare seeds and plant them, harvest your fruit, feed your pets and build your very own Pet Farm!\n\nRemember, your farm grows and your pets earn offline! \nMake sure to join back tomorrow to collect offline earnings!\n\n🐶🥕🐣🍎🐰",
-      "categories": [],
+      "categories": [
+        "Simulator",
+        "Pets"
+      ],
       "daily_players": {},
       "peak_players": 2355,
       "store_url": "https://www.roblox.com/games/83847197909679/",
-      "icon_url": null
+      "icon_url": "https://tr.rbxcdn.com/180DAY-c564706fdb879f96b5b8bf12163526d4/256/256/Image/Png/noFilter"
     },
     {
       "universe_id": 2872881913,
@@ -43711,11 +44152,13 @@
       "create_time": "2021-08-30",
       "create_year": 2021,
       "description": "Cat Lady has gone on holiday, leaving her cats alone in the house.\nTired of neglect, they decide to destroy everything!\n\nCredit: Some thumbnails by Ashbashthesmash and kikoisniko.\n\nAlso play Find the Cats: https://www.roblox.com/games/5195125365/Find-the-Cats\nOr Cat Trip: https://www.roblox.com/games/6776370984/Cat-Trip\n\n--- Updates ---\n\n2026-06-05 Fixed mouse level buttons not working.\n\n👔 Secret tie cat morph\n🐭 new extended MOUSE ending!\n♫🎤 Ending song.\n😴😭😨 Emotes. Hiss, meow, cry etc\n🦄 20 morp",
-      "categories": [],
+      "categories": [
+        "Other"
+      ],
       "daily_players": {},
       "peak_players": 2279,
       "store_url": "https://www.roblox.com/games/7367863399/",
-      "icon_url": null
+      "icon_url": "https://tr.rbxcdn.com/180DAY-effbe9c9abb7bb17337955ed8f53cb11/256/256/Image/Png/noFilter"
     },
     {
       "universe_id": 1001911915,
@@ -43726,11 +44169,13 @@
       "create_time": "2019-01-21",
       "create_year": 2019,
       "description": "💰Group Members get 5% boost when selling crops \nJoin Here: https://www.roblox.com/groups/4035125\n\n👋 Welcome to Farming and Friends! Grab your tractor and call your friends! \n\nIn Farming and Friends, you can grow cool crops and take care of cute animals together! Make your farm the best ever by expanding your plot, buying new equipment, and raising new animals! 🚜🌱🐷 \n\n🌾 Plant, Grow & Harvest Crops! \n🐮 Raise cute Animals! \n🏠 Buy Farm Buildings, Houses & Mansions! \n🌟 Free VIP Servers! \n🚫 Have issues",
-      "categories": [],
+      "categories": [
+        "Simulator"
+      ],
       "daily_players": {},
       "peak_players": 1392,
       "store_url": "https://www.roblox.com/games/2772610559/",
-      "icon_url": null
+      "icon_url": "https://tr.rbxcdn.com/180DAY-f08dad7642894721c6c02d7650a1f689/256/256/Image/Png/noFilter"
     },
     {
       "universe_id": 10108046010,
@@ -43741,11 +44186,13 @@
       "create_time": "2026-05-01",
       "create_year": 2026,
       "description": "🐮 Welcome to My Moo Farm!\n\n🌾 Grow crops and build your farm\n🐄 Raise cows and collect fresh milk\n⚙️ Unlock machines\n🍓 Make flavored milk\n🍰 Craft delicious cake recipes\n💰 Sell your products for Cash\n🏡 Expand your farm as you grow\n🛒 Upgrade your market\n\nFarm, craft, sell, upgrade, and grow your way to the ultimate moo farm! 🐮🥛\n\nHAVE FUN! 🍒",
-      "categories": [],
+      "categories": [
+        "Simulator"
+      ],
       "daily_players": {},
       "peak_players": 4098,
       "store_url": "https://www.roblox.com/games/134807373415131/",
-      "icon_url": null
+      "icon_url": "https://tr.rbxcdn.com/180DAY-b480a070b52798f9b757a4b6ed369885/256/256/Image/Png/noFilter"
     },
     {
       "universe_id": 10255320035,
@@ -43756,11 +44203,13 @@
       "create_time": "2026-06-01",
       "create_year": 2026,
       "description": "💤 Animals Keep Producing While Offline! \n\nBuild your farm, collect the harvest, process it in the factory, and send it via truck to become the richest!\n\n✨ FEATURES: \n🐔 Pet Care \n🏭 Process the harvested crops at the factory \n🚚 Vehicle Upgrades (Bikes coming soon) \n\n💡 HOW TO PLAY: \n1. Harvest the produce from animals.\n2. Process it in the factory to make the price more expensive.\n3. Send it using a vehicle to earn money!\n\n👍 Don't forget to like & favorite! \n\nTags: Tycoon, Farm, Farming Simulator, ",
-      "categories": [],
+      "categories": [
+        "Simulator"
+      ],
       "daily_players": {},
       "peak_players": 1461,
       "store_url": "https://www.roblox.com/games/78602687536170/",
-      "icon_url": null
+      "icon_url": "https://tr.rbxcdn.com/180DAY-578f025412de9b989c011efdc967b9eb/256/256/Image/Png/noFilter"
     },
     {
       "universe_id": 10231871497,
@@ -43771,11 +44220,13 @@
       "create_time": "2026-05-27",
       "create_year": 2026,
       "description": "Welcome to Make a Drill Farm!\n\nRoll for powerful drills 🎲\nMine ores and sell them for cash 💵\nBuild and expand your drill farm 🔨\nClimb the leaderboards and become #1 📈\n\n\n⛏️ Your drills keep mining and building even while you're offline!",
-      "categories": [],
+      "categories": [
+        "Simulator"
+      ],
       "daily_players": {},
       "peak_players": 5453,
       "store_url": "https://www.roblox.com/games/79315121100812/",
-      "icon_url": null
+      "icon_url": "https://tr.rbxcdn.com/180DAY-99dcfdc30c4d1292f56dcd3138fe6339/256/256/Image/Png/noFilter"
     },
     {
       "universe_id": 10349044906,
@@ -43786,11 +44237,13 @@
       "create_time": "2026-06-18",
       "create_year": 2026,
       "description": "🌱 Welcome to Farm an Island ! 🌱\n\n🌽 Plant seeds and harvest your crops\n💰 Trade your crops at the bank for cash\n🏝️ Buy more land and expand as far as you can\n🐥 Chickens will help you in your journey!\n\nCan you grow the largest Island Farm? Have fun!\n\n🎮 Experience it on PC, mobile, tablet, or console, with full controller compatibility!\n\n👍 Regular updates! Like the game and join the group!",
-      "categories": [],
+      "categories": [
+        "Simulator"
+      ],
       "daily_players": {},
       "peak_players": 2420,
       "store_url": "https://www.roblox.com/games/78769336859161/",
-      "icon_url": null
+      "icon_url": "https://tr.rbxcdn.com/180DAY-d76ac129c3e99705d8a97919bd0252bc/256/256/Image/Png/noFilter"
     },
     {
       "universe_id": 5866227438,
@@ -43801,11 +44254,13 @@
       "create_time": "2024-04-13",
       "create_year": 2024,
       "description": "Welcome to Build with Friends 🔨, the Best building game on Roblox!\nCollaborate with the server to build amazing builds in the center of the map or build with your friends and build your dream base!\n\n💾 Your Builds Save!\n⚒️ Invite your friends to build together!\n🏠 Build your dream House!\n\nBe sure to Join the group & 👍Like the game!\n\nGame Rules, be sure to follow them! 🔨\n1.  All builds and creations must be appropriate for the Roblox platform.\n2.  No Griefing, — Don’t go around ruining other people",
-      "categories": [],
+      "categories": [
+        "Simulator"
+      ],
       "daily_players": {},
       "peak_players": 2453,
       "store_url": "https://www.roblox.com/games/17121846721/",
-      "icon_url": null
+      "icon_url": "https://tr.rbxcdn.com/180DAY-5167509efdadfc9a3911c5d4d179d082/256/256/Image/Png/noFilter"
     },
     {
       "universe_id": 10376944238,
@@ -43816,11 +44271,15 @@
       "create_time": "2026-06-22",
       "create_year": 2026,
       "description": "🛠️ Build your incredible backrooms maze.\n👥 People will enter the maze.\n😈 Put monsters in the maze to catch people.\n⭐️ Collect cool buildings and strong monsters for more cash.\n🔍 Enter your maze or someone else's maze to explore.\n\n✅ Monsters catch people even offline. ✅",
-      "categories": [],
+      "categories": [
+        "Simulator",
+        "Survival",
+        "Horror"
+      ],
       "daily_players": {},
       "peak_players": 10547,
       "store_url": "https://www.roblox.com/games/134363641369914/",
-      "icon_url": null
+      "icon_url": "https://tr.rbxcdn.com/180DAY-8678b7dcadf1a0108bafb148ee61dbe0/256/256/Image/Png/noFilter"
     },
     {
       "universe_id": 7434179990,
@@ -43831,11 +44290,13 @@
       "create_time": "2025-03-25",
       "create_year": 2025,
       "description": "Welcome to Build and Survive!\n\n🔨 Build anything you want and try to survive the wave of monsters that spawn every round\n😊 Invite friends to collaborate on your base\n💾 Everything autosaves",
-      "categories": [],
+      "categories": [
+        "Simulator"
+      ],
       "daily_players": {},
       "peak_players": 1852,
       "store_url": "https://www.roblox.com/games/128263975853774/",
-      "icon_url": null
+      "icon_url": "https://tr.rbxcdn.com/180DAY-386a3b34cfa534f792f517c8f788abde/256/256/Image/Png/noFilter"
     },
     {
       "universe_id": 9856900540,
@@ -43846,11 +44307,13 @@
       "create_time": "2026-03-09",
       "create_year": 2026,
       "description": "💾 WORLDS ALWAYS SAVE! ✨\n\n⛏️ My World is an infinite block-building game that lets you build anything!\n🤯 Explore hundreds of blocks and furniture packs\n🌍 Create an unlimited number of Minecraft-inspired voxel worlds\n👥 Be creative and build together with your friends!",
-      "categories": [],
+      "categories": [
+        "Simulator"
+      ],
       "daily_players": {},
       "peak_players": 2552,
       "store_url": "https://www.roblox.com/games/116457084226860/",
-      "icon_url": null
+      "icon_url": "https://tr.rbxcdn.com/180DAY-fcb284fabc16d4ff08e88a63dcd67367/256/256/Image/Png/noFilter"
     },
     {
       "universe_id": 10119624374,
@@ -43861,11 +44324,13 @@
       "create_time": "2026-05-03",
       "create_year": 2026,
       "description": "Build whatever you imagine! ✨\n\n🚧 Builds save in free private servers! 🚧\n\n🏗️ Build with friends\n😄 Troll others\n🎨 Create anything\n😎 Have fun\n\nIf players are annoying you, play: https://www.roblox.com/games/132508658887786/Build-Anything-With-Friends",
-      "categories": [],
+      "categories": [
+        "Simulator"
+      ],
       "daily_players": {},
       "peak_players": 3044,
       "store_url": "https://www.roblox.com/games/114381378262504/",
-      "icon_url": null
+      "icon_url": "https://tr.rbxcdn.com/180DAY-1a53a06e603d0ea0ba53f5da0a824e67/256/256/Image/Png/noFilter"
     },
     {
       "universe_id": 8284003604,
@@ -43876,11 +44341,15 @@
       "create_time": "2025-07-28",
       "create_year": 2025,
       "description": "🏎️ Build a CART! How far can you go? 🚀\n🛠️ Buy engines, fuel and turrets!\n🚂 Build a train of carts!\n💰 Earn cash and upgrade!\n\n✨ Your cart drives OFFLINE, and makes you money! 🤑",
-      "categories": [],
+      "categories": [
+        "Simulator",
+        "Racing",
+        "Creator"
+      ],
       "daily_players": {},
       "peak_players": 5047,
       "store_url": "https://www.roblox.com/games/127590941940388/",
-      "icon_url": null
+      "icon_url": "https://tr.rbxcdn.com/180DAY-52b3952b8d19f4ce78374bfb6c147f41/256/256/Image/Png/noFilter"
     },
     {
       "universe_id": 10271190433,
@@ -43891,11 +44360,13 @@
       "create_time": "2026-06-04",
       "create_year": 2026,
       "description": "Welcome to Build Voxels With Friends!\n\nUnleash your creativity on a wide-open flat world where you can build anything you imagine.\n\n🧱 Choose from hundreds of unique blocks\n🎒 Click the build tool icon to explore all building options\n💾 Your creations auto-save in private servers or in your land\n🌍 Build solo, experiment, and create your own voxel world\n😎 Have fun and let your imagination go wild!",
-      "categories": [],
+      "categories": [
+        "Simulator"
+      ],
       "daily_players": {},
       "peak_players": 1531,
       "store_url": "https://www.roblox.com/games/99826571635411/",
-      "icon_url": null
+      "icon_url": "https://tr.rbxcdn.com/180DAY-0d94eea8ff180f8074d4356f0d20c146/256/256/Image/Png/noFilter"
     },
     {
       "universe_id": 8006379851,
@@ -43906,11 +44377,14 @@
       "create_time": "2025-06-26",
       "create_year": 2025,
       "description": "😁 Place down voxel building blocks and unleash your creativity! Build awesome creations, craft unique buildings, roleplay with friends, and let your imagination run wild! There’s no limit to what you can design in your own voxel world!\n\n❓ How to Build:\n- Open your Inventory\n- Select a Block\n- Click or Tap to Place\n- Use the Pickaxe to Mine Blocks!\n\n⭐ Like and favorite the game for new block updates every week!\n💾 Want to save your creations? Use the Personal Worlds feature!",
-      "categories": [],
+      "categories": [
+        "Simulator",
+        "Pets"
+      ],
       "daily_players": {},
       "peak_players": 3171,
       "store_url": "https://www.roblox.com/games/113457460682474/",
-      "icon_url": null
+      "icon_url": "https://tr.rbxcdn.com/180DAY-95bfb4c7631db67f9605d1b34325e95a/256/256/Image/Png/noFilter"
     },
     {
       "universe_id": 10188789719,
@@ -43921,11 +44395,13 @@
       "create_time": "2026-05-19",
       "create_year": 2026,
       "description": "Build with fun admin commands, with over 16 commands to choose from!\nUse the semicolon prefix (\";\") in chat to use commands, or use the commands menu (by clicking the button at the top-left of the screen).\n\n🛠️ Invite friends to Build\n💾 Your builds automatically save\n🏘️ Visit other players' plots\n🗺️ Big plot size",
-      "categories": [],
+      "categories": [
+        "Simulator"
+      ],
       "daily_players": {},
       "peak_players": 1208,
       "store_url": "https://www.roblox.com/games/113144689711939/",
-      "icon_url": null
+      "icon_url": "https://tr.rbxcdn.com/180DAY-56c8e83b3d67cab140d35f3b17d6564d/256/256/Image/Png/noFilter"
     },
     {
       "universe_id": 5851294352,
@@ -43936,11 +44412,13 @@
       "create_time": "2024-04-08",
       "create_year": 2024,
       "description": "🚧 The game is unfinished and is in PAID EARLY ACCESS. At least you get to try it early. We'll release frequent updates to add more missing features to the game. The game will become free-to-play across all platforms once core features are complete.\n\n💥 Experience some of the best destruction physics on Roblox yet. Unleash your chaos energy and destroy everything in sight.\n\n🏠 From every building, every map, every structure, even the terrain is fully destructible! Structure can fall if you care btw",
-      "categories": [],
+      "categories": [
+        "Other"
+      ],
       "daily_players": {},
       "peak_players": 1681,
       "store_url": "https://www.roblox.com/games/17070462969/",
-      "icon_url": null
+      "icon_url": "https://tr.rbxcdn.com/180DAY-fb32a6665ed8c908eb5827eb957788d5/256/256/Image/Png/noFilter"
     },
     {
       "universe_id": 6651302260,
@@ -43951,11 +44429,13 @@
       "create_time": "2024-10-08",
       "create_year": 2024,
       "description": "New Summer Camp MAP, New Skins, New tools and more!🚤\n\nGranny has to complete her daily tasks but the children have different plans!\n\n🎮 CONTROLS:\n\nPC: E to pick up items, F to kick as grandma, Hold LMB to throw your items.\nMobile: Click to pickup items, Click on kid to kick them, Click to throw\nConsole: X to pick up items, L3 to sprint, R2 to throw.\n\n👍Please LIKE the game and JOIN the GROUP for exclusive rewards!\n\n❤️ Made by Slungpy and 404problems",
-      "categories": [],
+      "categories": [
+        "Physics"
+      ],
       "daily_players": {},
       "peak_players": 3285,
       "store_url": "https://www.roblox.com/games/114861592677288/",
-      "icon_url": null
+      "icon_url": "https://tr.rbxcdn.com/180DAY-5344177bec71203f9959a664f3352997/256/256/Image/Png/noFilter"
     },
     {
       "universe_id": 7373459570,
@@ -43966,11 +44446,13 @@
       "create_time": "2025-03-14",
       "create_year": 2025,
       "description": "Welcome to the official experience of BEYBLADE X!\n⚔️Play BEYBLADE X with your rivals! \n\n📢 Aug. 5, 2026: Beta 11.0\n🐦‍🔥New Pack: BB-12 BEYBLADE PACK [RADIANCE PHOENIX]\n🪽New Legend Rare BEY: VOLT VALKERION S 4-70V\n🛡️New X Skill: PHALANX\n🎒4 New Items Added to the UGC Shop\n💬Bubble Chat Added\n➡Preset chat in lobby & battles.\n🔧🤝Rematch & Friend Buttons Added after Battles\n🔧🕺Battle End Poses Updated\n🔧Simplified Pack Opening\n\nThis game is currently in beta version.\n📝Please share your thoughts and request",
-      "categories": [],
+      "categories": [
+        "Fight"
+      ],
       "daily_players": {},
       "peak_players": 2039,
       "store_url": "https://www.roblox.com/games/85070202669030/",
-      "icon_url": null
+      "icon_url": "https://tr.rbxcdn.com/180DAY-2e1e9c0be228079ab1dde7b0176942f2/256/256/Image/Png/noFilter"
     },
     {
       "universe_id": 8375166760,
@@ -43981,11 +44463,13 @@
       "create_time": "2025-08-08",
       "create_year": 2025,
       "description": "🎮 How to Play\n• Press Q to attack\n• Collect horns and coins to unlock new skins\n• Rank Up by defeating players\n• Coins can be use to buy chest",
-      "categories": [],
+      "categories": [
+        "Fight"
+      ],
       "daily_players": {},
       "peak_players": 1682,
       "store_url": "https://www.roblox.com/games/101733180974837/",
-      "icon_url": null
+      "icon_url": "https://tr.rbxcdn.com/180DAY-22f4b12cc04cc9066800ffec77b51e75/256/256/Image/Png/noFilter"
     }
   ]
 }
