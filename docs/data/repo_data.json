@@ -1,11 +1,11 @@
 {
-  "snapshot_date": "2026-08-07T01:38:59.464464+00:00",
+  "snapshot_date": "2026-08-07T22:51:41.091125+00:00",
   "hero": {
     "title": "R.E.P.O.",
     "title_en": "R.E.P.O.",
     "subtitle_zh": "semiwork · 在线合作恐怖 · 2025 年 2 月 26 日",
     "subtitle_en": "semiwork · Online Co-op Horror · 2025 年 2 月 26 日",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3241660/a12c92856b71315da885924ea5e1d5290c8025b8/header_alt_assets_2.jpg?t=1778158882"
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3241660/1ea445e044a2d5b09cfa8291350b63ebed6e5741/header.jpg?t=1778158882"
   },
   "operations": [
     {
@@ -243,15 +243,15 @@
     "name_en": "R.E.P.O.",
     "short_description": "An online co-op horror game with up to 6 players. Locate valuable, fully physics-based objects and handle them with care as you retrieve and extract to satisfy your creator's desires.",
     "short_description_en": "An online co-op horror game with up to 6 players. Locate valuable, fully physics-based objects and handle them with care as you retrieve and extract to satisfy your creator's desires.",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3241660/a12c92856b71315da885924ea5e1d5290c8025b8/header_alt_assets_2.jpg?t=1778158882",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3241660/1ea445e044a2d5b09cfa8291350b63ebed6e5741/header.jpg?t=1778158882",
     "developers": [
       "semiwork"
     ],
     "publishers": [
       "semiwork"
     ],
-    "price": "¥ 22.75",
-    "price_en": "$6.49",
+    "price": "¥ 35.00",
+    "price_en": "$9.99",
     "release_date": "2025 年 2 月 26 日",
     "platforms": {
       "windows": true,
@@ -265,12 +265,12 @@
     "is_free": false
   },
   "reviews": {
-    "total_reviews": 415349,
-    "positive": 398917,
-    "negative": 16432,
+    "total_reviews": 415605,
+    "positive": 399162,
+    "negative": 16443,
     "positive_rate": 96.0,
     "review_score_desc": "Overwhelmingly Positive"
   },
-  "ccu": 19759,
-  "crawled_at": "2026-08-07T01:38:59.464464+00:00"
+  "ccu": 22564,
+  "crawled_at": "2026-08-07T22:51:41.091125+00:00"
 }
