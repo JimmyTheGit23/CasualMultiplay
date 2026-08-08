@@ -1,10 +1,10 @@
 {
-  "snapshot_date": "2026-08-07T22:51:41+08:00",
+  "snapshot_date": "2026-08-08T22:43:14+08:00",
   "hero": {
     "name": "黎明杀机",
-    "current_players": 59828,
+    "current_players": 61809,
     "positive_rate": 78.4,
-    "reviews_total": 925493,
+    "reviews_total": 925722,
     "price_label": "¥ 93.75",
     "release_date": "2016 年 6 月 14 日",
     "genres": [
@@ -12,6 +12,17 @@
     ]
   },
   "operations": [
+    {
+      "date": "2026-08-08",
+      "timestamp": 1786191628,
+      "title": "Dead by Daylight is getting a Survivor chat wheel soon, as Behaviour reveals plans to debloat a decade of systems",
+      "url": "https://steamstore-a.akamaihd.net/news/externalpost/PCGamesN/1840310314347473",
+      "author": "editor@pcgamesn.com",
+      "feed_label": "PCGamesN",
+      "feed_type": "媒体",
+      "is_patch": false,
+      "contents": "A new Dead by Daylight Q&A with Behaviour Interactive has revealed plans to debloat add-ons, along with a new chat wheel for Survivors. Read the full story on PCGamesN: <a href=\"https://www.pcgamesn.c"
+    },
     {
       "date": "2026-08-04",
       "timestamp": 1785855614,
@@ -88,17 +99,6 @@
       "feed_type": "官方",
       "is_patch": false,
       "contents": "ContentKiller UpdatesThe SlasherJump Scare anti-camp penalty no longer applies across multiple floorsPerk UpdatesNew Survivor PerksCross-ExaminationWhile in the Killer's Terror Radius and not being ch"
-    },
-    {
-      "date": "2026-07-21",
-      "timestamp": 1784624400,
-      "title": "Steam Global Top Sellers for week of 14 Jul — 21 July 2026",
-      "url": "https://steamstore-a.akamaihd.net/news/externalpost/SteamDB/1838407329269011",
-      "author": "SteamDB",
-      "feed_label": "SteamDB",
-      "feed_type": "媒体",
-      "is_patch": false,
-      "contents": "<a href=\"https://steamdb.info/topsellers/2026W30/?utm_source=Steam&utm_medium=Steam&utm_campaign=SteamRSS\"> </a> * <a href=\"https://steamdb.info/app/1623730/charts/?utm_source=Steam&utm_medium=Steam&u"
     }
   ],
   "patches": [],
@@ -159,11 +159,11 @@
     ]
   },
   "reviews": {
-    "total_reviews": 925493,
-    "positive": 725894,
-    "negative": 199599,
+    "total_reviews": 925722,
+    "positive": 726061,
+    "negative": 199661,
     "positive_rate": 78.4
   },
-  "ccu": 59828,
-  "crawled_at": "2026-08-07T22:51:41.017827"
+  "ccu": 61809,
+  "crawled_at": "2026-08-08T22:43:14.463979"
 }
