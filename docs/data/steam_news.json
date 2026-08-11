@@ -249,7 +249,7 @@
       "is_official": true,
       "contents": "Hey hey semibots! Here is yet another small update with some fixes and balancing! CHANGES BALANCING FIXES CHANGES Item Melee Weapons - Handling now properly scales with strength and should feel firmer"
     },
-    "crawled_at": "2026-08-10T22:54:13.747072"
+    "crawled_at": "2026-08-11T23:00:26.610875"
   },
   "Lethal Company": {
     "appid": 1966720,
@@ -501,11 +501,22 @@
       "is_official": true,
       "contents": "Hello, long time no see! Version 80 is out in beta for you to test. You can access it by opting into the public beta branch for Lethal Company on Steam. V80 brings a complete rework of March's exterio"
     },
-    "crawled_at": "2026-08-10T22:54:14.873522"
+    "crawled_at": "2026-08-11T23:00:27.873357"
   },
   "Phasmophobia": {
     "appid": 739630,
     "all": [
+      {
+        "date": "2026-08-11",
+        "datetime": "2026-08-11T14:06:06",
+        "title": "Phasmophobia Quality of Life Part 2 Preview",
+        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1840310314354216",
+        "author": "Tom Dent",
+        "feed_label": "Community Announcements",
+        "is_patch": false,
+        "is_official": true,
+        "contents": "Welcome back, Ghost Hunters.Thank you to everyone for the warm reception to our first Quality of Life update last month, and we’re glad to see many of you enjoying Phasmophobia once more.Today as prom"
+      },
       {
         "date": "2026-07-28",
         "datetime": "2026-07-28T16:14:53",
@@ -604,17 +615,6 @@
         "is_patch": false,
         "is_official": true,
         "contents": "Ghost Hunters, Between May 22nd, 2026 and May 25th, 2026 you will receive double XP and rewards for any contracts you complete in Phasmophobia. We hope you enjoy."
-      },
-      {
-        "date": "2026-05-19",
-        "datetime": "2026-05-19T10:58:55",
-        "title": "Phasmophobia - Hotfix v0.17.1.3",
-        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1832700592800634",
-        "author": "Tom Dent",
-        "feed_label": "Community Announcements",
-        "is_patch": true,
-        "is_official": true,
-        "contents": "Welcome back, Ghost Hunters. Today we have released an additional hotfix for Phasmophobia that is available now for all platforms.FixesFixed an issue that was causing a crash for players loading in to"
       }
     ],
     "patches": [
@@ -639,20 +639,20 @@
         "is_patch": true,
         "is_official": true,
         "contents": "Welcome back, Ghost Hunters.Today we have released a hotfix for Phasmophobia, addressing two issues raised by the community this week. The update is now available across all platforms.Patch notes:Fixe"
-      },
-      {
-        "date": "2026-05-19",
-        "datetime": "2026-05-19T10:58:55",
-        "title": "Phasmophobia - Hotfix v0.17.1.3",
-        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1832700592800634",
-        "author": "Tom Dent",
-        "feed_label": "Community Announcements",
-        "is_patch": true,
-        "is_official": true,
-        "contents": "Welcome back, Ghost Hunters. Today we have released an additional hotfix for Phasmophobia that is available now for all platforms.FixesFixed an issue that was causing a crash for players loading in to"
       }
     ],
     "announcements": [
+      {
+        "date": "2026-08-11",
+        "datetime": "2026-08-11T14:06:06",
+        "title": "Phasmophobia Quality of Life Part 2 Preview",
+        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1840310314354216",
+        "author": "Tom Dent",
+        "feed_label": "Community Announcements",
+        "is_patch": false,
+        "is_official": true,
+        "contents": "Welcome back, Ghost Hunters.Thank you to everyone for the warm reception to our first Quality of Life update last month, and we’re glad to see many of you enjoying Phasmophobia once more.Today as prom"
+      },
       {
         "date": "2026-07-28",
         "datetime": "2026-07-28T11:05:15",
@@ -732,15 +732,15 @@
       }
     ],
     "latest": {
-      "date": "2026-07-28",
-      "datetime": "2026-07-28T16:14:53",
-      "title": "Phasmophobia v0.18.0.1 - Hotfix",
-      "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1839041357038727",
+      "date": "2026-08-11",
+      "datetime": "2026-08-11T14:06:06",
+      "title": "Phasmophobia Quality of Life Part 2 Preview",
+      "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1840310314354216",
       "author": "Tom Dent",
       "feed_label": "Community Announcements",
-      "is_patch": true,
+      "is_patch": false,
       "is_official": true,
-      "contents": "Welcome back, Ghost Hunters. We've deployed a small hotfix to address feedback on the Equipment and Item slot assignments. Patch notes below: ChangesItems and Equipment will now be assigned a slot in "
+      "contents": "Welcome back, Ghost Hunters.Thank you to everyone for the warm reception to our first Quality of Life update last month, and we’re glad to see many of you enjoying Phasmophobia once more.Today as prom"
     },
     "latest_patch": {
       "date": "2026-07-28",
@@ -753,7 +753,7 @@
       "is_official": true,
       "contents": "Welcome back, Ghost Hunters. We've deployed a small hotfix to address feedback on the Equipment and Item slot assignments. Patch notes below: ChangesItems and Equipment will now be assigned a slot in "
     },
-    "crawled_at": "2026-08-10T22:54:16.004980"
+    "crawled_at": "2026-08-11T23:00:29.068251"
   },
   "Content Warning": {
     "appid": 2881650,
@@ -1005,7 +1005,7 @@
       "is_official": true,
       "contents": "Hello Spööktubers! Thank you for your patience as we're fixing bugs on all platforms.Here's a new patch fixing some stuff!For those of you wondering when crossplay between Switch 1 & 2 and other platf"
     },
-    "crawled_at": "2026-08-10T22:54:17.223322"
+    "crawled_at": "2026-08-11T23:00:30.385888"
   },
   "FEEDERS": {
     "appid": 4408510,
@@ -1256,7 +1256,7 @@
       "is_official": true,
       "contents": "Gave the HUD a fresh redesign. New look across the board — the status bars (Health, Stamina, Radiation) and the bottom belt all got reworked. Same info, cleaner read. More guns coming with new solo ex"
     },
-    "crawled_at": "2026-08-10T22:54:18.366769"
+    "crawled_at": "2026-08-11T23:00:31.657574"
   },
   "NARAKA: BLADEPOINT": {
     "appid": 1203220,
@@ -1497,7 +1497,7 @@
       "contents": "Dear players, NARAKA: BLADEPOINT is committed to creating a fair and healthy competitive environment. We have not only used new anti-cheat technologies, but also established special cheat-reporting re"
     },
     "latest_patch": null,
-    "crawled_at": "2026-08-10T22:54:19.503979"
+    "crawled_at": "2026-08-11T23:00:32.832041"
   },
   "Dead by Daylight": {
     "appid": 381210,
@@ -1738,6 +1738,6 @@
       "contents": "A new Dead by Daylight Q&A with Behaviour Interactive has revealed plans to debloat add-ons, along with a new chat wheel for Survivors. Read the full story on PCGamesN: <a href=\"https://www.pcgamesn.c"
     },
     "latest_patch": null,
-    "crawled_at": "2026-08-10T22:54:20.630591"
+    "crawled_at": "2026-08-11T23:00:34.008726"
   }
 }
