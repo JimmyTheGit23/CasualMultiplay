@@ -4,10 +4,10 @@
     "source": "Google Play",
     "url": "https://play.google.com/store/apps/details?id=com.game.tombbusters",
     "rating": 4.3,
-    "review_count": 1147,
+    "review_count": 1142,
     "description": "Hilarious Co-op Horror Extraction",
     "category": "FAMILY",
-    "crawled_at": "2026-08-11 23:00"
+    "crawled_at": "2026-08-12 22:58"
   },
   "google_play_reviews": [
     {
@@ -37,7 +37,7 @@
       "title": "Raiding Ancient Tombs was a Mistake",
       "video_id": "Keonsv7ZCf8",
       "url": "https://www.youtube.com/watch?v=Keonsv7ZCf8",
-      "views": "4,294,507 views",
+      "views": "4,295,201 views",
       "channel": "SMii7Yplus",
       "published": "3 years ago",
       "duration": "25:59"
@@ -46,7 +46,7 @@
       "title": "TOMB RAIDER: ADDITIONAL DEATHS DLC FOR LARA CROFT",
       "video_id": "Ku1a1uNknCc",
       "url": "https://www.youtube.com/watch?v=Ku1a1uNknCc",
-      "views": "749,775 views",
+      "views": "749,787 views",
       "channel": "Animation Domination High Def",
       "published": "13 years ago",
       "duration": "1:06"
@@ -55,7 +55,7 @@
       "title": "Tomb Busters - Nogla Won't Stay Away From Me!",
       "video_id": "EnuSSZ8nN4I",
       "url": "https://www.youtube.com/watch?v=EnuSSZ8nN4I",
-      "views": "480,269 views",
+      "views": "480,757 views",
       "channel": "VanossGaming",
       "published": "2 months ago",
       "duration": "27:18"
@@ -64,7 +64,7 @@
       "title": "A game based on 'The Snapshot Serial Killer'",
       "video_id": "2bIUhc95Orc",
       "url": "https://www.youtube.com/watch?v=2bIUhc95Orc",
-      "views": "420,078 views",
+      "views": "420,150 views",
       "channel": "8-BitRyan",
       "published": "1 year ago",
       "duration": "54:50"
@@ -73,7 +73,7 @@
       "title": "THIS MOBILE LETHAL-LIKE IS ACTUALLY HILARIOUS!!! | Tomb Busters (w/ Kyle & Squirrel)",
       "video_id": "O_JjLJQdGh0",
       "url": "https://www.youtube.com/watch?v=O_JjLJQdGh0",
-      "views": "428,208 views",
+      "views": "428,304 views",
       "channel": "CaRtOoNz",
       "published": "1 month ago",
       "duration": "1:26:18"
@@ -82,7 +82,7 @@
       "title": "Tomb Busters | Launch Gameplay Trailer",
       "video_id": "SozbL_ez72Y",
       "url": "https://www.youtube.com/watch?v=SozbL_ez72Y",
-      "views": "425,707 views",
+      "views": "425,726 views",
       "channel": "Tomb Busters",
       "published": "2 months ago",
       "duration": "0:56"
@@ -91,7 +91,7 @@
       "title": "Goofy Gang Explores SCARY TOMBS... (Tomb Busters)",
       "video_id": "l9WdUDC67bY",
       "url": "https://www.youtube.com/watch?v=l9WdUDC67bY",
-      "views": "163,309 views",
+      "views": "163,906 views",
       "channel": "Goofy Gang",
       "published": "2 months ago",
       "duration": "20:27"
@@ -100,7 +100,7 @@
       "title": "Three Idiots VS Funniest New Horror Game",
       "video_id": "m6ENmCcWhBc",
       "url": "https://www.youtube.com/watch?v=m6ENmCcWhBc",
-      "views": "149,798 views",
+      "views": "150,240 views",
       "channel": "SeeReax",
       "published": "2 months ago",
       "duration": "43:39"
@@ -109,7 +109,7 @@
       "title": "MARCEL KNOWS HIS FRIENDS TOO WELL!",
       "video_id": "QPOYv5LH884",
       "url": "https://www.youtube.com/watch?v=QPOYv5LH884",
-      "views": "223,091 views",
+      "views": "223,134 views",
       "channel": "Terroriser",
       "published": "1 month ago",
       "duration": "23:43"
@@ -118,9 +118,9 @@
       "title": "Tomb Raider apk download? #tombraider #gamingcommunity #tombraider2013gameplay #fpsgames ",
       "video_id": "RatbS4ym8QM",
       "url": "https://www.youtube.com/watch?v=RatbS4ym8QM",
-      "views": "130,295 views",
+      "views": "130,595 views",
       "channel": "Android Arena",
-      "published": "5 months ago",
+      "published": "6 months ago",
       "duration": "1:15"
     }
   ],
@@ -136,7 +136,7 @@
     "us": {
       "name": "美国",
       "rating": 4.55,
-      "rating_count": 830,
+      "rating_count": 831,
       "current_version": "1.31.11",
       "price": "Free",
       "genre": "Games"
@@ -215,6 +215,6 @@
       "rating_count": 0
     }
   },
-  "crawled_at": "2026-08-11T23:00:26.357688",
-  "crawled_date": "2026-08-11"
+  "crawled_at": "2026-08-12T22:58:37.679794",
+  "crawled_date": "2026-08-12"
 }
