@@ -1,10 +1,10 @@
 {
-  "snapshot_date": "2026-08-13T22:58:15+08:00",
+  "snapshot_date": "2026-08-14T22:38:27+08:00",
   "hero": {
     "name": "黎明杀机",
-    "current_players": 66145,
+    "current_players": 68393,
     "positive_rate": 78.4,
-    "reviews_total": 926823,
+    "reviews_total": 927050,
     "price_label": "¥ 93.75",
     "release_date": "2016 年 6 月 14 日",
     "genres": [
@@ -12,6 +12,17 @@
     ]
   },
   "operations": [
+    {
+      "date": "2026-08-14",
+      "timestamp": 1786726822,
+      "title": "Developer Update | Player Intent System",
+      "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1840944183780289",
+      "author": "Goblin_BHVR",
+      "feed_label": "Community Announcements",
+      "feed_type": "官方",
+      "is_patch": false,
+      "contents": "Last week, we hosted a Reddit AMA and on top of having a blast answering your questions, we noticed some topics really got you talking. One of those was the “chat wheel” system we’re working on to hel"
+    },
     {
       "date": "2026-08-08",
       "timestamp": 1786191628,
@@ -88,17 +99,6 @@
       "feed_type": "官方",
       "is_patch": false,
       "contents": "Greetings Fog Dwellers! Last week, we hosted our July Community Stream, where we dug into upcoming gameplay updates and shared more about the Grimoire (check out the stream recording here). Unfortunat"
-    },
-    {
-      "date": "2026-07-21",
-      "timestamp": 1784644290,
-      "title": "10.0.3 | Bugfix Patch",
-      "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1838407329269139",
-      "author": "Donnary21st",
-      "feed_label": "Community Announcements",
-      "feed_type": "官方",
-      "is_patch": false,
-      "contents": "ContentKiller UpdatesThe SlasherJump Scare anti-camp penalty no longer applies across multiple floorsPerk UpdatesNew Survivor PerksCross-ExaminationWhile in the Killer's Terror Radius and not being ch"
     }
   ],
   "patches": [],
@@ -159,11 +159,11 @@
     ]
   },
   "reviews": {
-    "total_reviews": 926823,
-    "positive": 726882,
-    "negative": 199941,
+    "total_reviews": 927050,
+    "positive": 727049,
+    "negative": 200001,
     "positive_rate": 78.4
   },
-  "ccu": 66145,
-  "crawled_at": "2026-08-13T22:58:15.277642"
+  "ccu": 68393,
+  "crawled_at": "2026-08-14T22:38:27.621652"
 }
