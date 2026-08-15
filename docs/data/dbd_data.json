@@ -1,10 +1,10 @@
 {
-  "snapshot_date": "2026-08-14T22:38:27+08:00",
+  "snapshot_date": "2026-08-15T22:36:19+08:00",
   "hero": {
     "name": "黎明杀机",
-    "current_players": 68393,
+    "current_players": 71934,
     "positive_rate": 78.4,
-    "reviews_total": 927050,
+    "reviews_total": 927263,
     "price_label": "¥ 93.75",
     "release_date": "2016 年 6 月 14 日",
     "genres": [
@@ -12,6 +12,17 @@
     ]
   },
   "operations": [
+    {
+      "date": "2026-08-15",
+      "timestamp": 1786791251,
+      "title": "Dead by Daylight's new chat wheel for Survivors is already better thanks to feedback",
+      "url": "https://steamstore-a.akamaihd.net/news/externalpost/PCGamesN/1840944183781962",
+      "author": "editor@pcgamesn.com",
+      "feed_label": "PCGamesN",
+      "feed_type": "媒体",
+      "is_patch": false,
+      "contents": "The Dead by Daylight Player Intent system lets you send preset messages to your fellow Survivors, making communication easier on the fly. Read the full story on PCGamesN: <a href=\"https://www.pcgamesn"
+    },
     {
       "date": "2026-08-14",
       "timestamp": 1786726822,
@@ -88,17 +99,6 @@
       "feed_type": "官方",
       "is_patch": false,
       "contents": "Welcome again, Fog Dwellers, to another round of stats. This time, we’ve got some stats from different parts of the globe. No matter how far apart you are or what language you speak, we are all connec"
-    },
-    {
-      "date": "2026-07-28",
-      "timestamp": 1785247243,
-      "title": "July Community Stream | Gameplay Showcase Recap",
-      "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1839041357038393",
-      "author": "rblanchard_bhvr",
-      "feed_label": "Community Announcements",
-      "feed_type": "官方",
-      "is_patch": false,
-      "contents": "Greetings Fog Dwellers! Last week, we hosted our July Community Stream, where we dug into upcoming gameplay updates and shared more about the Grimoire (check out the stream recording here). Unfortunat"
     }
   ],
   "patches": [],
@@ -159,11 +159,11 @@
     ]
   },
   "reviews": {
-    "total_reviews": 927050,
-    "positive": 727049,
-    "negative": 200001,
+    "total_reviews": 927263,
+    "positive": 727205,
+    "negative": 200058,
     "positive_rate": 78.4
   },
-  "ccu": 68393,
-  "crawled_at": "2026-08-14T22:38:27.621652"
+  "ccu": 71934,
+  "crawled_at": "2026-08-15T22:36:19.328454"
 }
