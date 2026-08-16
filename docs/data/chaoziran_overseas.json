@@ -4,10 +4,10 @@
     "source": "Google Play",
     "url": "https://play.google.com/store/apps/details?id=com.game.tombbusters",
     "rating": 4.4,
-    "review_count": 1190,
+    "review_count": 1182,
     "description": "Hilarious Co-op Horror Extraction",
     "category": "FAMILY",
-    "crawled_at": "2026-08-15 22:37"
+    "crawled_at": "2026-08-16 22:36"
   },
   "google_play_reviews": [
     {
@@ -37,7 +37,7 @@
       "title": "Raiding Ancient Tombs was a Mistake",
       "video_id": "Keonsv7ZCf8",
       "url": "https://www.youtube.com/watch?v=Keonsv7ZCf8",
-      "views": "4,297,148 views",
+      "views": "4,297,832 views",
       "channel": "SMii7Yplus",
       "published": "3 years ago",
       "duration": "25:59"
@@ -46,7 +46,7 @@
       "title": "TOMB RAIDER: ADDITIONAL DEATHS DLC FOR LARA CROFT",
       "video_id": "Ku1a1uNknCc",
       "url": "https://www.youtube.com/watch?v=Ku1a1uNknCc",
-      "views": "749,806 views",
+      "views": "749,812 views",
       "channel": "Animation Domination High Def",
       "published": "13 years ago",
       "duration": "1:06"
@@ -55,7 +55,7 @@
       "title": "Tomb Busters - Nogla Won't Stay Away From Me!",
       "video_id": "EnuSSZ8nN4I",
       "url": "https://www.youtube.com/watch?v=EnuSSZ8nN4I",
-      "views": "482,042 views",
+      "views": "482,407 views",
       "channel": "VanossGaming",
       "published": "2 months ago",
       "duration": "27:18"
@@ -64,7 +64,7 @@
       "title": "A game based on 'The Snapshot Serial Killer'",
       "video_id": "2bIUhc95Orc",
       "url": "https://www.youtube.com/watch?v=2bIUhc95Orc",
-      "views": "420,368 views",
+      "views": "420,441 views",
       "channel": "8-BitRyan",
       "published": "1 year ago",
       "duration": "54:50"
@@ -73,7 +73,7 @@
       "title": "THIS MOBILE LETHAL-LIKE IS ACTUALLY HILARIOUS!!! | Tomb Busters (w/ Kyle & Squirrel)",
       "video_id": "O_JjLJQdGh0",
       "url": "https://www.youtube.com/watch?v=O_JjLJQdGh0",
-      "views": "428,497 views",
+      "views": "428,567 views",
       "channel": "CaRtOoNz",
       "published": "1 month ago",
       "duration": "1:26:18"
@@ -82,7 +82,7 @@
       "title": "Tomb Busters | Launch Gameplay Trailer",
       "video_id": "SozbL_ez72Y",
       "url": "https://www.youtube.com/watch?v=SozbL_ez72Y",
-      "views": "425,800 views",
+      "views": "425,817 views",
       "channel": "Tomb Busters",
       "published": "2 months ago",
       "duration": "0:56"
@@ -91,7 +91,7 @@
       "title": "Goofy Gang Explores SCARY TOMBS... (Tomb Busters)",
       "video_id": "l9WdUDC67bY",
       "url": "https://www.youtube.com/watch?v=l9WdUDC67bY",
-      "views": "165,373 views",
+      "views": "165,749 views",
       "channel": "Goofy Gang",
       "published": "2 months ago",
       "duration": "20:27"
@@ -100,7 +100,7 @@
       "title": "Three Idiots VS Funniest New Horror Game",
       "video_id": "m6ENmCcWhBc",
       "url": "https://www.youtube.com/watch?v=m6ENmCcWhBc",
-      "views": "151,678 views",
+      "views": "152,029 views",
       "channel": "SeeReax",
       "published": "2 months ago",
       "duration": "43:39"
@@ -109,7 +109,7 @@
       "title": "MARCEL KNOWS HIS FRIENDS TOO WELL!",
       "video_id": "QPOYv5LH884",
       "url": "https://www.youtube.com/watch?v=QPOYv5LH884",
-      "views": "223,206 views",
+      "views": "223,228 views",
       "channel": "Terroriser",
       "published": "1 month ago",
       "duration": "23:43"
@@ -118,7 +118,7 @@
       "title": "Tomb Raider apk download? #tombraider #gamingcommunity #tombraider2013gameplay #fpsgames ",
       "video_id": "RatbS4ym8QM",
       "url": "https://www.youtube.com/watch?v=RatbS4ym8QM",
-      "views": "131,568 views",
+      "views": "131,918 views",
       "channel": "Android Arena",
       "published": "6 months ago",
       "duration": "1:15"
@@ -136,7 +136,7 @@
     "us": {
       "name": "美国",
       "rating": 4.55,
-      "rating_count": 839,
+      "rating_count": 842,
       "current_version": "1.31.27",
       "price": "Free",
       "genre": "Games"
@@ -144,7 +144,7 @@
     "jp": {
       "name": "日本",
       "rating": 4.41,
-      "rating_count": 2604,
+      "rating_count": 2615,
       "current_version": "1.31.27",
       "price": "無料",
       "genre": "Games"
@@ -215,6 +215,6 @@
       "rating_count": 0
     }
   },
-  "crawled_at": "2026-08-15T22:37:40.731965",
-  "crawled_date": "2026-08-15"
+  "crawled_at": "2026-08-16T22:36:31.544709",
+  "crawled_date": "2026-08-16"
 }
