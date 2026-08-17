@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "validated_at": "2026-08-17T06:37:29.059734+08:00",
-    "date": "2026-08-17",
+    "validated_at": "2026-08-18T06:40:45.041764+08:00",
+    "date": "2026-08-18",
     "passed": true,
     "total_checks": 18,
     "pass_count": 18,
@@ -108,7 +108,7 @@
     {
       "name": "history 最新日期",
       "status": "PASS",
-      "message": "今天 (2026-08-17) 数据已入库",
+      "message": "今天 (2026-08-18) 数据已入库",
       "details": []
     },
     {
