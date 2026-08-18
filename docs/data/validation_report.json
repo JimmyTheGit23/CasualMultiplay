@@ -1,12 +1,12 @@
 {
   "_meta": {
-    "validated_at": "2026-08-18T06:40:45.041764+08:00",
-    "date": "2026-08-18",
-    "passed": true,
+    "validated_at": "2026-08-19T06:39:51.644597+08:00",
+    "date": "2026-08-19",
+    "passed": false,
     "total_checks": 18,
-    "pass_count": 18,
+    "pass_count": 17,
     "warn_count": 0,
-    "error_count": 0
+    "error_count": 1
   },
   "checks": [
     {
@@ -95,9 +95,15 @@
     },
     {
       "name": "已发售 CCU=0",
-      "status": "PASS",
-      "message": "所有已发售游戏 CCU > 0",
-      "details": []
+      "status": "ERROR",
+      "message": "6 个已发售游戏 CCU=0",
+      "details": [
+        "超级变色龙",
+        "遥遥西土",
+        "地精捣蛋团",
+        "失落城堡2",
+        "Among Us"
+      ]
     },
     {
       "name": "潜力分=0 占比",
@@ -108,7 +114,7 @@
     {
       "name": "history 最新日期",
       "status": "PASS",
-      "message": "今天 (2026-08-18) 数据已入库",
+      "message": "今天 (2026-08-19) 数据已入库",
       "details": []
     },
     {
