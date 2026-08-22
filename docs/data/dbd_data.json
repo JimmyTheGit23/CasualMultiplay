@@ -1,10 +1,10 @@
 {
-  "snapshot_date": "2026-08-21T22:39:01+08:00",
+  "snapshot_date": "2026-08-22T22:35:57+08:00",
   "hero": {
     "name": "黎明杀机",
-    "current_players": 51094,
+    "current_players": 55979,
     "positive_rate": 78.4,
-    "reviews_total": 928398,
+    "reviews_total": 928586,
     "price_label": "¥ 93.75",
     "release_date": "2016 年 6 月 14 日",
     "genres": [
@@ -159,11 +159,11 @@
     ]
   },
   "reviews": {
-    "total_reviews": 928398,
-    "positive": 728059,
-    "negative": 200339,
+    "total_reviews": 928586,
+    "positive": 728187,
+    "negative": 200399,
     "positive_rate": 78.4
   },
-  "ccu": 51094,
-  "crawled_at": "2026-08-21T22:39:01.324684"
+  "ccu": 55979,
+  "crawled_at": "2026-08-22T22:35:57.060922"
 }
