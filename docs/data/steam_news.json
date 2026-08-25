@@ -249,7 +249,7 @@
       "is_official": true,
       "contents": "Hey hey semibots! Here is yet another small update with some fixes and balancing! CHANGES BALANCING FIXES CHANGES Item Melee Weapons - Handling now properly scales with strength and should feel firmer"
     },
-    "crawled_at": "2026-08-24T22:41:31.481265"
+    "crawled_at": "2026-08-25T22:42:31.089476"
   },
   "Lethal Company": {
     "appid": 1966720,
@@ -501,11 +501,22 @@
       "is_official": true,
       "contents": "Hello, long time no see! Version 80 is out in beta for you to test. You can access it by opting into the public beta branch for Lethal Company on Steam. V80 brings a complete rework of March's exterio"
     },
-    "crawled_at": "2026-08-24T22:41:32.703107"
+    "crawled_at": "2026-08-25T22:42:32.284055"
   },
   "Phasmophobia": {
     "appid": 739630,
     "all": [
+      {
+        "date": "2026-08-25",
+        "datetime": "2026-08-25T15:02:48",
+        "title": "Phasmophobia v0.19.0.0 - Quality of Life Part 2",
+        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1841579228678571",
+        "author": "Tom Dent",
+        "feed_label": "Community Announcements",
+        "is_patch": false,
+        "is_official": true,
+        "contents": "Welcome back, Ghost Hunters.Today we have released Phasmophobia v0.19.0.0, our latest update that brings with it the second part of our Quality of Life update. Full patch notes can be found below, and"
+      },
       {
         "date": "2026-08-11",
         "datetime": "2026-08-11T14:06:06",
@@ -604,17 +615,6 @@
         "is_patch": false,
         "is_official": true,
         "contents": "Welcome back, Ghost Hunters.Today we have released our latest update for Phasmophobia, addressing several known issues in the game.We are aware of the current ongoing issues in-game and are currently "
-      },
-      {
-        "date": "2026-05-21",
-        "datetime": "2026-05-21T13:29:46",
-        "title": "Phasmophobia - Double XP & Rewards",
-        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833334318568929",
-        "author": "Tom Dent",
-        "feed_label": "Community Announcements",
-        "is_patch": false,
-        "is_official": true,
-        "contents": "Ghost Hunters, Between May 22nd, 2026 and May 25th, 2026 you will receive double XP and rewards for any contracts you complete in Phasmophobia. We hope you enjoy."
       }
     ],
     "patches": [
@@ -643,6 +643,17 @@
     ],
     "announcements": [
       {
+        "date": "2026-08-25",
+        "datetime": "2026-08-25T15:02:48",
+        "title": "Phasmophobia v0.19.0.0 - Quality of Life Part 2",
+        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1841579228678571",
+        "author": "Tom Dent",
+        "feed_label": "Community Announcements",
+        "is_patch": false,
+        "is_official": true,
+        "contents": "Welcome back, Ghost Hunters.Today we have released Phasmophobia v0.19.0.0, our latest update that brings with it the second part of our Quality of Life update. Full patch notes can be found below, and"
+      },
+      {
         "date": "2026-08-11",
         "datetime": "2026-08-11T14:06:06",
         "title": "Phasmophobia Quality of Life Part 2 Preview",
@@ -718,29 +729,18 @@
         "is_patch": false,
         "is_official": true,
         "contents": "Welcome back, Ghost Hunters.Today we have released our latest update for Phasmophobia, addressing several known issues in the game.We are aware of the current ongoing issues in-game and are currently "
-      },
-      {
-        "date": "2026-05-21",
-        "datetime": "2026-05-21T13:29:46",
-        "title": "Phasmophobia - Double XP & Rewards",
-        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833334318568929",
-        "author": "Tom Dent",
-        "feed_label": "Community Announcements",
-        "is_patch": false,
-        "is_official": true,
-        "contents": "Ghost Hunters, Between May 22nd, 2026 and May 25th, 2026 you will receive double XP and rewards for any contracts you complete in Phasmophobia. We hope you enjoy."
       }
     ],
     "latest": {
-      "date": "2026-08-11",
-      "datetime": "2026-08-11T14:06:06",
-      "title": "Phasmophobia Quality of Life Part 2 Preview",
-      "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1840310314354216",
+      "date": "2026-08-25",
+      "datetime": "2026-08-25T15:02:48",
+      "title": "Phasmophobia v0.19.0.0 - Quality of Life Part 2",
+      "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1841579228678571",
       "author": "Tom Dent",
       "feed_label": "Community Announcements",
       "is_patch": false,
       "is_official": true,
-      "contents": "Welcome back, Ghost Hunters.Thank you to everyone for the warm reception to our first Quality of Life update last month, and we’re glad to see many of you enjoying Phasmophobia once more.Today as prom"
+      "contents": "Welcome back, Ghost Hunters.Today we have released Phasmophobia v0.19.0.0, our latest update that brings with it the second part of our Quality of Life update. Full patch notes can be found below, and"
     },
     "latest_patch": {
       "date": "2026-07-28",
@@ -753,7 +753,7 @@
       "is_official": true,
       "contents": "Welcome back, Ghost Hunters. We've deployed a small hotfix to address feedback on the Equipment and Item slot assignments. Patch notes below: ChangesItems and Equipment will now be assigned a slot in "
     },
-    "crawled_at": "2026-08-24T22:41:33.827651"
+    "crawled_at": "2026-08-25T22:42:33.541130"
   },
   "Content Warning": {
     "appid": 2881650,
@@ -1005,7 +1005,7 @@
       "is_official": true,
       "contents": "Hello Spööktubers! Thank you for your patience as we're fixing bugs on all platforms.Here's a new patch fixing some stuff!For those of you wondering when crossplay between Switch 1 & 2 and other platf"
     },
-    "crawled_at": "2026-08-24T22:41:34.951690"
+    "crawled_at": "2026-08-25T22:42:34.723272"
   },
   "FEEDERS": {
     "appid": 4408510,
@@ -1256,12 +1256,23 @@
       "is_official": true,
       "contents": "Gave the HUD a fresh redesign. New look across the board — the status bars (Health, Stamina, Radiation) and the bottom belt all got reworked. Same info, cleaner read. More guns coming with new solo ex"
     },
-    "crawled_at": "2026-08-24T22:41:36.123429"
+    "crawled_at": "2026-08-25T22:42:35.897283"
   },
   "NARAKA: BLADEPOINT": {
     "appid": 1203220,
     "all": [
       {
+        "date": "2026-08-25",
+        "datetime": "2026-08-25T12:48:37",
+        "title": "NARAKA: BLADEPOINT Banned Players List August 25th",
+        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1841579228678222",
+        "author": "Yeeeeee",
+        "feed_label": "Community Announcements",
+        "is_patch": false,
+        "is_official": true,
+        "contents": "Dear players,NARAKA: BLADEPOINT is committed to creating a fair and healthy competitive environment. We have not only used new anti-cheat technologies, but also established special cheat-reporting rew"
+      },
+      {
         "date": "2026-08-18",
         "datetime": "2026-08-18T14:32:58",
         "title": "NARAKA: BLADEPOINT Banned Players List August 18th",
@@ -1359,22 +1370,22 @@
         "is_patch": false,
         "is_official": true,
         "contents": "Dear players, The servers of NARAKA: BLADEPOINT will be suspended for maintenance from Jul. 15th, 2026 23:00 (UTC) to Jul. 16th, 2026 04:00 (UTC). We suggest you log out in advance and enter the game "
-      },
-      {
-        "date": "2026-07-14",
-        "datetime": "2026-07-14T10:07:34",
-        "title": "NARAKA: BLADEPOINT Banned Players List July 14th",
-        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1837955055365686",
-        "author": "Yeeeeee",
-        "feed_label": "Community Announcements",
-        "is_patch": false,
-        "is_official": true,
-        "contents": "Dear players, NARAKA: BLADEPOINT is committed to creating a fair and healthy competitive environment. We have not only used new anti-cheat technologies, but also established special cheat-reporting re"
       }
     ],
     "patches": [],
     "announcements": [
       {
+        "date": "2026-08-25",
+        "datetime": "2026-08-25T12:48:37",
+        "title": "NARAKA: BLADEPOINT Banned Players List August 25th",
+        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1841579228678222",
+        "author": "Yeeeeee",
+        "feed_label": "Community Announcements",
+        "is_patch": false,
+        "is_official": true,
+        "contents": "Dear players,NARAKA: BLADEPOINT is committed to creating a fair and healthy competitive environment. We have not only used new anti-cheat technologies, but also established special cheat-reporting rew"
+      },
+      {
         "date": "2026-08-18",
         "datetime": "2026-08-18T14:32:58",
         "title": "NARAKA: BLADEPOINT Banned Players List August 18th",
@@ -1472,37 +1483,37 @@
         "is_patch": false,
         "is_official": true,
         "contents": "Dear players, The servers of NARAKA: BLADEPOINT will be suspended for maintenance from Jul. 15th, 2026 23:00 (UTC) to Jul. 16th, 2026 04:00 (UTC). We suggest you log out in advance and enter the game "
-      },
-      {
-        "date": "2026-07-14",
-        "datetime": "2026-07-14T10:07:34",
-        "title": "NARAKA: BLADEPOINT Banned Players List July 14th",
-        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1837955055365686",
-        "author": "Yeeeeee",
-        "feed_label": "Community Announcements",
-        "is_patch": false,
-        "is_official": true,
-        "contents": "Dear players, NARAKA: BLADEPOINT is committed to creating a fair and healthy competitive environment. We have not only used new anti-cheat technologies, but also established special cheat-reporting re"
       }
     ],
     "latest": {
-      "date": "2026-08-18",
-      "datetime": "2026-08-18T14:32:58",
-      "title": "NARAKA: BLADEPOINT Banned Players List August 18th",
-      "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1840944183788968",
+      "date": "2026-08-25",
+      "datetime": "2026-08-25T12:48:37",
+      "title": "NARAKA: BLADEPOINT Banned Players List August 25th",
+      "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1841579228678222",
       "author": "Yeeeeee",
       "feed_label": "Community Announcements",
       "is_patch": false,
       "is_official": true,
-      "contents": "Dear players, NARAKA: BLADEPOINT is committed to creating a fair and healthy competitive environment. We have not only used new anti-cheat technologies, but also established special cheat-reporting re"
+      "contents": "Dear players,NARAKA: BLADEPOINT is committed to creating a fair and healthy competitive environment. We have not only used new anti-cheat technologies, but also established special cheat-reporting rew"
     },
     "latest_patch": null,
-    "crawled_at": "2026-08-24T22:41:37.245292"
+    "crawled_at": "2026-08-25T22:42:37.056520"
   },
   "Dead by Daylight": {
     "appid": 381210,
     "all": [
       {
+        "date": "2026-08-25",
+        "datetime": "2026-08-25T14:30:16",
+        "title": "10.1.0 | Chorus of Sin",
+        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1841579228678469",
+        "author": "Goblin_BHVR",
+        "feed_label": "Community Announcements",
+        "is_patch": false,
+        "is_official": true,
+        "contents": "ContentNew Killer: The JudgmentPOWER: WILL OF THE GODSDIVINE LIGHTPress and hold the Power Button to summon Divine Light for up to 3s.Divine Light moves away from The Judgment and is controlled with c"
+      },
+      {
         "date": "2026-08-15",
         "datetime": "2026-08-15T10:54:11",
         "title": "Dead by Daylight's new chat wheel for Survivors is already better thanks to feedback",
@@ -1600,22 +1611,22 @@
         "is_patch": false,
         "is_official": true,
         "contents": "Greetings Fog Dwellers! Last week, we hosted our July Community Stream, where we dug into upcoming gameplay updates and shared more about the Grimoire (check out the stream recording here). Unfortunat"
-      },
-      {
-        "date": "2026-07-21",
-        "datetime": "2026-07-21T14:31:30",
-        "title": "10.0.3 | Bugfix Patch",
-        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1838407329269139",
-        "author": "Donnary21st",
-        "feed_label": "Community Announcements",
-        "is_patch": false,
-        "is_official": true,
-        "contents": "ContentKiller UpdatesThe SlasherJump Scare anti-camp penalty no longer applies across multiple floorsPerk UpdatesNew Survivor PerksCross-ExaminationWhile in the Killer's Terror Radius and not being ch"
       }
     ],
     "patches": [],
     "announcements": [
       {
+        "date": "2026-08-25",
+        "datetime": "2026-08-25T14:30:16",
+        "title": "10.1.0 | Chorus of Sin",
+        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1841579228678469",
+        "author": "Goblin_BHVR",
+        "feed_label": "Community Announcements",
+        "is_patch": false,
+        "is_official": true,
+        "contents": "ContentNew Killer: The JudgmentPOWER: WILL OF THE GODSDIVINE LIGHTPress and hold the Power Button to summon Divine Light for up to 3s.Divine Light moves away from The Judgment and is controlled with c"
+      },
+      {
         "date": "2026-08-15",
         "datetime": "2026-08-15T10:54:11",
         "title": "Dead by Daylight's new chat wheel for Survivors is already better thanks to feedback",
@@ -1713,31 +1724,20 @@
         "is_patch": false,
         "is_official": true,
         "contents": "Greetings Fog Dwellers! Last week, we hosted our July Community Stream, where we dug into upcoming gameplay updates and shared more about the Grimoire (check out the stream recording here). Unfortunat"
-      },
-      {
-        "date": "2026-07-21",
-        "datetime": "2026-07-21T14:31:30",
-        "title": "10.0.3 | Bugfix Patch",
-        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1838407329269139",
-        "author": "Donnary21st",
-        "feed_label": "Community Announcements",
-        "is_patch": false,
-        "is_official": true,
-        "contents": "ContentKiller UpdatesThe SlasherJump Scare anti-camp penalty no longer applies across multiple floorsPerk UpdatesNew Survivor PerksCross-ExaminationWhile in the Killer's Terror Radius and not being ch"
       }
     ],
     "latest": {
-      "date": "2026-08-15",
-      "datetime": "2026-08-15T10:54:11",
-      "title": "Dead by Daylight's new chat wheel for Survivors is already better thanks to feedback",
-      "url": "https://steamstore-a.akamaihd.net/news/externalpost/PCGamesN/1840944183781962",
-      "author": "editor@pcgamesn.com",
-      "feed_label": "PCGamesN",
+      "date": "2026-08-25",
+      "datetime": "2026-08-25T14:30:16",
+      "title": "10.1.0 | Chorus of Sin",
+      "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1841579228678469",
+      "author": "Goblin_BHVR",
+      "feed_label": "Community Announcements",
       "is_patch": false,
-      "is_official": false,
-      "contents": "The Dead by Daylight Player Intent system lets you send preset messages to your fellow Survivors, making communication easier on the fly. Read the full story on PCGamesN: <a href=\"https://www.pcgamesn"
+      "is_official": true,
+      "contents": "ContentNew Killer: The JudgmentPOWER: WILL OF THE GODSDIVINE LIGHTPress and hold the Power Button to summon Divine Light for up to 3s.Divine Light moves away from The Judgment and is controlled with c"
     },
     "latest_patch": null,
-    "crawled_at": "2026-08-24T22:41:38.428418"
+    "crawled_at": "2026-08-25T22:42:38.194985"
   }
 }
