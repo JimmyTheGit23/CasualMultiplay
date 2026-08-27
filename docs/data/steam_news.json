@@ -249,7 +249,7 @@
       "is_official": true,
       "contents": "Hey hey semibots! Here is yet another small update with some fixes and balancing! CHANGES BALANCING FIXES CHANGES Item Melee Weapons - Handling now properly scales with strength and should feel firmer"
     },
-    "crawled_at": "2026-08-25T22:42:31.089476"
+    "crawled_at": "2026-08-27T03:11:06.337735"
   },
   "Lethal Company": {
     "appid": 1966720,
@@ -501,7 +501,7 @@
       "is_official": true,
       "contents": "Hello, long time no see! Version 80 is out in beta for you to test. You can access it by opting into the public beta branch for Lethal Company on Steam. V80 brings a complete rework of March's exterio"
     },
-    "crawled_at": "2026-08-25T22:42:32.284055"
+    "crawled_at": "2026-08-27T03:11:07.487916"
   },
   "Phasmophobia": {
     "appid": 739630,
@@ -753,7 +753,7 @@
       "is_official": true,
       "contents": "Welcome back, Ghost Hunters. We've deployed a small hotfix to address feedback on the Equipment and Item slot assignments. Patch notes below: ChangesItems and Equipment will now be assigned a slot in "
     },
-    "crawled_at": "2026-08-25T22:42:33.541130"
+    "crawled_at": "2026-08-27T03:11:08.631726"
   },
   "Content Warning": {
     "appid": 2881650,
@@ -1005,7 +1005,7 @@
       "is_official": true,
       "contents": "Hello Spööktubers! Thank you for your patience as we're fixing bugs on all platforms.Here's a new patch fixing some stuff!For those of you wondering when crossplay between Switch 1 & 2 and other platf"
     },
-    "crawled_at": "2026-08-25T22:42:34.723272"
+    "crawled_at": "2026-08-27T03:11:09.758215"
   },
   "FEEDERS": {
     "appid": 4408510,
@@ -1256,7 +1256,7 @@
       "is_official": true,
       "contents": "Gave the HUD a fresh redesign. New look across the board — the status bars (Health, Stamina, Radiation) and the bottom belt all got reworked. Same info, cleaner read. More guns coming with new solo ex"
     },
-    "crawled_at": "2026-08-25T22:42:35.897283"
+    "crawled_at": "2026-08-27T03:11:10.885939"
   },
   "NARAKA: BLADEPOINT": {
     "appid": 1203220,
@@ -1497,12 +1497,34 @@
       "contents": "Dear players,NARAKA: BLADEPOINT is committed to creating a fair and healthy competitive environment. We have not only used new anti-cheat technologies, but also established special cheat-reporting rew"
     },
     "latest_patch": null,
-    "crawled_at": "2026-08-25T22:42:37.056520"
+    "crawled_at": "2026-08-27T03:11:12.015746"
   },
   "Dead by Daylight": {
     "appid": 381210,
     "all": [
       {
+        "date": "2026-08-26",
+        "datetime": "2026-08-26T17:09:25",
+        "title": "Dead by Daylight will be testing out Denuvo Anti-Cheat and other systems soon",
+        "url": "https://steamstore-a.akamaihd.net/news/externalpost/GamingOnLinux/1842212951297629",
+        "author": "",
+        "feed_label": "GamingOnLinux",
+        "is_patch": false,
+        "is_official": false,
+        "contents": "Dead by Daylight, my current online co-op fixation to play with the partner, is set for some changes with the anti-cheat systems. Read the full article here: https://www.gamingonlinux.com/2026/08/dead"
+      },
+      {
+        "date": "2026-08-26",
+        "datetime": "2026-08-26T13:59:51",
+        "title": "Anti-Cheat Trials",
+        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1842212951296959",
+        "author": "amanda_bhvr",
+        "feed_label": "Community Announcements",
+        "is_patch": false,
+        "is_official": true,
+        "contents": "Greetings Fog Dwellers! Recently, we shared a survey asking for your thoughts on anti-cheat in Dead by Daylight. One message came through loud and clear: you feel we could be doing more. We hear you a"
+      },
+      {
         "date": "2026-08-25",
         "datetime": "2026-08-25T14:30:16",
         "title": "10.1.0 | Chorus of Sin",
@@ -1589,33 +1611,33 @@
         "is_patch": false,
         "is_official": true,
         "contents": "We've spent over a year building the Chorus of Sin Chapter with you through The Grimoire. You've been with us every step of the way, one vote at a time, and we wanted to thank you for helping us bring"
-      },
-      {
-        "date": "2026-07-29",
-        "datetime": "2026-07-29T17:11:32",
-        "title": "Stats | Global Stats",
-        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1839676055883131",
-        "author": "rblanchard_bhvr",
-        "feed_label": "Community Announcements",
-        "is_patch": false,
-        "is_official": true,
-        "contents": "Welcome again, Fog Dwellers, to another round of stats. This time, we’ve got some stats from different parts of the globe. No matter how far apart you are or what language you speak, we are all connec"
-      },
-      {
-        "date": "2026-07-28",
-        "datetime": "2026-07-28T14:00:43",
-        "title": "July Community Stream | Gameplay Showcase Recap",
-        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1839041357038393",
-        "author": "rblanchard_bhvr",
-        "feed_label": "Community Announcements",
-        "is_patch": false,
-        "is_official": true,
-        "contents": "Greetings Fog Dwellers! Last week, we hosted our July Community Stream, where we dug into upcoming gameplay updates and shared more about the Grimoire (check out the stream recording here). Unfortunat"
       }
     ],
     "patches": [],
     "announcements": [
       {
+        "date": "2026-08-26",
+        "datetime": "2026-08-26T17:09:25",
+        "title": "Dead by Daylight will be testing out Denuvo Anti-Cheat and other systems soon",
+        "url": "https://steamstore-a.akamaihd.net/news/externalpost/GamingOnLinux/1842212951297629",
+        "author": "",
+        "feed_label": "GamingOnLinux",
+        "is_patch": false,
+        "is_official": false,
+        "contents": "Dead by Daylight, my current online co-op fixation to play with the partner, is set for some changes with the anti-cheat systems. Read the full article here: https://www.gamingonlinux.com/2026/08/dead"
+      },
+      {
+        "date": "2026-08-26",
+        "datetime": "2026-08-26T13:59:51",
+        "title": "Anti-Cheat Trials",
+        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1842212951296959",
+        "author": "amanda_bhvr",
+        "feed_label": "Community Announcements",
+        "is_patch": false,
+        "is_official": true,
+        "contents": "Greetings Fog Dwellers! Recently, we shared a survey asking for your thoughts on anti-cheat in Dead by Daylight. One message came through loud and clear: you feel we could be doing more. We hear you a"
+      },
+      {
         "date": "2026-08-25",
         "datetime": "2026-08-25T14:30:16",
         "title": "10.1.0 | Chorus of Sin",
@@ -1702,42 +1724,20 @@
         "is_patch": false,
         "is_official": true,
         "contents": "We've spent over a year building the Chorus of Sin Chapter with you through The Grimoire. You've been with us every step of the way, one vote at a time, and we wanted to thank you for helping us bring"
-      },
-      {
-        "date": "2026-07-29",
-        "datetime": "2026-07-29T17:11:32",
-        "title": "Stats | Global Stats",
-        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1839676055883131",
-        "author": "rblanchard_bhvr",
-        "feed_label": "Community Announcements",
-        "is_patch": false,
-        "is_official": true,
-        "contents": "Welcome again, Fog Dwellers, to another round of stats. This time, we’ve got some stats from different parts of the globe. No matter how far apart you are or what language you speak, we are all connec"
-      },
-      {
-        "date": "2026-07-28",
-        "datetime": "2026-07-28T14:00:43",
-        "title": "July Community Stream | Gameplay Showcase Recap",
-        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1839041357038393",
-        "author": "rblanchard_bhvr",
-        "feed_label": "Community Announcements",
-        "is_patch": false,
-        "is_official": true,
-        "contents": "Greetings Fog Dwellers! Last week, we hosted our July Community Stream, where we dug into upcoming gameplay updates and shared more about the Grimoire (check out the stream recording here). Unfortunat"
       }
     ],
     "latest": {
-      "date": "2026-08-25",
-      "datetime": "2026-08-25T14:30:16",
-      "title": "10.1.0 | Chorus of Sin",
-      "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1841579228678469",
-      "author": "Goblin_BHVR",
-      "feed_label": "Community Announcements",
+      "date": "2026-08-26",
+      "datetime": "2026-08-26T17:09:25",
+      "title": "Dead by Daylight will be testing out Denuvo Anti-Cheat and other systems soon",
+      "url": "https://steamstore-a.akamaihd.net/news/externalpost/GamingOnLinux/1842212951297629",
+      "author": "",
+      "feed_label": "GamingOnLinux",
       "is_patch": false,
-      "is_official": true,
-      "contents": "ContentNew Killer: The JudgmentPOWER: WILL OF THE GODSDIVINE LIGHTPress and hold the Power Button to summon Divine Light for up to 3s.Divine Light moves away from The Judgment and is controlled with c"
+      "is_official": false,
+      "contents": "Dead by Daylight, my current online co-op fixation to play with the partner, is set for some changes with the anti-cheat systems. Read the full article here: https://www.gamingonlinux.com/2026/08/dead"
     },
     "latest_patch": null,
-    "crawled_at": "2026-08-25T22:42:38.194985"
+    "crawled_at": "2026-08-27T03:11:13.149724"
   }
 }

@@ -1,10 +1,10 @@
 {
-  "snapshot_date": "2026-08-25T22:41:11+08:00",
+  "snapshot_date": "2026-08-27T03:09:41+08:00",
   "hero": {
     "name": "黎明杀机",
-    "current_players": 61731,
+    "current_players": 55321,
     "positive_rate": 78.4,
-    "reviews_total": 929438,
+    "reviews_total": 930015,
     "price_label": "¥ 37.50",
     "release_date": "2016 年 6 月 14 日",
     "genres": [
@@ -12,6 +12,28 @@
     ]
   },
   "operations": [
+    {
+      "date": "2026-08-26",
+      "timestamp": 1787764165,
+      "title": "Dead by Daylight will be testing out Denuvo Anti-Cheat and other systems soon",
+      "url": "https://steamstore-a.akamaihd.net/news/externalpost/GamingOnLinux/1842212951297629",
+      "author": "",
+      "feed_label": "GamingOnLinux",
+      "feed_type": "媒体",
+      "is_patch": false,
+      "contents": "Dead by Daylight, my current online co-op fixation to play with the partner, is set for some changes with the anti-cheat systems. Read the full article here: https://www.gamingonlinux.com/2026/08/dead"
+    },
+    {
+      "date": "2026-08-26",
+      "timestamp": 1787752791,
+      "title": "Anti-Cheat Trials",
+      "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1842212951296959",
+      "author": "amanda_bhvr",
+      "feed_label": "Community Announcements",
+      "feed_type": "官方",
+      "is_patch": false,
+      "contents": "Greetings Fog Dwellers! Recently, we shared a survey asking for your thoughts on anti-cheat in Dead by Daylight. One message came through loud and clear: you feel we could be doing more. We hear you a"
+    },
     {
       "date": "2026-08-25",
       "timestamp": 1787668216,
@@ -77,28 +99,6 @@
       "feed_type": "官方",
       "is_patch": false,
       "contents": "FeaturesNew Killer: The JudgmentPOWER: WILL OF THE GODSDIVINE LIGHTPress and hold the Power Button (M2) to summon Divine Light for up to 3s.Divine Light moves away from The Judgment and is controlled "
-    },
-    {
-      "date": "2026-07-31",
-      "timestamp": 1785486109,
-      "title": "Dead by Daylight's Chorus of Sin Chapter to get first-ever early access period, if you're dedicated enough",
-      "url": "https://steamstore-a.akamaihd.net/news/externalpost/PCGamesN/1839676055887482",
-      "author": "editor@pcgamesn.com",
-      "feed_label": "PCGamesN",
-      "feed_type": "媒体",
-      "is_patch": false,
-      "contents": "Dead by Daylight keeps shaking things up with the community-driven Chorus of Sin Chapter, providing a means for gamers to get early access. Read the full story on PCGamesN: <a href=\"https://www.pcgame"
-    },
-    {
-      "date": "2026-07-30",
-      "timestamp": 1785412812,
-      "title": "Chorus of Sin - Early Access",
-      "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1839676055885005",
-      "author": "Omnia_BHVR",
-      "feed_label": "Community Announcements",
-      "feed_type": "官方",
-      "is_patch": false,
-      "contents": "We've spent over a year building the Chorus of Sin Chapter with you through The Grimoire. You've been with us every step of the way, one vote at a time, and we wanted to thank you for helping us bring"
     }
   ],
   "patches": [],
@@ -139,7 +139,7 @@
     "name_en": "Dead by Daylight",
     "short_description": "10年恐惧相伴。10年的惊吓与刺激体验。10年的残暴献祭与惊险逃脱。 永久困于邪恶的幻境之中，即使死亡也无法逃脱，这是一场需要勇气和智慧的较量，四名意志坚定的逃生者在残忍对局中面对嗜血杀手。选择一方，进入多人非对称竞技游戏世界，获得最佳恐怖游戏体验。",
     "short_description_en": "10 years of horror. 10 years of jump scares and close calls. 10 years of brutal sacrifices and thrilling escapes. Trapped forever in a realm of eldritch evil where even death is not an escape, four determined Survivors face a bloodthirsty Killer in a vicious game of nerve and wits.",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/381210/70faaaf204a2d3bd46cf4915f542e93fe76f16aa/header_alt_assets_9.jpg?t=1787688694",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/381210/70faaaf204a2d3bd46cf4915f542e93fe76f16aa/header_alt_assets_9.jpg?t=1787769494",
     "developers": [
       "Behaviour Interactive Inc."
     ],
@@ -159,11 +159,11 @@
     ]
   },
   "reviews": {
-    "total_reviews": 929438,
-    "positive": 728803,
-    "negative": 200635,
+    "total_reviews": 930015,
+    "positive": 729151,
+    "negative": 200864,
     "positive_rate": 78.4
   },
-  "ccu": 61731,
-  "crawled_at": "2026-08-25T22:41:11.728649"
+  "ccu": 55321,
+  "crawled_at": "2026-08-27T03:09:41.545124"
 }
