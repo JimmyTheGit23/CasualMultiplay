@@ -4,10 +4,10 @@
     "source": "Google Play",
     "url": "https://play.google.com/store/apps/details?id=com.game.tombbusters",
     "rating": 4.4,
-    "review_count": 1317,
+    "review_count": 1321,
     "description": "Hilarious Co-op Horror Extraction",
     "category": "FAMILY",
-    "crawled_at": "2026-08-28 06:11"
+    "crawled_at": "2026-08-29 03:44"
   },
   "google_play_reviews": [
     {
@@ -37,7 +37,7 @@
       "title": "Raiding Ancient Tombs was a Mistake",
       "video_id": "Keonsv7ZCf8",
       "url": "https://www.youtube.com/watch?v=Keonsv7ZCf8",
-      "views": "4,305,093 views",
+      "views": "4,305,823 views",
       "channel": "SMii7Yplus",
       "published": "3 years ago",
       "duration": "25:59"
@@ -55,7 +55,7 @@
       "title": "Buster Jam - All Bosses (Demo)",
       "video_id": "62mNwQtpjOM",
       "url": "https://www.youtube.com/watch?v=62mNwQtpjOM",
-      "views": "1,342,372 views",
+      "views": "1,345,077 views",
       "channel": "TheSavchynGames",
       "published": "10 months ago",
       "duration": "9:36"
@@ -64,7 +64,7 @@
       "title": "TOMB RAIDER: ADDITIONAL DEATHS DLC FOR LARA CROFT",
       "video_id": "Ku1a1uNknCc",
       "url": "https://www.youtube.com/watch?v=Ku1a1uNknCc",
-      "views": "749,906 views",
+      "views": "749,920 views",
       "channel": "Animation Domination High Def",
       "published": "13 years ago",
       "duration": "1:06"
@@ -73,7 +73,7 @@
       "title": "Tomb Busters - Nogla Won't Stay Away From Me!",
       "video_id": "EnuSSZ8nN4I",
       "url": "https://www.youtube.com/watch?v=EnuSSZ8nN4I",
-      "views": "485,809 views",
+      "views": "486,039 views",
       "channel": "VanossGaming",
       "published": "2 months ago",
       "duration": "27:18"
@@ -82,7 +82,7 @@
       "title": "A game based on 'The Snapshot Serial Killer'",
       "video_id": "2bIUhc95Orc",
       "url": "https://www.youtube.com/watch?v=2bIUhc95Orc",
-      "views": "421,170 views",
+      "views": "421,212 views",
       "channel": "8-BitRyan",
       "published": "1 year ago",
       "duration": "54:50"
@@ -91,7 +91,7 @@
       "title": "Don't get caught! Steal the treasure from this dangerous place!【 Paranormal Squad 】",
       "video_id": "uf49EB_S4rc",
       "url": "https://www.youtube.com/watch?v=uf49EB_S4rc",
-      "views": "257,928 views",
+      "views": "258,902 views",
       "channel": "ちろぴの",
       "published": "1 month ago",
       "duration": "32:10"
@@ -100,7 +100,7 @@
       "title": "THIS MOBILE LETHAL-LIKE IS ACTUALLY HILARIOUS!!! | Tomb Busters (w/ Kyle & Squirrel)",
       "video_id": "O_JjLJQdGh0",
       "url": "https://www.youtube.com/watch?v=O_JjLJQdGh0",
-      "views": "429,401 views",
+      "views": "429,506 views",
       "channel": "CaRtOoNz",
       "published": "2 months ago",
       "duration": "1:26:18"
@@ -109,7 +109,7 @@
       "title": "Tomb Busters | Launch Gameplay Trailer",
       "video_id": "SozbL_ez72Y",
       "url": "https://www.youtube.com/watch?v=SozbL_ez72Y",
-      "views": "425,978 views",
+      "views": "426,011 views",
       "channel": "Tomb Busters",
       "published": "3 months ago",
       "duration": "0:56"
@@ -118,7 +118,7 @@
       "title": "Goofy Gang Explores SCARY TOMBS... (Tomb Busters)",
       "video_id": "l9WdUDC67bY",
       "url": "https://www.youtube.com/watch?v=l9WdUDC67bY",
-      "views": "170,055 views",
+      "views": "170,561 views",
       "channel": "Goofy Gang",
       "published": "2 months ago",
       "duration": "20:27"
@@ -136,7 +136,7 @@
     "us": {
       "name": "美国",
       "rating": 4.56,
-      "rating_count": 877,
+      "rating_count": 880,
       "current_version": "1.31.29",
       "price": "Free",
       "genre": "Games"
@@ -144,7 +144,7 @@
     "jp": {
       "name": "日本",
       "rating": 4.41,
-      "rating_count": 2740,
+      "rating_count": 2752,
       "current_version": "1.31.29",
       "price": "無料",
       "genre": "Games"
@@ -215,6 +215,6 @@
       "rating_count": 0
     }
   },
-  "crawled_at": "2026-08-28T06:11:22.929637",
-  "crawled_date": "2026-08-28"
+  "crawled_at": "2026-08-29T03:45:10.944928",
+  "crawled_date": "2026-08-29"
 }

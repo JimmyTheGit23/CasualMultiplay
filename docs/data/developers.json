@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "fetched_at": "2026-08-28T14:07:00.146682+08:00",
+    "fetched_at": "2026-08-29T11:40:52.092992+08:00",
     "total_developers": 43
   },
   "developers": {
@@ -21,6 +21,19 @@
             "NetEase Games "
           ],
           "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1203220/64ac5c56d95a510ae56c7dace46fdafd0881642b/header_schinese.jpg?t=1785376833"
+        },
+        {
+          "appid": "2732000",
+          "name": "永劫无间 - 鸢纱 · 崔三娘捆绑包",
+          "release_date": "2023 年 12 月 20 日",
+          "type": "dlc",
+          "developers": [
+            "24 Entertainment"
+          ],
+          "publishers": [
+            "NetEase Games"
+          ],
+          "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2732000/header_schinese.jpg?t=1767857569"
         },
         {
           "appid": "2731960",
@@ -47,19 +60,6 @@
             "NetEase Games"
           ],
           "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2731970/header_schinese.jpg?t=1767858231"
-        },
-        {
-          "appid": "2732000",
-          "name": "永劫无间 - 鸢纱 · 崔三娘捆绑包",
-          "release_date": "2023 年 12 月 20 日",
-          "type": "dlc",
-          "developers": [
-            "24 Entertainment"
-          ],
-          "publishers": [
-            "NetEase Games"
-          ],
-          "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2732000/header_schinese.jpg?t=1767857569"
         },
         {
           "appid": "2731980",
@@ -99,6 +99,19 @@
           "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1203220/64ac5c56d95a510ae56c7dace46fdafd0881642b/header_schinese.jpg?t=1785376833"
         },
         {
+          "appid": "2732000",
+          "name": "永劫无间 - 鸢纱 · 崔三娘捆绑包",
+          "release_date": "2023 年 12 月 20 日",
+          "type": "dlc",
+          "developers": [
+            "24 Entertainment"
+          ],
+          "publishers": [
+            "NetEase Games"
+          ],
+          "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2732000/header_schinese.jpg?t=1767857569"
+        },
+        {
           "appid": "2731960",
           "name": "永劫无间 - 飞鼠",
           "release_date": "2023 年 12 月 20 日",
@@ -123,19 +136,6 @@
             "NetEase Games"
           ],
           "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2731970/header_schinese.jpg?t=1767858231"
-        },
-        {
-          "appid": "2732000",
-          "name": "永劫无间 - 鸢纱 · 崔三娘捆绑包",
-          "release_date": "2023 年 12 月 20 日",
-          "type": "dlc",
-          "developers": [
-            "24 Entertainment"
-          ],
-          "publishers": [
-            "NetEase Games"
-          ],
-          "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2732000/header_schinese.jpg?t=1767857569"
         },
         {
           "appid": "2731980",
@@ -254,19 +254,6 @@
           "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/353700/header.jpg?t=1603130568"
         },
         {
-          "appid": "2213630",
-          "name": "The Eternal Cylinder Soundtrack",
-          "release_date": "2022 年 12 月 22 日",
-          "type": "music",
-          "developers": [
-            "ACE Team"
-          ],
-          "publishers": [
-            "Good Shepherd Entertainment"
-          ],
-          "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2213630/header.jpg?t=1671732927"
-        },
-        {
           "appid": "2277540",
           "name": "Clash: Artifacts of Chaos Soundtrack",
           "release_date": "2023 年 3 月 10 日",
@@ -278,6 +265,19 @@
             "Nacon"
           ],
           "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2277540/header.jpg?t=1678468355"
+        },
+        {
+          "appid": "2213630",
+          "name": "The Eternal Cylinder Soundtrack",
+          "release_date": "2022 年 12 月 22 日",
+          "type": "music",
+          "developers": [
+            "ACE Team"
+          ],
+          "publishers": [
+            "Good Shepherd Entertainment"
+          ],
+          "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2213630/header.jpg?t=1671732927"
         },
         {
           "appid": "1407700",
@@ -479,19 +479,6 @@
           "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4318580/fe996d56580b8242624a1bd464fcbf60c46ccf31/header.jpg?t=1769540708"
         },
         {
-          "appid": "2515990",
-          "name": "黎明杀机-异形 ",
-          "release_date": "2023 年 8 月 29 日",
-          "type": "dlc",
-          "developers": [
-            "Behaviour Interactive Inc."
-          ],
-          "publishers": [
-            "Behaviour Interactive Inc."
-          ],
-          "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2515990/header.jpg?t=1706631917"
-        },
-        {
           "appid": "3103150",
           "name": "Dead by Daylight - Castlevania Chapter",
           "release_date": "2024 年 8 月 27 日",
@@ -503,6 +490,19 @@
             "Behaviour Interactive Inc."
           ],
           "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3103150/header.jpg?t=1740003609"
+        },
+        {
+          "appid": "2515990",
+          "name": "黎明杀机-异形 ",
+          "release_date": "2023 年 8 月 29 日",
+          "type": "dlc",
+          "developers": [
+            "Behaviour Interactive Inc."
+          ],
+          "publishers": [
+            "Behaviour Interactive Inc."
+          ],
+          "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2515990/header.jpg?t=1706631917"
         },
         {
           "appid": "2661270",
@@ -518,15 +518,17 @@
           "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2661270/header.jpg?t=1712678426"
         },
         {
-          "appid": "3796620",
-          "name": "Dead by Daylight: Five Nights at Freddy’s",
-          "release_date": "2025 年 6 月 17 日",
+          "appid": "1135280",
+          "name": "Dead by Daylight - Stranger Things Chapter",
+          "release_date": "2019 年 9 月 17 日",
           "type": "dlc",
           "developers": [
             "Behaviour Interactive Inc."
           ],
-          "publishers": [],
-          "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3796620/f595a9f57ffba6ec18fe09fb8e705c061b629849/header.jpg?t=1779975883"
+          "publishers": [
+            "Behaviour Interactive Inc."
+          ],
+          "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1135280/header.jpg?t=1699306162"
         }
       ],
       "is_first_game": true,
@@ -539,6 +541,20 @@
       "total_apps_on_steam": 3,
       "sampled_apps": 3,
       "apps": [
+        {
+          "appid": "2885690",
+          "name": "Masters of Light",
+          "release_date": "即将推出",
+          "type": "game",
+          "developers": [
+            "COVEN",
+            "ALBYON"
+          ],
+          "publishers": [
+            "COVEN"
+          ],
+          "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2885690/header.jpg?t=1768207997"
+        },
         {
           "appid": "2979480",
           "name": "Masters of Light Original Soundtrack",
@@ -553,20 +569,6 @@
             "G4F Records"
           ],
           "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2979480/header.jpg?t=1716480242"
-        },
-        {
-          "appid": "2885690",
-          "name": "Masters of Light",
-          "release_date": "即将推出",
-          "type": "game",
-          "developers": [
-            "COVEN",
-            "ALBYON"
-          ],
-          "publishers": [
-            "COVEN"
-          ],
-          "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2885690/header.jpg?t=1768207997"
         },
         {
           "appid": "3453900",
@@ -777,19 +779,6 @@
           "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3204800/header.jpg?t=1782896565"
         },
         {
-          "appid": "3713770",
-          "name": "Hunt: Showdown 1896 - Cry of the Caged Bird",
-          "release_date": "2025 年 10 月 20 日",
-          "type": "dlc",
-          "developers": [
-            "Crytek"
-          ],
-          "publishers": [
-            "Crytek"
-          ],
-          "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3713770/e09fac03147dd1dafd7ecf2d14bf8f513cc607d5/header.jpg?t=1782896562"
-        },
-        {
           "appid": "3569970",
           "name": "Hunt: Showdown 1896 - The Ghost of Blanchett Graves",
           "release_date": "2025 年 6 月 19 日",
@@ -814,6 +803,19 @@
             "Crytek"
           ],
           "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4261930/05439e0028dfa4cafb12ea5e18768ad5d353539c/header.jpg?t=1782896556"
+        },
+        {
+          "appid": "3713770",
+          "name": "Hunt: Showdown 1896 - Cry of the Caged Bird",
+          "release_date": "2025 年 10 月 20 日",
+          "type": "dlc",
+          "developers": [
+            "Crytek"
+          ],
+          "publishers": [
+            "Crytek"
+          ],
+          "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3713770/e09fac03147dd1dafd7ecf2d14bf8f513cc607d5/header.jpg?t=1782896562"
         }
       ],
       "is_first_game": false,
@@ -1240,19 +1242,6 @@
           "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4207910/6c299e8f9abe93d41c906f3334df312350cc917a/header.jpg?t=1772707081"
         },
         {
-          "appid": "2934390",
-          "name": "深岩银河 - 深渊骑士团皮肤包",
-          "release_date": "2024 年 6 月 13 日",
-          "type": "dlc",
-          "developers": [
-            "Ghost Ship Games"
-          ],
-          "publishers": [
-            "Coffee Stain Publishing"
-          ],
-          "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2934390/header.jpg?t=1772707065"
-        },
-        {
           "appid": "2291670",
           "name": "深岩银河 - 支持者二号升级包",
           "release_date": "2023 年 3 月 2 日",
@@ -1264,6 +1253,19 @@
             "Coffee Stain Publishing"
           ],
           "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2291670/header.jpg?t=1740397993"
+        },
+        {
+          "appid": "2934390",
+          "name": "深岩银河 - 深渊骑士团皮肤包",
+          "release_date": "2024 年 6 月 13 日",
+          "type": "dlc",
+          "developers": [
+            "Ghost Ship Games"
+          ],
+          "publishers": [
+            "Coffee Stain Publishing"
+          ],
+          "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2934390/header.jpg?t=1772707065"
         },
         {
           "appid": "1530640",
@@ -1460,19 +1462,6 @@
           "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/434650/header_schinese.jpg?t=1759298493"
         },
         {
-          "appid": "1415420",
-          "name": "Lost Castle: The Old Ones Awaken / 失落城堡: 遗迹守护者",
-          "release_date": "2020 年 9 月 28 日",
-          "type": "dlc",
-          "developers": [
-            "Hunter Studio"
-          ],
-          "publishers": [
-            "Neon Doctrine"
-          ],
-          "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1415420/header.jpg?t=1619653942"
-        },
-        {
           "appid": "522620",
           "name": "Lost Castle: Official Soundtrack",
           "release_date": "2016 年 8 月 31 日",
@@ -1485,6 +1474,19 @@
             "X.D.Network  Inc."
           ],
           "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/522620/header.jpg?t=1619654018"
+        },
+        {
+          "appid": "1415420",
+          "name": "Lost Castle: The Old Ones Awaken / 失落城堡: 遗迹守护者",
+          "release_date": "2020 年 9 月 28 日",
+          "type": "dlc",
+          "developers": [
+            "Hunter Studio"
+          ],
+          "publishers": [
+            "Neon Doctrine"
+          ],
+          "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1415420/header.jpg?t=1619653942"
         },
         {
           "appid": "3063440",
@@ -1537,7 +1539,7 @@
             "IllFonic Publishing",
             "Co-Publisher: Gun Interactive"
           ],
-          "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3219630/153ed105c4b409fe689783e4f9b6aad72c152646/header.jpg?t=1787861419"
+          "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3219630/153ed105c4b409fe689783e4f9b6aad72c152646/header.jpg?t=1787962852"
         },
         {
           "appid": "1556100",
@@ -2358,19 +2360,6 @@
           "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3369390/header.jpg?t=1745404760"
         },
         {
-          "appid": "3435600",
-          "name": "PEXIT 8",
-          "release_date": "2025 年 2 月 10 日",
-          "type": "game",
-          "developers": [
-            "lemorion_1224"
-          ],
-          "publishers": [
-            "lemorion_1224"
-          ],
-          "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3435600/header.jpg?t=1740992585"
-        },
-        {
           "appid": "3103750",
           "name": "PENGUIN HOTEL -Chapter 1-",
           "release_date": "2024 年 10 月 31 日",
@@ -2382,6 +2371,19 @@
             "lemorion_1224"
           ],
           "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3103750/header.jpg?t=1743589869"
+        },
+        {
+          "appid": "3435600",
+          "name": "PEXIT 8",
+          "release_date": "2025 年 2 月 10 日",
+          "type": "game",
+          "developers": [
+            "lemorion_1224"
+          ],
+          "publishers": [
+            "lemorion_1224"
+          ],
+          "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3435600/header.jpg?t=1740992585"
         },
         {
           "appid": "3369400",
