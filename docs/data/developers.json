@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "fetched_at": "2026-08-29T11:40:52.092992+08:00",
+    "fetched_at": "2026-08-30T08:06:12.418994+08:00",
     "total_developers": 43
   },
   "developers": {
@@ -23,19 +23,6 @@
           "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1203220/64ac5c56d95a510ae56c7dace46fdafd0881642b/header_schinese.jpg?t=1785376833"
         },
         {
-          "appid": "2732000",
-          "name": "永劫无间 - 鸢纱 · 崔三娘捆绑包",
-          "release_date": "2023 年 12 月 20 日",
-          "type": "dlc",
-          "developers": [
-            "24 Entertainment"
-          ],
-          "publishers": [
-            "NetEase Games"
-          ],
-          "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2732000/header_schinese.jpg?t=1767857569"
-        },
-        {
           "appid": "2731960",
           "name": "永劫无间 - 飞鼠",
           "release_date": "2023 年 12 月 20 日",
@@ -47,6 +34,19 @@
             "NetEase Games"
           ],
           "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2731960/header_schinese.jpg?t=1767857211"
+        },
+        {
+          "appid": "2732000",
+          "name": "永劫无间 - 鸢纱 · 崔三娘捆绑包",
+          "release_date": "2023 年 12 月 20 日",
+          "type": "dlc",
+          "developers": [
+            "24 Entertainment"
+          ],
+          "publishers": [
+            "NetEase Games"
+          ],
+          "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2732000/header_schinese.jpg?t=1767857569"
         },
         {
           "appid": "2731970",
@@ -99,19 +99,6 @@
           "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1203220/64ac5c56d95a510ae56c7dace46fdafd0881642b/header_schinese.jpg?t=1785376833"
         },
         {
-          "appid": "2732000",
-          "name": "永劫无间 - 鸢纱 · 崔三娘捆绑包",
-          "release_date": "2023 年 12 月 20 日",
-          "type": "dlc",
-          "developers": [
-            "24 Entertainment"
-          ],
-          "publishers": [
-            "NetEase Games"
-          ],
-          "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2732000/header_schinese.jpg?t=1767857569"
-        },
-        {
           "appid": "2731960",
           "name": "永劫无间 - 飞鼠",
           "release_date": "2023 年 12 月 20 日",
@@ -123,6 +110,19 @@
             "NetEase Games"
           ],
           "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2731960/header_schinese.jpg?t=1767857211"
+        },
+        {
+          "appid": "2732000",
+          "name": "永劫无间 - 鸢纱 · 崔三娘捆绑包",
+          "release_date": "2023 年 12 月 20 日",
+          "type": "dlc",
+          "developers": [
+            "24 Entertainment"
+          ],
+          "publishers": [
+            "NetEase Games"
+          ],
+          "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2732000/header_schinese.jpg?t=1767857569"
         },
         {
           "appid": "2731970",
@@ -200,19 +200,6 @@
           "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4630460/85db3585ebdbae1a3603d3a1f4c56e94bbf59493/header.jpg?t=1784819161"
         },
         {
-          "appid": "865680",
-          "name": "The Eternal Cylinder",
-          "release_date": "2022 年 10 月 13 日",
-          "type": "game",
-          "developers": [
-            "ACE Team"
-          ],
-          "publishers": [
-            "Good Shepherd Entertainment"
-          ],
-          "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/865680/header.jpg?t=1728690515"
-        },
-        {
           "appid": "434460",
           "name": "Rock of Ages 2: Bigger & Boulder™",
           "release_date": "2017 年 8 月 28 日",
@@ -224,6 +211,19 @@
             "SEGA"
           ],
           "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/434460/header.jpg?t=1667562890"
+        },
+        {
+          "appid": "865680",
+          "name": "The Eternal Cylinder",
+          "release_date": "2022 年 10 月 13 日",
+          "type": "game",
+          "developers": [
+            "ACE Team"
+          ],
+          "publishers": [
+            "Good Shepherd Entertainment"
+          ],
+          "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/865680/header.jpg?t=1728690515"
         },
         {
           "appid": "1101360",
@@ -479,19 +479,6 @@
           "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4318580/fe996d56580b8242624a1bd464fcbf60c46ccf31/header.jpg?t=1769540708"
         },
         {
-          "appid": "3103150",
-          "name": "Dead by Daylight - Castlevania Chapter",
-          "release_date": "2024 年 8 月 27 日",
-          "type": "dlc",
-          "developers": [
-            "Behaviour Interactive Inc."
-          ],
-          "publishers": [
-            "Behaviour Interactive Inc."
-          ],
-          "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3103150/header.jpg?t=1740003609"
-        },
-        {
           "appid": "2515990",
           "name": "黎明杀机-异形 ",
           "release_date": "2023 年 8 月 29 日",
@@ -503,6 +490,19 @@
             "Behaviour Interactive Inc."
           ],
           "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2515990/header.jpg?t=1706631917"
+        },
+        {
+          "appid": "3103150",
+          "name": "Dead by Daylight - Castlevania Chapter",
+          "release_date": "2024 年 8 月 27 日",
+          "type": "dlc",
+          "developers": [
+            "Behaviour Interactive Inc."
+          ],
+          "publishers": [
+            "Behaviour Interactive Inc."
+          ],
+          "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3103150/header.jpg?t=1740003609"
         },
         {
           "appid": "2661270",
@@ -1229,19 +1229,6 @@
           "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4216130/dc31bab14f827b64ec3bacf4d4d7efc464ad623e/header.jpg?t=1779292892"
         },
         {
-          "appid": "4207910",
-          "name": "深岩银河 - 古迹奇兵皮肤包",
-          "release_date": "2026 年 1 月 29 日",
-          "type": "dlc",
-          "developers": [
-            "Ghost Ship Games"
-          ],
-          "publishers": [
-            "Coffee Stain Publishing"
-          ],
-          "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4207910/6c299e8f9abe93d41c906f3334df312350cc917a/header.jpg?t=1772707081"
-        },
-        {
           "appid": "2291670",
           "name": "深岩银河 - 支持者二号升级包",
           "release_date": "2023 年 3 月 2 日",
@@ -1253,6 +1240,19 @@
             "Coffee Stain Publishing"
           ],
           "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2291670/header.jpg?t=1740397993"
+        },
+        {
+          "appid": "4207910",
+          "name": "深岩银河 - 古迹奇兵皮肤包",
+          "release_date": "2026 年 1 月 29 日",
+          "type": "dlc",
+          "developers": [
+            "Ghost Ship Games"
+          ],
+          "publishers": [
+            "Coffee Stain Publishing"
+          ],
+          "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4207910/6c299e8f9abe93d41c906f3334df312350cc917a/header.jpg?t=1772707081"
         },
         {
           "appid": "2934390",
@@ -1268,19 +1268,6 @@
           "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2934390/header.jpg?t=1772707065"
         },
         {
-          "appid": "1530640",
-          "name": "深岩银河 - 无畏崛起皮肤包",
-          "release_date": "2021 年 2 月 4 日",
-          "type": "dlc",
-          "developers": [
-            "Ghost Ship Games"
-          ],
-          "publishers": [
-            "Coffee Stain Publishing"
-          ],
-          "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1530640/header.jpg?t=1740397487"
-        },
-        {
           "appid": "1283090",
           "name": "深岩银河 - 黑暗未来皮肤包",
           "release_date": "2020 年 5 月 13 日",
@@ -1294,9 +1281,9 @@
           "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1283090/header.jpg?t=1740394534"
         },
         {
-          "appid": "801860",
-          "name": "深岩银河 - 支持者升级包",
-          "release_date": "2018 年 2 月 28 日",
+          "appid": "1530640",
+          "name": "深岩银河 - 无畏崛起皮肤包",
+          "release_date": "2021 年 2 月 4 日",
           "type": "dlc",
           "developers": [
             "Ghost Ship Games"
@@ -1304,7 +1291,20 @@
           "publishers": [
             "Coffee Stain Publishing"
           ],
-          "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/801860/header.jpg?t=1740394036"
+          "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1530640/header.jpg?t=1740397487"
+        },
+        {
+          "appid": "1283091",
+          "name": "深岩银河 - 龙头巨擘皮肤包",
+          "release_date": "2020 年 5 月 13 日",
+          "type": "dlc",
+          "developers": [
+            "Ghost Ship Games"
+          ],
+          "publishers": [
+            "Coffee Stain Publishing"
+          ],
+          "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1283091/header.jpg?t=1740394697"
         }
       ],
       "is_first_game": false,
@@ -1462,6 +1462,19 @@
           "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/434650/header_schinese.jpg?t=1759298493"
         },
         {
+          "appid": "1415420",
+          "name": "Lost Castle: The Old Ones Awaken / 失落城堡: 遗迹守护者",
+          "release_date": "2020 年 9 月 28 日",
+          "type": "dlc",
+          "developers": [
+            "Hunter Studio"
+          ],
+          "publishers": [
+            "Neon Doctrine"
+          ],
+          "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1415420/header.jpg?t=1619653942"
+        },
+        {
           "appid": "522620",
           "name": "Lost Castle: Official Soundtrack",
           "release_date": "2016 年 8 月 31 日",
@@ -1474,19 +1487,6 @@
             "X.D.Network  Inc."
           ],
           "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/522620/header.jpg?t=1619654018"
-        },
-        {
-          "appid": "1415420",
-          "name": "Lost Castle: The Old Ones Awaken / 失落城堡: 遗迹守护者",
-          "release_date": "2020 年 9 月 28 日",
-          "type": "dlc",
-          "developers": [
-            "Hunter Studio"
-          ],
-          "publishers": [
-            "Neon Doctrine"
-          ],
-          "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1415420/header.jpg?t=1619653942"
         },
         {
           "appid": "3063440",
@@ -2124,17 +2124,6 @@
           "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3030370/header.jpg?t=1744031110"
         },
         {
-          "appid": "3805230",
-          "name": "The Outlast Trials - Porcelain Observer Pack",
-          "release_date": "2025 年 7 月 15 日",
-          "type": "dlc",
-          "developers": [
-            "Red Barrels"
-          ],
-          "publishers": [],
-          "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3805230/6627ca2c91403b2210e2f6838a620043ea133f3a/header.jpg?t=1752587954"
-        },
-        {
           "appid": "3805270",
           "name": "The Outlast Trials - Spelunking For Your Life Pack",
           "release_date": "2025 年 7 月 15 日",
@@ -2144,6 +2133,17 @@
           ],
           "publishers": [],
           "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3805270/9ca565ed97ddb48398c5046ff17065d6ec7ff1d7/header.jpg?t=1752590995"
+        },
+        {
+          "appid": "3805230",
+          "name": "The Outlast Trials - Porcelain Observer Pack",
+          "release_date": "2025 年 7 月 15 日",
+          "type": "dlc",
+          "developers": [
+            "Red Barrels"
+          ],
+          "publishers": [],
+          "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3805230/6627ca2c91403b2210e2f6838a620043ea133f3a/header.jpg?t=1752587954"
         },
         {
           "appid": "3805250",
