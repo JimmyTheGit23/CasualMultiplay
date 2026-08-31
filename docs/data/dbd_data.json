@@ -1,11 +1,11 @@
 {
-  "snapshot_date": "2026-08-30T00:09:31+08:00",
+  "snapshot_date": "2026-08-31T00:28:58+08:00",
   "hero": {
     "name": "黎明杀机",
-    "current_players": 57427,
+    "current_players": 57794,
     "positive_rate": 78.4,
-    "reviews_total": 930929,
-    "price_label": "¥ 37.50",
+    "reviews_total": 931282,
+    "price_label": "¥ 93.75",
     "release_date": "2016 年 6 月 14 日",
     "genres": [
       "动作"
@@ -146,8 +146,8 @@
     "publishers": [
       "Behaviour Interactive Inc."
     ],
-    "price": "¥ 37.50",
-    "price_en": "$7.99",
+    "price": "¥ 93.75",
+    "price_en": "$19.99",
     "release_date": "2016 年 6 月 14 日",
     "platforms": {
       "windows": true,
@@ -159,11 +159,11 @@
     ]
   },
   "reviews": {
-    "total_reviews": 930929,
-    "positive": 729680,
-    "negative": 201249,
+    "total_reviews": 931282,
+    "positive": 729899,
+    "negative": 201383,
     "positive_rate": 78.4
   },
-  "ccu": 57427,
-  "crawled_at": "2026-08-30T00:09:31.834775"
+  "ccu": 57794,
+  "crawled_at": "2026-08-31T00:28:58.741136"
 }
