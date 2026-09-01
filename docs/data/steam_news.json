@@ -249,7 +249,7 @@
       "is_official": true,
       "contents": "Hey hey semibots! Here is yet another small update with some fixes and balancing! CHANGES BALANCING FIXES CHANGES Item Melee Weapons - Handling now properly scales with strength and should feel firmer"
     },
-    "crawled_at": "2026-08-31T00:30:15.237107"
+    "crawled_at": "2026-09-01T01:18:40.574642"
   },
   "Lethal Company": {
     "appid": 1966720,
@@ -501,7 +501,7 @@
       "is_official": true,
       "contents": "Hello, long time no see! Version 80 is out in beta for you to test. You can access it by opting into the public beta branch for Lethal Company on Steam. V80 brings a complete rework of March's exterio"
     },
-    "crawled_at": "2026-08-31T00:30:16.644279"
+    "crawled_at": "2026-09-01T01:18:41.711852"
   },
   "Phasmophobia": {
     "appid": 739630,
@@ -753,7 +753,7 @@
       "is_official": true,
       "contents": "Welcome back, Ghost Hunters. We've deployed a small hotfix to address feedback on the Equipment and Item slot assignments. Patch notes below: ChangesItems and Equipment will now be assigned a slot in "
     },
-    "crawled_at": "2026-08-31T00:30:17.893608"
+    "crawled_at": "2026-09-01T01:18:42.830798"
   },
   "Content Warning": {
     "appid": 2881650,
@@ -1005,7 +1005,7 @@
       "is_official": true,
       "contents": "Hello Spööktubers! Thank you for your patience as we're fixing bugs on all platforms.Here's a new patch fixing some stuff!For those of you wondering when crossplay between Switch 1 & 2 and other platf"
     },
-    "crawled_at": "2026-08-31T00:30:19.209460"
+    "crawled_at": "2026-09-01T01:18:44.028469"
   },
   "FEEDERS": {
     "appid": 4408510,
@@ -1256,7 +1256,7 @@
       "is_official": true,
       "contents": "Gave the HUD a fresh redesign. New look across the board — the status bars (Health, Stamina, Radiation) and the bottom belt all got reworked. Same info, cleaner read. More guns coming with new solo ex"
     },
-    "crawled_at": "2026-08-31T00:30:20.494484"
+    "crawled_at": "2026-09-01T01:18:45.115225"
   },
   "NARAKA: BLADEPOINT": {
     "appid": 1203220,
@@ -1497,7 +1497,7 @@
       "contents": "Dear players,NARAKA: BLADEPOINT is committed to creating a fair and healthy competitive environment. We have not only used new anti-cheat technologies, but also established special cheat-reporting rew"
     },
     "latest_patch": null,
-    "crawled_at": "2026-08-31T00:30:21.615456"
+    "crawled_at": "2026-09-01T01:18:46.199520"
   },
   "Dead by Daylight": {
     "appid": 381210,
@@ -1738,6 +1738,6 @@
       "contents": "Dead by Daylight, my current online co-op fixation to play with the partner, is set for some changes with the anti-cheat systems. Read the full article here: https://www.gamingonlinux.com/2026/08/dead"
     },
     "latest_patch": null,
-    "crawled_at": "2026-08-31T00:30:22.818469"
+    "crawled_at": "2026-09-01T01:18:47.314997"
   }
 }
