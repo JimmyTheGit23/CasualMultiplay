@@ -249,7 +249,7 @@
       "is_official": true,
       "contents": "Hey hey semibots! Here is yet another small update with some fixes and balancing! CHANGES BALANCING FIXES CHANGES Item Melee Weapons - Handling now properly scales with strength and should feel firmer"
     },
-    "crawled_at": "2026-09-02T00:04:45.027122"
+    "crawled_at": "2026-09-03T00:07:23.188743"
   },
   "Lethal Company": {
     "appid": 1966720,
@@ -501,7 +501,7 @@
       "is_official": true,
       "contents": "Hello, long time no see! Version 80 is out in beta for you to test. You can access it by opting into the public beta branch for Lethal Company on Steam. V80 brings a complete rework of March's exterio"
     },
-    "crawled_at": "2026-09-02T00:04:46.165962"
+    "crawled_at": "2026-09-03T00:07:24.340810"
   },
   "Phasmophobia": {
     "appid": 739630,
@@ -753,7 +753,7 @@
       "is_official": true,
       "contents": "Welcome back, Ghost Hunters. We've deployed a small hotfix to address feedback on the Equipment and Item slot assignments. Patch notes below: ChangesItems and Equipment will now be assigned a slot in "
     },
-    "crawled_at": "2026-09-02T00:04:47.752785"
+    "crawled_at": "2026-09-03T00:07:25.551725"
   },
   "Content Warning": {
     "appid": 2881650,
@@ -1005,7 +1005,7 @@
       "is_official": true,
       "contents": "Hello Spööktubers! Thank you for your patience as we're fixing bugs on all platforms.Here's a new patch fixing some stuff!For those of you wondering when crossplay between Switch 1 & 2 and other platf"
     },
-    "crawled_at": "2026-09-02T00:04:48.867274"
+    "crawled_at": "2026-09-03T00:07:26.979278"
   },
   "FEEDERS": {
     "appid": 4408510,
@@ -1256,7 +1256,7 @@
       "is_official": true,
       "contents": "Gave the HUD a fresh redesign. New look across the board — the status bars (Health, Stamina, Radiation) and the bottom belt all got reworked. Same info, cleaner read. More guns coming with new solo ex"
     },
-    "crawled_at": "2026-09-02T00:04:50.011633"
+    "crawled_at": "2026-09-03T00:07:28.253836"
   },
   "NARAKA: BLADEPOINT": {
     "appid": 1203220,
@@ -1497,12 +1497,23 @@
       "contents": "Dear players, NARAKA: BLADEPOINT is committed to creating a fair and healthy competitive environment. We have not only used new anti-cheat technologies, but also established special cheat-reporting re"
     },
     "latest_patch": null,
-    "crawled_at": "2026-09-02T00:04:51.123177"
+    "crawled_at": "2026-09-03T00:07:29.377115"
   },
   "Dead by Daylight": {
     "appid": 381210,
     "all": [
       {
+        "date": "2026-09-02",
+        "datetime": "2026-09-02T15:00:09",
+        "title": "Anti-Cheat Trials are now Live",
+        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1842846814440602",
+        "author": "Goblin_BHVR",
+        "feed_label": "Community Announcements",
+        "is_patch": false,
+        "is_official": true,
+        "contents": "Last week, we announced our plans to kick off our Anti-Cheat Trials initiative, and today it's here!Starting today, we will be trialing Denuvo's Anti-Cheat solution. Note that this does not and will n"
+      },
+      {
         "date": "2026-09-01",
         "datetime": "2026-09-01T14:30:25",
         "title": "10.1.1 | Bugfix Patch",
@@ -1600,22 +1611,22 @@
         "is_patch": false,
         "is_official": false,
         "contents": "Dead by Daylight's first community-driven Chapter, Chorus of Sin, has arrived on the PTB, and I'm obsessed with its divine themes. Read the full story on PCGamesN: <a href=\"https://www.pcgamesn.com/de"
-      },
-      {
-        "date": "2026-08-04",
-        "datetime": "2026-08-04T14:30:45",
-        "title": "10.1.0 | PTB Patch Notes",
-        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1839676055897511",
-        "author": "rblanchard_bhvr",
-        "feed_label": "Community Announcements",
-        "is_patch": false,
-        "is_official": true,
-        "contents": "FeaturesNew Killer: The JudgmentPOWER: WILL OF THE GODSDIVINE LIGHTPress and hold the Power Button (M2) to summon Divine Light for up to 3s.Divine Light moves away from The Judgment and is controlled "
       }
     ],
     "patches": [],
     "announcements": [
       {
+        "date": "2026-09-02",
+        "datetime": "2026-09-02T15:00:09",
+        "title": "Anti-Cheat Trials are now Live",
+        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1842846814440602",
+        "author": "Goblin_BHVR",
+        "feed_label": "Community Announcements",
+        "is_patch": false,
+        "is_official": true,
+        "contents": "Last week, we announced our plans to kick off our Anti-Cheat Trials initiative, and today it's here!Starting today, we will be trialing Denuvo's Anti-Cheat solution. Note that this does not and will n"
+      },
+      {
         "date": "2026-09-01",
         "datetime": "2026-09-01T14:30:25",
         "title": "10.1.1 | Bugfix Patch",
@@ -1713,31 +1724,20 @@
         "is_patch": false,
         "is_official": false,
         "contents": "Dead by Daylight's first community-driven Chapter, Chorus of Sin, has arrived on the PTB, and I'm obsessed with its divine themes. Read the full story on PCGamesN: <a href=\"https://www.pcgamesn.com/de"
-      },
-      {
-        "date": "2026-08-04",
-        "datetime": "2026-08-04T14:30:45",
-        "title": "10.1.0 | PTB Patch Notes",
-        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1839676055897511",
-        "author": "rblanchard_bhvr",
-        "feed_label": "Community Announcements",
-        "is_patch": false,
-        "is_official": true,
-        "contents": "FeaturesNew Killer: The JudgmentPOWER: WILL OF THE GODSDIVINE LIGHTPress and hold the Power Button (M2) to summon Divine Light for up to 3s.Divine Light moves away from The Judgment and is controlled "
       }
     ],
     "latest": {
-      "date": "2026-09-01",
-      "datetime": "2026-09-01T14:30:25",
-      "title": "10.1.1 | Bugfix Patch",
-      "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1842212951313573",
+      "date": "2026-09-02",
+      "datetime": "2026-09-02T15:00:09",
+      "title": "Anti-Cheat Trials are now Live",
+      "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1842846814440602",
       "author": "Goblin_BHVR",
       "feed_label": "Community Announcements",
       "is_patch": false,
       "is_official": true,
-      "contents": "ContentKiller UpdatesThe JudgmentIncreased the Divine Light curve window while Zealous to 0.6s (was 0.3s) Dev note: The decoupling of the curve window from the delay phase was good, but the duration o"
+      "contents": "Last week, we announced our plans to kick off our Anti-Cheat Trials initiative, and today it's here!Starting today, we will be trialing Denuvo's Anti-Cheat solution. Note that this does not and will n"
     },
     "latest_patch": null,
-    "crawled_at": "2026-09-02T00:04:52.247433"
+    "crawled_at": "2026-09-03T00:07:30.546297"
   }
 }

@@ -1,5 +1,5 @@
 {
-  "snapshot_date": "2026-09-02T00:03:33.057560+00:00",
+  "snapshot_date": "2026-09-03T00:05:51.102730+00:00",
   "hero": {
     "title": "R.E.P.O.",
     "title_en": "R.E.P.O.",
@@ -265,12 +265,12 @@
     "is_free": false
   },
   "reviews": {
-    "total_reviews": 421155,
-    "positive": 404379,
-    "negative": 16776,
+    "total_reviews": 421265,
+    "positive": 404484,
+    "negative": 16781,
     "positive_rate": 96.0,
     "review_score_desc": "Overwhelmingly Positive"
   },
-  "ccu": 11897,
-  "crawled_at": "2026-09-02T00:03:33.057560+00:00"
+  "ccu": 12358,
+  "crawled_at": "2026-09-03T00:05:51.102730+00:00"
 }
