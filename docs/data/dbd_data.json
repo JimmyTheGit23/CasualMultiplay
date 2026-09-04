@@ -1,10 +1,10 @@
 {
-  "snapshot_date": "2026-09-03T00:05:51+08:00",
+  "snapshot_date": "2026-09-04T00:02:03+08:00",
   "hero": {
     "name": "黎明杀机",
-    "current_players": 45580,
+    "current_players": 43944,
     "positive_rate": 78.4,
-    "reviews_total": 932043,
+    "reviews_total": 932329,
     "price_label": "¥ 93.75",
     "release_date": "2016 年 6 月 14 日",
     "genres": [
@@ -12,6 +12,17 @@
     ]
   },
   "operations": [
+    {
+      "date": "2026-09-03",
+      "timestamp": 1788432328,
+      "title": "Dead by Daylight is now testing Denuvo, but \"will not include\" its anti-piracy DRM",
+      "url": "https://steamstore-a.akamaihd.net/news/externalpost/PCGamesN/1842846814443069",
+      "author": "editor@pcgamesn.com",
+      "feed_label": "PCGamesN",
+      "feed_type": "媒体",
+      "is_patch": false,
+      "contents": "A new Dead by Daylight anti-cheat trial is testing Denuvo's protection tool, but Behaviour Interactive makes clear there will be no DRM. Read the full story on PCGamesN: <a href=\"https://www.pcgamesn."
+    },
     {
       "date": "2026-09-02",
       "timestamp": 1788361209,
@@ -88,17 +99,6 @@
       "feed_type": "媒体",
       "is_patch": false,
       "contents": "The Dead by Daylight Player Intent system lets you send preset messages to your fellow Survivors, making communication easier on the fly. Read the full story on PCGamesN: <a href=\"https://www.pcgamesn"
-    },
-    {
-      "date": "2026-08-14",
-      "timestamp": 1786726822,
-      "title": "Developer Update | Player Intent System",
-      "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1840944183780289",
-      "author": "Goblin_BHVR",
-      "feed_label": "Community Announcements",
-      "feed_type": "官方",
-      "is_patch": false,
-      "contents": "Last week, we hosted a Reddit AMA and on top of having a blast answering your questions, we noticed some topics really got you talking. One of those was the “chat wheel” system we’re working on to hel"
     }
   ],
   "patches": [],
@@ -159,11 +159,11 @@
     ]
   },
   "reviews": {
-    "total_reviews": 932043,
-    "positive": 730407,
-    "negative": 201636,
+    "total_reviews": 932329,
+    "positive": 730558,
+    "negative": 201771,
     "positive_rate": 78.4
   },
-  "ccu": 45580,
-  "crawled_at": "2026-09-03T00:05:51.032213"
+  "ccu": 43944,
+  "crawled_at": "2026-09-04T00:02:03.052136"
 }

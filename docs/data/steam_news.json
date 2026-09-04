@@ -249,7 +249,7 @@
       "is_official": true,
       "contents": "Hey hey semibots! Here is yet another small update with some fixes and balancing! CHANGES BALANCING FIXES CHANGES Item Melee Weapons - Handling now properly scales with strength and should feel firmer"
     },
-    "crawled_at": "2026-09-03T00:07:23.188743"
+    "crawled_at": "2026-09-04T00:03:27.444164"
   },
   "Lethal Company": {
     "appid": 1966720,
@@ -501,7 +501,7 @@
       "is_official": true,
       "contents": "Hello, long time no see! Version 80 is out in beta for you to test. You can access it by opting into the public beta branch for Lethal Company on Steam. V80 brings a complete rework of March's exterio"
     },
-    "crawled_at": "2026-09-03T00:07:24.340810"
+    "crawled_at": "2026-09-04T00:03:28.877043"
   },
   "Phasmophobia": {
     "appid": 739630,
@@ -753,7 +753,7 @@
       "is_official": true,
       "contents": "Welcome back, Ghost Hunters. We've deployed a small hotfix to address feedback on the Equipment and Item slot assignments. Patch notes below: ChangesItems and Equipment will now be assigned a slot in "
     },
-    "crawled_at": "2026-09-03T00:07:25.551725"
+    "crawled_at": "2026-09-04T00:03:30.130035"
   },
   "Content Warning": {
     "appid": 2881650,
@@ -1005,7 +1005,7 @@
       "is_official": true,
       "contents": "Hello Spööktubers! Thank you for your patience as we're fixing bugs on all platforms.Here's a new patch fixing some stuff!For those of you wondering when crossplay between Switch 1 & 2 and other platf"
     },
-    "crawled_at": "2026-09-03T00:07:26.979278"
+    "crawled_at": "2026-09-04T00:03:31.359891"
   },
   "FEEDERS": {
     "appid": 4408510,
@@ -1256,12 +1256,23 @@
       "is_official": true,
       "contents": "Gave the HUD a fresh redesign. New look across the board — the status bars (Health, Stamina, Radiation) and the bottom belt all got reworked. Same info, cleaner read. More guns coming with new solo ex"
     },
-    "crawled_at": "2026-09-03T00:07:28.253836"
+    "crawled_at": "2026-09-04T00:03:33.042828"
   },
   "NARAKA: BLADEPOINT": {
     "appid": 1203220,
     "all": [
       {
+        "date": "2026-09-03",
+        "datetime": "2026-09-03T06:23:13",
+        "title": "NARAKA: BLADEPOINT Update –September 3rd, 2026",
+        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1842846814442378",
+        "author": "Yeeeeee",
+        "feed_label": "Community Announcements",
+        "is_patch": false,
+        "is_official": true,
+        "contents": "Dear players, The servers of NARAKA: BLADEPOINT will be suspended for maintenance from Sep. 2nd, 2026 23:00 (UTC) to Sep. 3rd, 2026 04:00 (UTC). We suggest you log out in advance and enter the game ag"
+      },
+      {
         "date": "2026-09-01",
         "datetime": "2026-09-01T13:10:44",
         "title": "NARAKA: BLADEPOINT Banned Players List September 1st",
@@ -1354,17 +1365,6 @@
         "datetime": "2026-07-28T14:25:13",
         "title": "NARAKA: BLADEPOINT Banned Players List July 28th",
         "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1839041357038455",
-        "author": "Yeeeeee",
-        "feed_label": "Community Announcements",
-        "is_patch": false,
-        "is_official": true,
-        "contents": "Dear players, NARAKA: BLADEPOINT is committed to creating a fair and healthy competitive environment. We have not only used new anti-cheat technologies, but also established special cheat-reporting re"
-      },
-      {
-        "date": "2026-07-21",
-        "datetime": "2026-07-21T15:00:15",
-        "title": "NARAKA: BLADEPOINT Banned Players List July 21st",
-        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1838407329269204",
         "author": "Yeeeeee",
         "feed_label": "Community Announcements",
         "is_patch": false,
@@ -1375,6 +1375,17 @@
     "patches": [],
     "announcements": [
       {
+        "date": "2026-09-03",
+        "datetime": "2026-09-03T06:23:13",
+        "title": "NARAKA: BLADEPOINT Update –September 3rd, 2026",
+        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1842846814442378",
+        "author": "Yeeeeee",
+        "feed_label": "Community Announcements",
+        "is_patch": false,
+        "is_official": true,
+        "contents": "Dear players, The servers of NARAKA: BLADEPOINT will be suspended for maintenance from Sep. 2nd, 2026 23:00 (UTC) to Sep. 3rd, 2026 04:00 (UTC). We suggest you log out in advance and enter the game ag"
+      },
+      {
         "date": "2026-09-01",
         "datetime": "2026-09-01T13:10:44",
         "title": "NARAKA: BLADEPOINT Banned Players List September 1st",
@@ -1472,37 +1483,37 @@
         "is_patch": false,
         "is_official": true,
         "contents": "Dear players, NARAKA: BLADEPOINT is committed to creating a fair and healthy competitive environment. We have not only used new anti-cheat technologies, but also established special cheat-reporting re"
-      },
-      {
-        "date": "2026-07-21",
-        "datetime": "2026-07-21T15:00:15",
-        "title": "NARAKA: BLADEPOINT Banned Players List July 21st",
-        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1838407329269204",
-        "author": "Yeeeeee",
-        "feed_label": "Community Announcements",
-        "is_patch": false,
-        "is_official": true,
-        "contents": "Dear players, NARAKA: BLADEPOINT is committed to creating a fair and healthy competitive environment. We have not only used new anti-cheat technologies, but also established special cheat-reporting re"
       }
     ],
     "latest": {
-      "date": "2026-09-01",
-      "datetime": "2026-09-01T13:10:44",
-      "title": "NARAKA: BLADEPOINT Banned Players List September 1st",
-      "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1842212951313370",
+      "date": "2026-09-03",
+      "datetime": "2026-09-03T06:23:13",
+      "title": "NARAKA: BLADEPOINT Update –September 3rd, 2026",
+      "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1842846814442378",
       "author": "Yeeeeee",
       "feed_label": "Community Announcements",
       "is_patch": false,
       "is_official": true,
-      "contents": "Dear players, NARAKA: BLADEPOINT is committed to creating a fair and healthy competitive environment. We have not only used new anti-cheat technologies, but also established special cheat-reporting re"
+      "contents": "Dear players, The servers of NARAKA: BLADEPOINT will be suspended for maintenance from Sep. 2nd, 2026 23:00 (UTC) to Sep. 3rd, 2026 04:00 (UTC). We suggest you log out in advance and enter the game ag"
     },
     "latest_patch": null,
-    "crawled_at": "2026-09-03T00:07:29.377115"
+    "crawled_at": "2026-09-04T00:03:34.850118"
   },
   "Dead by Daylight": {
     "appid": 381210,
     "all": [
       {
+        "date": "2026-09-03",
+        "datetime": "2026-09-03T10:45:28",
+        "title": "Dead by Daylight is now testing Denuvo, but \"will not include\" its anti-piracy DRM",
+        "url": "https://steamstore-a.akamaihd.net/news/externalpost/PCGamesN/1842846814443069",
+        "author": "editor@pcgamesn.com",
+        "feed_label": "PCGamesN",
+        "is_patch": false,
+        "is_official": false,
+        "contents": "A new Dead by Daylight anti-cheat trial is testing Denuvo's protection tool, but Behaviour Interactive makes clear there will be no DRM. Read the full story on PCGamesN: <a href=\"https://www.pcgamesn."
+      },
+      {
         "date": "2026-09-02",
         "datetime": "2026-09-02T15:00:09",
         "title": "Anti-Cheat Trials are now Live",
@@ -1600,22 +1611,22 @@
         "is_patch": false,
         "is_official": false,
         "contents": "A new Dead by Daylight Q&A with Behaviour Interactive has revealed plans to debloat add-ons, along with a new chat wheel for Survivors. Read the full story on PCGamesN: <a href=\"https://www.pcgamesn.c"
-      },
-      {
-        "date": "2026-08-04",
-        "datetime": "2026-08-04T15:00:14",
-        "title": "Dead by Daylight's first-ever community-created chapter has finally hit the PTB",
-        "url": "https://steamstore-a.akamaihd.net/news/externalpost/PCGamesN/1839676055897881",
-        "author": "editor@pcgamesn.com",
-        "feed_label": "PCGamesN",
-        "is_patch": false,
-        "is_official": false,
-        "contents": "Dead by Daylight's first community-driven Chapter, Chorus of Sin, has arrived on the PTB, and I'm obsessed with its divine themes. Read the full story on PCGamesN: <a href=\"https://www.pcgamesn.com/de"
       }
     ],
     "patches": [],
     "announcements": [
       {
+        "date": "2026-09-03",
+        "datetime": "2026-09-03T10:45:28",
+        "title": "Dead by Daylight is now testing Denuvo, but \"will not include\" its anti-piracy DRM",
+        "url": "https://steamstore-a.akamaihd.net/news/externalpost/PCGamesN/1842846814443069",
+        "author": "editor@pcgamesn.com",
+        "feed_label": "PCGamesN",
+        "is_patch": false,
+        "is_official": false,
+        "contents": "A new Dead by Daylight anti-cheat trial is testing Denuvo's protection tool, but Behaviour Interactive makes clear there will be no DRM. Read the full story on PCGamesN: <a href=\"https://www.pcgamesn."
+      },
+      {
         "date": "2026-09-02",
         "datetime": "2026-09-02T15:00:09",
         "title": "Anti-Cheat Trials are now Live",
@@ -1713,31 +1724,20 @@
         "is_patch": false,
         "is_official": false,
         "contents": "A new Dead by Daylight Q&A with Behaviour Interactive has revealed plans to debloat add-ons, along with a new chat wheel for Survivors. Read the full story on PCGamesN: <a href=\"https://www.pcgamesn.c"
-      },
-      {
-        "date": "2026-08-04",
-        "datetime": "2026-08-04T15:00:14",
-        "title": "Dead by Daylight's first-ever community-created chapter has finally hit the PTB",
-        "url": "https://steamstore-a.akamaihd.net/news/externalpost/PCGamesN/1839676055897881",
-        "author": "editor@pcgamesn.com",
-        "feed_label": "PCGamesN",
-        "is_patch": false,
-        "is_official": false,
-        "contents": "Dead by Daylight's first community-driven Chapter, Chorus of Sin, has arrived on the PTB, and I'm obsessed with its divine themes. Read the full story on PCGamesN: <a href=\"https://www.pcgamesn.com/de"
       }
     ],
     "latest": {
-      "date": "2026-09-02",
-      "datetime": "2026-09-02T15:00:09",
-      "title": "Anti-Cheat Trials are now Live",
-      "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1842846814440602",
-      "author": "Goblin_BHVR",
-      "feed_label": "Community Announcements",
+      "date": "2026-09-03",
+      "datetime": "2026-09-03T10:45:28",
+      "title": "Dead by Daylight is now testing Denuvo, but \"will not include\" its anti-piracy DRM",
+      "url": "https://steamstore-a.akamaihd.net/news/externalpost/PCGamesN/1842846814443069",
+      "author": "editor@pcgamesn.com",
+      "feed_label": "PCGamesN",
       "is_patch": false,
-      "is_official": true,
-      "contents": "Last week, we announced our plans to kick off our Anti-Cheat Trials initiative, and today it's here!Starting today, we will be trialing Denuvo's Anti-Cheat solution. Note that this does not and will n"
+      "is_official": false,
+      "contents": "A new Dead by Daylight anti-cheat trial is testing Denuvo's protection tool, but Behaviour Interactive makes clear there will be no DRM. Read the full story on PCGamesN: <a href=\"https://www.pcgamesn."
     },
     "latest_patch": null,
-    "crawled_at": "2026-09-03T00:07:30.546297"
+    "crawled_at": "2026-09-04T00:03:36.033057"
   }
 }
