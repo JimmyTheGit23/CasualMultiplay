@@ -249,7 +249,7 @@
       "is_official": true,
       "contents": "Hey hey semibots! Here is yet another small update with some fixes and balancing! CHANGES BALANCING FIXES CHANGES Item Melee Weapons - Handling now properly scales with strength and should feel firmer"
     },
-    "crawled_at": "2026-09-05T00:01:30.496480"
+    "crawled_at": "2026-09-05T23:51:57.459286"
   },
   "Lethal Company": {
     "appid": 1966720,
@@ -501,7 +501,7 @@
       "is_official": true,
       "contents": "Hello, long time no see! Version 80 is out in beta for you to test. You can access it by opting into the public beta branch for Lethal Company on Steam. V80 brings a complete rework of March's exterio"
     },
-    "crawled_at": "2026-09-05T00:01:31.581935"
+    "crawled_at": "2026-09-05T23:51:58.667957"
   },
   "Phasmophobia": {
     "appid": 739630,
@@ -753,7 +753,7 @@
       "is_official": true,
       "contents": "Welcome back, Ghost Hunters. We've deployed a small hotfix to address feedback on the Equipment and Item slot assignments. Patch notes below: ChangesItems and Equipment will now be assigned a slot in "
     },
-    "crawled_at": "2026-09-05T00:01:32.729424"
+    "crawled_at": "2026-09-05T23:51:59.824540"
   },
   "Content Warning": {
     "appid": 2881650,
@@ -1005,7 +1005,7 @@
       "is_official": true,
       "contents": "Hello Spööktubers! Thank you for your patience as we're fixing bugs on all platforms.Here's a new patch fixing some stuff!For those of you wondering when crossplay between Switch 1 & 2 and other platf"
     },
-    "crawled_at": "2026-09-05T00:01:33.818882"
+    "crawled_at": "2026-09-05T23:52:00.963773"
   },
   "FEEDERS": {
     "appid": 4408510,
@@ -1256,7 +1256,7 @@
       "is_official": true,
       "contents": "Gave the HUD a fresh redesign. New look across the board — the status bars (Health, Stamina, Radiation) and the bottom belt all got reworked. Same info, cleaner read. More guns coming with new solo ex"
     },
-    "crawled_at": "2026-09-05T00:01:34.949248"
+    "crawled_at": "2026-09-05T23:52:02.196289"
   },
   "NARAKA: BLADEPOINT": {
     "appid": 1203220,
@@ -1497,7 +1497,7 @@
       "contents": "Dear players, The servers of NARAKA: BLADEPOINT will be suspended for maintenance from Sep. 2nd, 2026 23:00 (UTC) to Sep. 3rd, 2026 04:00 (UTC). We suggest you log out in advance and enter the game ag"
     },
     "latest_patch": null,
-    "crawled_at": "2026-09-05T00:01:36.034212"
+    "crawled_at": "2026-09-05T23:52:03.379783"
   },
   "Dead by Daylight": {
     "appid": 381210,
@@ -1738,6 +1738,6 @@
       "contents": "Celebrate Dead by Daylight: Chorus of Sin with a limited-edition merch collection inspired by the divine horror of The Judgment. Ephemeral as the whims of the divine, the Chorus of Sin collection will"
     },
     "latest_patch": null,
-    "crawled_at": "2026-09-05T00:01:37.160902"
+    "crawled_at": "2026-09-05T23:52:04.661420"
   }
 }
