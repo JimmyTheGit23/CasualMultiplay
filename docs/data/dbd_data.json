@@ -1,10 +1,10 @@
 {
-  "snapshot_date": "2026-09-04T00:02:03+08:00",
+  "snapshot_date": "2026-09-05T00:00:05+08:00",
   "hero": {
     "name": "黎明杀机",
-    "current_players": 43944,
+    "current_players": 43470,
     "positive_rate": 78.4,
-    "reviews_total": 932329,
+    "reviews_total": 932539,
     "price_label": "¥ 93.75",
     "release_date": "2016 年 6 月 14 日",
     "genres": [
@@ -12,6 +12,17 @@
     ]
   },
   "operations": [
+    {
+      "date": "2026-09-04",
+      "timestamp": 1788541216,
+      "title": "Dress to the Divines with the Dead by Daylight: Chorus of Sin Merch Collection",
+      "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1842846814447263",
+      "author": "Goblin_BHVR",
+      "feed_label": "Community Announcements",
+      "feed_type": "官方",
+      "is_patch": false,
+      "contents": "Celebrate Dead by Daylight: Chorus of Sin with a limited-edition merch collection inspired by the divine horror of The Judgment. Ephemeral as the whims of the divine, the Chorus of Sin collection will"
+    },
     {
       "date": "2026-09-03",
       "timestamp": 1788432328,
@@ -88,17 +99,6 @@
       "feed_type": "官方",
       "is_patch": false,
       "contents": "ContentNew Killer: The JudgmentPOWER: WILL OF THE GODSDIVINE LIGHTPress and hold the Power Button to summon Divine Light for up to 3s.Divine Light moves away from The Judgment and is controlled with c"
-    },
-    {
-      "date": "2026-08-15",
-      "timestamp": 1786791251,
-      "title": "Dead by Daylight's new chat wheel for Survivors is already better thanks to feedback",
-      "url": "https://steamstore-a.akamaihd.net/news/externalpost/PCGamesN/1840944183781962",
-      "author": "editor@pcgamesn.com",
-      "feed_label": "PCGamesN",
-      "feed_type": "媒体",
-      "is_patch": false,
-      "contents": "The Dead by Daylight Player Intent system lets you send preset messages to your fellow Survivors, making communication easier on the fly. Read the full story on PCGamesN: <a href=\"https://www.pcgamesn"
     }
   ],
   "patches": [],
@@ -159,11 +159,11 @@
     ]
   },
   "reviews": {
-    "total_reviews": 932329,
-    "positive": 730558,
-    "negative": 201771,
+    "total_reviews": 932539,
+    "positive": 730657,
+    "negative": 201882,
     "positive_rate": 78.4
   },
-  "ccu": 43944,
-  "crawled_at": "2026-09-04T00:02:03.052136"
+  "ccu": 43470,
+  "crawled_at": "2026-09-05T00:00:05.187513"
 }

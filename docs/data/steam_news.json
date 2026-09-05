@@ -249,7 +249,7 @@
       "is_official": true,
       "contents": "Hey hey semibots! Here is yet another small update with some fixes and balancing! CHANGES BALANCING FIXES CHANGES Item Melee Weapons - Handling now properly scales with strength and should feel firmer"
     },
-    "crawled_at": "2026-09-04T00:03:27.444164"
+    "crawled_at": "2026-09-05T00:01:30.496480"
   },
   "Lethal Company": {
     "appid": 1966720,
@@ -501,7 +501,7 @@
       "is_official": true,
       "contents": "Hello, long time no see! Version 80 is out in beta for you to test. You can access it by opting into the public beta branch for Lethal Company on Steam. V80 brings a complete rework of March's exterio"
     },
-    "crawled_at": "2026-09-04T00:03:28.877043"
+    "crawled_at": "2026-09-05T00:01:31.581935"
   },
   "Phasmophobia": {
     "appid": 739630,
@@ -753,7 +753,7 @@
       "is_official": true,
       "contents": "Welcome back, Ghost Hunters. We've deployed a small hotfix to address feedback on the Equipment and Item slot assignments. Patch notes below: ChangesItems and Equipment will now be assigned a slot in "
     },
-    "crawled_at": "2026-09-04T00:03:30.130035"
+    "crawled_at": "2026-09-05T00:01:32.729424"
   },
   "Content Warning": {
     "appid": 2881650,
@@ -1005,7 +1005,7 @@
       "is_official": true,
       "contents": "Hello Spööktubers! Thank you for your patience as we're fixing bugs on all platforms.Here's a new patch fixing some stuff!For those of you wondering when crossplay between Switch 1 & 2 and other platf"
     },
-    "crawled_at": "2026-09-04T00:03:31.359891"
+    "crawled_at": "2026-09-05T00:01:33.818882"
   },
   "FEEDERS": {
     "appid": 4408510,
@@ -1256,7 +1256,7 @@
       "is_official": true,
       "contents": "Gave the HUD a fresh redesign. New look across the board — the status bars (Health, Stamina, Radiation) and the bottom belt all got reworked. Same info, cleaner read. More guns coming with new solo ex"
     },
-    "crawled_at": "2026-09-04T00:03:33.042828"
+    "crawled_at": "2026-09-05T00:01:34.949248"
   },
   "NARAKA: BLADEPOINT": {
     "appid": 1203220,
@@ -1497,12 +1497,23 @@
       "contents": "Dear players, The servers of NARAKA: BLADEPOINT will be suspended for maintenance from Sep. 2nd, 2026 23:00 (UTC) to Sep. 3rd, 2026 04:00 (UTC). We suggest you log out in advance and enter the game ag"
     },
     "latest_patch": null,
-    "crawled_at": "2026-09-04T00:03:34.850118"
+    "crawled_at": "2026-09-05T00:01:36.034212"
   },
   "Dead by Daylight": {
     "appid": 381210,
     "all": [
       {
+        "date": "2026-09-04",
+        "datetime": "2026-09-04T17:00:16",
+        "title": "Dress to the Divines with the Dead by Daylight: Chorus of Sin Merch Collection",
+        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1842846814447263",
+        "author": "Goblin_BHVR",
+        "feed_label": "Community Announcements",
+        "is_patch": false,
+        "is_official": true,
+        "contents": "Celebrate Dead by Daylight: Chorus of Sin with a limited-edition merch collection inspired by the divine horror of The Judgment. Ephemeral as the whims of the divine, the Chorus of Sin collection will"
+      },
+      {
         "date": "2026-09-03",
         "datetime": "2026-09-03T10:45:28",
         "title": "Dead by Daylight is now testing Denuvo, but \"will not include\" its anti-piracy DRM",
@@ -1600,22 +1611,22 @@
         "is_patch": false,
         "is_official": true,
         "contents": "Last week, we hosted a Reddit AMA and on top of having a blast answering your questions, we noticed some topics really got you talking. One of those was the “chat wheel” system we’re working on to hel"
-      },
-      {
-        "date": "2026-08-08",
-        "datetime": "2026-08-08T12:20:28",
-        "title": "Dead by Daylight is getting a Survivor chat wheel soon, as Behaviour reveals plans to debloat a decade of systems",
-        "url": "https://steamstore-a.akamaihd.net/news/externalpost/PCGamesN/1840310314347473",
-        "author": "editor@pcgamesn.com",
-        "feed_label": "PCGamesN",
-        "is_patch": false,
-        "is_official": false,
-        "contents": "A new Dead by Daylight Q&A with Behaviour Interactive has revealed plans to debloat add-ons, along with a new chat wheel for Survivors. Read the full story on PCGamesN: <a href=\"https://www.pcgamesn.c"
       }
     ],
     "patches": [],
     "announcements": [
       {
+        "date": "2026-09-04",
+        "datetime": "2026-09-04T17:00:16",
+        "title": "Dress to the Divines with the Dead by Daylight: Chorus of Sin Merch Collection",
+        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1842846814447263",
+        "author": "Goblin_BHVR",
+        "feed_label": "Community Announcements",
+        "is_patch": false,
+        "is_official": true,
+        "contents": "Celebrate Dead by Daylight: Chorus of Sin with a limited-edition merch collection inspired by the divine horror of The Judgment. Ephemeral as the whims of the divine, the Chorus of Sin collection will"
+      },
+      {
         "date": "2026-09-03",
         "datetime": "2026-09-03T10:45:28",
         "title": "Dead by Daylight is now testing Denuvo, but \"will not include\" its anti-piracy DRM",
@@ -1713,31 +1724,20 @@
         "is_patch": false,
         "is_official": true,
         "contents": "Last week, we hosted a Reddit AMA and on top of having a blast answering your questions, we noticed some topics really got you talking. One of those was the “chat wheel” system we’re working on to hel"
-      },
-      {
-        "date": "2026-08-08",
-        "datetime": "2026-08-08T12:20:28",
-        "title": "Dead by Daylight is getting a Survivor chat wheel soon, as Behaviour reveals plans to debloat a decade of systems",
-        "url": "https://steamstore-a.akamaihd.net/news/externalpost/PCGamesN/1840310314347473",
-        "author": "editor@pcgamesn.com",
-        "feed_label": "PCGamesN",
-        "is_patch": false,
-        "is_official": false,
-        "contents": "A new Dead by Daylight Q&A with Behaviour Interactive has revealed plans to debloat add-ons, along with a new chat wheel for Survivors. Read the full story on PCGamesN: <a href=\"https://www.pcgamesn.c"
       }
     ],
     "latest": {
-      "date": "2026-09-03",
-      "datetime": "2026-09-03T10:45:28",
-      "title": "Dead by Daylight is now testing Denuvo, but \"will not include\" its anti-piracy DRM",
-      "url": "https://steamstore-a.akamaihd.net/news/externalpost/PCGamesN/1842846814443069",
-      "author": "editor@pcgamesn.com",
-      "feed_label": "PCGamesN",
+      "date": "2026-09-04",
+      "datetime": "2026-09-04T17:00:16",
+      "title": "Dress to the Divines with the Dead by Daylight: Chorus of Sin Merch Collection",
+      "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1842846814447263",
+      "author": "Goblin_BHVR",
+      "feed_label": "Community Announcements",
       "is_patch": false,
-      "is_official": false,
-      "contents": "A new Dead by Daylight anti-cheat trial is testing Denuvo's protection tool, but Behaviour Interactive makes clear there will be no DRM. Read the full story on PCGamesN: <a href=\"https://www.pcgamesn."
+      "is_official": true,
+      "contents": "Celebrate Dead by Daylight: Chorus of Sin with a limited-edition merch collection inspired by the divine horror of The Judgment. Ephemeral as the whims of the divine, the Chorus of Sin collection will"
     },
     "latest_patch": null,
-    "crawled_at": "2026-09-04T00:03:36.033057"
+    "crawled_at": "2026-09-05T00:01:37.160902"
   }
 }
