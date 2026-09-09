@@ -1,10 +1,10 @@
 {
-  "snapshot_date": "2026-09-08T00:15:31+08:00",
+  "snapshot_date": "2026-09-09T00:06:47+08:00",
   "hero": {
     "name": "黎明杀机",
-    "current_players": 45643,
+    "current_players": 55266,
     "positive_rate": 78.3,
-    "reviews_total": 933238,
+    "reviews_total": 933489,
     "price_label": "¥ 93.75",
     "release_date": "2016 年 6 月 14 日",
     "genres": [
@@ -101,7 +101,19 @@
       "contents": "ContentNew Killer: The JudgmentPOWER: WILL OF THE GODSDIVINE LIGHTPress and hold the Power Button to summon Divine Light for up to 3s.Divine Light moves away from The Judgment and is controlled with c"
     }
   ],
-  "patches": [],
+  "patches": [
+    {
+      "date": "2026-09-08",
+      "timestamp": 1788877839,
+      "title": "10.1.2 | Bugfix Patch",
+      "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1842846814455826",
+      "author": "Goblin_BHVR",
+      "feed_label": "Community Announcements",
+      "feed_type": "官方",
+      "is_patch": true,
+      "contents": "ContentThe JudgmentIncreased the Divine Light curve window while Zealous to 0.8s (was 0.6s)Dev note: In hotfix 1 we increased the Zealous Curve window to 0.6s. However, that duration was shorter based"
+    }
+  ],
   "trends": [
     {
       "month": "2026-01",
@@ -159,11 +171,11 @@
     ]
   },
   "reviews": {
-    "total_reviews": 933238,
-    "positive": 731037,
-    "negative": 202201,
+    "total_reviews": 933489,
+    "positive": 731191,
+    "negative": 202298,
     "positive_rate": 78.3
   },
-  "ccu": 45643,
-  "crawled_at": "2026-09-08T00:15:31.076756"
+  "ccu": 55266,
+  "crawled_at": "2026-09-09T00:06:47.296288"
 }
