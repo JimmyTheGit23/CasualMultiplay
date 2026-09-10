@@ -249,7 +249,7 @@
       "is_official": true,
       "contents": "Hey hey semibots! Here is yet another small update with some fixes and balancing! CHANGES BALANCING FIXES CHANGES Item Melee Weapons - Handling now properly scales with strength and should feel firmer"
     },
-    "crawled_at": "2026-09-09T00:08:03.544021"
+    "crawled_at": "2026-09-10T00:09:31.616637"
   },
   "Lethal Company": {
     "appid": 1966720,
@@ -501,7 +501,7 @@
       "is_official": true,
       "contents": "Hello, long time no see! Version 80 is out in beta for you to test. You can access it by opting into the public beta branch for Lethal Company on Steam. V80 brings a complete rework of March's exterio"
     },
-    "crawled_at": "2026-09-09T00:08:04.725614"
+    "crawled_at": "2026-09-10T00:09:32.834506"
   },
   "Phasmophobia": {
     "appid": 739630,
@@ -753,7 +753,7 @@
       "is_official": true,
       "contents": "Welcome back, Ghost Hunters. We've deployed a small hotfix to address feedback on the Equipment and Item slot assignments. Patch notes below: ChangesItems and Equipment will now be assigned a slot in "
     },
-    "crawled_at": "2026-09-09T00:08:05.951881"
+    "crawled_at": "2026-09-10T00:09:34.013198"
   },
   "Content Warning": {
     "appid": 2881650,
@@ -1005,7 +1005,7 @@
       "is_official": true,
       "contents": "Hello Spööktubers! Thank you for your patience as we're fixing bugs on all platforms.Here's a new patch fixing some stuff!For those of you wondering when crossplay between Switch 1 & 2 and other platf"
     },
-    "crawled_at": "2026-09-09T00:08:07.228710"
+    "crawled_at": "2026-09-10T00:09:35.214348"
   },
   "FEEDERS": {
     "appid": 4408510,
@@ -1256,7 +1256,7 @@
       "is_official": true,
       "contents": "Gave the HUD a fresh redesign. New look across the board — the status bars (Health, Stamina, Radiation) and the bottom belt all got reworked. Same info, cleaner read. More guns coming with new solo ex"
     },
-    "crawled_at": "2026-09-09T00:08:08.426063"
+    "crawled_at": "2026-09-10T00:09:36.418284"
   },
   "NARAKA: BLADEPOINT": {
     "appid": 1203220,
@@ -1497,7 +1497,7 @@
       "contents": "Dear players, NARAKA: BLADEPOINT is committed to creating a fair and healthy competitive environment. We have not only used new anti-cheat technologies, but also established special cheat-reporting re"
     },
     "latest_patch": null,
-    "crawled_at": "2026-09-09T00:08:09.622998"
+    "crawled_at": "2026-09-10T00:09:37.728239"
   },
   "Dead by Daylight": {
     "appid": 381210,
@@ -1749,6 +1749,6 @@
       "is_official": true,
       "contents": "ContentThe JudgmentIncreased the Divine Light curve window while Zealous to 0.8s (was 0.6s)Dev note: In hotfix 1 we increased the Zealous Curve window to 0.6s. However, that duration was shorter based"
     },
-    "crawled_at": "2026-09-09T00:08:10.828136"
+    "crawled_at": "2026-09-10T00:09:38.915605"
   }
 }
