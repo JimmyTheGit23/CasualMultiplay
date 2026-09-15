@@ -249,7 +249,7 @@
       "is_official": true,
       "contents": "Hey hey semibots! Here is yet another small update with some fixes and balancing! CHANGES BALANCING FIXES CHANGES Item Melee Weapons - Handling now properly scales with strength and should feel firmer"
     },
-    "crawled_at": "2026-09-14T00:10:01.173088"
+    "crawled_at": "2026-09-15T00:35:27.837417"
   },
   "Lethal Company": {
     "appid": 1966720,
@@ -501,7 +501,7 @@
       "is_official": true,
       "contents": "Hello, long time no see! Version 80 is out in beta for you to test. You can access it by opting into the public beta branch for Lethal Company on Steam. V80 brings a complete rework of March's exterio"
     },
-    "crawled_at": "2026-09-14T00:10:02.298638"
+    "crawled_at": "2026-09-15T00:35:29.165896"
   },
   "Phasmophobia": {
     "appid": 739630,
@@ -753,7 +753,7 @@
       "is_official": true,
       "contents": "Welcome back, Ghost Hunters. We've deployed a small hotfix to address feedback on the Equipment and Item slot assignments. Patch notes below: ChangesItems and Equipment will now be assigned a slot in "
     },
-    "crawled_at": "2026-09-14T00:10:03.580537"
+    "crawled_at": "2026-09-15T00:35:30.347029"
   },
   "Content Warning": {
     "appid": 2881650,
@@ -1005,7 +1005,7 @@
       "is_official": true,
       "contents": "Hello Spööktubers! Thank you for your patience as we're fixing bugs on all platforms.Here's a new patch fixing some stuff!For those of you wondering when crossplay between Switch 1 & 2 and other platf"
     },
-    "crawled_at": "2026-09-14T00:10:04.697050"
+    "crawled_at": "2026-09-15T00:35:31.624961"
   },
   "FEEDERS": {
     "appid": 4408510,
@@ -1256,7 +1256,7 @@
       "is_official": true,
       "contents": "Gave the HUD a fresh redesign. New look across the board — the status bars (Health, Stamina, Radiation) and the bottom belt all got reworked. Same info, cleaner read. More guns coming with new solo ex"
     },
-    "crawled_at": "2026-09-14T00:10:05.889031"
+    "crawled_at": "2026-09-15T00:35:32.788772"
   },
   "NARAKA: BLADEPOINT": {
     "appid": 1203220,
@@ -1497,11 +1497,22 @@
       "contents": "Dear players, NARAKA: BLADEPOINT is committed to creating a fair and healthy competitive environment. We have not only used new anti-cheat technologies, but also established special cheat-reporting re"
     },
     "latest_patch": null,
-    "crawled_at": "2026-09-14T00:10:07.012116"
+    "crawled_at": "2026-09-15T00:35:33.904465"
   },
   "Dead by Daylight": {
     "appid": 381210,
     "all": [
+      {
+        "date": "2026-09-14",
+        "datetime": "2026-09-14T14:00:30",
+        "title": "Dev Update | 10.2.0 Perks Update",
+        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1843481262701761",
+        "author": "Goblin_BHVR",
+        "feed_label": "Community Announcements",
+        "is_patch": false,
+        "is_official": true,
+        "contents": "Greetings, Fog Dwellers. Today we wanted to talk to you about some of the perk changes (spoiler alert: 58 perks are changing) and content that you can expect in the next PTB, as well as the reasonings"
+      },
       {
         "date": "2026-09-08",
         "datetime": "2026-09-08T14:30:39",
@@ -1600,17 +1611,6 @@
         "is_patch": false,
         "is_official": true,
         "contents": "ContentNew Killer: The JudgmentPOWER: WILL OF THE GODSDIVINE LIGHTPress and hold the Power Button to summon Divine Light for up to 3s.Divine Light moves away from The Judgment and is controlled with c"
-      },
-      {
-        "date": "2026-08-15",
-        "datetime": "2026-08-15T10:54:11",
-        "title": "Dead by Daylight's new chat wheel for Survivors is already better thanks to feedback",
-        "url": "https://steamstore-a.akamaihd.net/news/externalpost/PCGamesN/1840944183781962",
-        "author": "editor@pcgamesn.com",
-        "feed_label": "PCGamesN",
-        "is_patch": false,
-        "is_official": false,
-        "contents": "The Dead by Daylight Player Intent system lets you send preset messages to your fellow Survivors, making communication easier on the fly. Read the full story on PCGamesN: <a href=\"https://www.pcgamesn"
       }
     ],
     "patches": [
@@ -1628,6 +1628,17 @@
     ],
     "announcements": [
       {
+        "date": "2026-09-14",
+        "datetime": "2026-09-14T14:00:30",
+        "title": "Dev Update | 10.2.0 Perks Update",
+        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1843481262701761",
+        "author": "Goblin_BHVR",
+        "feed_label": "Community Announcements",
+        "is_patch": false,
+        "is_official": true,
+        "contents": "Greetings, Fog Dwellers. Today we wanted to talk to you about some of the perk changes (spoiler alert: 58 perks are changing) and content that you can expect in the next PTB, as well as the reasonings"
+      },
+      {
         "date": "2026-09-04",
         "datetime": "2026-09-04T17:00:16",
         "title": "Dress to the Divines with the Dead by Daylight: Chorus of Sin Merch Collection",
@@ -1714,29 +1725,18 @@
         "is_patch": false,
         "is_official": true,
         "contents": "ContentNew Killer: The JudgmentPOWER: WILL OF THE GODSDIVINE LIGHTPress and hold the Power Button to summon Divine Light for up to 3s.Divine Light moves away from The Judgment and is controlled with c"
-      },
-      {
-        "date": "2026-08-15",
-        "datetime": "2026-08-15T10:54:11",
-        "title": "Dead by Daylight's new chat wheel for Survivors is already better thanks to feedback",
-        "url": "https://steamstore-a.akamaihd.net/news/externalpost/PCGamesN/1840944183781962",
-        "author": "editor@pcgamesn.com",
-        "feed_label": "PCGamesN",
-        "is_patch": false,
-        "is_official": false,
-        "contents": "The Dead by Daylight Player Intent system lets you send preset messages to your fellow Survivors, making communication easier on the fly. Read the full story on PCGamesN: <a href=\"https://www.pcgamesn"
       }
     ],
     "latest": {
-      "date": "2026-09-08",
-      "datetime": "2026-09-08T14:30:39",
-      "title": "10.1.2 | Bugfix Patch",
-      "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1842846814455826",
+      "date": "2026-09-14",
+      "datetime": "2026-09-14T14:00:30",
+      "title": "Dev Update | 10.2.0 Perks Update",
+      "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1843481262701761",
       "author": "Goblin_BHVR",
       "feed_label": "Community Announcements",
-      "is_patch": true,
+      "is_patch": false,
       "is_official": true,
-      "contents": "ContentThe JudgmentIncreased the Divine Light curve window while Zealous to 0.8s (was 0.6s)Dev note: In hotfix 1 we increased the Zealous Curve window to 0.6s. However, that duration was shorter based"
+      "contents": "Greetings, Fog Dwellers. Today we wanted to talk to you about some of the perk changes (spoiler alert: 58 perks are changing) and content that you can expect in the next PTB, as well as the reasonings"
     },
     "latest_patch": {
       "date": "2026-09-08",
@@ -1749,6 +1749,6 @@
       "is_official": true,
       "contents": "ContentThe JudgmentIncreased the Divine Light curve window while Zealous to 0.8s (was 0.6s)Dev note: In hotfix 1 we increased the Zealous Curve window to 0.6s. However, that duration was shorter based"
     },
-    "crawled_at": "2026-09-14T00:10:08.256292"
+    "crawled_at": "2026-09-15T00:35:35.678967"
   }
 }

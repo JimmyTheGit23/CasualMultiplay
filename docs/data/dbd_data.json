@@ -1,10 +1,10 @@
 {
-  "snapshot_date": "2026-09-14T00:08:45+08:00",
+  "snapshot_date": "2026-09-15T00:33:59+08:00",
   "hero": {
     "name": "黎明杀机",
-    "current_players": 50014,
+    "current_players": 45288,
     "positive_rate": 78.3,
-    "reviews_total": 934417,
+    "reviews_total": 934571,
     "price_label": "¥ 93.75",
     "release_date": "2016 年 6 月 14 日",
     "genres": [
@@ -12,6 +12,17 @@
     ]
   },
   "operations": [
+    {
+      "date": "2026-09-14",
+      "timestamp": 1789394430,
+      "title": "Dev Update | 10.2.0 Perks Update",
+      "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1843481262701761",
+      "author": "Goblin_BHVR",
+      "feed_label": "Community Announcements",
+      "feed_type": "官方",
+      "is_patch": false,
+      "contents": "Greetings, Fog Dwellers. Today we wanted to talk to you about some of the perk changes (spoiler alert: 58 perks are changing) and content that you can expect in the next PTB, as well as the reasonings"
+    },
     {
       "date": "2026-09-04",
       "timestamp": 1788541216,
@@ -88,17 +99,6 @@
       "feed_type": "官方",
       "is_patch": false,
       "contents": "Greetings Fog Dwellers! Recently, we shared a survey asking for your thoughts on anti-cheat in Dead by Daylight. One message came through loud and clear: you feel we could be doing more. We hear you a"
-    },
-    {
-      "date": "2026-08-25",
-      "timestamp": 1787668216,
-      "title": "10.1.0 | Chorus of Sin",
-      "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1841579228678469",
-      "author": "Goblin_BHVR",
-      "feed_label": "Community Announcements",
-      "feed_type": "官方",
-      "is_patch": false,
-      "contents": "ContentNew Killer: The JudgmentPOWER: WILL OF THE GODSDIVINE LIGHTPress and hold the Power Button to summon Divine Light for up to 3s.Divine Light moves away from The Judgment and is controlled with c"
     }
   ],
   "patches": [
@@ -171,11 +171,11 @@
     ]
   },
   "reviews": {
-    "total_reviews": 934417,
-    "positive": 731773,
-    "negative": 202644,
+    "total_reviews": 934571,
+    "positive": 731869,
+    "negative": 202702,
     "positive_rate": 78.3
   },
-  "ccu": 50014,
-  "crawled_at": "2026-09-14T00:08:45.347739"
+  "ccu": 45288,
+  "crawled_at": "2026-09-15T00:33:59.080717"
 }
