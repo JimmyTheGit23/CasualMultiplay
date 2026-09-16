@@ -249,7 +249,7 @@
       "is_official": true,
       "contents": "Hey hey semibots! Here is yet another small update with some fixes and balancing! CHANGES BALANCING FIXES CHANGES Item Melee Weapons - Handling now properly scales with strength and should feel firmer"
     },
-    "crawled_at": "2026-09-15T00:35:27.837417"
+    "crawled_at": "2026-09-16T00:13:50.148914"
   },
   "Lethal Company": {
     "appid": 1966720,
@@ -501,7 +501,7 @@
       "is_official": true,
       "contents": "Hello, long time no see! Version 80 is out in beta for you to test. You can access it by opting into the public beta branch for Lethal Company on Steam. V80 brings a complete rework of March's exterio"
     },
-    "crawled_at": "2026-09-15T00:35:29.165896"
+    "crawled_at": "2026-09-16T00:13:51.299951"
   },
   "Phasmophobia": {
     "appid": 739630,
@@ -753,7 +753,7 @@
       "is_official": true,
       "contents": "Welcome back, Ghost Hunters. We've deployed a small hotfix to address feedback on the Equipment and Item slot assignments. Patch notes below: ChangesItems and Equipment will now be assigned a slot in "
     },
-    "crawled_at": "2026-09-15T00:35:30.347029"
+    "crawled_at": "2026-09-16T00:13:52.477959"
   },
   "Content Warning": {
     "appid": 2881650,
@@ -1005,7 +1005,7 @@
       "is_official": true,
       "contents": "Hello Spööktubers! Thank you for your patience as we're fixing bugs on all platforms.Here's a new patch fixing some stuff!For those of you wondering when crossplay between Switch 1 & 2 and other platf"
     },
-    "crawled_at": "2026-09-15T00:35:31.624961"
+    "crawled_at": "2026-09-16T00:13:53.621486"
   },
   "FEEDERS": {
     "appid": 4408510,
@@ -1256,7 +1256,7 @@
       "is_official": true,
       "contents": "Gave the HUD a fresh redesign. New look across the board — the status bars (Health, Stamina, Radiation) and the bottom belt all got reworked. Same info, cleaner read. More guns coming with new solo ex"
     },
-    "crawled_at": "2026-09-15T00:35:32.788772"
+    "crawled_at": "2026-09-16T00:13:55.046906"
   },
   "NARAKA: BLADEPOINT": {
     "appid": 1203220,
@@ -1497,11 +1497,33 @@
       "contents": "Dear players, NARAKA: BLADEPOINT is committed to creating a fair and healthy competitive environment. We have not only used new anti-cheat technologies, but also established special cheat-reporting re"
     },
     "latest_patch": null,
-    "crawled_at": "2026-09-15T00:35:33.904465"
+    "crawled_at": "2026-09-16T00:13:56.180669"
   },
   "Dead by Daylight": {
     "appid": 381210,
     "all": [
+      {
+        "date": "2026-09-15",
+        "datetime": "2026-09-15T15:07:04",
+        "title": "10.2.0 | PTB Patch Notes",
+        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1843481262704854",
+        "author": "Goblin_BHVR",
+        "feed_label": "Community Announcements",
+        "is_patch": false,
+        "is_official": true,
+        "contents": "FeaturesSurvivor Intent SystemSurvivors can send and receive text messages during a matchBy pressing and holding the scroll-button when using a Mouse, or the right d-pad input on controllers, players "
+      },
+      {
+        "date": "2026-09-15",
+        "datetime": "2026-09-15T14:00:06",
+        "title": "Denuvo Anti Cheat Trial Update",
+        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1843481262704672",
+        "author": "Goblin_BHVR",
+        "feed_label": "Community Announcements",
+        "is_patch": false,
+        "is_official": true,
+        "contents": "At 11am ET, there will be an update that ends this current Anti Cheat Trial and removes Denuvo from Dead by Daylight. We thank everyone for participating and providing valuable feedback;  we will be r"
+      },
       {
         "date": "2026-09-14",
         "datetime": "2026-09-14T14:00:30",
@@ -1589,28 +1611,6 @@
         "is_patch": false,
         "is_official": false,
         "contents": "Dead by Daylight, my current online co-op fixation to play with the partner, is set for some changes with the anti-cheat systems. Read the full article here: https://www.gamingonlinux.com/2026/08/dead"
-      },
-      {
-        "date": "2026-08-26",
-        "datetime": "2026-08-26T13:59:51",
-        "title": "Anti-Cheat Trials",
-        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1842212951296959",
-        "author": "amanda_bhvr",
-        "feed_label": "Community Announcements",
-        "is_patch": false,
-        "is_official": true,
-        "contents": "Greetings Fog Dwellers! Recently, we shared a survey asking for your thoughts on anti-cheat in Dead by Daylight. One message came through loud and clear: you feel we could be doing more. We hear you a"
-      },
-      {
-        "date": "2026-08-25",
-        "datetime": "2026-08-25T14:30:16",
-        "title": "10.1.0 | Chorus of Sin",
-        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1841579228678469",
-        "author": "Goblin_BHVR",
-        "feed_label": "Community Announcements",
-        "is_patch": false,
-        "is_official": true,
-        "contents": "ContentNew Killer: The JudgmentPOWER: WILL OF THE GODSDIVINE LIGHTPress and hold the Power Button to summon Divine Light for up to 3s.Divine Light moves away from The Judgment and is controlled with c"
       }
     ],
     "patches": [
@@ -1628,6 +1628,28 @@
     ],
     "announcements": [
       {
+        "date": "2026-09-15",
+        "datetime": "2026-09-15T15:07:04",
+        "title": "10.2.0 | PTB Patch Notes",
+        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1843481262704854",
+        "author": "Goblin_BHVR",
+        "feed_label": "Community Announcements",
+        "is_patch": false,
+        "is_official": true,
+        "contents": "FeaturesSurvivor Intent SystemSurvivors can send and receive text messages during a matchBy pressing and holding the scroll-button when using a Mouse, or the right d-pad input on controllers, players "
+      },
+      {
+        "date": "2026-09-15",
+        "datetime": "2026-09-15T14:00:06",
+        "title": "Denuvo Anti Cheat Trial Update",
+        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1843481262704672",
+        "author": "Goblin_BHVR",
+        "feed_label": "Community Announcements",
+        "is_patch": false,
+        "is_official": true,
+        "contents": "At 11am ET, there will be an update that ends this current Anti Cheat Trial and removes Denuvo from Dead by Daylight. We thank everyone for participating and providing valuable feedback;  we will be r"
+      },
+      {
         "date": "2026-09-14",
         "datetime": "2026-09-14T14:00:30",
         "title": "Dev Update | 10.2.0 Perks Update",
@@ -1703,40 +1725,18 @@
         "is_patch": false,
         "is_official": false,
         "contents": "Dead by Daylight, my current online co-op fixation to play with the partner, is set for some changes with the anti-cheat systems. Read the full article here: https://www.gamingonlinux.com/2026/08/dead"
-      },
-      {
-        "date": "2026-08-26",
-        "datetime": "2026-08-26T13:59:51",
-        "title": "Anti-Cheat Trials",
-        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1842212951296959",
-        "author": "amanda_bhvr",
-        "feed_label": "Community Announcements",
-        "is_patch": false,
-        "is_official": true,
-        "contents": "Greetings Fog Dwellers! Recently, we shared a survey asking for your thoughts on anti-cheat in Dead by Daylight. One message came through loud and clear: you feel we could be doing more. We hear you a"
-      },
-      {
-        "date": "2026-08-25",
-        "datetime": "2026-08-25T14:30:16",
-        "title": "10.1.0 | Chorus of Sin",
-        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1841579228678469",
-        "author": "Goblin_BHVR",
-        "feed_label": "Community Announcements",
-        "is_patch": false,
-        "is_official": true,
-        "contents": "ContentNew Killer: The JudgmentPOWER: WILL OF THE GODSDIVINE LIGHTPress and hold the Power Button to summon Divine Light for up to 3s.Divine Light moves away from The Judgment and is controlled with c"
       }
     ],
     "latest": {
-      "date": "2026-09-14",
-      "datetime": "2026-09-14T14:00:30",
-      "title": "Dev Update | 10.2.0 Perks Update",
-      "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1843481262701761",
+      "date": "2026-09-15",
+      "datetime": "2026-09-15T15:07:04",
+      "title": "10.2.0 | PTB Patch Notes",
+      "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1843481262704854",
       "author": "Goblin_BHVR",
       "feed_label": "Community Announcements",
       "is_patch": false,
       "is_official": true,
-      "contents": "Greetings, Fog Dwellers. Today we wanted to talk to you about some of the perk changes (spoiler alert: 58 perks are changing) and content that you can expect in the next PTB, as well as the reasonings"
+      "contents": "FeaturesSurvivor Intent SystemSurvivors can send and receive text messages during a matchBy pressing and holding the scroll-button when using a Mouse, or the right d-pad input on controllers, players "
     },
     "latest_patch": {
       "date": "2026-09-08",
@@ -1749,6 +1749,6 @@
       "is_official": true,
       "contents": "ContentThe JudgmentIncreased the Divine Light curve window while Zealous to 0.8s (was 0.6s)Dev note: In hotfix 1 we increased the Zealous Curve window to 0.6s. However, that duration was shorter based"
     },
-    "crawled_at": "2026-09-15T00:35:35.678967"
+    "crawled_at": "2026-09-16T00:13:57.468901"
   }
 }

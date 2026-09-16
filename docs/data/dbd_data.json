@@ -1,10 +1,10 @@
 {
-  "snapshot_date": "2026-09-15T00:33:59+08:00",
+  "snapshot_date": "2026-09-16T00:12:39+08:00",
   "hero": {
     "name": "黎明杀机",
-    "current_players": 45288,
+    "current_players": 46790,
     "positive_rate": 78.3,
-    "reviews_total": 934571,
+    "reviews_total": 934725,
     "price_label": "¥ 93.75",
     "release_date": "2016 年 6 月 14 日",
     "genres": [
@@ -12,6 +12,28 @@
     ]
   },
   "operations": [
+    {
+      "date": "2026-09-15",
+      "timestamp": 1789484824,
+      "title": "10.2.0 | PTB Patch Notes",
+      "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1843481262704854",
+      "author": "Goblin_BHVR",
+      "feed_label": "Community Announcements",
+      "feed_type": "官方",
+      "is_patch": false,
+      "contents": "FeaturesSurvivor Intent SystemSurvivors can send and receive text messages during a matchBy pressing and holding the scroll-button when using a Mouse, or the right d-pad input on controllers, players "
+    },
+    {
+      "date": "2026-09-15",
+      "timestamp": 1789480806,
+      "title": "Denuvo Anti Cheat Trial Update",
+      "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1843481262704672",
+      "author": "Goblin_BHVR",
+      "feed_label": "Community Announcements",
+      "feed_type": "官方",
+      "is_patch": false,
+      "contents": "At 11am ET, there will be an update that ends this current Anti Cheat Trial and removes Denuvo from Dead by Daylight. We thank everyone for participating and providing valuable feedback;  we will be r"
+    },
     {
       "date": "2026-09-14",
       "timestamp": 1789394430,
@@ -77,28 +99,6 @@
       "feed_type": "媒体",
       "is_patch": false,
       "contents": "<a href=\"https://steamdb.info/topsellers/2026W36/?utm_source=Steam&utm_medium=Steam&utm_campaign=SteamRSS\"> </a> * <a href=\"https://steamdb.info/app/2075800/charts/?utm_source=Steam&utm_medium=Steam&u"
-    },
-    {
-      "date": "2026-08-26",
-      "timestamp": 1787764165,
-      "title": "Dead by Daylight will be testing out Denuvo Anti-Cheat and other systems soon",
-      "url": "https://steamstore-a.akamaihd.net/news/externalpost/GamingOnLinux/1842212951297629",
-      "author": "",
-      "feed_label": "GamingOnLinux",
-      "feed_type": "媒体",
-      "is_patch": false,
-      "contents": "Dead by Daylight, my current online co-op fixation to play with the partner, is set for some changes with the anti-cheat systems. Read the full article here: https://www.gamingonlinux.com/2026/08/dead"
-    },
-    {
-      "date": "2026-08-26",
-      "timestamp": 1787752791,
-      "title": "Anti-Cheat Trials",
-      "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1842212951296959",
-      "author": "amanda_bhvr",
-      "feed_label": "Community Announcements",
-      "feed_type": "官方",
-      "is_patch": false,
-      "contents": "Greetings Fog Dwellers! Recently, we shared a survey asking for your thoughts on anti-cheat in Dead by Daylight. One message came through loud and clear: you feel we could be doing more. We hear you a"
     }
   ],
   "patches": [
@@ -151,7 +151,7 @@
     "name_en": "Dead by Daylight",
     "short_description": "10年恐惧相伴。10年的惊吓与刺激体验。10年的残暴献祭与惊险逃脱。 永久困于邪恶的幻境之中，即使死亡也无法逃脱，这是一场需要勇气和智慧的较量，四名意志坚定的逃生者在残忍对局中面对嗜血杀手。选择一方，进入多人非对称竞技游戏世界，获得最佳恐怖游戏体验。",
     "short_description_en": "10 years of horror. 10 years of jump scares and close calls. 10 years of brutal sacrifices and thrilling escapes. Trapped forever in a realm of eldritch evil where even death is not an escape, four determined Survivors face a bloodthirsty Killer in a vicious game of nerve and wits.",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/381210/70faaaf204a2d3bd46cf4915f542e93fe76f16aa/header_alt_assets_9.jpg?t=1787769494",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/381210/header.jpg?t=1787769494",
     "developers": [
       "Behaviour Interactive Inc."
     ],
@@ -171,11 +171,11 @@
     ]
   },
   "reviews": {
-    "total_reviews": 934571,
-    "positive": 731869,
-    "negative": 202702,
+    "total_reviews": 934725,
+    "positive": 731986,
+    "negative": 202739,
     "positive_rate": 78.3
   },
-  "ccu": 45288,
-  "crawled_at": "2026-09-15T00:33:59.080717"
+  "ccu": 46790,
+  "crawled_at": "2026-09-16T00:12:39.585051"
 }
