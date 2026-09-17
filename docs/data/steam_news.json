@@ -249,7 +249,7 @@
       "is_official": true,
       "contents": "Hey hey semibots! Here is yet another small update with some fixes and balancing! CHANGES BALANCING FIXES CHANGES Item Melee Weapons - Handling now properly scales with strength and should feel firmer"
     },
-    "crawled_at": "2026-09-16T00:13:50.148914"
+    "crawled_at": "2026-09-17T00:25:41.185544"
   },
   "Lethal Company": {
     "appid": 1966720,
@@ -501,11 +501,22 @@
       "is_official": true,
       "contents": "Hello, long time no see! Version 80 is out in beta for you to test. You can access it by opting into the public beta branch for Lethal Company on Steam. V80 brings a complete rework of March's exterio"
     },
-    "crawled_at": "2026-09-16T00:13:51.299951"
+    "crawled_at": "2026-09-17T00:25:42.459842"
   },
   "Phasmophobia": {
     "appid": 739630,
     "all": [
+      {
+        "date": "2026-09-16",
+        "datetime": "2026-09-16T16:05:27",
+        "title": "Phasmophobia v0.19.0.2 - Patch Notes",
+        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844115010489571",
+        "author": "Tom Dent",
+        "feed_label": "Community Announcements",
+        "is_patch": true,
+        "is_official": true,
+        "contents": "Welcome back, Ghost Hunters. We’ve got an update for you.Today, we have released an update for Phasmophobia to address two issues that have been raised by the community since the release of our last u"
+      },
       {
         "date": "2026-09-10",
         "datetime": "2026-09-10T11:04:16",
@@ -604,20 +615,20 @@
         "is_patch": false,
         "is_official": true,
         "contents": "Welcome back, Ghost Hunters. Over the last month and a half, we’ve been reading the discussions about Phasmophobia across so many different channels and taking note of the biggest issues, points of co"
-      },
+      }
+    ],
+    "patches": [
       {
-        "date": "2026-06-03",
-        "datetime": "2026-06-03T13:12:36",
-        "title": "Phasmophobia - Hotfix v0.17.1.5",
-        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1834602721184795",
+        "date": "2026-09-16",
+        "datetime": "2026-09-16T16:05:27",
+        "title": "Phasmophobia v0.19.0.2 - Patch Notes",
+        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844115010489571",
         "author": "Tom Dent",
         "feed_label": "Community Announcements",
         "is_patch": true,
         "is_official": true,
-        "contents": "Welcome back, Ghost Hunters.Today we have released a hotfix for Phasmophobia, addressing two issues raised by the community this week. The update is now available across all platforms.Patch notes:Fixe"
-      }
-    ],
-    "patches": [
+        "contents": "Welcome back, Ghost Hunters. We’ve got an update for you.Today, we have released an update for Phasmophobia to address two issues that have been raised by the community since the release of our last u"
+      },
       {
         "date": "2026-07-28",
         "datetime": "2026-07-28T16:14:53",
@@ -628,17 +639,6 @@
         "is_patch": true,
         "is_official": true,
         "contents": "Welcome back, Ghost Hunters. We've deployed a small hotfix to address feedback on the Equipment and Item slot assignments. Patch notes below: ChangesItems and Equipment will now be assigned a slot in "
-      },
-      {
-        "date": "2026-06-03",
-        "datetime": "2026-06-03T13:12:36",
-        "title": "Phasmophobia - Hotfix v0.17.1.5",
-        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1834602721184795",
-        "author": "Tom Dent",
-        "feed_label": "Community Announcements",
-        "is_patch": true,
-        "is_official": true,
-        "contents": "Welcome back, Ghost Hunters.Today we have released a hotfix for Phasmophobia, addressing two issues raised by the community this week. The update is now available across all platforms.Patch notes:Fixe"
       }
     ],
     "announcements": [
@@ -732,28 +732,28 @@
       }
     ],
     "latest": {
-      "date": "2026-09-10",
-      "datetime": "2026-09-10T11:04:16",
-      "title": "Phasmophobia v0.19.0.1 - Patch Notes",
-      "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1843481262691864",
-      "author": "Tom Dent",
-      "feed_label": "Community Announcements",
-      "is_patch": false,
-      "is_official": true,
-      "contents": "Welcome back, Ghost Hunters. We’ve got an update for you.Today, we have released an update for Phasmophobia to address several issues that were raised following our latest Quality of Life update. Than"
-    },
-    "latest_patch": {
-      "date": "2026-07-28",
-      "datetime": "2026-07-28T16:14:53",
-      "title": "Phasmophobia v0.18.0.1 - Hotfix",
-      "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1839041357038727",
+      "date": "2026-09-16",
+      "datetime": "2026-09-16T16:05:27",
+      "title": "Phasmophobia v0.19.0.2 - Patch Notes",
+      "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844115010489571",
       "author": "Tom Dent",
       "feed_label": "Community Announcements",
       "is_patch": true,
       "is_official": true,
-      "contents": "Welcome back, Ghost Hunters. We've deployed a small hotfix to address feedback on the Equipment and Item slot assignments. Patch notes below: ChangesItems and Equipment will now be assigned a slot in "
+      "contents": "Welcome back, Ghost Hunters. We’ve got an update for you.Today, we have released an update for Phasmophobia to address two issues that have been raised by the community since the release of our last u"
     },
-    "crawled_at": "2026-09-16T00:13:52.477959"
+    "latest_patch": {
+      "date": "2026-09-16",
+      "datetime": "2026-09-16T16:05:27",
+      "title": "Phasmophobia v0.19.0.2 - Patch Notes",
+      "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844115010489571",
+      "author": "Tom Dent",
+      "feed_label": "Community Announcements",
+      "is_patch": true,
+      "is_official": true,
+      "contents": "Welcome back, Ghost Hunters. We’ve got an update for you.Today, we have released an update for Phasmophobia to address two issues that have been raised by the community since the release of our last u"
+    },
+    "crawled_at": "2026-09-17T00:25:43.789127"
   },
   "Content Warning": {
     "appid": 2881650,
@@ -1005,7 +1005,7 @@
       "is_official": true,
       "contents": "Hello Spööktubers! Thank you for your patience as we're fixing bugs on all platforms.Here's a new patch fixing some stuff!For those of you wondering when crossplay between Switch 1 & 2 and other platf"
     },
-    "crawled_at": "2026-09-16T00:13:53.621486"
+    "crawled_at": "2026-09-17T00:25:45.162220"
   },
   "FEEDERS": {
     "appid": 4408510,
@@ -1256,12 +1256,34 @@
       "is_official": true,
       "contents": "Gave the HUD a fresh redesign. New look across the board — the status bars (Health, Stamina, Radiation) and the bottom belt all got reworked. Same info, cleaner read. More guns coming with new solo ex"
     },
-    "crawled_at": "2026-09-16T00:13:55.046906"
+    "crawled_at": "2026-09-17T00:25:46.456143"
   },
   "NARAKA: BLADEPOINT": {
     "appid": 1203220,
     "all": [
       {
+        "date": "2026-09-16",
+        "datetime": "2026-09-16T14:56:31",
+        "title": "NARAKA: BLADEPOINT Update –September 16th, 2026",
+        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844115010489349",
+        "author": "Yeeeeee",
+        "feed_label": "Community Announcements",
+        "is_patch": false,
+        "is_official": true,
+        "contents": "Dear players, The servers of NARAKA: BLADEPOINT will be suspended for maintenance from Sep. 16th, 2026 23:00 (UTC) to Sep. 17th, 2026 04:00 (UTC). We suggest you log out in advance and enter the game "
+      },
+      {
+        "date": "2026-09-16",
+        "datetime": "2026-09-16T06:51:53",
+        "title": "NARAKA: BLADEPOINT Banned Players List September 15th",
+        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844115010488275",
+        "author": "Yeeeeee",
+        "feed_label": "Community Announcements",
+        "is_patch": false,
+        "is_official": true,
+        "contents": "Dear players,NARAKA: BLADEPOINT is committed to creating a fair and healthy competitive environment. We have not only used new anti-cheat technologies, but also established special cheat-reporting rew"
+      },
+      {
         "date": "2026-09-08",
         "datetime": "2026-09-08T16:06:16",
         "title": "NARAKA: BLADEPOINT Banned Players List September 8th",
@@ -1348,33 +1370,33 @@
         "is_patch": false,
         "is_official": true,
         "contents": "Dear players, NARAKA: BLADEPOINT is committed to creating a fair and healthy competitive environment. We have not only used new anti-cheat technologies, but also established special cheat-reporting re"
-      },
-      {
-        "date": "2026-07-30",
-        "datetime": "2026-07-30T06:20:29",
-        "title": "New Hero Ye Xiu and First Transforming Weapon Available NOW",
-        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1839676055884356",
-        "author": "Misty",
-        "feed_label": "Community Announcements",
-        "is_patch": false,
-        "is_official": true,
-        "contents": "A Fast, Unpredictable New FighterYe Xiu’s skill set has been carefully designed to reflect the tactical approach of his original character, making him far more than a simple cosmetic reskin. His comba"
-      },
-      {
-        "date": "2026-07-29",
-        "datetime": "2026-07-29T16:03:28",
-        "title": "NARAKA: BLADEPOINT Update – July 30th, 2026",
-        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1839676055882951",
-        "author": "Yeeeeee",
-        "feed_label": "Community Announcements",
-        "is_patch": false,
-        "is_official": true,
-        "contents": "Dear players, The servers of NARAKA: BLADEPOINT will be suspended for maintenance from July 29th, 2026 23:00 (UTC) to July 30th, 2026 04:00 (UTC). We suggest you log out in advance and enter the game "
       }
     ],
     "patches": [],
     "announcements": [
       {
+        "date": "2026-09-16",
+        "datetime": "2026-09-16T14:56:31",
+        "title": "NARAKA: BLADEPOINT Update –September 16th, 2026",
+        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844115010489349",
+        "author": "Yeeeeee",
+        "feed_label": "Community Announcements",
+        "is_patch": false,
+        "is_official": true,
+        "contents": "Dear players, The servers of NARAKA: BLADEPOINT will be suspended for maintenance from Sep. 16th, 2026 23:00 (UTC) to Sep. 17th, 2026 04:00 (UTC). We suggest you log out in advance and enter the game "
+      },
+      {
+        "date": "2026-09-16",
+        "datetime": "2026-09-16T06:51:53",
+        "title": "NARAKA: BLADEPOINT Banned Players List September 15th",
+        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844115010488275",
+        "author": "Yeeeeee",
+        "feed_label": "Community Announcements",
+        "is_patch": false,
+        "is_official": true,
+        "contents": "Dear players,NARAKA: BLADEPOINT is committed to creating a fair and healthy competitive environment. We have not only used new anti-cheat technologies, but also established special cheat-reporting rew"
+      },
+      {
         "date": "2026-09-08",
         "datetime": "2026-09-08T16:06:16",
         "title": "NARAKA: BLADEPOINT Banned Players List September 8th",
@@ -1461,43 +1483,21 @@
         "is_patch": false,
         "is_official": true,
         "contents": "Dear players, NARAKA: BLADEPOINT is committed to creating a fair and healthy competitive environment. We have not only used new anti-cheat technologies, but also established special cheat-reporting re"
-      },
-      {
-        "date": "2026-07-30",
-        "datetime": "2026-07-30T06:20:29",
-        "title": "New Hero Ye Xiu and First Transforming Weapon Available NOW",
-        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1839676055884356",
-        "author": "Misty",
-        "feed_label": "Community Announcements",
-        "is_patch": false,
-        "is_official": true,
-        "contents": "A Fast, Unpredictable New FighterYe Xiu’s skill set has been carefully designed to reflect the tactical approach of his original character, making him far more than a simple cosmetic reskin. His comba"
-      },
-      {
-        "date": "2026-07-29",
-        "datetime": "2026-07-29T16:03:28",
-        "title": "NARAKA: BLADEPOINT Update – July 30th, 2026",
-        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1839676055882951",
-        "author": "Yeeeeee",
-        "feed_label": "Community Announcements",
-        "is_patch": false,
-        "is_official": true,
-        "contents": "Dear players, The servers of NARAKA: BLADEPOINT will be suspended for maintenance from July 29th, 2026 23:00 (UTC) to July 30th, 2026 04:00 (UTC). We suggest you log out in advance and enter the game "
       }
     ],
     "latest": {
-      "date": "2026-09-08",
-      "datetime": "2026-09-08T16:06:16",
-      "title": "NARAKA: BLADEPOINT Banned Players List September 8th",
-      "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1842846814456139",
+      "date": "2026-09-16",
+      "datetime": "2026-09-16T14:56:31",
+      "title": "NARAKA: BLADEPOINT Update –September 16th, 2026",
+      "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844115010489349",
       "author": "Yeeeeee",
       "feed_label": "Community Announcements",
       "is_patch": false,
       "is_official": true,
-      "contents": "Dear players, NARAKA: BLADEPOINT is committed to creating a fair and healthy competitive environment. We have not only used new anti-cheat technologies, but also established special cheat-reporting re"
+      "contents": "Dear players, The servers of NARAKA: BLADEPOINT will be suspended for maintenance from Sep. 16th, 2026 23:00 (UTC) to Sep. 17th, 2026 04:00 (UTC). We suggest you log out in advance and enter the game "
     },
     "latest_patch": null,
-    "crawled_at": "2026-09-16T00:13:56.180669"
+    "crawled_at": "2026-09-17T00:25:47.845538"
   },
   "Dead by Daylight": {
     "appid": 381210,
@@ -1749,6 +1749,6 @@
       "is_official": true,
       "contents": "ContentThe JudgmentIncreased the Divine Light curve window while Zealous to 0.8s (was 0.6s)Dev note: In hotfix 1 we increased the Zealous Curve window to 0.6s. However, that duration was shorter based"
     },
-    "crawled_at": "2026-09-16T00:13:57.468901"
+    "crawled_at": "2026-09-17T00:25:49.120850"
   }
 }
