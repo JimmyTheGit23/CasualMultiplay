@@ -1,10 +1,10 @@
 {
-  "snapshot_date": "2026-09-17T00:24:11+08:00",
+  "snapshot_date": "2026-09-18T00:09:22+08:00",
   "hero": {
     "name": "黎明杀机",
-    "current_players": 45072,
+    "current_players": 42321,
     "positive_rate": 78.3,
-    "reviews_total": 934880,
+    "reviews_total": 934997,
     "price_label": "¥ 93.75",
     "release_date": "2016 年 6 月 14 日",
     "genres": [
@@ -103,6 +103,17 @@
   ],
   "patches": [
     {
+      "date": "2026-09-17",
+      "timestamp": 1789657207,
+      "title": "10.1.2a | Patch Notes",
+      "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844115010492341",
+      "author": "Goblin_BHVR",
+      "feed_label": "Community Announcements",
+      "feed_type": "官方",
+      "is_patch": true,
+      "contents": "Reverted the Divine Light curve window while Zealous to 0.6s (was 0.8s)Reverted the Divine Light curve window when non-ZealousDev note: The Judgment's performance skyrocketed following HF2. We are rev"
+    },
+    {
       "date": "2026-09-08",
       "timestamp": 1788877839,
       "title": "10.1.2 | Bugfix Patch",
@@ -171,11 +182,11 @@
     ]
   },
   "reviews": {
-    "total_reviews": 934880,
-    "positive": 732104,
-    "negative": 202776,
+    "total_reviews": 934997,
+    "positive": 732193,
+    "negative": 202804,
     "positive_rate": 78.3
   },
-  "ccu": 45072,
-  "crawled_at": "2026-09-17T00:24:11.430102"
+  "ccu": 42321,
+  "crawled_at": "2026-09-18T00:09:22.948183"
 }
