@@ -1,5 +1,5 @@
 {
-  "snapshot_date": "2026-09-20T00:08:53.600247+00:00",
+  "snapshot_date": "2026-09-21T00:10:51.412385+00:00",
   "hero": {
     "title": "R.E.P.O.",
     "title_en": "R.E.P.O.",
@@ -250,8 +250,8 @@
     "publishers": [
       "semiwork"
     ],
-    "price": "¥ 22.75",
-    "price_en": "$6.49",
+    "price": "¥ 35.00",
+    "price_en": "$9.99",
     "release_date": "2025 年 2 月 26 日",
     "platforms": {
       "windows": true,
@@ -265,12 +265,12 @@
     "is_free": false
   },
   "reviews": {
-    "total_reviews": 424476,
-    "positive": 407507,
-    "negative": 16969,
+    "total_reviews": 424706,
+    "positive": 407731,
+    "negative": 16975,
     "positive_rate": 96.0,
     "review_score_desc": "Overwhelmingly Positive"
   },
-  "ccu": 17148,
-  "crawled_at": "2026-09-20T00:08:53.600247+00:00"
+  "ccu": 16528,
+  "crawled_at": "2026-09-21T00:10:51.412385+00:00"
 }
