@@ -1,15 +1,13 @@
 {
-  "snapshot_date": "2026-09-24T00:29:20+08:00",
+  "snapshot_date": "2026-09-25T00:31:24+08:00",
   "hero": {
-    "name": "黎明杀机",
-    "current_players": 41311,
+    "name": "Dead by Daylight",
+    "current_players": 39946,
     "positive_rate": 78.3,
-    "reviews_total": 935893,
+    "reviews_total": 935992,
     "price_label": "¥ 93.75",
-    "release_date": "2016 年 6 月 14 日",
-    "genres": [
-      "动作"
-    ]
+    "release_date": "2016-06-14",
+    "genres": []
   },
   "operations": [
     {
@@ -158,35 +156,29 @@
     }
   ],
   "store": {
-    "name": "黎明杀机",
+    "name": "Dead by Daylight",
     "name_en": "Dead by Daylight",
-    "short_description": "10年恐惧相伴。10年的惊吓与刺激体验。10年的残暴献祭与惊险逃脱。 永久困于邪恶的幻境之中，即使死亡也无法逃脱，这是一场需要勇气和智慧的较量，四名意志坚定的逃生者在残忍对局中面对嗜血杀手。选择一方，进入多人非对称竞技游戏世界，获得最佳恐怖游戏体验。",
-    "short_description_en": "10 years of horror. 10 years of jump scares and close calls. 10 years of brutal sacrifices and thrilling escapes. Trapped forever in a realm of eldritch evil where even death is not an escape, four determined Survivors face a bloodthirsty Killer in a vicious game of nerve and wits.",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/381210/header.jpg?t=1787769494",
+    "short_description": "",
+    "short_description_en": "",
+    "header_image": "",
     "developers": [
-      "Behaviour Interactive Inc."
+      "Behaviour Interactive"
     ],
     "publishers": [
-      "Behaviour Interactive Inc."
+      "Behaviour Interactive"
     ],
     "price": "¥ 93.75",
-    "price_en": "$19.99",
-    "release_date": "2016 年 6 月 14 日",
-    "platforms": {
-      "windows": true,
-      "mac": false,
-      "linux": false
-    },
-    "genres": [
-      "动作"
-    ]
+    "price_en": "¥ 93.75",
+    "release_date": "2016-06-14",
+    "platforms": {},
+    "genres": []
   },
   "reviews": {
-    "total_reviews": 935893,
-    "positive": 732766,
-    "negative": 203127,
+    "total_reviews": 935992,
+    "positive": 732819,
+    "negative": 203173,
     "positive_rate": 78.3
   },
-  "ccu": 41311,
-  "crawled_at": "2026-09-24T00:29:20.684199"
+  "ccu": 39946,
+  "crawled_at": "2026-09-25T00:31:24.333962"
 }

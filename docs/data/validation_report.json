@@ -1,11 +1,11 @@
 {
   "_meta": {
-    "validated_at": "2026-09-24T08:31:31.334200+08:00",
-    "date": "2026-09-24",
+    "validated_at": "2026-09-25T08:33:33.051476+08:00",
+    "date": "2026-09-25",
     "passed": true,
     "total_checks": 18,
-    "pass_count": 18,
-    "warn_count": 0,
+    "pass_count": 17,
+    "warn_count": 1,
     "error_count": 0
   },
   "checks": [
@@ -36,7 +36,7 @@
     {
       "name": "rich_data 游戏数",
       "status": "PASS",
-      "message": "34 款游戏有富数据",
+      "message": "21 款游戏有富数据",
       "details": []
     },
     {
@@ -71,9 +71,15 @@
     },
     {
       "name": "registry → rich_data",
-      "status": "PASS",
-      "message": "所有有 appid 的游戏都有富数据",
-      "details": []
+      "status": "WARN",
+      "message": "13 个游戏缺富数据",
+      "details": [
+        "逃生：试炼 (appid=1304930)",
+        "猎杀：对决 (appid=594650)",
+        "永劫无间 (appid=1203220)",
+        "月光光心慌慌 (appid=3219630)",
+        "土丘：克苏鲁恶兆 (appid=2569760)"
+      ]
     },
     {
       "name": "registry → steam_data",
@@ -108,7 +114,7 @@
     {
       "name": "history 最新日期",
       "status": "PASS",
-      "message": "今天 (2026-09-24) 数据已入库",
+      "message": "今天 (2026-09-25) 数据已入库",
       "details": []
     },
     {
