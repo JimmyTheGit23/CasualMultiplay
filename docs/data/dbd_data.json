@@ -1,10 +1,10 @@
 {
-  "snapshot_date": "2026-09-25T00:31:24+08:00",
+  "snapshot_date": "2026-09-26T00:35:48+08:00",
   "hero": {
     "name": "Dead by Daylight",
-    "current_players": 39946,
+    "current_players": 42236,
     "positive_rate": 78.3,
-    "reviews_total": 935992,
+    "reviews_total": 936118,
     "price_label": "¥ 93.75",
     "release_date": "2016-06-14",
     "genres": []
@@ -174,11 +174,11 @@
     "genres": []
   },
   "reviews": {
-    "total_reviews": 935992,
-    "positive": 732819,
-    "negative": 203173,
+    "total_reviews": 936118,
+    "positive": 732897,
+    "negative": 203221,
     "positive_rate": 78.3
   },
-  "ccu": 39946,
-  "crawled_at": "2026-09-25T00:31:24.333962"
+  "ccu": 42236,
+  "crawled_at": "2026-09-26T00:35:48.561052"
 }

@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "validated_at": "2026-09-25T08:33:33.051476+08:00",
-    "date": "2026-09-25",
+    "validated_at": "2026-09-26T08:38:01.676281+08:00",
+    "date": "2026-09-26",
     "passed": true,
     "total_checks": 18,
     "pass_count": 17,
@@ -42,7 +42,7 @@
     {
       "name": "developers 数量",
       "status": "PASS",
-      "message": "43 个开发者",
+      "message": "42 个开发者",
       "details": []
     },
     {
@@ -114,7 +114,7 @@
     {
       "name": "history 最新日期",
       "status": "PASS",
-      "message": "今天 (2026-09-25) 数据已入库",
+      "message": "今天 (2026-09-26) 数据已入库",
       "details": []
     },
     {
