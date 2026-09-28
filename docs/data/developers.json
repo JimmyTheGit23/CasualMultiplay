@@ -1,14 +1,27 @@
 {
   "_meta": {
-    "fetched_at": "2026-09-27T08:28:12.115162+08:00",
+    "fetched_at": "2026-09-28T08:33:15.431693+08:00",
     "total_developers": 42
   },
   "developers": {
     "24 Entertainment": {
       "name": "24 Entertainment",
       "total_apps_on_steam": 5,
-      "sampled_apps": 4,
+      "sampled_apps": 5,
       "apps": [
+        {
+          "appid": "1203220",
+          "name": "永劫无间",
+          "release_date": "2021 年 8 月 11 日",
+          "type": "game",
+          "developers": [
+            "24 Entertainment"
+          ],
+          "publishers": [
+            "NetEase Games "
+          ],
+          "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1203220/64ac5c56d95a510ae56c7dace46fdafd0881642b/header_schinese.jpg?t=1785376833"
+        },
         {
           "appid": "2731960",
           "name": "永劫无间 - 飞鼠",
@@ -21,6 +34,19 @@
             "NetEase Games"
           ],
           "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2731960/header_schinese.jpg?t=1767857211"
+        },
+        {
+          "appid": "2732000",
+          "name": "永劫无间 - 鸢纱 · 崔三娘捆绑包",
+          "release_date": "2023 年 12 月 20 日",
+          "type": "dlc",
+          "developers": [
+            "24 Entertainment"
+          ],
+          "publishers": [
+            "NetEase Games"
+          ],
+          "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2732000/header_schinese.jpg?t=1767857569"
         },
         {
           "appid": "2731970",
@@ -47,29 +73,31 @@
             "NetEase Games"
           ],
           "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2731980/header_schinese.jpg?t=1767858049"
-        },
-        {
-          "appid": "2732000",
-          "name": "永劫无间 - 鸢纱 · 崔三娘捆绑包",
-          "release_date": "2023 年 12 月 20 日",
-          "type": "dlc",
-          "developers": [
-            "24 Entertainment"
-          ],
-          "publishers": [
-            "NetEase Games"
-          ],
-          "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2732000/header_schinese.jpg?t=1767857569"
         }
       ],
-      "is_first_game": false,
-      "actual_dev_apps": []
+      "is_first_game": true,
+      "actual_dev_apps": [
+        "1203220"
+      ]
     },
     "24 Entertainment（网易）": {
       "name": "24 Entertainment（网易）",
       "total_apps_on_steam": 5,
-      "sampled_apps": 4,
+      "sampled_apps": 5,
       "apps": [
+        {
+          "appid": "1203220",
+          "name": "永劫无间",
+          "release_date": "2021 年 8 月 11 日",
+          "type": "game",
+          "developers": [
+            "24 Entertainment"
+          ],
+          "publishers": [
+            "NetEase Games "
+          ],
+          "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1203220/64ac5c56d95a510ae56c7dace46fdafd0881642b/header_schinese.jpg?t=1785376833"
+        },
         {
           "appid": "2731960",
           "name": "永劫无间 - 飞鼠",
@@ -82,6 +110,19 @@
             "NetEase Games"
           ],
           "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2731960/header_schinese.jpg?t=1767857211"
+        },
+        {
+          "appid": "2732000",
+          "name": "永劫无间 - 鸢纱 · 崔三娘捆绑包",
+          "release_date": "2023 年 12 月 20 日",
+          "type": "dlc",
+          "developers": [
+            "24 Entertainment"
+          ],
+          "publishers": [
+            "NetEase Games"
+          ],
+          "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2732000/header_schinese.jpg?t=1767857569"
         },
         {
           "appid": "2731970",
@@ -108,19 +149,6 @@
             "NetEase Games"
           ],
           "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2731980/header_schinese.jpg?t=1767858049"
-        },
-        {
-          "appid": "2732000",
-          "name": "永劫无间 - 鸢纱 · 崔三娘捆绑包",
-          "release_date": "2023 年 12 月 20 日",
-          "type": "dlc",
-          "developers": [
-            "24 Entertainment"
-          ],
-          "publishers": [
-            "NetEase Games"
-          ],
-          "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2732000/header_schinese.jpg?t=1767857569"
         }
       ],
       "is_first_game": false,
@@ -130,8 +158,60 @@
     "ACE Team": {
       "name": "ACE Team",
       "total_apps_on_steam": 15,
-      "sampled_apps": 5,
+      "sampled_apps": 10,
       "apps": [
+        {
+          "appid": "2569760",
+          "name": "The Mound: Omen of Cthulhu",
+          "release_date": "2026 年 7 月 15 日",
+          "type": "game",
+          "developers": [
+            "ACE Team"
+          ],
+          "publishers": [
+            "Nacon"
+          ],
+          "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2569760/cefd63a1434b8a43790c7ea49a69b400257ef4cd/header_alt_assets_0.jpg?t=1788530496"
+        },
+        {
+          "appid": "1430680",
+          "name": "Clash: Artifacts of Chaos",
+          "release_date": "2023 年 3 月 9 日",
+          "type": "game",
+          "developers": [
+            "ACE Team"
+          ],
+          "publishers": [
+            "Nacon"
+          ],
+          "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1430680/header.jpg?t=1778170033"
+        },
+        {
+          "appid": "865680",
+          "name": "The Eternal Cylinder",
+          "release_date": "2022 年 10 月 13 日",
+          "type": "game",
+          "developers": [
+            "ACE Team"
+          ],
+          "publishers": [
+            "Good Shepherd Entertainment"
+          ],
+          "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/865680/header.jpg?t=1728690515"
+        },
+        {
+          "appid": "434460",
+          "name": "Rock of Ages 2: Bigger & Boulder™",
+          "release_date": "2017 年 8 月 28 日",
+          "type": "game",
+          "developers": [
+            "ACE Team"
+          ],
+          "publishers": [
+            "SEGA"
+          ],
+          "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/434460/header.jpg?t=1667562890"
+        },
         {
           "appid": "4630460",
           "name": "The Mound: Omen of Cthulhu - Characters & Items Pack",
@@ -144,6 +224,21 @@
             "Nacon"
           ],
           "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4630460/85db3585ebdbae1a3603d3a1f4c56e94bbf59493/header.jpg?t=1784819161"
+        },
+        {
+          "appid": "1101360",
+          "name": "Rock of Ages 3: Make & Break",
+          "release_date": "2020 年 7 月 21 日",
+          "type": "game",
+          "developers": [
+            "ACE Team",
+            "Giant Monkey Robot"
+          ],
+          "publishers": [
+            "Maximum Entertainment",
+            "3goo"
+          ],
+          "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1101360/header.jpg?t=1725488856"
         },
         {
           "appid": "353700",
@@ -198,9 +293,14 @@
           "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1407700/header.jpg?t=1707780903"
         }
       ],
-      "is_first_game": true,
+      "is_first_game": false,
       "actual_dev_apps": [
-        "353700"
+        "1101360",
+        "1430680",
+        "2569760",
+        "353700",
+        "434460",
+        "865680"
       ]
     },
     "Aggro Crab + Landfall": {
@@ -214,7 +314,7 @@
     "Arrowhead Game Studios": {
       "name": "Arrowhead Game Studios",
       "total_apps_on_steam": 3,
-      "sampled_apps": 2,
+      "sampled_apps": 3,
       "apps": [
         {
           "appid": "553850",
@@ -230,6 +330,19 @@
           "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/553850/3b637a129cd859a9710381a6fd9c78b931df7b51/header_schinese.jpg?t=1789585784"
         },
         {
+          "appid": "394510",
+          "name": "HELLDIVERS™ Dive Harder Edition",
+          "release_date": "2015 年 12 月 7 日",
+          "type": "game",
+          "developers": [
+            "Arrowhead Game Studios"
+          ],
+          "publishers": [
+            "PlayStation Publishing LLC"
+          ],
+          "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/394510/header.jpg?t=1750950223"
+        },
+        {
           "appid": "2765950",
           "name": "HELLDIVERS™ 2 - TR-117 Alpha Commander Armor Set",
           "release_date": "",
@@ -243,8 +356,9 @@
           "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2765950/header.jpg?t=1734026350"
         }
       ],
-      "is_first_game": true,
+      "is_first_game": false,
       "actual_dev_apps": [
+        "394510",
         "553850"
       ]
     },
@@ -290,8 +404,21 @@
     "Behaviour Interactive Inc.": {
       "name": "Behaviour Interactive Inc.",
       "total_apps_on_steam": 45,
-      "sampled_apps": 9,
+      "sampled_apps": 10,
       "apps": [
+        {
+          "appid": "381210",
+          "name": "黎明杀机",
+          "release_date": "2016 年 6 月 14 日",
+          "type": "game",
+          "developers": [
+            "Behaviour Interactive Inc."
+          ],
+          "publishers": [
+            "Behaviour Interactive Inc."
+          ],
+          "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/381210/header.jpg?t=1787769494"
+        },
         {
           "appid": "5060920",
           "name": "Dead by Daylight: Chorus of Sin",
@@ -365,6 +492,19 @@
           "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2661270/header.jpg?t=1712678426"
         },
         {
+          "appid": "1089270",
+          "name": "Dead by Daylight - Ghost Face®",
+          "release_date": "2019 年 6 月 18 日",
+          "type": "dlc",
+          "developers": [
+            "Behaviour Interactive Inc."
+          ],
+          "publishers": [
+            "Behaviour Interactive Inc."
+          ],
+          "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1089270/header.jpg?t=1682024598"
+        },
+        {
           "appid": "1135280",
           "name": "Dead by Daylight - Stranger Things Chapter",
           "release_date": "2019 年 9 月 17 日",
@@ -389,28 +529,17 @@
             "Behaviour Interactive Inc."
           ],
           "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2515990/header.jpg?t=1706631917"
-        },
-        {
-          "appid": "3103150",
-          "name": "Dead by Daylight - Castlevania Chapter",
-          "release_date": "2024 年 8 月 27 日",
-          "type": "dlc",
-          "developers": [
-            "Behaviour Interactive Inc."
-          ],
-          "publishers": [
-            "Behaviour Interactive Inc."
-          ],
-          "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3103150/header.jpg?t=1740003609"
         }
       ],
-      "is_first_game": false,
-      "actual_dev_apps": []
+      "is_first_game": true,
+      "actual_dev_apps": [
+        "381210"
+      ]
     },
     "COVEN": {
       "name": "COVEN",
       "total_apps_on_steam": 3,
-      "sampled_apps": 2,
+      "sampled_apps": 3,
       "apps": [
         {
           "appid": "2979480",
@@ -428,6 +557,20 @@
           "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2979480/header.jpg?t=1716480242"
         },
         {
+          "appid": "2885690",
+          "name": "Masters of Light",
+          "release_date": "即将推出",
+          "type": "game",
+          "developers": [
+            "COVEN",
+            "ALBYON"
+          ],
+          "publishers": [
+            "COVEN"
+          ],
+          "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2885690/header.jpg?t=1788833746"
+        },
+        {
           "appid": "3453900",
           "name": "Micromega",
           "release_date": "即将推出",
@@ -443,6 +586,7 @@
       ],
       "is_first_game": false,
       "actual_dev_apps": [
+        "2885690",
         "3453900",
         "3850670"
       ]
@@ -533,6 +677,7 @@
       ],
       "is_first_game": false,
       "actual_dev_apps": [
+        "2885690",
         "3453900",
         "3850670"
       ]
@@ -540,8 +685,21 @@
     "Crytek": {
       "name": "Crytek",
       "total_apps_on_steam": 50,
-      "sampled_apps": 9,
+      "sampled_apps": 10,
       "apps": [
+        {
+          "appid": "594650",
+          "name": "猎杀：对决 1896",
+          "release_date": "2019 年 8 月 27 日",
+          "type": "game",
+          "developers": [
+            "Crytek"
+          ],
+          "publishers": [
+            "Crytek"
+          ],
+          "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/594650/2e2def207be0fd8aa77e1ef10f597aa28b482949/header_alt_assets_28.jpg?t=1789157485"
+        },
         {
           "appid": "4730770",
           "name": "Hunt: Showdown 1896 - Sage of Joseon",
@@ -597,17 +755,6 @@
           "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3204800/header.jpg?t=1782896565"
         },
         {
-          "appid": "4719180",
-          "name": "Hunt: Showdown 1896 - Twice a Renegade",
-          "release_date": "2026 年 7 月 2 日",
-          "type": "dlc",
-          "developers": [
-            "Crytek"
-          ],
-          "publishers": [],
-          "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4719180/138feb734d84d78e843bd35b95c1ab228752b353/header.jpg?t=1783080689"
-        },
-        {
           "appid": "4556010",
           "name": "Hunt: Showdown 1896 - It Takes a Rogue",
           "release_date": "2026 年 6 月 10 日",
@@ -634,17 +781,15 @@
           "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1715130/0c28c46e93f734d31b035e13057472b51b377936/header.jpg?t=1785838535"
         },
         {
-          "appid": "3569970",
-          "name": "Hunt: Showdown 1896 - The Ghost of Blanchett Graves",
-          "release_date": "2025 年 6 月 19 日",
+          "appid": "4719180",
+          "name": "Hunt: Showdown 1896 - Twice a Renegade",
+          "release_date": "2026 年 7 月 2 日",
           "type": "dlc",
           "developers": [
             "Crytek"
           ],
-          "publishers": [
-            "Crytek"
-          ],
-          "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3569970/549935996f74598b9042d4ae97e0c5303a5ab197/header.jpg?t=1782896564"
+          "publishers": [],
+          "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4719180/138feb734d84d78e843bd35b95c1ab228752b353/header.jpg?t=1783080689"
         },
         {
           "appid": "3713770",
@@ -658,19 +803,33 @@
             "Crytek"
           ],
           "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3713770/e09fac03147dd1dafd7ecf2d14bf8f513cc607d5/header.jpg?t=1782896562"
+        },
+        {
+          "appid": "3569970",
+          "name": "Hunt: Showdown 1896 - The Ghost of Blanchett Graves",
+          "release_date": "2025 年 6 月 19 日",
+          "type": "dlc",
+          "developers": [
+            "Crytek"
+          ],
+          "publishers": [
+            "Crytek"
+          ],
+          "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3569970/549935996f74598b9042d4ae97e0c5303a5ab197/header.jpg?t=1782896564"
         }
       ],
       "is_first_game": false,
       "actual_dev_apps": [
         "1715130",
         "2096600",
-        "2096610"
+        "2096610",
+        "594650"
       ]
     },
     "Crytivo": {
       "name": "Crytivo",
       "total_apps_on_steam": 3,
-      "sampled_apps": 2,
+      "sampled_apps": 3,
       "apps": [
         {
           "appid": "1181550",
@@ -685,6 +844,19 @@
             "Crytivo"
           ],
           "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1181550/header.jpg?t=1784823412"
+        },
+        {
+          "appid": "352720",
+          "name": "The Universim",
+          "release_date": "2024 年 1 月 22 日",
+          "type": "game",
+          "developers": [
+            "Crytivo"
+          ],
+          "publishers": [
+            "Crytivo"
+          ],
+          "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/352720/header.jpg?t=1778858616"
         },
         {
           "appid": "895160",
@@ -703,6 +875,7 @@
       "is_first_game": false,
       "actual_dev_apps": [
         "1181550",
+        "352720",
         "895160"
       ]
     },
@@ -782,7 +955,7 @@
     "Evil Raptor": {
       "name": "Evil Raptor",
       "total_apps_on_steam": 3,
-      "sampled_apps": 2,
+      "sampled_apps": 3,
       "apps": [
         {
           "appid": "3124540",
@@ -809,10 +982,25 @@
             "PLAION"
           ],
           "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1843540/header.jpg?t=1732093384"
+        },
+        {
+          "appid": "1186640",
+          "name": "南瓜杰克",
+          "release_date": "2020 年 10 月 23 日",
+          "type": "game",
+          "developers": [
+            "Evil Raptor"
+          ],
+          "publishers": [
+            "Headup",
+            "Beep Japan"
+          ],
+          "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1186640/header.jpg?t=1787010385"
         }
       ],
       "is_first_game": false,
       "actual_dev_apps": [
+        "1186640",
         "1843540",
         "3124540"
       ]
@@ -844,8 +1032,21 @@
     "Facepunch Studios": {
       "name": "Facepunch Studios",
       "total_apps_on_steam": 8,
-      "sampled_apps": 7,
+      "sampled_apps": 8,
       "apps": [
+        {
+          "appid": "252490",
+          "name": "Rust",
+          "release_date": "2018 年 2 月 8 日",
+          "type": "game",
+          "developers": [
+            "Facepunch Studios"
+          ],
+          "publishers": [
+            "Facepunch Studios"
+          ],
+          "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/252490/header.jpg?t=1781536981"
+        },
         {
           "appid": "4000",
           "name": "Garry's Mod",
@@ -938,8 +1139,9 @@
           "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1659290/header.jpg?t=1624559174"
         }
       ],
-      "is_first_game": true,
+      "is_first_game": false,
       "actual_dev_apps": [
+        "252490",
         "4000"
       ]
     },
@@ -970,8 +1172,35 @@
     "Ghost Ship Games": {
       "name": "Ghost Ship Games",
       "total_apps_on_steam": 19,
-      "sampled_apps": 8,
+      "sampled_apps": 10,
       "apps": [
+        {
+          "appid": "548430",
+          "name": "深岩银河",
+          "release_date": "2020 年 5 月 13 日",
+          "type": "game",
+          "developers": [
+            "Ghost Ship Games"
+          ],
+          "publishers": [
+            "Coffee Stain Publishing"
+          ],
+          "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/548430/fcf2ee4386b363827f36c120beffbe6439dc1d3a/header_alt_assets_28_schinese.jpg?t=1790248272"
+        },
+        {
+          "appid": "2605790",
+          "name": "深岩银河：异动核心",
+          "release_date": "2026 年 5 月 20 日",
+          "type": "game",
+          "developers": [
+            "Ghost Ship Games"
+          ],
+          "publishers": [
+            "Ghost Ship Publishing",
+            "Coffee Stain Publishing"
+          ],
+          "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2605790/9d0c2bf98e5e10ebf27fc473a92fb26f3623b148/header_alt_assets_1.jpg?t=1788348461"
+        },
         {
           "appid": "3481460",
           "name": "深岩银河 - 碎颅者皮肤包",
@@ -999,19 +1228,6 @@
           "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4207910/6c299e8f9abe93d41c906f3334df312350cc917a/header.jpg?t=1772707081"
         },
         {
-          "appid": "2291670",
-          "name": "深岩银河 - 支持者二号升级包",
-          "release_date": "2023 年 3 月 2 日",
-          "type": "dlc",
-          "developers": [
-            "Ghost Ship Games"
-          ],
-          "publishers": [
-            "Coffee Stain Publishing"
-          ],
-          "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2291670/header.jpg?t=1740397993"
-        },
-        {
           "appid": "2934390",
           "name": "深岩银河 - 深渊骑士团皮肤包",
           "release_date": "2024 年 6 月 13 日",
@@ -1025,9 +1241,9 @@
           "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2934390/header.jpg?t=1772707065"
         },
         {
-          "appid": "1530640",
-          "name": "深岩银河 - 无畏崛起皮肤包",
-          "release_date": "2021 年 2 月 4 日",
+          "appid": "1283090",
+          "name": "深岩银河 - 黑暗未来皮肤包",
+          "release_date": "2020 年 5 月 13 日",
           "type": "dlc",
           "developers": [
             "Ghost Ship Games"
@@ -1035,7 +1251,7 @@
           "publishers": [
             "Coffee Stain Publishing"
           ],
-          "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1530640/header.jpg?t=1740397487"
+          "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1283090/header.jpg?t=1740394534"
         },
         {
           "appid": "1283091",
@@ -1051,9 +1267,9 @@
           "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1283091/header.jpg?t=1740394697"
         },
         {
-          "appid": "1283090",
-          "name": "深岩银河 - 黑暗未来皮肤包",
-          "release_date": "2020 年 5 月 13 日",
+          "appid": "2291670",
+          "name": "深岩银河 - 支持者二号升级包",
+          "release_date": "2023 年 3 月 2 日",
           "type": "dlc",
           "developers": [
             "Ghost Ship Games"
@@ -1061,7 +1277,20 @@
           "publishers": [
             "Coffee Stain Publishing"
           ],
-          "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1283090/header.jpg?t=1740394534"
+          "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2291670/header.jpg?t=1740397993"
+        },
+        {
+          "appid": "1530640",
+          "name": "深岩银河 - 无畏崛起皮肤包",
+          "release_date": "2021 年 2 月 4 日",
+          "type": "dlc",
+          "developers": [
+            "Ghost Ship Games"
+          ],
+          "publishers": [
+            "Coffee Stain Publishing"
+          ],
+          "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1530640/header.jpg?t=1740397487"
         },
         {
           "appid": "4216130",
@@ -1079,7 +1308,10 @@
         }
       ],
       "is_first_game": false,
-      "actual_dev_apps": []
+      "actual_dev_apps": [
+        "2605790",
+        "548430"
+      ]
     },
     "Grey State Studio": {
       "name": "Grey State Studio",
@@ -1108,8 +1340,22 @@
     "Hopoo Games": {
       "name": "Hopoo Games",
       "total_apps_on_steam": 6,
-      "sampled_apps": 4,
+      "sampled_apps": 6,
       "apps": [
+        {
+          "appid": "632360",
+          "name": "雨中冒险 2",
+          "release_date": "2020 年 8 月 11 日",
+          "type": "game",
+          "developers": [
+            "Hopoo Games"
+          ],
+          "publishers": [
+            "Gearbox Publishing",
+            "2K"
+          ],
+          "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/632360/header_schinese.jpg?t=1783621122"
+        },
         {
           "appid": "1607890",
           "name": "虚空幸存者",
@@ -1123,6 +1369,20 @@
             "2K"
           ],
           "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1607890/header_schinese.jpg?t=1782157661"
+        },
+        {
+          "appid": "1337520",
+          "name": "雨中冒险: 回归",
+          "release_date": "2023 年 11 月 8 日",
+          "type": "game",
+          "developers": [
+            "Hopoo Games"
+          ],
+          "publishers": [
+            "Gearbox Publishing",
+            "2K"
+          ],
+          "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1337520/header_schinese.jpg?t=1782157557"
         },
         {
           "appid": "1236890",
@@ -1165,13 +1425,42 @@
         }
       ],
       "is_first_game": false,
-      "actual_dev_apps": []
+      "actual_dev_apps": [
+        "1337520",
+        "632360"
+      ]
     },
     "Hunter Studio": {
       "name": "Hunter Studio",
       "total_apps_on_steam": 6,
-      "sampled_apps": 4,
+      "sampled_apps": 6,
       "apps": [
+        {
+          "appid": "2445690",
+          "name": "失落城堡2",
+          "release_date": "2026 年 6 月 10 日",
+          "type": "game",
+          "developers": [
+            "Hunter Studio"
+          ],
+          "publishers": [
+            "Hunter Studio"
+          ],
+          "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2445690/6ba48b065007d13e96a5e01a4976139ad96480ac/header_schinese.jpg?t=1790135978"
+        },
+        {
+          "appid": "434650",
+          "name": "Lost Castle / 失落城堡",
+          "release_date": "2016 年 8 月 31 日",
+          "type": "game",
+          "developers": [
+            "Hunter Studio"
+          ],
+          "publishers": [
+            "Neon Doctrine"
+          ],
+          "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/434650/header_schinese.jpg?t=1759298493"
+        },
         {
           "appid": "522620",
           "name": "Lost Castle: Official Soundtrack",
@@ -1226,9 +1515,11 @@
           "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1072910/header_schinese.jpg?t=1723617949"
         }
       ],
-      "is_first_game": true,
+      "is_first_game": false,
       "actual_dev_apps": [
-        "1072910"
+        "1072910",
+        "2445690",
+        "434650"
       ]
     },
     "Illfonic": {
@@ -1242,8 +1533,35 @@
     "Indoor Astronaut": {
       "name": "Indoor Astronaut",
       "total_apps_on_steam": 7,
-      "sampled_apps": 5,
+      "sampled_apps": 7,
       "apps": [
+        {
+          "appid": "2211170",
+          "name": "一起开火车2：汽笛重鸣",
+          "release_date": "2026 年 6 月 11 日",
+          "type": "game",
+          "developers": [
+            "Indoor Astronaut"
+          ],
+          "publishers": [
+            "Indoor Astronaut",
+            "Kepler Ghost"
+          ],
+          "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2211170/fa616035727fb9cf622ed2b505d98cb2a121dd2f/header_schinese.jpg?t=1787652856"
+        },
+        {
+          "appid": "1016920",
+          "name": "Unrailed!",
+          "release_date": "2020 年 9 月 23 日",
+          "type": "game",
+          "developers": [
+            "Indoor Astronaut"
+          ],
+          "publishers": [
+            "Daedalic Entertainment"
+          ],
+          "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1016920/header_schinese.jpg?t=1789381506"
+        },
         {
           "appid": "1150940",
           "name": "Unrailed! - Supporter Pack",
@@ -1316,13 +1634,29 @@
         }
       ],
       "is_first_game": false,
-      "actual_dev_apps": []
+      "actual_dev_apps": [
+        "1016920",
+        "2211170"
+      ]
     },
     "Innersloth": {
       "name": "Innersloth",
       "total_apps_on_steam": 3,
-      "sampled_apps": 1,
+      "sampled_apps": 3,
       "apps": [
+        {
+          "appid": "945360",
+          "name": "Among Us",
+          "release_date": "2018 年 11 月 16 日",
+          "type": "game",
+          "developers": [
+            "Innersloth"
+          ],
+          "publishers": [
+            "Innersloth"
+          ],
+          "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/945360/header.jpg?t=1787088490"
+        },
         {
           "appid": "3168600",
           "name": "Among Us 3D",
@@ -1336,11 +1670,28 @@
             "Innersloth"
           ],
           "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3168600/23ed05c97630dee1c1b3cbab869d993151adb1fa/header.jpg?t=1775581014"
+        },
+        {
+          "appid": "1849900",
+          "name": "Among Us 3D: VR",
+          "release_date": "2022 年 11 月 10 日",
+          "type": "game",
+          "developers": [
+            "Schell Games",
+            "Innersloth",
+            "Robot Teddy"
+          ],
+          "publishers": [
+            "Innersloth"
+          ],
+          "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1849900/748bb45cd8c76fa5c7b2b0ff08154c7553082cde/header.jpg?t=1775581026"
         }
       ],
-      "is_first_game": true,
+      "is_first_game": false,
       "actual_dev_apps": [
-        "3168600"
+        "1849900",
+        "3168600",
+        "945360"
       ]
     },
     "Kinetic Games": {
@@ -1394,8 +1745,21 @@
     "Motion Twin": {
       "name": "Motion Twin",
       "total_apps_on_steam": 7,
-      "sampled_apps": 5,
+      "sampled_apps": 7,
       "apps": [
+        {
+          "appid": "588650",
+          "name": "Dead Cells",
+          "release_date": "2018 年 8 月 6 日",
+          "type": "game",
+          "developers": [
+            "Motion Twin"
+          ],
+          "publishers": [
+            "Motion Twin"
+          ],
+          "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/588650/header.jpg?t=1779086887"
+        },
         {
           "appid": "2101430",
           "name": "Dead Cells: Return to Castlevania",
@@ -1409,6 +1773,20 @@
             "Motion Twin"
           ],
           "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2101430/header.jpg?t=1757600495"
+        },
+        {
+          "appid": "1911610",
+          "name": "风中行者",
+          "release_date": "2024 年 10 月 24 日",
+          "type": "game",
+          "developers": [
+            "Motion Twin"
+          ],
+          "publishers": [
+            "Motion Twin",
+            "Kepler Ghost"
+          ],
+          "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1911610/b91bf8be5d6d4fac5aa2d12443d66dd17cc38e79/header_schinese.jpg?t=1788515379"
         },
         {
           "appid": "1580050",
@@ -1467,13 +1845,29 @@
         }
       ],
       "is_first_game": false,
-      "actual_dev_apps": []
+      "actual_dev_apps": [
+        "1911610",
+        "588650"
+      ]
     },
     "Panic Stations": {
       "name": "Panic Stations",
       "total_apps_on_steam": 5,
-      "sampled_apps": 3,
+      "sampled_apps": 5,
       "apps": [
+        {
+          "appid": "3989960",
+          "name": "青蛙小队🐸 / Frog Sqwad",
+          "release_date": "2026 年 6 月 11 日",
+          "type": "game",
+          "developers": [
+            "Panic Stations"
+          ],
+          "publishers": [
+            "Panic Stations"
+          ],
+          "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3989960/907d04fa7ec0c3c264bbb75f25f75c2e361e870d/header_schinese.jpg?t=1781613814"
+        },
         {
           "appid": "4581310",
           "name": "Frog Sqwad 🐸 Supporter Pack",
@@ -1486,6 +1880,19 @@
             "Panic Stations"
           ],
           "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4581310/307939d518b963d569d0d2829e9978d8e522c1d4/header_schinese.jpg?t=1781192166"
+        },
+        {
+          "appid": "4795130",
+          "name": "Frog Sqwad 🐸 Artbook",
+          "release_date": "2026 年 6 月 11 日",
+          "type": "dlc",
+          "developers": [
+            "Panic Stations"
+          ],
+          "publishers": [
+            "Panic Stations"
+          ],
+          "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4795130/6e6035602c463b416c873d6a62ce8f0fd2baa499/header_schinese.jpg?t=1781197829"
         },
         {
           "appid": "4795140",
@@ -1501,21 +1908,24 @@
           "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4795140/5b584363bc95d285154fa07f0810d6d5eb6ef357/header_schinese.jpg?t=1781192338"
         },
         {
-          "appid": "4795130",
-          "name": "Frog Sqwad 🐸 Artbook",
-          "release_date": "2026 年 6 月 11 日",
-          "type": "dlc",
+          "appid": "4311530",
+          "name": "Very Safe Dino Park 🦖",
+          "release_date": "即将推出",
+          "type": "game",
           "developers": [
             "Panic Stations"
           ],
           "publishers": [
             "Panic Stations"
           ],
-          "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4795130/6e6035602c463b416c873d6a62ce8f0fd2baa499/header_schinese.jpg?t=1781197829"
+          "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4311530/c0ffd4ad80e7810e7a07da1781e2cf57e9831fe5/header.jpg?t=1783335787"
         }
       ],
       "is_first_game": false,
-      "actual_dev_apps": []
+      "actual_dev_apps": [
+        "3989960",
+        "4311530"
+      ]
     },
     "Philip": {
       "name": "Philip",
@@ -1564,8 +1974,21 @@
     "Red Barrels": {
       "name": "Red Barrels",
       "total_apps_on_steam": 9,
-      "sampled_apps": 8,
+      "sampled_apps": 9,
       "apps": [
+        {
+          "appid": "1304930",
+          "name": "The Outlast Trials",
+          "release_date": "2024 年 3 月 5 日",
+          "type": "game",
+          "developers": [
+            "Red Barrels"
+          ],
+          "publishers": [
+            "Red Barrels"
+          ],
+          "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1304930/65fbdba4ad0f1a7ed7a362a086c87042fa40fadc/header_alt_assets_3.jpg?t=1784123708"
+        },
         {
           "appid": "414700",
           "name": "Outlast 2",
@@ -1661,8 +2084,9 @@
           "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3805260/0153eca035f68b8918a3ac2f30a0d0021589084f/header.jpg?t=1765317148"
         }
       ],
-      "is_first_game": true,
+      "is_first_game": false,
       "actual_dev_apps": [
+        "1304930",
         "414700"
       ]
     },
@@ -1813,19 +2237,6 @@
           "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4704690/163e2a742e5fb8e1f5d1e3a890da98f04ab809d4/header.jpg?t=1789464996"
         },
         {
-          "appid": "3648240",
-          "name": "DEATH BURGER",
-          "release_date": "2025 年 8 月 5 日",
-          "type": "game",
-          "developers": [
-            "lemorion_1224"
-          ],
-          "publishers": [
-            "lemorion_1224"
-          ],
-          "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3648240/1a9ecee753c5476411515395a900a0ff0acebf25/header.jpg?t=1754416405"
-        },
-        {
           "appid": "3969510",
           "name": "LINK Penguins",
           "release_date": "2026 年 4 月 6 日",
@@ -1852,9 +2263,9 @@
           "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3369390/header.jpg?t=1745404760"
         },
         {
-          "appid": "3103750",
-          "name": "PENGUIN HOTEL -Chapter 1-",
-          "release_date": "2024 年 10 月 31 日",
+          "appid": "3648240",
+          "name": "DEATH BURGER",
+          "release_date": "2025 年 8 月 5 日",
           "type": "game",
           "developers": [
             "lemorion_1224"
@@ -1862,7 +2273,7 @@
           "publishers": [
             "lemorion_1224"
           ],
-          "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3103750/header.jpg?t=1743589869"
+          "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3648240/1a9ecee753c5476411515395a900a0ff0acebf25/header.jpg?t=1754416405"
         },
         {
           "appid": "3435600",
@@ -1876,6 +2287,19 @@
             "lemorion_1224"
           ],
           "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3435600/header.jpg?t=1740992585"
+        },
+        {
+          "appid": "3103750",
+          "name": "PENGUIN HOTEL -Chapter 1-",
+          "release_date": "2024 年 10 月 31 日",
+          "type": "game",
+          "developers": [
+            "lemorion_1224"
+          ],
+          "publishers": [
+            "lemorion_1224"
+          ],
+          "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3103750/header.jpg?t=1743589869"
         },
         {
           "appid": "3369400",
