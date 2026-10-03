@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "fetched_at": "2026-10-02T09:34:02.977508+08:00",
+    "fetched_at": "2026-10-03T09:05:30.997227+08:00",
     "total_developers": 43
   },
   "developers": {
@@ -505,19 +505,6 @@
           "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2661270/header.jpg?t=1712678426"
         },
         {
-          "appid": "2515990",
-          "name": "黎明杀机-异形 ",
-          "release_date": "2023 年 8 月 29 日",
-          "type": "dlc",
-          "developers": [
-            "Behaviour Interactive Inc."
-          ],
-          "publishers": [
-            "Behaviour Interactive Inc."
-          ],
-          "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2515990/header.jpg?t=1706631917"
-        },
-        {
           "appid": "1089270",
           "name": "Dead by Daylight - Ghost Face®",
           "release_date": "2019 年 6 月 18 日",
@@ -529,6 +516,19 @@
             "Behaviour Interactive Inc."
           ],
           "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1089270/header.jpg?t=1682024598"
+        },
+        {
+          "appid": "2515990",
+          "name": "黎明杀机-异形 ",
+          "release_date": "2023 年 8 月 29 日",
+          "type": "dlc",
+          "developers": [
+            "Behaviour Interactive Inc."
+          ],
+          "publishers": [
+            "Behaviour Interactive Inc."
+          ],
+          "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2515990/header.jpg?t=1706631917"
         }
       ],
       "is_first_game": true,
@@ -541,6 +541,19 @@
       "total_apps_on_steam": 3,
       "sampled_apps": 3,
       "apps": [
+        {
+          "appid": "3453900",
+          "name": "Micromega",
+          "release_date": "即将推出",
+          "type": "game",
+          "developers": [
+            "COVEN"
+          ],
+          "publishers": [
+            "COVEN"
+          ],
+          "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3453900/c976ff0948a19d56cc33f2739edb3aaeb499086a/header.jpg?t=1790951011"
+        },
         {
           "appid": "2885690",
           "name": "Masters of Light",
@@ -569,19 +582,6 @@
             "G4F Records"
           ],
           "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2979480/header.jpg?t=1716480242"
-        },
-        {
-          "appid": "3453900",
-          "name": "Micromega",
-          "release_date": "即将推出",
-          "type": "game",
-          "developers": [
-            "COVEN"
-          ],
-          "publishers": [
-            "COVEN"
-          ],
-          "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3453900/bf3b339c6aac95055a8cdfb7846b9f995c6586f6/header.jpg?t=1790007396"
         }
       ],
       "is_first_game": false,
@@ -698,7 +698,7 @@
           "publishers": [
             "Crytek"
           ],
-          "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/594650/2e2def207be0fd8aa77e1ef10f597aa28b482949/header_alt_assets_28.jpg?t=1790777032"
+          "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/594650/2e2def207be0fd8aa77e1ef10f597aa28b482949/header_alt_assets_28.jpg?t=1790938742"
         },
         {
           "appid": "2096610",
@@ -715,19 +715,6 @@
           "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2096610/ca8cc5ee7d4ce7a8fda5b050a9827aa117768b86/header.jpg?t=1783415156"
         },
         {
-          "appid": "4730770",
-          "name": "Hunt: Showdown 1896 - Sage of Joseon",
-          "release_date": "2026 年 9 月 9 日",
-          "type": "dlc",
-          "developers": [
-            "Crytek"
-          ],
-          "publishers": [
-            "Crytek"
-          ],
-          "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4730770/baddb5933a47e0eb213862c6b686b7f8f432c11f/header.jpg?t=1788958812"
-        },
-        {
           "appid": "2096600",
           "name": "Crysis 2 Remastered",
           "release_date": "2022 年 11 月 17 日",
@@ -740,6 +727,19 @@
             "Crytek"
           ],
           "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2096600/c31e1907d3e05b05578d1dc928826b70cde66e6f/header.jpg?t=1783414847"
+        },
+        {
+          "appid": "4730770",
+          "name": "Hunt: Showdown 1896 - Sage of Joseon",
+          "release_date": "2026 年 9 月 9 日",
+          "type": "dlc",
+          "developers": [
+            "Crytek"
+          ],
+          "publishers": [
+            "Crytek"
+          ],
+          "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4730770/baddb5933a47e0eb213862c6b686b7f8f432c11f/header.jpg?t=1788958812"
         },
         {
           "appid": "1715130",
@@ -1254,19 +1254,6 @@
           "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2934390/header.jpg?t=1772707065"
         },
         {
-          "appid": "801860",
-          "name": "深岩银河 - 支持者升级包",
-          "release_date": "2018 年 2 月 28 日",
-          "type": "dlc",
-          "developers": [
-            "Ghost Ship Games"
-          ],
-          "publishers": [
-            "Coffee Stain Publishing"
-          ],
-          "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/801860/header.jpg?t=1740394036"
-        },
-        {
           "appid": "1283090",
           "name": "深岩银河 - 黑暗未来皮肤包",
           "release_date": "2020 年 5 月 13 日",
@@ -1304,6 +1291,20 @@
             "Coffee Stain Publishing"
           ],
           "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1530640/header.jpg?t=1740397487"
+        },
+        {
+          "appid": "4216130",
+          "name": "深岩银河：异动核心 - 支持者升级包",
+          "release_date": "2026 年 5 月 20 日",
+          "type": "dlc",
+          "developers": [
+            "Ghost Ship Games"
+          ],
+          "publishers": [
+            "Coffee Stain Publishing",
+            "Ghost Ship Publishing"
+          ],
+          "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4216130/dc31bab14f827b64ec3bacf4d4d7efc464ad623e/header.jpg?t=1779292892"
         }
       ],
       "is_first_game": false,
@@ -1741,7 +1742,7 @@
             "Indoor Astronaut",
             "Kepler Ghost"
           ],
-          "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5307370/20d862d60a1772e689f7b46ef2b101dd8d566c26/header.jpg?t=1790851217"
+          "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5307370/20d862d60a1772e689f7b46ef2b101dd8d566c26/header.jpg?t=1790972488"
         },
         {
           "appid": "2352250",
@@ -2401,19 +2402,6 @@
           "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3369390/header.jpg?t=1745404760"
         },
         {
-          "appid": "3103750",
-          "name": "PENGUIN HOTEL -Chapter 1-",
-          "release_date": "2024 年 10 月 31 日",
-          "type": "game",
-          "developers": [
-            "lemorion_1224"
-          ],
-          "publishers": [
-            "lemorion_1224"
-          ],
-          "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3103750/header.jpg?t=1743589869"
-        },
-        {
           "appid": "3435600",
           "name": "PEXIT 8",
           "release_date": "2025 年 2 月 10 日",
@@ -2425,6 +2413,19 @@
             "lemorion_1224"
           ],
           "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3435600/header.jpg?t=1740992585"
+        },
+        {
+          "appid": "3103750",
+          "name": "PENGUIN HOTEL -Chapter 1-",
+          "release_date": "2024 年 10 月 31 日",
+          "type": "game",
+          "developers": [
+            "lemorion_1224"
+          ],
+          "publishers": [
+            "lemorion_1224"
+          ],
+          "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3103750/header.jpg?t=1743589869"
         },
         {
           "appid": "3369400",
