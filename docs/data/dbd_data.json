@@ -1,10 +1,10 @@
 {
-  "snapshot_date": "2026-10-05T00:46:54+08:00",
+  "snapshot_date": "2026-10-06T02:16:37+08:00",
   "hero": {
     "name": "黎明杀机",
-    "current_players": 40286,
+    "current_players": 38642,
     "positive_rate": 78.3,
-    "reviews_total": 937431,
+    "reviews_total": 937634,
     "price_label": "¥ 37.50",
     "release_date": "2016 年 6 月 14 日",
     "genres": [
@@ -12,6 +12,28 @@
     ]
   },
   "operations": [
+    {
+      "date": "2026-10-05",
+      "timestamp": 1791223220,
+      "title": "Developer Update | 10.2.0 PTB to Live Changes",
+      "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1845383656394283",
+      "author": "Donnary21st",
+      "feed_label": "Community Announcements",
+      "feed_type": "官方",
+      "is_patch": false,
+      "contents": "With the release of 10.2.0 just around the corner, we wanted to take some time to talk to you about a handful of the many changes that will be happening from PTB to the Live release - and a few change"
+    },
+    {
+      "date": "2026-10-05",
+      "timestamp": 1791217987,
+      "title": "Завтра Dead by Daylight получит коллаборацию с Nier: Automata: в хорроре появятся облики 2B и A2",
+      "url": "https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1845383656394030",
+      "author": "",
+      "feed_label": "PlayGround.ru - официальная группа",
+      "feed_type": "媒体",
+      "is_patch": false,
+      "contents": "Похоже, Square Enix заинтересована в выпуске новой игры серии Nier, однако компания также активно использует огромную популярность своих героинь для создания коллабораций с самыми разными проектами. С"
+    },
     {
       "date": "2026-10-03",
       "timestamp": 1791027944,
@@ -77,28 +99,6 @@
       "feed_type": "媒体",
       "is_patch": false,
       "contents": "A new Dead by Daylight anti-cheat trial is testing Denuvo's protection tool, but Behaviour Interactive makes clear there will be no DRM. Read the full story on PCGamesN: <a href=\"https://www.pcgamesn."
-    },
-    {
-      "date": "2026-09-02",
-      "timestamp": 1788361209,
-      "title": "Anti-Cheat Trials are now Live",
-      "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1842846814440602",
-      "author": "Goblin_BHVR",
-      "feed_label": "Community Announcements",
-      "feed_type": "官方",
-      "is_patch": false,
-      "contents": "Last week, we announced our plans to kick off our Anti-Cheat Trials initiative, and today it's here!Starting today, we will be trialing Denuvo's Anti-Cheat solution. Note that this does not and will n"
-    },
-    {
-      "date": "2026-09-01",
-      "timestamp": 1788273025,
-      "title": "10.1.1 | Bugfix Patch",
-      "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1842212951313573",
-      "author": "Goblin_BHVR",
-      "feed_label": "Community Announcements",
-      "feed_type": "官方",
-      "is_patch": false,
-      "contents": "ContentKiller UpdatesThe JudgmentIncreased the Divine Light curve window while Zealous to 0.6s (was 0.3s) Dev note: The decoupling of the curve window from the delay phase was good, but the duration o"
     }
   ],
   "patches": [
@@ -182,11 +182,11 @@
     ]
   },
   "reviews": {
-    "total_reviews": 937431,
-    "positive": 733868,
-    "negative": 203563,
+    "total_reviews": 937634,
+    "positive": 734014,
+    "negative": 203620,
     "positive_rate": 78.3
   },
-  "ccu": 40286,
-  "crawled_at": "2026-10-05T00:46:54.192643"
+  "ccu": 38642,
+  "crawled_at": "2026-10-06T02:16:37.176291"
 }

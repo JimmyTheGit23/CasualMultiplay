@@ -249,7 +249,7 @@
       "is_official": true,
       "contents": "Hey hey semibots! Here is yet another small update with some fixes and balancing! CHANGES BALANCING FIXES CHANGES Item Melee Weapons - Handling now properly scales with strength and should feel firmer"
     },
-    "crawled_at": "2026-10-05T00:48:27.831551"
+    "crawled_at": "2026-10-06T02:17:52.228854"
   },
   "Lethal Company": {
     "appid": 1966720,
@@ -501,7 +501,7 @@
       "is_official": true,
       "contents": "Hello, long time no see! Version 80 is out in beta for you to test. You can access it by opting into the public beta branch for Lethal Company on Steam. V80 brings a complete rework of March's exterio"
     },
-    "crawled_at": "2026-10-05T00:48:29.066062"
+    "crawled_at": "2026-10-06T02:17:53.646646"
   },
   "Phasmophobia": {
     "appid": 739630,
@@ -753,7 +753,7 @@
       "is_official": true,
       "contents": "Welcome back, Ghost Hunters. We’ve got an update for you.Today, we have released an update for Phasmophobia to address two issues that have been raised by the community since the release of our last u"
     },
-    "crawled_at": "2026-10-05T00:48:30.276854"
+    "crawled_at": "2026-10-06T02:17:54.915939"
   },
   "Content Warning": {
     "appid": 2881650,
@@ -1005,7 +1005,7 @@
       "is_official": true,
       "contents": "Hello Spööktubers! Thank you for your patience as we're fixing bugs on all platforms.Here's a new patch fixing some stuff!For those of you wondering when crossplay between Switch 1 & 2 and other platf"
     },
-    "crawled_at": "2026-10-05T00:48:32.331650"
+    "crawled_at": "2026-10-06T02:17:56.305463"
   },
   "FEEDERS": {
     "appid": 4408510,
@@ -1256,7 +1256,7 @@
       "is_official": true,
       "contents": "Gave the HUD a fresh redesign. New look across the board — the status bars (Health, Stamina, Radiation) and the bottom belt all got reworked. Same info, cleaner read. More guns coming with new solo ex"
     },
-    "crawled_at": "2026-10-05T00:48:33.495095"
+    "crawled_at": "2026-10-06T02:17:57.622955"
   },
   "NARAKA: BLADEPOINT": {
     "appid": 1203220,
@@ -1497,11 +1497,33 @@
       "contents": "Dear players,NARAKA: BLADEPOINT is committed to creating a fair and healthy competitive environment. We have not only used new anti-cheat technologies, but also established special cheat-reporting rew"
     },
     "latest_patch": null,
-    "crawled_at": "2026-10-05T00:48:34.637842"
+    "crawled_at": "2026-10-06T02:17:58.753527"
   },
   "Dead by Daylight": {
     "appid": 381210,
     "all": [
+      {
+        "date": "2026-10-05",
+        "datetime": "2026-10-05T18:00:20",
+        "title": "Developer Update | 10.2.0 PTB to Live Changes",
+        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1845383656394283",
+        "author": "Donnary21st",
+        "feed_label": "Community Announcements",
+        "is_patch": false,
+        "is_official": true,
+        "contents": "With the release of 10.2.0 just around the corner, we wanted to take some time to talk to you about a handful of the many changes that will be happening from PTB to the Live release - and a few change"
+      },
+      {
+        "date": "2026-10-05",
+        "datetime": "2026-10-05T16:33:07",
+        "title": "Завтра Dead by Daylight получит коллаборацию с Nier: Automata: в хорроре появятся облики 2B и A2",
+        "url": "https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1845383656394030",
+        "author": "",
+        "feed_label": "PlayGround.ru - официальная группа",
+        "is_patch": false,
+        "is_official": false,
+        "contents": "Похоже, Square Enix заинтересована в выпуске новой игры серии Nier, однако компания также активно использует огромную популярность своих героинь для создания коллабораций с самыми разными проектами. С"
+      },
       {
         "date": "2026-10-03",
         "datetime": "2026-10-03T11:45:44",
@@ -1589,28 +1611,6 @@
         "is_patch": false,
         "is_official": false,
         "contents": "A new Dead by Daylight anti-cheat trial is testing Denuvo's protection tool, but Behaviour Interactive makes clear there will be no DRM. Read the full story on PCGamesN: <a href=\"https://www.pcgamesn."
-      },
-      {
-        "date": "2026-09-02",
-        "datetime": "2026-09-02T15:00:09",
-        "title": "Anti-Cheat Trials are now Live",
-        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1842846814440602",
-        "author": "Goblin_BHVR",
-        "feed_label": "Community Announcements",
-        "is_patch": false,
-        "is_official": true,
-        "contents": "Last week, we announced our plans to kick off our Anti-Cheat Trials initiative, and today it's here!Starting today, we will be trialing Denuvo's Anti-Cheat solution. Note that this does not and will n"
-      },
-      {
-        "date": "2026-09-01",
-        "datetime": "2026-09-01T14:30:25",
-        "title": "10.1.1 | Bugfix Patch",
-        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1842212951313573",
-        "author": "Goblin_BHVR",
-        "feed_label": "Community Announcements",
-        "is_patch": false,
-        "is_official": true,
-        "contents": "ContentKiller UpdatesThe JudgmentIncreased the Divine Light curve window while Zealous to 0.6s (was 0.3s) Dev note: The decoupling of the curve window from the delay phase was good, but the duration o"
       }
     ],
     "patches": [
@@ -1639,6 +1639,28 @@
     ],
     "announcements": [
       {
+        "date": "2026-10-05",
+        "datetime": "2026-10-05T18:00:20",
+        "title": "Developer Update | 10.2.0 PTB to Live Changes",
+        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1845383656394283",
+        "author": "Donnary21st",
+        "feed_label": "Community Announcements",
+        "is_patch": false,
+        "is_official": true,
+        "contents": "With the release of 10.2.0 just around the corner, we wanted to take some time to talk to you about a handful of the many changes that will be happening from PTB to the Live release - and a few change"
+      },
+      {
+        "date": "2026-10-05",
+        "datetime": "2026-10-05T16:33:07",
+        "title": "Завтра Dead by Daylight получит коллаборацию с Nier: Automata: в хорроре появятся облики 2B и A2",
+        "url": "https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1845383656394030",
+        "author": "",
+        "feed_label": "PlayGround.ru - официальная группа",
+        "is_patch": false,
+        "is_official": false,
+        "contents": "Похоже, Square Enix заинтересована в выпуске новой игры серии Nier, однако компания также активно использует огромную популярность своих героинь для создания коллабораций с самыми разными проектами. С"
+      },
+      {
         "date": "2026-10-03",
         "datetime": "2026-10-03T11:45:44",
         "title": "Dead by Daylight тизерит кроссовер с NieR: Automata - намёки указывают на новых выживших",
@@ -1703,40 +1725,18 @@
         "is_patch": false,
         "is_official": false,
         "contents": "A new Dead by Daylight anti-cheat trial is testing Denuvo's protection tool, but Behaviour Interactive makes clear there will be no DRM. Read the full story on PCGamesN: <a href=\"https://www.pcgamesn."
-      },
-      {
-        "date": "2026-09-02",
-        "datetime": "2026-09-02T15:00:09",
-        "title": "Anti-Cheat Trials are now Live",
-        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1842846814440602",
-        "author": "Goblin_BHVR",
-        "feed_label": "Community Announcements",
-        "is_patch": false,
-        "is_official": true,
-        "contents": "Last week, we announced our plans to kick off our Anti-Cheat Trials initiative, and today it's here!Starting today, we will be trialing Denuvo's Anti-Cheat solution. Note that this does not and will n"
-      },
-      {
-        "date": "2026-09-01",
-        "datetime": "2026-09-01T14:30:25",
-        "title": "10.1.1 | Bugfix Patch",
-        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1842212951313573",
-        "author": "Goblin_BHVR",
-        "feed_label": "Community Announcements",
-        "is_patch": false,
-        "is_official": true,
-        "contents": "ContentKiller UpdatesThe JudgmentIncreased the Divine Light curve window while Zealous to 0.6s (was 0.3s) Dev note: The decoupling of the curve window from the delay phase was good, but the duration o"
       }
     ],
     "latest": {
-      "date": "2026-10-03",
-      "datetime": "2026-10-03T11:45:44",
-      "title": "Dead by Daylight тизерит кроссовер с NieR: Automata - намёки указывают на новых выживших",
-      "url": "https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1845383656389005",
-      "author": "",
-      "feed_label": "PlayGround.ru - официальная группа",
+      "date": "2026-10-05",
+      "datetime": "2026-10-05T18:00:20",
+      "title": "Developer Update | 10.2.0 PTB to Live Changes",
+      "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1845383656394283",
+      "author": "Donnary21st",
+      "feed_label": "Community Announcements",
       "is_patch": false,
-      "is_official": false,
-      "contents": "Dead by Daylight, похоже, готовит кроссовер с NieR: Automata. Официальный аккаунт игры в X сначала опубликовал загадочный тизер, намекающий на новую косметику для четырёх выживших. Поклонники быстро р"
+      "is_official": true,
+      "contents": "With the release of 10.2.0 just around the corner, we wanted to take some time to talk to you about a handful of the many changes that will be happening from PTB to the Live release - and a few change"
     },
     "latest_patch": {
       "date": "2026-09-17",
@@ -1749,6 +1749,6 @@
       "is_official": true,
       "contents": "Reverted the Divine Light curve window while Zealous to 0.6s (was 0.8s)Reverted the Divine Light curve window when non-ZealousDev note: The Judgment's performance skyrocketed following HF2. We are rev"
     },
-    "crawled_at": "2026-10-05T00:48:35.881047"
+    "crawled_at": "2026-10-06T02:18:00.201235"
   }
 }

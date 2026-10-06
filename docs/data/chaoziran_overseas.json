@@ -4,10 +4,10 @@
     "source": "Google Play",
     "url": "https://play.google.com/store/apps/details?id=com.game.tombbusters",
     "rating": 4.2,
-    "review_count": 1395,
+    "review_count": 1404,
     "description": "Hilarious Co-op Horror Extraction",
     "category": "FAMILY",
-    "crawled_at": "2026-10-05 00:48"
+    "crawled_at": "2026-10-06 02:17"
   },
   "google_play_reviews": [
     {
@@ -37,7 +37,7 @@
       "title": "Raiding Ancient Tombs was a Mistake",
       "video_id": "Keonsv7ZCf8",
       "url": "https://www.youtube.com/watch?v=Keonsv7ZCf8",
-      "views": "4,333,574 views",
+      "views": "4,334,699 views",
       "channel": "SMii7Yplus",
       "published": "3y ago",
       "duration": "25:59"
@@ -55,7 +55,7 @@
       "title": "TOMB RAIDER: ADDITIONAL DEATHS DLC FOR LARA CROFT",
       "video_id": "Ku1a1uNknCc",
       "url": "https://www.youtube.com/watch?v=Ku1a1uNknCc",
-      "views": "750,666 views",
+      "views": "750,682 views",
       "channel": "Animation Domination High Def",
       "published": "13y ago",
       "duration": "1:06"
@@ -64,7 +64,7 @@
       "title": "Tomb Busters - Nogla Won't Stay Away From Me!",
       "video_id": "EnuSSZ8nN4I",
       "url": "https://www.youtube.com/watch?v=EnuSSZ8nN4I",
-      "views": "505,027 views",
+      "views": "505,505 views",
       "channel": "VanossGaming",
       "published": "4mo ago",
       "duration": "27:18"
@@ -73,7 +73,7 @@
       "title": "A game based on 'The Snapshot Serial Killer'",
       "video_id": "2bIUhc95Orc",
       "url": "https://www.youtube.com/watch?v=2bIUhc95Orc",
-      "views": "424,663 views",
+      "views": "424,737 views",
       "channel": "8-BitRyan",
       "published": "1y ago",
       "duration": "54:50"
@@ -82,16 +82,16 @@
       "title": "Don't get caught! Steal the treasure from this dangerous place!【 Paranormal Squad 】",
       "video_id": "uf49EB_S4rc",
       "url": "https://www.youtube.com/watch?v=uf49EB_S4rc",
-      "views": "283,319 views",
+      "views": "283,762 views",
       "channel": "ちろぴの",
-      "published": "2mo ago",
+      "published": "3mo ago",
       "duration": "32:10"
     },
     {
       "title": "THIS MOBILE LETHAL-LIKE IS ACTUALLY HILARIOUS!!! | Tomb Busters (w/ Kyle & Squirrel)",
       "video_id": "O_JjLJQdGh0",
       "url": "https://www.youtube.com/watch?v=O_JjLJQdGh0",
-      "views": "433,346 views",
+      "views": "433,395 views",
       "channel": "CaRtOoNz",
       "published": "3mo ago",
       "duration": "1:26:18"
@@ -100,7 +100,7 @@
       "title": "Tomb Busters | Launch Gameplay Trailer",
       "video_id": "SozbL_ez72Y",
       "url": "https://www.youtube.com/watch?v=SozbL_ez72Y",
-      "views": "426,834 views",
+      "views": "426,850 views",
       "channel": "Tomb Busters",
       "published": "4mo ago",
       "duration": "0:56"
@@ -109,7 +109,7 @@
       "title": "Goofy Gang Explores SCARY TOMBS... (Tomb Busters)",
       "video_id": "l9WdUDC67bY",
       "url": "https://www.youtube.com/watch?v=l9WdUDC67bY",
-      "views": "183,969 views",
+      "views": "184,176 views",
       "channel": "Goofy Gang",
       "published": "3mo ago",
       "duration": "20:27"
@@ -118,7 +118,7 @@
       "title": "Three Idiots VS Funniest New Horror Game",
       "video_id": "m6ENmCcWhBc",
       "url": "https://www.youtube.com/watch?v=m6ENmCcWhBc",
-      "views": "174,363 views",
+      "views": "175,349 views",
       "channel": "SeeReax",
       "published": "4mo ago",
       "duration": "43:39"
@@ -135,8 +135,8 @@
   "app_store_extended": {
     "us": {
       "name": "美国",
-      "rating": 4.55,
-      "rating_count": 979,
+      "rating": 4.56,
+      "rating_count": 982,
       "current_version": "1.32.30",
       "price": "Free",
       "genre": "Games"
@@ -144,7 +144,7 @@
     "jp": {
       "name": "日本",
       "rating": 4.42,
-      "rating_count": 3009,
+      "rating_count": 3016,
       "current_version": "1.32.30",
       "price": "無料",
       "genre": "Games"
@@ -152,7 +152,7 @@
     "kr": {
       "name": "韩国",
       "rating": 3.87,
-      "rating_count": 294,
+      "rating_count": 295,
       "current_version": "1.32.30",
       "price": "무료",
       "genre": "Games"
@@ -169,8 +169,8 @@
     },
     "gb": {
       "name": "英国",
-      "rating": 4.5,
-      "rating_count": 38,
+      "rating": 4.51,
+      "rating_count": 39,
       "current_version": "1.32.30",
       "price": "Free",
       "genre": "Games"
@@ -215,6 +215,6 @@
       "rating_count": 0
     }
   },
-  "crawled_at": "2026-10-05T00:48:27.593501",
-  "crawled_date": "2026-10-05"
+  "crawled_at": "2026-10-06T02:17:52.008446",
+  "crawled_date": "2026-10-06"
 }
