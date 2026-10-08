@@ -19,7 +19,7 @@
       "release_date": "2025 年 2 月 26 日",
       "release_date_en": "26 Feb, 2025",
       "metacritic": null,
-      "recommendations": 343896,
+      "recommendations": 344018,
       "platforms": {
         "windows": true,
         "mac": false,
@@ -59,16 +59,16 @@
       ]
     },
     "steamspy": {
-      "ccu": 11945
+      "ccu": 12730
     },
     "reviews": {
-      "total_reviews": 16419,
-      "positive": 15183,
+      "total_reviews": 16426,
+      "positive": 15190,
       "negative": 1236,
       "positive_rate": 92.5
     },
-    "ccu": 11945,
-    "crawled_at": "2026-10-07T01:21:58.751288"
+    "ccu": 12730,
+    "crawled_at": "2026-10-08T01:43:05.923856"
   },
   "Lethal Company": {
     "appid": 1966720,
@@ -90,7 +90,7 @@
       "release_date": "2023 年 10 月 23 日",
       "release_date_en": "23 Oct, 2023",
       "metacritic": null,
-      "recommendations": 411800,
+      "recommendations": 411817,
       "platforms": {
         "windows": true,
         "mac": false,
@@ -130,16 +130,16 @@
       ]
     },
     "steamspy": {
-      "ccu": 2528
+      "ccu": 2613
     },
     "reviews": {
-      "total_reviews": 17743,
-      "positive": 16479,
-      "negative": 1264,
+      "total_reviews": 17746,
+      "positive": 16481,
+      "negative": 1265,
       "positive_rate": 92.9
     },
-    "ccu": 2528,
-    "crawled_at": "2026-10-07T01:22:05.256306"
+    "ccu": 2613,
+    "crawled_at": "2026-10-08T01:43:12.858116"
   },
   "Content Warning": {
     "appid": 2881650,
@@ -165,7 +165,7 @@
       "release_date": "2024 年 4 月 1 日",
       "release_date_en": "1 Apr, 2024",
       "metacritic": null,
-      "recommendations": 72763,
+      "recommendations": 72778,
       "platforms": {
         "windows": true,
         "mac": false,
@@ -205,16 +205,16 @@
       ]
     },
     "steamspy": {
-      "ccu": 653
+      "ccu": 642
     },
     "reviews": {
-      "total_reviews": 7081,
-      "positive": 6312,
+      "total_reviews": 7082,
+      "positive": 6313,
       "negative": 769,
       "positive_rate": 89.1
     },
-    "ccu": 653,
-    "crawled_at": "2026-10-07T01:22:11.806532"
+    "ccu": 642,
+    "crawled_at": "2026-10-08T01:43:19.649810"
   },
   "FEEDERS": {
     "appid": 4408510,
@@ -281,7 +281,7 @@
       "positive_rate": 69.2
     },
     "ccu": 0,
-    "crawled_at": "2026-10-07T01:22:18.551572"
+    "crawled_at": "2026-10-08T01:43:26.799154"
   },
   "Peak": {
     "appid": 3527290,
@@ -304,7 +304,7 @@
       "release_date": "2025 年 6 月 16 日",
       "release_date_en": "16 Jun, 2025",
       "metacritic": null,
-      "recommendations": 306590,
+      "recommendations": 306767,
       "platforms": {
         "windows": true,
         "mac": false,
@@ -350,16 +350,16 @@
       ]
     },
     "steamspy": {
-      "ccu": 10808
+      "ccu": 11076
     },
     "reviews": {
-      "total_reviews": 22973,
-      "positive": 19183,
-      "negative": 3790,
+      "total_reviews": 23004,
+      "positive": 19210,
+      "negative": 3794,
       "positive_rate": 83.5
     },
-    "ccu": 10808,
-    "crawled_at": "2026-10-07T01:22:25.022043"
+    "ccu": 11076,
+    "crawled_at": "2026-10-08T01:43:33.625568"
   },
   "Phasmophobia": {
     "appid": 739630,
@@ -381,7 +381,7 @@
       "release_date": "2020 年 9 月 18 日",
       "release_date_en": "18 Sep, 2020",
       "metacritic": null,
-      "recommendations": 684896,
+      "recommendations": 685007,
       "platforms": {
         "windows": true,
         "mac": false,
@@ -447,16 +447,16 @@
       ]
     },
     "steamspy": {
-      "ccu": 8366
+      "ccu": 9188
     },
     "reviews": {
-      "total_reviews": 27542,
-      "positive": 24979,
-      "negative": 2563,
+      "total_reviews": 27550,
+      "positive": 24986,
+      "negative": 2564,
       "positive_rate": 90.7
     },
-    "ccu": 8366,
-    "crawled_at": "2026-10-07T01:22:31.366881"
+    "ccu": 9188,
+    "crawled_at": "2026-10-08T01:43:40.320062"
   },
   "驱魔人": {
     "appid": 1929610,
@@ -478,7 +478,7 @@
       "release_date": "2023 年 9 月 25 日",
       "release_date_en": "25 Sep, 2023",
       "metacritic": null,
-      "recommendations": 18950,
+      "recommendations": 18958,
       "platforms": {
         "windows": true,
         "mac": false,
@@ -514,7 +514,7 @@
       ]
     },
     "steamspy": {
-      "ccu": 405
+      "ccu": 469
     },
     "reviews": {
       "total_reviews": 442,
@@ -522,8 +522,8 @@
       "negative": 101,
       "positive_rate": 77.1
     },
-    "ccu": 405,
-    "crawled_at": "2026-10-07T01:22:37.739333"
+    "ccu": 469,
+    "crawled_at": "2026-10-08T01:43:47.474936"
   },
   "逃生：试炼": {
     "appid": 1304930,
@@ -545,7 +545,7 @@
       "release_date": "2024 年 3 月 5 日",
       "release_date_en": "5 Mar, 2024",
       "metacritic": null,
-      "recommendations": 93983,
+      "recommendations": 94514,
       "platforms": {
         "windows": true,
         "mac": false,
@@ -587,16 +587,16 @@
       ]
     },
     "steamspy": {
-      "ccu": 19310
+      "ccu": 21564
     },
     "reviews": {
-      "total_reviews": 15355,
-      "positive": 13500,
-      "negative": 1855,
-      "positive_rate": 87.9
+      "total_reviews": 15549,
+      "positive": 13680,
+      "negative": 1869,
+      "positive_rate": 88.0
     },
-    "ccu": 19310,
-    "crawled_at": "2026-10-07T01:22:44.172790"
+    "ccu": 21564,
+    "crawled_at": "2026-10-08T01:43:54.098891"
   },
   "猎杀：对决": {
     "appid": 594650,
@@ -606,7 +606,7 @@
       "type": "game",
       "short_description": "《猎杀：对决 1896》是一款硬核高回报的撤离式射击游戏。追踪畸变怪物，在残酷的PvP对抗中生还。深入被历史遗忘的腐化荒泽，夺取悬赏赏金。组队协作，才能求得生存。一无所有葬身荒野，或是满载物资全身而退，都在一念之间。",
       "short_description_en": "Hunt: Showdown 1896 is the brutally rewarding extraction shooter. Track twisted monsters and overcome ruthless PvP. Take bounties in corrupted backwaters lost to history. With a team, you might survive. Die with nothing or get out with everything.",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/594650/13dc964af3396e26adfe7f9a4b1f194b453c8578/header_alt_assets_29.jpg?t=1791292338",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/594650/8cf55bcd74fc14c93f3a9cc7d0a442afabab6f88/header_alt_assets_29.jpg?t=1791385253",
       "developers": [
         "Crytek"
       ],
@@ -618,7 +618,7 @@
       "release_date": "2019 年 8 月 27 日",
       "release_date_en": "27 Aug, 2019",
       "metacritic": 81,
-      "recommendations": 213661,
+      "recommendations": 213716,
       "platforms": {
         "windows": true,
         "mac": false,
@@ -660,16 +660,16 @@
       ]
     },
     "steamspy": {
-      "ccu": 9277
+      "ccu": 9616
     },
     "reviews": {
-      "total_reviews": 46781,
-      "positive": 28765,
-      "negative": 18016,
+      "total_reviews": 46796,
+      "positive": 28771,
+      "negative": 18025,
       "positive_rate": 61.5
     },
-    "ccu": 9277,
-    "crawled_at": "2026-10-07T01:22:50.713637"
+    "ccu": 9616,
+    "crawled_at": "2026-10-08T01:44:00.768857"
   },
   "NARAKA: BLADEPOINT": {
     "appid": 1203220,
@@ -691,7 +691,7 @@
       "release_date": "2021 年 8 月 11 日",
       "release_date_en": "11 Aug, 2021",
       "metacritic": null,
-      "recommendations": 197992,
+      "recommendations": 197995,
       "platforms": {
         "windows": true,
         "mac": false,
@@ -731,16 +731,16 @@
       ]
     },
     "steamspy": {
-      "ccu": 7917
+      "ccu": 8362
     },
     "reviews": {
-      "total_reviews": 252759,
-      "positive": 181674,
-      "negative": 71085,
+      "total_reviews": 252772,
+      "positive": 181681,
+      "negative": 71091,
       "positive_rate": 71.9
     },
-    "ccu": 7917,
-    "crawled_at": "2026-10-07T01:22:57.202795"
+    "ccu": 8362,
+    "crawled_at": "2026-10-08T01:44:07.459643"
   },
   "灰境行者": {
     "appid": 3978820,
@@ -807,7 +807,7 @@
       "positive_rate": 0.0
     },
     "ccu": 0,
-    "crawled_at": "2026-10-07T01:23:07.000661"
+    "crawled_at": "2026-10-08T01:44:17.605287"
   },
   "Haunted": {
     "appid": 3850670,
@@ -817,7 +817,7 @@
       "type": "game",
       "short_description": "一名玩家调查神秘的玩偶屋，而朋友们则被困其中。支持2至4名玩家的合作超自然调查游戏。分享线索、破解灵异谜题，并在队友给出离谱指挥时努力保持冷静。",
       "short_description_en": "One player investigates a mysterious dollhouse while their friends are trapped inside it. A chaotic and highly replayable co-op paranormal investigation for 2–4 players. Share clues, solve occult puzzles, and try not to panic when your friends give terrible directions.",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3850670/0b81efc92e1dcac4054f452f142300df001fd9c1/header_schinese.jpg?t=1790353193",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3850670/0b81efc92e1dcac4054f452f142300df001fd9c1/header_schinese.jpg?t=1791388458",
       "developers": [
         "Coven"
       ],
@@ -870,7 +870,7 @@
       "positive_rate": 0.0
     },
     "ccu": 0,
-    "crawled_at": "2026-10-07T01:23:16.673176"
+    "crawled_at": "2026-10-08T01:44:27.723948"
   },
   "The Reflection": {
     "appid": 4314340,
@@ -933,7 +933,7 @@
       "positive_rate": 0.0
     },
     "ccu": 0,
-    "crawled_at": "2026-10-07T01:23:26.446407"
+    "crawled_at": "2026-10-08T01:44:37.875691"
   },
   "Radio Decay": {
     "appid": 3956540,
@@ -1002,7 +1002,7 @@
       "positive_rate": 0.0
     },
     "ccu": 0,
-    "crawled_at": "2026-10-07T01:23:36.289950"
+    "crawled_at": "2026-10-08T01:44:47.936895"
   },
   "In Us": {
     "appid": 4640600,
@@ -1071,7 +1071,7 @@
       "positive_rate": 0.0
     },
     "ccu": 0,
-    "crawled_at": "2026-10-07T01:23:46.175196"
+    "crawled_at": "2026-10-08T01:44:58.014648"
   },
   "狂欢猎杀": {
     "appid": 1181550,
@@ -1094,7 +1094,7 @@
       "release_date": "2026 年 7 月 23 日",
       "release_date_en": "23 Jul, 2026",
       "metacritic": null,
-      "recommendations": 2134,
+      "recommendations": 2138,
       "platforms": {
         "windows": true,
         "mac": false,
@@ -1134,16 +1134,16 @@
       ]
     },
     "steamspy": {
-      "ccu": 80
+      "ccu": 76
     },
     "reviews": {
-      "total_reviews": 258,
+      "total_reviews": 259,
       "positive": 66,
-      "negative": 192,
-      "positive_rate": 25.6
+      "negative": 193,
+      "positive_rate": 25.5
     },
-    "ccu": 80,
-    "crawled_at": "2026-10-07T01:23:52.802925"
+    "ccu": 76,
+    "crawled_at": "2026-10-08T01:45:04.806270"
   },
   "月光光心慌慌": {
     "appid": 3219630,
@@ -1166,7 +1166,7 @@
       "release_date": "2026 年 9 月 8 日",
       "release_date_en": "8 Sep, 2026",
       "metacritic": null,
-      "recommendations": 14126,
+      "recommendations": 14197,
       "platforms": {
         "windows": true,
         "mac": false,
@@ -1210,16 +1210,16 @@
       ]
     },
     "steamspy": {
-      "ccu": 4983
+      "ccu": 2481
     },
     "reviews": {
-      "total_reviews": 404,
-      "positive": 131,
-      "negative": 273,
-      "positive_rate": 32.4
+      "total_reviews": 405,
+      "positive": 133,
+      "negative": 272,
+      "positive_rate": 32.8
     },
-    "ccu": 4983,
-    "crawled_at": "2026-10-07T01:23:59.630378"
+    "ccu": 2481,
+    "crawled_at": "2026-10-08T01:45:11.633832"
   },
   "土丘：克苏鲁恶兆": {
     "appid": 2569760,
@@ -1241,7 +1241,7 @@
       "release_date": "2026 年 7 月 15 日",
       "release_date_en": "15 Jul, 2026",
       "metacritic": null,
-      "recommendations": 3187,
+      "recommendations": 3188,
       "platforms": {
         "windows": true,
         "mac": false,
@@ -1299,7 +1299,7 @@
       ]
     },
     "steamspy": {
-      "ccu": 173
+      "ccu": 166
     },
     "reviews": {
       "total_reviews": 198,
@@ -1307,8 +1307,8 @@
       "negative": 117,
       "positive_rate": 40.9
     },
-    "ccu": 173,
-    "crawled_at": "2026-10-07T01:24:06.294409"
+    "ccu": 166,
+    "crawled_at": "2026-10-08T01:45:18.461038"
   },
   "MECCHA CHAMELEON": {
     "appid": 4704690,
@@ -1330,7 +1330,7 @@
       "release_date": "2026 年 6 月 9 日",
       "release_date_en": "9 Jun, 2026",
       "metacritic": null,
-      "recommendations": 80099,
+      "recommendations": 80149,
       "platforms": {
         "windows": true,
         "mac": false,
@@ -1372,16 +1372,16 @@
       ]
     },
     "steamspy": {
-      "ccu": 3002
+      "ccu": 3263
     },
     "reviews": {
-      "total_reviews": 6329,
-      "positive": 3947,
-      "negative": 2382,
+      "total_reviews": 6332,
+      "positive": 3952,
+      "negative": 2380,
       "positive_rate": 62.4
     },
-    "ccu": 3002,
-    "crawled_at": "2026-10-07T01:24:12.660615"
+    "ccu": 3263,
+    "crawled_at": "2026-10-08T01:45:25.188647"
   },
   "HELLDIVERS 2": {
     "appid": 553850,
@@ -1403,7 +1403,7 @@
       "release_date": "2024 年 2 月 8 日",
       "release_date_en": "8 Feb, 2024",
       "metacritic": null,
-      "recommendations": 840910,
+      "recommendations": 841023,
       "platforms": {
         "windows": true,
         "mac": false,
@@ -1465,16 +1465,16 @@
       ]
     },
     "steamspy": {
-      "ccu": 39421
+      "ccu": 38527
     },
     "reviews": {
-      "total_reviews": 116977,
-      "positive": 38049,
-      "negative": 78928,
+      "total_reviews": 116998,
+      "positive": 38075,
+      "negative": 78923,
       "positive_rate": 32.5
     },
-    "ccu": 39421,
-    "crawled_at": "2026-10-07T01:24:19.172483"
+    "ccu": 38527,
+    "crawled_at": "2026-10-08T01:45:31.877605"
   },
   "Far Far West": {
     "appid": 3124540,
@@ -1496,7 +1496,7 @@
       "release_date": "2026 年 4 月 28 日",
       "release_date_en": "28 Apr, 2026",
       "metacritic": null,
-      "recommendations": 31952,
+      "recommendations": 31988,
       "platforms": {
         "windows": true,
         "mac": false,
@@ -1546,7 +1546,7 @@
       ]
     },
     "steamspy": {
-      "ccu": 2271
+      "ccu": 2222
     },
     "reviews": {
       "total_reviews": 1150,
@@ -1554,8 +1554,8 @@
       "negative": 414,
       "positive_rate": 64.0
     },
-    "ccu": 2271,
-    "crawled_at": "2026-10-07T01:24:25.907903"
+    "ccu": 2222,
+    "crawled_at": "2026-10-08T01:45:38.687234"
   },
   "Burglin' Gnomes": {
     "appid": 3844970,
@@ -1577,7 +1577,7 @@
       "release_date": "2026 年 6 月 10 日",
       "release_date_en": "10 Jun, 2026",
       "metacritic": null,
-      "recommendations": 4883,
+      "recommendations": 4895,
       "platforms": {
         "windows": true,
         "mac": false,
@@ -1613,7 +1613,7 @@
       ]
     },
     "steamspy": {
-      "ccu": 554
+      "ccu": 523
     },
     "reviews": {
       "total_reviews": 180,
@@ -1621,8 +1621,8 @@
       "negative": 58,
       "positive_rate": 67.8
     },
-    "ccu": 554,
-    "crawled_at": "2026-10-07T01:24:32.274096"
+    "ccu": 523,
+    "crawled_at": "2026-10-08T01:45:46.495052"
   },
   "一起开火车2": {
     "appid": 2211170,
@@ -1645,7 +1645,7 @@
       "release_date": "2026 年 6 月 11 日",
       "release_date_en": "11 Jun, 2026",
       "metacritic": null,
-      "recommendations": 1808,
+      "recommendations": 1811,
       "platforms": {
         "windows": true,
         "mac": true,
@@ -1713,16 +1713,16 @@
       ]
     },
     "steamspy": {
-      "ccu": 79
+      "ccu": 84
     },
     "reviews": {
-      "total_reviews": 426,
-      "positive": 322,
+      "total_reviews": 427,
+      "positive": 323,
       "negative": 104,
       "positive_rate": 75.6
     },
-    "ccu": 79,
-    "crawled_at": "2026-10-07T01:24:38.675512"
+    "ccu": 84,
+    "crawled_at": "2026-10-08T01:45:53.341933"
   },
   "Lost Castle 2": {
     "appid": 2445690,
@@ -1744,7 +1744,7 @@
       "release_date": "2026 年 6 月 10 日",
       "release_date_en": "10 Jun, 2026",
       "metacritic": 83,
-      "recommendations": 10998,
+      "recommendations": 11009,
       "platforms": {
         "windows": true,
         "mac": false,
@@ -1816,16 +1816,16 @@
       ]
     },
     "steamspy": {
-      "ccu": 881
+      "ccu": 764
     },
     "reviews": {
-      "total_reviews": 11250,
-      "positive": 8500,
-      "negative": 2750,
+      "total_reviews": 11264,
+      "positive": 8511,
+      "negative": 2753,
       "positive_rate": 75.6
     },
-    "ccu": 881,
-    "crawled_at": "2026-10-07T01:24:45.173236"
+    "ccu": 764,
+    "crawled_at": "2026-10-08T01:46:00.041443"
   },
   "Deep Rock Galactic": {
     "appid": 548430,
@@ -1847,7 +1847,7 @@
       "release_date": "2020 年 5 月 13 日",
       "release_date_en": "13 May, 2020",
       "metacritic": 85,
-      "recommendations": 303716,
+      "recommendations": 303738,
       "platforms": {
         "windows": true,
         "mac": false,
@@ -1903,16 +1903,16 @@
       ]
     },
     "steamspy": {
-      "ccu": 4191
+      "ccu": 4288
     },
     "reviews": {
-      "total_reviews": 36707,
-      "positive": 34439,
+      "total_reviews": 36708,
+      "positive": 34440,
       "negative": 2268,
       "positive_rate": 93.8
     },
-    "ccu": 4191,
-    "crawled_at": "2026-10-07T01:24:51.803181"
+    "ccu": 4288,
+    "crawled_at": "2026-10-08T01:46:06.921663"
   },
   "Among Us": {
     "appid": 945360,
@@ -1934,7 +1934,7 @@
       "release_date": "2018 年 11 月 16 日",
       "release_date_en": "16 Nov, 2018",
       "metacritic": 85,
-      "recommendations": 660802,
+      "recommendations": 660944,
       "platforms": {
         "windows": true,
         "mac": false,
@@ -1982,16 +1982,16 @@
       ]
     },
     "steamspy": {
-      "ccu": 7771
+      "ccu": 8057
     },
     "reviews": {
-      "total_reviews": 17356,
+      "total_reviews": 17355,
       "positive": 15388,
-      "negative": 1968,
+      "negative": 1967,
       "positive_rate": 88.7
     },
-    "ccu": 7771,
-    "crawled_at": "2026-10-07T01:24:58.445999"
+    "ccu": 8057,
+    "crawled_at": "2026-10-08T01:46:13.656453"
   },
   "Sons Of The Forest": {
     "appid": 1326470,
@@ -2013,7 +2013,7 @@
       "release_date": "2024 年 2 月 22 日",
       "release_date_en": "22 Feb, 2024",
       "metacritic": null,
-      "recommendations": 285999,
+      "recommendations": 286128,
       "platforms": {
         "windows": true,
         "mac": false,
@@ -2061,16 +2061,16 @@
       ]
     },
     "steamspy": {
-      "ccu": 8440
+      "ccu": 8910
     },
     "reviews": {
-      "total_reviews": 34964,
-      "positive": 28915,
-      "negative": 6049,
+      "total_reviews": 34992,
+      "positive": 28938,
+      "negative": 6054,
       "positive_rate": 82.7
     },
-    "ccu": 8440,
-    "crawled_at": "2026-10-07T01:25:04.742302"
+    "ccu": 8910,
+    "crawled_at": "2026-10-08T01:46:20.287521"
   },
   "Risk of Rain 2": {
     "appid": 632360,
@@ -2093,7 +2093,7 @@
       "release_date": "2020 年 8 月 11 日",
       "release_date_en": "11 Aug, 2020",
       "metacritic": 85,
-      "recommendations": 240512,
+      "recommendations": 240539,
       "platforms": {
         "windows": true,
         "mac": false,
@@ -2153,16 +2153,16 @@
       ]
     },
     "steamspy": {
-      "ccu": 7163
+      "ccu": 7556
     },
     "reviews": {
-      "total_reviews": 37817,
-      "positive": 33603,
+      "total_reviews": 37818,
+      "positive": 33604,
       "negative": 4214,
       "positive_rate": 88.9
     },
-    "ccu": 7163,
-    "crawled_at": "2026-10-07T01:25:11.201437"
+    "ccu": 7556,
+    "crawled_at": "2026-10-08T01:46:26.981496"
   },
   "Windblown": {
     "appid": 1911610,
@@ -2185,7 +2185,7 @@
       "release_date": "2024 年 10 月 24 日",
       "release_date_en": "24 Oct, 2024",
       "metacritic": null,
-      "recommendations": 9106,
+      "recommendations": 9107,
       "platforms": {
         "windows": true,
         "mac": false,
@@ -2233,7 +2233,7 @@
       ]
     },
     "steamspy": {
-      "ccu": 120
+      "ccu": 124
     },
     "reviews": {
       "total_reviews": 1740,
@@ -2241,8 +2241,8 @@
       "negative": 547,
       "positive_rate": 68.6
     },
-    "ccu": 120,
-    "crawled_at": "2026-10-07T01:25:17.815684"
+    "ccu": 124,
+    "crawled_at": "2026-10-08T01:46:33.864622"
   },
   "青蛙小队": {
     "appid": 3989960,
@@ -2312,7 +2312,7 @@
       ]
     },
     "steamspy": {
-      "ccu": 6
+      "ccu": 12
     },
     "reviews": {
       "total_reviews": 103,
@@ -2320,8 +2320,8 @@
       "negative": 31,
       "positive_rate": 69.9
     },
-    "ccu": 6,
-    "crawled_at": "2026-10-07T01:25:24.234630"
+    "ccu": 12,
+    "crawled_at": "2026-10-08T01:46:40.797484"
   },
   "Garry's Mod": {
     "appid": 4000,
@@ -2343,7 +2343,7 @@
       "release_date": "2006 年 11 月 29 日",
       "release_date_en": "29 Nov, 2006",
       "metacritic": null,
-      "recommendations": 1096320,
+      "recommendations": 1096478,
       "platforms": {
         "windows": true,
         "mac": true,
@@ -2415,16 +2415,16 @@
       ]
     },
     "steamspy": {
-      "ccu": 18258
+      "ccu": 17066
     },
     "reviews": {
-      "total_reviews": 39613,
-      "positive": 38335,
-      "negative": 1278,
+      "total_reviews": 39625,
+      "positive": 38348,
+      "negative": 1277,
       "positive_rate": 96.8
     },
-    "ccu": 18258,
-    "crawled_at": "2026-10-07T01:25:30.517848"
+    "ccu": 17066,
+    "crawled_at": "2026-10-08T01:46:47.442657"
   },
   "Crab Game": {
     "appid": 1782210,
@@ -2484,7 +2484,7 @@
       ]
     },
     "steamspy": {
-      "ccu": 783
+      "ccu": 885
     },
     "reviews": {
       "total_reviews": 2097,
@@ -2492,8 +2492,8 @@
       "negative": 263,
       "positive_rate": 87.5
     },
-    "ccu": 783,
-    "crawled_at": "2026-10-07T01:25:36.927547"
+    "ccu": 885,
+    "crawled_at": "2026-10-08T01:46:54.176580"
   },
   "Dead by Daylight": {
     "appid": 381210,
@@ -2515,7 +2515,7 @@
       "release_date": "2016 年 6 月 14 日",
       "release_date_en": "14 Jun, 2016",
       "metacritic": null,
-      "recommendations": 687657,
+      "recommendations": 687904,
       "platforms": {
         "windows": true,
         "mac": false,
@@ -2573,16 +2573,16 @@
       ]
     },
     "steamspy": {
-      "ccu": 48492
+      "ccu": 45922
     },
     "reviews": {
-      "total_reviews": 116341,
-      "positive": 73538,
-      "negative": 42803,
+      "total_reviews": 116403,
+      "positive": 73584,
+      "negative": 42819,
       "positive_rate": 63.2
     },
-    "ccu": 48492,
-    "crawled_at": "2026-10-07T01:25:43.316813"
+    "ccu": 45922,
+    "crawled_at": "2026-10-08T01:47:00.920140"
   },
   "Dear Passengers": {
     "appid": 4534960,
@@ -2643,6 +2643,6 @@
       "positive_rate": 0.0
     },
     "ccu": 0,
-    "crawled_at": "2026-10-07T01:25:52.877762"
+    "crawled_at": "2026-10-08T01:47:11.184650"
   }
 }
