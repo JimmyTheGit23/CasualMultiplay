@@ -3,11 +3,11 @@
     "package_id": "com.game.tombbusters",
     "source": "Google Play",
     "url": "https://play.google.com/store/apps/details?id=com.game.tombbusters",
-    "rating": 3.2,
-    "review_count": 1157,
+    "rating": 4.2,
+    "review_count": 1389,
     "description": "Hilarious Co-op Horror Extraction",
     "category": "FAMILY",
-    "crawled_at": "2026-10-08 01:52"
+    "crawled_at": "2026-10-09 02:03"
   },
   "google_play_reviews": [
     {
@@ -19,15 +19,15 @@
       "source": "Google Play"
     },
     {
+      "text": "Third-party app stores",
+      "source": "Google Play"
+    },
+    {
       "text": "Personalization in Play",
       "source": "Google Play"
     },
     {
       "text": "Cooperative multiplayer",
-      "source": "Google Play"
-    },
-    {
-      "text": "Ratings and reviews are verified",
       "source": "Google Play"
     }
   ],
@@ -37,7 +37,7 @@
       "title": "Raiding Ancient Tombs was a Mistake",
       "video_id": "Keonsv7ZCf8",
       "url": "https://www.youtube.com/watch?v=Keonsv7ZCf8",
-      "views": "4,336,611 views",
+      "views": "4,337,564 views",
       "channel": "SMii7Yplus",
       "published": "3y ago",
       "duration": "25:59"
@@ -46,7 +46,7 @@
       "title": "A New Tomb! (Game Fails #110)",
       "video_id": "0BtVzLlrv3M",
       "url": "https://www.youtube.com/watch?v=0BtVzLlrv3M",
-      "views": "2,153,586 views",
+      "views": "2,153,585 views",
       "channel": "GameSprout",
       "published": "10y ago",
       "duration": "5:23"
@@ -55,7 +55,7 @@
       "title": "TOMB RAIDER: ADDITIONAL DEATHS DLC FOR LARA CROFT",
       "video_id": "Ku1a1uNknCc",
       "url": "https://www.youtube.com/watch?v=Ku1a1uNknCc",
-      "views": "750,710 views",
+      "views": "750,729 views",
       "channel": "Animation Domination High Def",
       "published": "13y ago",
       "duration": "1:06"
@@ -64,7 +64,7 @@
       "title": "Tomb Busters - Nogla Won't Stay Away From Me!",
       "video_id": "EnuSSZ8nN4I",
       "url": "https://www.youtube.com/watch?v=EnuSSZ8nN4I",
-      "views": "506,257 views",
+      "views": "506,639 views",
       "channel": "VanossGaming",
       "published": "4mo ago",
       "duration": "27:18"
@@ -73,16 +73,25 @@
       "title": "A game based on 'The Snapshot Serial Killer'",
       "video_id": "2bIUhc95Orc",
       "url": "https://www.youtube.com/watch?v=2bIUhc95Orc",
-      "views": "424,879 views",
+      "views": "424,929 views",
       "channel": "8-BitRyan",
       "published": "1y ago",
       "duration": "54:50"
     },
     {
+      "title": "Don't get caught! Steal the treasure from this dangerous place!【 Paranormal Squad 】",
+      "video_id": "uf49EB_S4rc",
+      "url": "https://www.youtube.com/watch?v=uf49EB_S4rc",
+      "views": "284,803 views",
+      "channel": "ちろぴの",
+      "published": "3mo ago",
+      "duration": "32:10"
+    },
+    {
       "title": "THIS MOBILE LETHAL-LIKE IS ACTUALLY HILARIOUS!!! | Tomb Busters (w/ Kyle & Squirrel)",
       "video_id": "O_JjLJQdGh0",
       "url": "https://www.youtube.com/watch?v=O_JjLJQdGh0",
-      "views": "433,478 views",
+      "views": "433,526 views",
       "channel": "CaRtOoNz",
       "published": "3mo ago",
       "duration": "1:26:18"
@@ -91,7 +100,7 @@
       "title": "Tomb Busters | Launch Gameplay Trailer",
       "video_id": "SozbL_ez72Y",
       "url": "https://www.youtube.com/watch?v=SozbL_ez72Y",
-      "views": "426,884 views",
+      "views": "426,904 views",
       "channel": "Tomb Busters",
       "published": "4mo ago",
       "duration": "0:56"
@@ -100,7 +109,7 @@
       "title": "Goofy Gang Explores SCARY TOMBS... (Tomb Busters)",
       "video_id": "l9WdUDC67bY",
       "url": "https://www.youtube.com/watch?v=l9WdUDC67bY",
-      "views": "184,582 views",
+      "views": "184,760 views",
       "channel": "Goofy Gang",
       "published": "4mo ago",
       "duration": "20:27"
@@ -109,19 +118,10 @@
       "title": "Three Idiots VS Funniest New Horror Game",
       "video_id": "m6ENmCcWhBc",
       "url": "https://www.youtube.com/watch?v=m6ENmCcWhBc",
-      "views": "176,927 views",
+      "views": "177,713 views",
       "channel": "SeeReax",
       "published": "4mo ago",
       "duration": "43:39"
-    },
-    {
-      "title": "Tomb Raider apk download? #tombraider #gamingcommunity #tombraider2013gameplay #fpsgames ",
-      "video_id": "RatbS4ym8QM",
-      "url": "https://www.youtube.com/watch?v=RatbS4ym8QM",
-      "views": "152,836 views",
-      "channel": "Android Arena",
-      "published": "7mo ago",
-      "duration": "1:15"
     }
   ],
   "official_news_en": [],
@@ -135,8 +135,8 @@
   "app_store_extended": {
     "us": {
       "name": "美国",
-      "rating": 4.55,
-      "rating_count": 992,
+      "rating": 4.56,
+      "rating_count": 994,
       "current_version": "1.32.30",
       "price": "Free",
       "genre": "Games"
@@ -144,7 +144,7 @@
     "jp": {
       "name": "日本",
       "rating": 4.42,
-      "rating_count": 3027,
+      "rating_count": 3034,
       "current_version": "1.32.30",
       "price": "無料",
       "genre": "Games"
@@ -215,6 +215,6 @@
       "rating_count": 0
     }
   },
-  "crawled_at": "2026-10-08T01:52:28.900344",
-  "crawled_date": "2026-10-08"
+  "crawled_at": "2026-10-09T02:04:03.488752",
+  "crawled_date": "2026-10-09"
 }
