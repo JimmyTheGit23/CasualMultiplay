@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "fetched_at": "2026-10-10T09:41:36.856421+08:00",
+    "fetched_at": "2026-10-11T08:50:36.194905+08:00",
     "total_developers": 43
   },
   "developers": {
@@ -49,19 +49,6 @@
           "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2731960/header_schinese.jpg?t=1767857211"
         },
         {
-          "appid": "2732000",
-          "name": "永劫无间 - 鸢纱 · 崔三娘捆绑包",
-          "release_date": "2023 年 12 月 20 日",
-          "type": "dlc",
-          "developers": [
-            "24 Entertainment"
-          ],
-          "publishers": [
-            "NetEase Games"
-          ],
-          "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2732000/header_schinese.jpg?t=1767857569"
-        },
-        {
           "appid": "2731970",
           "name": "永劫无间 - 凤凰装 · 顾清寒捆绑包",
           "release_date": "2023 年 12 月 20 日",
@@ -73,6 +60,19 @@
             "NetEase Games"
           ],
           "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2731970/header_schinese.jpg?t=1767858231"
+        },
+        {
+          "appid": "2732000",
+          "name": "永劫无间 - 鸢纱 · 崔三娘捆绑包",
+          "release_date": "2023 年 12 月 20 日",
+          "type": "dlc",
+          "developers": [
+            "24 Entertainment"
+          ],
+          "publishers": [
+            "NetEase Games"
+          ],
+          "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2732000/header_schinese.jpg?t=1767857569"
         }
       ],
       "is_first_game": true,
@@ -125,19 +125,6 @@
           "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2731960/header_schinese.jpg?t=1767857211"
         },
         {
-          "appid": "2732000",
-          "name": "永劫无间 - 鸢纱 · 崔三娘捆绑包",
-          "release_date": "2023 年 12 月 20 日",
-          "type": "dlc",
-          "developers": [
-            "24 Entertainment"
-          ],
-          "publishers": [
-            "NetEase Games"
-          ],
-          "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2732000/header_schinese.jpg?t=1767857569"
-        },
-        {
           "appid": "2731970",
           "name": "永劫无间 - 凤凰装 · 顾清寒捆绑包",
           "release_date": "2023 年 12 月 20 日",
@@ -149,6 +136,19 @@
             "NetEase Games"
           ],
           "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2731970/header_schinese.jpg?t=1767858231"
+        },
+        {
+          "appid": "2732000",
+          "name": "永劫无间 - 鸢纱 · 崔三娘捆绑包",
+          "release_date": "2023 年 12 月 20 日",
+          "type": "dlc",
+          "developers": [
+            "24 Entertainment"
+          ],
+          "publishers": [
+            "NetEase Games"
+          ],
+          "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2732000/header_schinese.jpg?t=1767857569"
         }
       ],
       "is_first_game": false,
@@ -254,19 +254,6 @@
           "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/353700/header.jpg?t=1603130568"
         },
         {
-          "appid": "2213630",
-          "name": "The Eternal Cylinder Soundtrack",
-          "release_date": "2022 年 12 月 22 日",
-          "type": "music",
-          "developers": [
-            "ACE Team"
-          ],
-          "publishers": [
-            "Good Shepherd Entertainment"
-          ],
-          "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2213630/header.jpg?t=1671732927"
-        },
-        {
           "appid": "2277540",
           "name": "Clash: Artifacts of Chaos Soundtrack",
           "release_date": "2023 年 3 月 10 日",
@@ -278,6 +265,19 @@
             "Nacon"
           ],
           "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2277540/header.jpg?t=1678468355"
+        },
+        {
+          "appid": "2213630",
+          "name": "The Eternal Cylinder Soundtrack",
+          "release_date": "2022 年 12 月 22 日",
+          "type": "music",
+          "developers": [
+            "ACE Team"
+          ],
+          "publishers": [
+            "Good Shepherd Entertainment"
+          ],
+          "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2213630/header.jpg?t=1671732927"
         },
         {
           "appid": "1407700",
@@ -479,30 +479,6 @@
           "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4318580/fe996d56580b8242624a1bd464fcbf60c46ccf31/header.jpg?t=1769540708"
         },
         {
-          "appid": "3796620",
-          "name": "Dead by Daylight: Five Nights at Freddy’s",
-          "release_date": "2025 年 6 月 17 日",
-          "type": "dlc",
-          "developers": [
-            "Behaviour Interactive Inc."
-          ],
-          "publishers": [],
-          "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3796620/f595a9f57ffba6ec18fe09fb8e705c061b629849/header.jpg?t=1779975883"
-        },
-        {
-          "appid": "1135280",
-          "name": "Dead by Daylight - Stranger Things Chapter",
-          "release_date": "2019 年 9 月 17 日",
-          "type": "dlc",
-          "developers": [
-            "Behaviour Interactive Inc."
-          ],
-          "publishers": [
-            "Behaviour Interactive Inc."
-          ],
-          "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1135280/header.jpg?t=1699306162"
-        },
-        {
           "appid": "2661270",
           "name": "Dead by Daylight - All Things Wicked Chapter",
           "release_date": "2024 年 3 月 12 日",
@@ -516,6 +492,17 @@
           "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2661270/header.jpg?t=1712678426"
         },
         {
+          "appid": "3796620",
+          "name": "Dead by Daylight: Five Nights at Freddy’s",
+          "release_date": "2025 年 6 月 17 日",
+          "type": "dlc",
+          "developers": [
+            "Behaviour Interactive Inc."
+          ],
+          "publishers": [],
+          "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3796620/f595a9f57ffba6ec18fe09fb8e705c061b629849/header.jpg?t=1779975883"
+        },
+        {
           "appid": "3103150",
           "name": "Dead by Daylight - Castlevania Chapter",
           "release_date": "2024 年 8 月 27 日",
@@ -527,6 +514,19 @@
             "Behaviour Interactive Inc."
           ],
           "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3103150/header.jpg?t=1740003609"
+        },
+        {
+          "appid": "1135280",
+          "name": "Dead by Daylight - Stranger Things Chapter",
+          "release_date": "2019 年 9 月 17 日",
+          "type": "dlc",
+          "developers": [
+            "Behaviour Interactive Inc."
+          ],
+          "publishers": [
+            "Behaviour Interactive Inc."
+          ],
+          "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1135280/header.jpg?t=1699306162"
         }
       ],
       "is_first_game": true,
@@ -539,6 +539,20 @@
       "total_apps_on_steam": 3,
       "sampled_apps": 3,
       "apps": [
+        {
+          "appid": "2885690",
+          "name": "Masters of Light",
+          "release_date": "即将推出",
+          "type": "game",
+          "developers": [
+            "COVEN",
+            "ALBYON"
+          ],
+          "publishers": [
+            "COVEN"
+          ],
+          "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2885690/header.jpg?t=1788833746"
+        },
         {
           "appid": "2979480",
           "name": "Masters of Light Original Soundtrack",
@@ -566,20 +580,6 @@
             "COVEN"
           ],
           "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3453900/c976ff0948a19d56cc33f2739edb3aaeb499086a/header.jpg?t=1791468473"
-        },
-        {
-          "appid": "2885690",
-          "name": "Masters of Light",
-          "release_date": "即将推出",
-          "type": "game",
-          "developers": [
-            "COVEN",
-            "ALBYON"
-          ],
-          "publishers": [
-            "COVEN"
-          ],
-          "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2885690/header.jpg?t=1788833746"
         }
       ],
       "is_first_game": false,
@@ -1055,19 +1055,6 @@
           "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4000/header.jpg?t=1776868682"
         },
         {
-          "appid": "1670430",
-          "name": "Rust - Voice Props Pack",
-          "release_date": "2021 年 7 月 1 日",
-          "type": "dlc",
-          "developers": [
-            "Facepunch Studios"
-          ],
-          "publishers": [
-            "Facepunch Studios"
-          ],
-          "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1670430/header.jpg?t=1733417297"
-        },
-        {
           "appid": "3891560",
           "name": "Rust - Warhammer 40,000 Pack",
           "release_date": "2025 年 10 月 23 日",
@@ -1079,6 +1066,19 @@
             "Facepunch Studios"
           ],
           "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3891560/3833382bd430c09e294d1b5a894bce46eaf12d87/header.jpg?t=1761238974"
+        },
+        {
+          "appid": "1670430",
+          "name": "Rust - Voice Props Pack",
+          "release_date": "2021 年 7 月 1 日",
+          "type": "dlc",
+          "developers": [
+            "Facepunch Studios"
+          ],
+          "publishers": [
+            "Facepunch Studios"
+          ],
+          "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1670430/header.jpg?t=1733417297"
         },
         {
           "appid": "1353060",
@@ -1196,19 +1196,6 @@
           "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2605790/9d0c2bf98e5e10ebf27fc473a92fb26f3623b148/header_alt_assets_1.jpg?t=1788348461"
         },
         {
-          "appid": "4207910",
-          "name": "深岩银河 - 古迹奇兵皮肤包",
-          "release_date": "2026 年 1 月 29 日",
-          "type": "dlc",
-          "developers": [
-            "Ghost Ship Games"
-          ],
-          "publishers": [
-            "Coffee Stain Publishing"
-          ],
-          "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4207910/6c299e8f9abe93d41c906f3334df312350cc917a/header.jpg?t=1772707081"
-        },
-        {
           "appid": "3481460",
           "name": "深岩银河 - 碎颅者皮肤包",
           "release_date": "2025 年 2 月 27 日",
@@ -1222,9 +1209,9 @@
           "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3481460/header.jpg?t=1772707056"
         },
         {
-          "appid": "2291670",
-          "name": "深岩银河 - 支持者二号升级包",
-          "release_date": "2023 年 3 月 2 日",
+          "appid": "4207910",
+          "name": "深岩银河 - 古迹奇兵皮肤包",
+          "release_date": "2026 年 1 月 29 日",
           "type": "dlc",
           "developers": [
             "Ghost Ship Games"
@@ -1232,7 +1219,7 @@
           "publishers": [
             "Coffee Stain Publishing"
           ],
-          "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2291670/header.jpg?t=1740397993"
+          "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4207910/6c299e8f9abe93d41c906f3334df312350cc917a/header.jpg?t=1772707081"
         },
         {
           "appid": "2934390",
@@ -1246,19 +1233,6 @@
             "Coffee Stain Publishing"
           ],
           "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2934390/header.jpg?t=1772707065"
-        },
-        {
-          "appid": "1283090",
-          "name": "深岩银河 - 黑暗未来皮肤包",
-          "release_date": "2020 年 5 月 13 日",
-          "type": "dlc",
-          "developers": [
-            "Ghost Ship Games"
-          ],
-          "publishers": [
-            "Coffee Stain Publishing"
-          ],
-          "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1283090/header.jpg?t=1740394534"
         },
         {
           "appid": "4216130",
@@ -1275,9 +1249,9 @@
           "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4216130/dc31bab14f827b64ec3bacf4d4d7efc464ad623e/header.jpg?t=1779292892"
         },
         {
-          "appid": "1797340",
-          "name": "深岩银河 - 强敌科技皮肤包",
-          "release_date": "2021 年 11 月 4 日",
+          "appid": "2291670",
+          "name": "深岩银河 - 支持者二号升级包",
+          "release_date": "2023 年 3 月 2 日",
           "type": "dlc",
           "developers": [
             "Ghost Ship Games"
@@ -1285,7 +1259,7 @@
           "publishers": [
             "Coffee Stain Publishing"
           ],
-          "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1797340/header.jpg?t=1740397636"
+          "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2291670/header.jpg?t=1740397993"
         },
         {
           "appid": "1283091",
@@ -1299,6 +1273,32 @@
             "Coffee Stain Publishing"
           ],
           "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1283091/header.jpg?t=1740394697"
+        },
+        {
+          "appid": "1283090",
+          "name": "深岩银河 - 黑暗未来皮肤包",
+          "release_date": "2020 年 5 月 13 日",
+          "type": "dlc",
+          "developers": [
+            "Ghost Ship Games"
+          ],
+          "publishers": [
+            "Coffee Stain Publishing"
+          ],
+          "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1283090/header.jpg?t=1740394534"
+        },
+        {
+          "appid": "801860",
+          "name": "深岩银河 - 支持者升级包",
+          "release_date": "2018 年 2 月 28 日",
+          "type": "dlc",
+          "developers": [
+            "Ghost Ship Games"
+          ],
+          "publishers": [
+            "Coffee Stain Publishing"
+          ],
+          "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/801860/header.jpg?t=1740394036"
         }
       ],
       "is_first_game": false,
@@ -1456,19 +1456,6 @@
           "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/434650/header_schinese.jpg?t=1759298493"
         },
         {
-          "appid": "1415420",
-          "name": "Lost Castle: The Old Ones Awaken / 失落城堡: 遗迹守护者",
-          "release_date": "2020 年 9 月 28 日",
-          "type": "dlc",
-          "developers": [
-            "Hunter Studio"
-          ],
-          "publishers": [
-            "Neon Doctrine"
-          ],
-          "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1415420/header.jpg?t=1619653942"
-        },
-        {
           "appid": "522620",
           "name": "Lost Castle: Official Soundtrack",
           "release_date": "2016 年 8 月 31 日",
@@ -1481,6 +1468,19 @@
             "X.D.Network  Inc."
           ],
           "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/522620/header.jpg?t=1619654018"
+        },
+        {
+          "appid": "1415420",
+          "name": "Lost Castle: The Old Ones Awaken / 失落城堡: 遗迹守护者",
+          "release_date": "2020 年 9 月 28 日",
+          "type": "dlc",
+          "developers": [
+            "Hunter Studio"
+          ],
+          "publishers": [
+            "Neon Doctrine"
+          ],
+          "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1415420/header.jpg?t=1619653942"
         },
         {
           "appid": "3063440",
@@ -1830,7 +1830,7 @@
           "publishers": [
             "Kinetic Games"
           ],
-          "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/739630/6283e4bf96c6e8160492ae12016f0c9a308a75d9/header_alt_assets_13.jpg?t=1791466787"
+          "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/739630/6283e4bf96c6e8160492ae12016f0c9a308a75d9/header_alt_assets_13.jpg?t=1791632508"
         }
       ],
       "is_first_game": true,
