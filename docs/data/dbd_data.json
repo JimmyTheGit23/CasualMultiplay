@@ -1,10 +1,10 @@
 {
-  "snapshot_date": "2026-10-13T03:03:59+08:00",
+  "snapshot_date": "2026-10-14T01:09:55+08:00",
   "hero": {
     "name": "黎明杀机",
-    "current_players": 41604,
+    "current_players": 55723,
     "positive_rate": 78.3,
-    "reviews_total": 939463,
+    "reviews_total": 939614,
     "price_label": "¥ 93.75",
     "release_date": "2016 年 6 月 14 日",
     "genres": [
@@ -12,6 +12,17 @@
     ]
   },
   "operations": [
+    {
+      "date": "2026-10-13",
+      "timestamp": 1791882000,
+      "title": "Steam Global Top Sellers for week of 6 Oct — 13 October 2026",
+      "url": "https://steamstore-a.akamaihd.net/news/externalpost/SteamDB/1846018067944049",
+      "author": "SteamDB",
+      "feed_label": "SteamDB",
+      "feed_type": "媒体",
+      "is_patch": false,
+      "contents": "<a href=\"https://steamdb.info/topsellers/2026W42/?utm_source=Steam&utm_medium=Steam&utm_campaign=SteamRSS\"> </a> * <a href=\"https://steamdb.info/app/4078430/charts/?utm_source=Steam&utm_medium=Steam&u"
+    },
     {
       "date": "2026-10-10",
       "timestamp": 1791634405,
@@ -88,17 +99,6 @@
       "feed_type": "媒体",
       "is_patch": false,
       "contents": "Похоже, Square Enix заинтересована в выпуске новой игры серии Nier, однако компания также активно использует огромную популярность своих героинь для создания коллабораций с самыми разными проектами. С"
-    },
-    {
-      "date": "2026-10-03",
-      "timestamp": 1791027944,
-      "title": "Dead by Daylight тизерит кроссовер с NieR: Automata - намёки указывают на новых выживших",
-      "url": "https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1845383656389005",
-      "author": "",
-      "feed_label": "PlayGround.ru - официальная группа",
-      "feed_type": "媒体",
-      "is_patch": false,
-      "contents": "Dead by Daylight, похоже, готовит кроссовер с NieR: Automata. Официальный аккаунт игры в X сначала опубликовал загадочный тизер, намекающий на новую косметику для четырёх выживших. Поклонники быстро р"
     }
   ],
   "patches": [
@@ -182,11 +182,11 @@
     ]
   },
   "reviews": {
-    "total_reviews": 939463,
-    "positive": 735304,
-    "negative": 204159,
+    "total_reviews": 939614,
+    "positive": 735403,
+    "negative": 204211,
     "positive_rate": 78.3
   },
-  "ccu": 41604,
-  "crawled_at": "2026-10-13T03:03:59.876329"
+  "ccu": 55723,
+  "crawled_at": "2026-10-14T01:09:55.447776"
 }
