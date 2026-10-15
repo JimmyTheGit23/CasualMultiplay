@@ -1,10 +1,10 @@
 {
-  "snapshot_date": "2026-10-14T01:09:55+08:00",
+  "snapshot_date": "2026-10-15T00:30:42+08:00",
   "hero": {
     "name": "黎明杀机",
-    "current_players": 55723,
+    "current_players": 46945,
     "positive_rate": 78.3,
-    "reviews_total": 939614,
+    "reviews_total": 939811,
     "price_label": "¥ 93.75",
     "release_date": "2016 年 6 月 14 日",
     "genres": [
@@ -103,6 +103,17 @@
   ],
   "patches": [
     {
+      "date": "2026-10-14",
+      "timestamp": 1791990061,
+      "title": "10.2.1 | Bugfix Patch",
+      "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846651706674577",
+      "author": "Goblin_BHVR",
+      "feed_label": "Community Announcements",
+      "feed_type": "官方",
+      "is_patch": true,
+      "contents": "FeaturesSurrender and End TrialSurrender OptionSurvivor Condition - When there are no other human survivors, and at least one bot, the remaining player gets the option to Surrender. (was Abandon)Survi"
+    },
+    {
       "date": "2026-09-17",
       "timestamp": 1789657207,
       "title": "10.1.2a | Patch Notes",
@@ -182,11 +193,11 @@
     ]
   },
   "reviews": {
-    "total_reviews": 939614,
-    "positive": 735403,
-    "negative": 204211,
+    "total_reviews": 939811,
+    "positive": 735537,
+    "negative": 204274,
     "positive_rate": 78.3
   },
-  "ccu": 55723,
-  "crawled_at": "2026-10-14T01:09:55.447776"
+  "ccu": 46945,
+  "crawled_at": "2026-10-15T00:30:42.980013"
 }
