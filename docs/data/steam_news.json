@@ -249,7 +249,7 @@
       "is_official": true,
       "contents": "Hey hey semibots! Here is yet another small update with some fixes and balancing! CHANGES BALANCING FIXES CHANGES Item Melee Weapons - Handling now properly scales with strength and should feel firmer"
     },
-    "crawled_at": "2026-10-16T00:21:27.217043"
+    "crawled_at": "2026-10-17T00:24:28.742592"
   },
   "Lethal Company": {
     "appid": 1966720,
@@ -501,11 +501,22 @@
       "is_official": true,
       "contents": "Hello, long time no see! Version 80 is out in beta for you to test. You can access it by opting into the public beta branch for Lethal Company on Steam. V80 brings a complete rework of March's exterio"
     },
-    "crawled_at": "2026-10-16T00:21:28.407261"
+    "crawled_at": "2026-10-17T00:24:29.924661"
   },
   "Phasmophobia": {
     "appid": 739630,
     "all": [
+      {
+        "date": "2026-10-16",
+        "datetime": "2026-10-16T13:00:52",
+        "title": "Ghost Hunts For Hearts Returns",
+        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846651706681382",
+        "author": "Tom Dent",
+        "feed_label": "Community Announcements",
+        "is_patch": false,
+        "is_official": true,
+        "contents": "Welcome back, Ghost Hunters. Today we’re excited to announce the return of Ghost Hunts for Hearts in collaboration with our good friends at American Heart Association Liive.Last year, the Phasmophobia"
+      },
       {
         "date": "2026-10-14",
         "datetime": "2026-10-14T13:22:59",
@@ -604,17 +615,6 @@
         "is_patch": true,
         "is_official": true,
         "contents": "Welcome back, Ghost Hunters. We've deployed a small hotfix to address feedback on the Equipment and Item slot assignments. Patch notes below: ChangesItems and Equipment will now be assigned a slot in "
-      },
-      {
-        "date": "2026-07-28",
-        "datetime": "2026-07-28T11:05:15",
-        "title": "Phasmophobia v0.18.0.1 - Patch Notes",
-        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1839041357037983",
-        "author": "Tom Dent",
-        "feed_label": "Community Announcements",
-        "is_patch": false,
-        "is_official": true,
-        "contents": "Welcome back, Ghost Hunters. Today we have deployed an update for Phasmophobia that addresses several issues that were raised following last week’s update. Thank you to everyone who provided feedback "
       }
     ],
     "patches": [
@@ -643,6 +643,17 @@
     ],
     "announcements": [
       {
+        "date": "2026-10-16",
+        "datetime": "2026-10-16T13:00:52",
+        "title": "Ghost Hunts For Hearts Returns",
+        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846651706681382",
+        "author": "Tom Dent",
+        "feed_label": "Community Announcements",
+        "is_patch": false,
+        "is_official": true,
+        "contents": "Welcome back, Ghost Hunters. Today we’re excited to announce the return of Ghost Hunts for Hearts in collaboration with our good friends at American Heart Association Liive.Last year, the Phasmophobia"
+      },
+      {
         "date": "2026-10-14",
         "datetime": "2026-10-14T13:22:59",
         "title": "Crimson Eye - Double XP & Rewards",
@@ -718,29 +729,18 @@
         "is_patch": false,
         "is_official": true,
         "contents": "Welcome back, Ghost Hunters.Thank you to everyone for the warm reception to our first Quality of Life update last month, and we’re glad to see many of you enjoying Phasmophobia once more.Today as prom"
-      },
-      {
-        "date": "2026-07-28",
-        "datetime": "2026-07-28T11:05:15",
-        "title": "Phasmophobia v0.18.0.1 - Patch Notes",
-        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1839041357037983",
-        "author": "Tom Dent",
-        "feed_label": "Community Announcements",
-        "is_patch": false,
-        "is_official": true,
-        "contents": "Welcome back, Ghost Hunters. Today we have deployed an update for Phasmophobia that addresses several issues that were raised following last week’s update. Thank you to everyone who provided feedback "
       }
     ],
     "latest": {
-      "date": "2026-10-14",
-      "datetime": "2026-10-14T13:22:59",
-      "title": "Crimson Eye - Double XP & Rewards",
-      "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846651706674273",
+      "date": "2026-10-16",
+      "datetime": "2026-10-16T13:00:52",
+      "title": "Ghost Hunts For Hearts Returns",
+      "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846651706681382",
       "author": "Tom Dent",
       "feed_label": "Community Announcements",
       "is_patch": false,
       "is_official": true,
-      "contents": "Journals at the ready, Ghost Hunters. Double XP & Rewards in #Phasmophobia will be active for a week beginning 15th October. The Crimson Eye continues to provide for all."
+      "contents": "Welcome back, Ghost Hunters. Today we’re excited to announce the return of Ghost Hunts for Hearts in collaboration with our good friends at American Heart Association Liive.Last year, the Phasmophobia"
     },
     "latest_patch": {
       "date": "2026-09-16",
@@ -753,7 +753,7 @@
       "is_official": true,
       "contents": "Welcome back, Ghost Hunters. We’ve got an update for you.Today, we have released an update for Phasmophobia to address two issues that have been raised by the community since the release of our last u"
     },
-    "crawled_at": "2026-10-16T00:21:29.640752"
+    "crawled_at": "2026-10-17T00:24:31.031255"
   },
   "Content Warning": {
     "appid": 2881650,
@@ -1005,7 +1005,7 @@
       "is_official": true,
       "contents": "Hello Spööktubers! Thank you for your patience as we're fixing bugs on all platforms.Here's a new patch fixing some stuff!For those of you wondering when crossplay between Switch 1 & 2 and other platf"
     },
-    "crawled_at": "2026-10-16T00:21:30.861405"
+    "crawled_at": "2026-10-17T00:24:32.449806"
   },
   "FEEDERS": {
     "appid": 4408510,
@@ -1256,7 +1256,7 @@
       "is_official": true,
       "contents": "Gave the HUD a fresh redesign. New look across the board — the status bars (Health, Stamina, Radiation) and the bottom belt all got reworked. Same info, cleaner read. More guns coming with new solo ex"
     },
-    "crawled_at": "2026-10-16T00:21:32.084025"
+    "crawled_at": "2026-10-17T00:24:33.631522"
   },
   "NARAKA: BLADEPOINT": {
     "appid": 1203220,
@@ -1497,7 +1497,7 @@
       "contents": "Dear players,NARAKA: BLADEPOINT is committed to creating a fair and healthy competitive environment. We have not only used new anti-cheat technologies, but also established special cheat-reporting rew"
     },
     "latest_patch": null,
-    "crawled_at": "2026-10-16T00:21:33.298040"
+    "crawled_at": "2026-10-17T00:24:34.736260"
   },
   "Dead by Daylight": {
     "appid": 381210,
@@ -1749,6 +1749,6 @@
       "is_official": true,
       "contents": "FeaturesSurrender and End TrialSurrender OptionSurvivor Condition - When there are no other human survivors, and at least one bot, the remaining player gets the option to Surrender. (was Abandon)Survi"
     },
-    "crawled_at": "2026-10-16T00:21:34.490009"
+    "crawled_at": "2026-10-17T00:24:36.259939"
   }
 }
