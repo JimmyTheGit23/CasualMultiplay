@@ -249,7 +249,7 @@
       "is_official": true,
       "contents": "Hey hey semibots! Here is yet another small update with some fixes and balancing! CHANGES BALANCING FIXES CHANGES Item Melee Weapons - Handling now properly scales with strength and should feel firmer"
     },
-    "crawled_at": "2026-10-19T00:13:30.110741"
+    "crawled_at": "2026-10-20T01:09:18.975987"
   },
   "Lethal Company": {
     "appid": 1966720,
@@ -501,7 +501,7 @@
       "is_official": true,
       "contents": "Hello, long time no see! Version 80 is out in beta for you to test. You can access it by opting into the public beta branch for Lethal Company on Steam. V80 brings a complete rework of March's exterio"
     },
-    "crawled_at": "2026-10-19T00:13:31.384959"
+    "crawled_at": "2026-10-20T01:09:20.652429"
   },
   "Phasmophobia": {
     "appid": 739630,
@@ -753,11 +753,22 @@
       "is_official": true,
       "contents": "Welcome back, Ghost Hunters. We’ve got an update for you.Today, we have released an update for Phasmophobia to address two issues that have been raised by the community since the release of our last u"
     },
-    "crawled_at": "2026-10-19T00:13:32.676068"
+    "crawled_at": "2026-10-20T01:09:21.846749"
   },
   "Content Warning": {
     "appid": 2881650,
     "all": [
+      {
+        "date": "2026-10-19",
+        "datetime": "2026-10-19T20:08:50",
+        "title": "Workshop temporarily disabled",
+        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846651706692572",
+        "author": "Beth",
+        "feed_label": "Community Announcements",
+        "is_patch": false,
+        "is_official": true,
+        "contents": "Hello SpöökTubers, we've temporarily disabled the Content Warning workshop after discovering some potentially malicious content.We know how much time and effort goes into making mods, and we're really"
+      },
       {
         "date": "2026-04-30",
         "datetime": "2026-04-30T11:59:07",
@@ -856,17 +867,6 @@
         "is_patch": false,
         "is_official": true,
         "contents": "Hello all SpöökTubers! We know you're all eager for more news about Content Warning, at the moment the game is getting ported to console and we hope to launch those versions this winter, with that lau"
-      },
-      {
-        "date": "2025-04-01",
-        "datetime": "2025-04-01T13:06:56",
-        "title": "New game HASTE and some other info!",
-        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1795283637981292",
-        "author": "Botten Hanna",
-        "feed_label": "Community Announcements",
-        "is_patch": false,
-        "is_official": true,
-        "contents": "Hello everyone! First off, happy 1 year anniversary to Content Warning - this time a year ago we launched CW with no idea how many people would play the game! We're very grateful to you all for playin"
       }
     ],
     "patches": [
@@ -928,6 +928,17 @@
     ],
     "announcements": [
       {
+        "date": "2026-10-19",
+        "datetime": "2026-10-19T20:08:50",
+        "title": "Workshop temporarily disabled",
+        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846651706692572",
+        "author": "Beth",
+        "feed_label": "Community Announcements",
+        "is_patch": false,
+        "is_official": true,
+        "contents": "Hello SpöökTubers, we've temporarily disabled the Content Warning workshop after discovering some potentially malicious content.We know how much time and effort goes into making mods, and we're really"
+      },
+      {
         "date": "2026-04-17",
         "datetime": "2026-04-17T09:01:03",
         "title": "Patch Notes 1.23.0: Big big fixing update",
@@ -970,29 +981,18 @@
         "is_patch": false,
         "is_official": true,
         "contents": "Hello all SpöökTubers! We know you're all eager for more news about Content Warning, at the moment the game is getting ported to console and we hope to launch those versions this winter, with that lau"
-      },
-      {
-        "date": "2025-04-01",
-        "datetime": "2025-04-01T13:06:56",
-        "title": "New game HASTE and some other info!",
-        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1795283637981292",
-        "author": "Botten Hanna",
-        "feed_label": "Community Announcements",
-        "is_patch": false,
-        "is_official": true,
-        "contents": "Hello everyone! First off, happy 1 year anniversary to Content Warning - this time a year ago we launched CW with no idea how many people would play the game! We're very grateful to you all for playin"
       }
     ],
     "latest": {
-      "date": "2026-04-30",
-      "datetime": "2026-04-30T11:59:07",
-      "title": "Patch Notes 1.24.0",
-      "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1831432155567881",
-      "author": "Botten Hanna",
+      "date": "2026-10-19",
+      "datetime": "2026-10-19T20:08:50",
+      "title": "Workshop temporarily disabled",
+      "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846651706692572",
+      "author": "Beth",
       "feed_label": "Community Announcements",
-      "is_patch": true,
+      "is_patch": false,
       "is_official": true,
-      "contents": "Hello Spööktubers! Thank you for your patience as we're fixing bugs on all platforms.Here's a new patch fixing some stuff!For those of you wondering when crossplay between Switch 1 & 2 and other platf"
+      "contents": "Hello SpöökTubers, we've temporarily disabled the Content Warning workshop after discovering some potentially malicious content.We know how much time and effort goes into making mods, and we're really"
     },
     "latest_patch": {
       "date": "2026-04-30",
@@ -1005,7 +1005,7 @@
       "is_official": true,
       "contents": "Hello Spööktubers! Thank you for your patience as we're fixing bugs on all platforms.Here's a new patch fixing some stuff!For those of you wondering when crossplay between Switch 1 & 2 and other platf"
     },
-    "crawled_at": "2026-10-19T00:13:33.893394"
+    "crawled_at": "2026-10-20T01:09:23.089781"
   },
   "FEEDERS": {
     "appid": 4408510,
@@ -1256,7 +1256,7 @@
       "is_official": true,
       "contents": "Gave the HUD a fresh redesign. New look across the board — the status bars (Health, Stamina, Radiation) and the bottom belt all got reworked. Same info, cleaner read. More guns coming with new solo ex"
     },
-    "crawled_at": "2026-10-19T00:13:35.120045"
+    "crawled_at": "2026-10-20T01:09:24.405897"
   },
   "NARAKA: BLADEPOINT": {
     "appid": 1203220,
@@ -1497,7 +1497,7 @@
       "contents": "Dear players,NARAKA: BLADEPOINT is committed to creating a fair and healthy competitive environment. We have not only used new anti-cheat technologies, but also established special cheat-reporting rew"
     },
     "latest_patch": null,
-    "crawled_at": "2026-10-19T00:13:36.508331"
+    "crawled_at": "2026-10-20T01:09:25.551798"
   },
   "Dead by Daylight": {
     "appid": 381210,
@@ -1749,6 +1749,6 @@
       "is_official": true,
       "contents": "FeaturesSurrender and End TrialSurrender OptionSurvivor Condition - When there are no other human survivors, and at least one bot, the remaining player gets the option to Surrender. (was Abandon)Survi"
     },
-    "crawled_at": "2026-10-19T00:13:38.007457"
+    "crawled_at": "2026-10-20T01:09:26.774446"
   }
 }
