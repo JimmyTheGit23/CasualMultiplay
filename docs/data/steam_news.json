@@ -249,7 +249,7 @@
       "is_official": true,
       "contents": "Hey hey semibots! Here is yet another small update with some fixes and balancing! CHANGES BALANCING FIXES CHANGES Item Melee Weapons - Handling now properly scales with strength and should feel firmer"
     },
-    "crawled_at": "2026-10-21T00:38:54.907987"
+    "crawled_at": "2026-10-22T00:42:29.147346"
   },
   "Lethal Company": {
     "appid": 1966720,
@@ -501,7 +501,7 @@
       "is_official": true,
       "contents": "Hello, long time no see! Version 80 is out in beta for you to test. You can access it by opting into the public beta branch for Lethal Company on Steam. V80 brings a complete rework of March's exterio"
     },
-    "crawled_at": "2026-10-21T00:38:56.168222"
+    "crawled_at": "2026-10-22T00:42:30.321677"
   },
   "Phasmophobia": {
     "appid": 739630,
@@ -753,11 +753,22 @@
       "is_official": true,
       "contents": "Welcome back, Ghost Hunters. We’ve got an update for you.Today, we have released an update for Phasmophobia to address two issues that have been raised by the community since the release of our last u"
     },
-    "crawled_at": "2026-10-21T00:38:57.352773"
+    "crawled_at": "2026-10-22T00:42:31.483092"
   },
   "Content Warning": {
     "appid": 2881650,
     "all": [
+      {
+        "date": "2026-10-21",
+        "datetime": "2026-10-21T10:01:28",
+        "title": "Вирусы продолжают захватывать Мастерскую Steam - авторы Content Warning экстренно отключили поддержку модов",
+        "url": "https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1847286114028295",
+        "author": "",
+        "feed_label": "PlayGround.ru - официальная группа",
+        "is_patch": false,
+        "is_official": false,
+        "contents": "Не так давно сообщество People Playground пострадало от очередной атаки вирусов прямо через официальную площадку Steam Workshop, а теперь эта проблема кажется уже глобальной для всего магазина Valve. "
+      },
       {
         "date": "2026-10-19",
         "datetime": "2026-10-19T20:08:50",
@@ -856,17 +867,6 @@
         "is_patch": false,
         "is_official": true,
         "contents": "We're very grateful to you all for playing Content Warning, even if there haven't been many updates since launch! 🙏 It's been great seeing the mods come in from the mod support update last year! Thank"
-      },
-      {
-        "date": "2025-06-17",
-        "datetime": "2025-06-17T14:32:36",
-        "title": "New co-op climbing game! PEAK",
-        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1802354289725754",
-        "author": "Botten Hanna",
-        "feed_label": "Community Announcements",
-        "is_patch": false,
-        "is_official": true,
-        "contents": "Hello all SpöökTubers! We know you're all eager for more news about Content Warning, at the moment the game is getting ported to console and we hope to launch those versions this winter, with that lau"
       }
     ],
     "patches": [
@@ -928,6 +928,17 @@
     ],
     "announcements": [
       {
+        "date": "2026-10-21",
+        "datetime": "2026-10-21T10:01:28",
+        "title": "Вирусы продолжают захватывать Мастерскую Steam - авторы Content Warning экстренно отключили поддержку модов",
+        "url": "https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1847286114028295",
+        "author": "",
+        "feed_label": "PlayGround.ru - официальная группа",
+        "is_patch": false,
+        "is_official": false,
+        "contents": "Не так давно сообщество People Playground пострадало от очередной атаки вирусов прямо через официальную площадку Steam Workshop, а теперь эта проблема кажется уже глобальной для всего магазина Valve. "
+      },
+      {
         "date": "2026-10-19",
         "datetime": "2026-10-19T20:08:50",
         "title": "Workshop temporarily disabled",
@@ -970,29 +981,18 @@
         "is_patch": false,
         "is_official": true,
         "contents": "We're very grateful to you all for playing Content Warning, even if there haven't been many updates since launch! 🙏 It's been great seeing the mods come in from the mod support update last year! Thank"
-      },
-      {
-        "date": "2025-06-17",
-        "datetime": "2025-06-17T14:32:36",
-        "title": "New co-op climbing game! PEAK",
-        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1802354289725754",
-        "author": "Botten Hanna",
-        "feed_label": "Community Announcements",
-        "is_patch": false,
-        "is_official": true,
-        "contents": "Hello all SpöökTubers! We know you're all eager for more news about Content Warning, at the moment the game is getting ported to console and we hope to launch those versions this winter, with that lau"
       }
     ],
     "latest": {
-      "date": "2026-10-19",
-      "datetime": "2026-10-19T20:08:50",
-      "title": "Workshop temporarily disabled",
-      "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846651706692572",
-      "author": "Beth",
-      "feed_label": "Community Announcements",
+      "date": "2026-10-21",
+      "datetime": "2026-10-21T10:01:28",
+      "title": "Вирусы продолжают захватывать Мастерскую Steam - авторы Content Warning экстренно отключили поддержку модов",
+      "url": "https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1847286114028295",
+      "author": "",
+      "feed_label": "PlayGround.ru - официальная группа",
       "is_patch": false,
-      "is_official": true,
-      "contents": "Hello SpöökTubers, we've temporarily disabled the Content Warning workshop after discovering some potentially malicious content.We know how much time and effort goes into making mods, and we're really"
+      "is_official": false,
+      "contents": "Не так давно сообщество People Playground пострадало от очередной атаки вирусов прямо через официальную площадку Steam Workshop, а теперь эта проблема кажется уже глобальной для всего магазина Valve. "
     },
     "latest_patch": {
       "date": "2026-04-30",
@@ -1005,7 +1005,7 @@
       "is_official": true,
       "contents": "Hello Spööktubers! Thank you for your patience as we're fixing bugs on all platforms.Here's a new patch fixing some stuff!For those of you wondering when crossplay between Switch 1 & 2 and other platf"
     },
-    "crawled_at": "2026-10-21T00:38:58.683324"
+    "crawled_at": "2026-10-22T00:42:32.688652"
   },
   "FEEDERS": {
     "appid": 4408510,
@@ -1256,12 +1256,23 @@
       "is_official": true,
       "contents": "Gave the HUD a fresh redesign. New look across the board — the status bars (Health, Stamina, Radiation) and the bottom belt all got reworked. Same info, cleaner read. More guns coming with new solo ex"
     },
-    "crawled_at": "2026-10-21T00:38:59.885864"
+    "crawled_at": "2026-10-22T00:42:33.906460"
   },
   "NARAKA: BLADEPOINT": {
     "appid": 1203220,
     "all": [
       {
+        "date": "2026-10-21",
+        "datetime": "2026-10-21T14:39:50",
+        "title": "NARAKA：BLADEPOINT Update –October 22nd, 2026",
+        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847286114029068",
+        "author": "Yeeeeee",
+        "feed_label": "Community Announcements",
+        "is_patch": false,
+        "is_official": true,
+        "contents": "Dear players,The servers of NARAKA：BLADEPOINT will be suspended for maintenance from October 21st, 2026 at 23:00 (UTC) to October 22nd, 2026 at 04:00 (UTC). We suggest you log out in advance and enter"
+      },
+      {
         "date": "2026-10-20",
         "datetime": "2026-10-20T14:16:17",
         "title": "NARAKA: BLADEPOINT Banned Players List Oct 20th",
@@ -1359,22 +1370,22 @@
         "is_patch": false,
         "is_official": true,
         "contents": "Dear players, The servers of NARAKA: BLADEPOINT will be suspended for maintenance from Sep. 2nd, 2026 23:00 (UTC) to Sep. 3rd, 2026 04:00 (UTC). We suggest you log out in advance and enter the game ag"
-      },
-      {
-        "date": "2026-09-01",
-        "datetime": "2026-09-01T13:10:44",
-        "title": "NARAKA: BLADEPOINT Banned Players List September 1st",
-        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1842212951313370",
-        "author": "Yeeeeee",
-        "feed_label": "Community Announcements",
-        "is_patch": false,
-        "is_official": true,
-        "contents": "Dear players, NARAKA: BLADEPOINT is committed to creating a fair and healthy competitive environment. We have not only used new anti-cheat technologies, but also established special cheat-reporting re"
       }
     ],
     "patches": [],
     "announcements": [
       {
+        "date": "2026-10-21",
+        "datetime": "2026-10-21T14:39:50",
+        "title": "NARAKA：BLADEPOINT Update –October 22nd, 2026",
+        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847286114029068",
+        "author": "Yeeeeee",
+        "feed_label": "Community Announcements",
+        "is_patch": false,
+        "is_official": true,
+        "contents": "Dear players,The servers of NARAKA：BLADEPOINT will be suspended for maintenance from October 21st, 2026 at 23:00 (UTC) to October 22nd, 2026 at 04:00 (UTC). We suggest you log out in advance and enter"
+      },
+      {
         "date": "2026-10-20",
         "datetime": "2026-10-20T14:16:17",
         "title": "NARAKA: BLADEPOINT Banned Players List Oct 20th",
@@ -1472,32 +1483,21 @@
         "is_patch": false,
         "is_official": true,
         "contents": "Dear players, The servers of NARAKA: BLADEPOINT will be suspended for maintenance from Sep. 2nd, 2026 23:00 (UTC) to Sep. 3rd, 2026 04:00 (UTC). We suggest you log out in advance and enter the game ag"
-      },
-      {
-        "date": "2026-09-01",
-        "datetime": "2026-09-01T13:10:44",
-        "title": "NARAKA: BLADEPOINT Banned Players List September 1st",
-        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1842212951313370",
-        "author": "Yeeeeee",
-        "feed_label": "Community Announcements",
-        "is_patch": false,
-        "is_official": true,
-        "contents": "Dear players, NARAKA: BLADEPOINT is committed to creating a fair and healthy competitive environment. We have not only used new anti-cheat technologies, but also established special cheat-reporting re"
       }
     ],
     "latest": {
-      "date": "2026-10-20",
-      "datetime": "2026-10-20T14:16:17",
-      "title": "NARAKA: BLADEPOINT Banned Players List Oct 20th",
-      "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846651706695473",
+      "date": "2026-10-21",
+      "datetime": "2026-10-21T14:39:50",
+      "title": "NARAKA：BLADEPOINT Update –October 22nd, 2026",
+      "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847286114029068",
       "author": "Yeeeeee",
       "feed_label": "Community Announcements",
       "is_patch": false,
       "is_official": true,
-      "contents": "Dear players,NARAKA: BLADEPOINT is committed to creating a fair and healthy competitive environment. We have not only used new anti-cheat technologies, but also established special cheat-reporting rew"
+      "contents": "Dear players,The servers of NARAKA：BLADEPOINT will be suspended for maintenance from October 21st, 2026 at 23:00 (UTC) to October 22nd, 2026 at 04:00 (UTC). We suggest you log out in advance and enter"
     },
     "latest_patch": null,
-    "crawled_at": "2026-10-21T00:39:01.114832"
+    "crawled_at": "2026-10-22T00:42:35.184919"
   },
   "Dead by Daylight": {
     "appid": 381210,
@@ -1749,6 +1749,6 @@
       "is_official": true,
       "contents": "ContentKiller Perk UpdatesDark ArroganceYou basic-vault Windows 15/20/25% faster.Your basic-attack cooldown is 10% shorter. (was only missed, and 15/20/25%)Whenever you are blinded or Pallet-stunned, "
     },
-    "crawled_at": "2026-10-21T00:39:02.310303"
+    "crawled_at": "2026-10-22T00:42:36.375832"
   }
 }
