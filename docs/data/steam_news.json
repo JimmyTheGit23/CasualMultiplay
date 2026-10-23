@@ -249,7 +249,7 @@
       "is_official": true,
       "contents": "Hey hey semibots! Here is yet another small update with some fixes and balancing! CHANGES BALANCING FIXES CHANGES Item Melee Weapons - Handling now properly scales with strength and should feel firmer"
     },
-    "crawled_at": "2026-10-22T00:42:29.147346"
+    "crawled_at": "2026-10-23T00:43:39.499483"
   },
   "Lethal Company": {
     "appid": 1966720,
@@ -501,7 +501,7 @@
       "is_official": true,
       "contents": "Hello, long time no see! Version 80 is out in beta for you to test. You can access it by opting into the public beta branch for Lethal Company on Steam. V80 brings a complete rework of March's exterio"
     },
-    "crawled_at": "2026-10-22T00:42:30.321677"
+    "crawled_at": "2026-10-23T00:43:40.905116"
   },
   "Phasmophobia": {
     "appid": 739630,
@@ -753,7 +753,7 @@
       "is_official": true,
       "contents": "Welcome back, Ghost Hunters. We’ve got an update for you.Today, we have released an update for Phasmophobia to address two issues that have been raised by the community since the release of our last u"
     },
-    "crawled_at": "2026-10-22T00:42:31.483092"
+    "crawled_at": "2026-10-23T00:43:42.114250"
   },
   "Content Warning": {
     "appid": 2881650,
@@ -1005,7 +1005,7 @@
       "is_official": true,
       "contents": "Hello Spööktubers! Thank you for your patience as we're fixing bugs on all platforms.Here's a new patch fixing some stuff!For those of you wondering when crossplay between Switch 1 & 2 and other platf"
     },
-    "crawled_at": "2026-10-22T00:42:32.688652"
+    "crawled_at": "2026-10-23T00:43:43.267708"
   },
   "FEEDERS": {
     "appid": 4408510,
@@ -1256,7 +1256,7 @@
       "is_official": true,
       "contents": "Gave the HUD a fresh redesign. New look across the board — the status bars (Health, Stamina, Radiation) and the bottom belt all got reworked. Same info, cleaner read. More guns coming with new solo ex"
     },
-    "crawled_at": "2026-10-22T00:42:33.906460"
+    "crawled_at": "2026-10-23T00:43:44.397740"
   },
   "NARAKA: BLADEPOINT": {
     "appid": 1203220,
@@ -1497,11 +1497,22 @@
       "contents": "Dear players,The servers of NARAKA：BLADEPOINT will be suspended for maintenance from October 21st, 2026 at 23:00 (UTC) to October 22nd, 2026 at 04:00 (UTC). We suggest you log out in advance and enter"
     },
     "latest_patch": null,
-    "crawled_at": "2026-10-22T00:42:35.184919"
+    "crawled_at": "2026-10-23T00:43:45.546162"
   },
   "Dead by Daylight": {
     "appid": 381210,
     "all": [
+      {
+        "date": "2026-10-22",
+        "datetime": "2026-10-22T19:50:57",
+        "title": "October Community Stream Recap",
+        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847286114034014",
+        "author": "Goblin_BHVR",
+        "feed_label": "Community Announcements",
+        "is_patch": false,
+        "is_official": true,
+        "contents": "Whether you were able to tune in live (thanks!) or you're dropping by to get a tl;dr, we're here to give you a recap of some highlights from today's community stream:  MMR UPDATE As you may remember, "
+      },
       {
         "date": "2026-10-21",
         "datetime": "2026-10-21T00:14:47",
@@ -1600,17 +1611,6 @@
         "is_patch": false,
         "is_official": false,
         "contents": "While there's still no news on a new Nier game, Dead by Daylight's newest cosmetic collab, which features 2B, is easily the next-best thing. Read the full story on PCGamesN: <a href=\"https://www.pcgam"
-      },
-      {
-        "date": "2026-10-06",
-        "datetime": "2026-10-06T14:33:04",
-        "title": "10.2.0 | Mid-Chapter",
-        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1845383656396647",
-        "author": "Donnary21st",
-        "feed_label": "Community Announcements",
-        "is_patch": false,
-        "is_official": true,
-        "contents": "FeaturesSurvivor Intent SystemSurvivors can send and receive text messages during a matchBy pressing and holding the scroll-button when using a Mouse, or the right d-pad input on controllers, players "
       }
     ],
     "patches": [
@@ -1639,6 +1639,17 @@
     ],
     "announcements": [
       {
+        "date": "2026-10-22",
+        "datetime": "2026-10-22T19:50:57",
+        "title": "October Community Stream Recap",
+        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847286114034014",
+        "author": "Goblin_BHVR",
+        "feed_label": "Community Announcements",
+        "is_patch": false,
+        "is_official": true,
+        "contents": "Whether you were able to tune in live (thanks!) or you're dropping by to get a tl;dr, we're here to give you a recap of some highlights from today's community stream:  MMR UPDATE As you may remember, "
+      },
+      {
         "date": "2026-10-21",
         "datetime": "2026-10-21T00:14:47",
         "title": "В Dead by Daylight стартовало событие в честь коллаборации с Diablo 4",
@@ -1714,29 +1725,18 @@
         "is_patch": false,
         "is_official": false,
         "contents": "While there's still no news on a new Nier game, Dead by Daylight's newest cosmetic collab, which features 2B, is easily the next-best thing. Read the full story on PCGamesN: <a href=\"https://www.pcgam"
-      },
-      {
-        "date": "2026-10-06",
-        "datetime": "2026-10-06T14:33:04",
-        "title": "10.2.0 | Mid-Chapter",
-        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1845383656396647",
-        "author": "Donnary21st",
-        "feed_label": "Community Announcements",
-        "is_patch": false,
-        "is_official": true,
-        "contents": "FeaturesSurvivor Intent SystemSurvivors can send and receive text messages during a matchBy pressing and holding the scroll-button when using a Mouse, or the right d-pad input on controllers, players "
       }
     ],
     "latest": {
-      "date": "2026-10-21",
-      "datetime": "2026-10-21T00:14:47",
-      "title": "В Dead by Daylight стартовало событие в честь коллаборации с Diablo 4",
-      "url": "https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1847286114027123",
-      "author": "",
-      "feed_label": "PlayGround.ru - официальная группа",
+      "date": "2026-10-22",
+      "datetime": "2026-10-22T19:50:57",
+      "title": "October Community Stream Recap",
+      "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847286114034014",
+      "author": "Goblin_BHVR",
+      "feed_label": "Community Announcements",
       "is_patch": false,
-      "is_official": false,
-      "contents": "Разработчики Dead by Daylight запустили совместное событие с Diablo 4, добавив во внутриигровой магазин коллекцию образов ключевых персонажей Санктуария. С запуском события разработчики опубликовали н"
+      "is_official": true,
+      "contents": "Whether you were able to tune in live (thanks!) or you're dropping by to get a tl;dr, we're here to give you a recap of some highlights from today's community stream:  MMR UPDATE As you may remember, "
     },
     "latest_patch": {
       "date": "2026-10-20",
@@ -1749,6 +1749,6 @@
       "is_official": true,
       "contents": "ContentKiller Perk UpdatesDark ArroganceYou basic-vault Windows 15/20/25% faster.Your basic-attack cooldown is 10% shorter. (was only missed, and 15/20/25%)Whenever you are blinded or Pallet-stunned, "
     },
-    "crawled_at": "2026-10-22T00:42:36.375832"
+    "crawled_at": "2026-10-23T00:43:46.815311"
   }
 }
