@@ -1,8 +1,8 @@
 {
-  "snapshot_date": "2026-10-23T00:42:19+08:00",
+  "snapshot_date": "2026-10-24T00:40:25+08:00",
   "hero": {
     "name": "黎明杀机",
-    "current_players": 41333,
+    "current_players": 44929,
     "positive_rate": 78.5,
     "reviews_total": 903715,
     "price_label": "¥ 37.50",
@@ -12,6 +12,17 @@
     ]
   },
   "operations": [
+    {
+      "date": "2026-10-23",
+      "timestamp": 1792778450,
+      "title": "Dead By Daylight x Diablo Collection OUT NOW",
+      "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847286114037461",
+      "author": "Goblin_BHVR",
+      "feed_label": "Community Announcements",
+      "feed_type": "官方",
+      "is_patch": false,
+      "contents": "Mother of Sanctuary. Lord of Hatred. Lord of Lies. Hell is coming to The Fog.Even in the Burning Hells, nothing escapes The Entity’s reach. With 30 years of soul-shattering horrors at its disposal, Th"
+    },
     {
       "date": "2026-10-22",
       "timestamp": 1792698657,
@@ -88,17 +99,6 @@
       "feed_type": "媒体",
       "is_patch": false,
       "contents": "Сегодня студия-разработчик Behaviour Interactive в сотрудничестве с SQUARE ENIX объявила о выходе платной коллекции «NieR:Automata Collection» для асимметричного хоррора Dead by Daylight (формат 4 про"
-    },
-    {
-      "date": "2026-10-06",
-      "timestamp": 1791298814,
-      "title": "Dead by Daylight's Nier Automata crossover brings 2B to The Fog, and I really hope this heralds a sequel",
-      "url": "https://steamstore-a.akamaihd.net/news/externalpost/PCGamesN/1845383656396784",
-      "author": "editor@pcgamesn.com",
-      "feed_label": "PCGamesN",
-      "feed_type": "媒体",
-      "is_patch": false,
-      "contents": "While there's still no news on a new Nier game, Dead by Daylight's newest cosmetic collab, which features 2B, is easily the next-best thing. Read the full story on PCGamesN: <a href=\"https://www.pcgam"
     }
   ],
   "patches": [
@@ -123,17 +123,6 @@
       "feed_type": "官方",
       "is_patch": true,
       "contents": "FeaturesSurrender and End TrialSurrender OptionSurvivor Condition - When there are no other human survivors, and at least one bot, the remaining player gets the option to Surrender. (was Abandon)Survi"
-    },
-    {
-      "date": "2026-09-17",
-      "timestamp": 1789657207,
-      "title": "10.1.2a | Patch Notes",
-      "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844115010492341",
-      "author": "Goblin_BHVR",
-      "feed_label": "Community Announcements",
-      "feed_type": "官方",
-      "is_patch": true,
-      "contents": "Reverted the Divine Light curve window while Zealous to 0.6s (was 0.8s)Reverted the Divine Light curve window when non-ZealousDev note: The Judgment's performance skyrocketed following HF2. We are rev"
     }
   ],
   "trends": [
@@ -193,6 +182,6 @@
     ]
   },
   "reviews": null,
-  "ccu": 41333,
-  "crawled_at": "2026-10-23T00:42:19.937421"
+  "ccu": 44929,
+  "crawled_at": "2026-10-24T00:40:25.620361"
 }
