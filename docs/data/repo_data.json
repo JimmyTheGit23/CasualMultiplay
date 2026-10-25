@@ -1,11 +1,11 @@
 {
-  "snapshot_date": "2026-10-24T00:40:25.683714+00:00",
+  "snapshot_date": "2026-10-25T00:22:22.830758+00:00",
   "hero": {
     "title": "R.E.P.O.",
     "title_en": "R.E.P.O.",
-    "subtitle_zh": "semiwork · 在线合作恐怖 · 2025 年 2 月 26 日",
-    "subtitle_en": "semiwork · Online Co-op Horror · 2025 年 2 月 26 日",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3241660/1ea445e044a2d5b09cfa8291350b63ebed6e5741/header.jpg?t=1791817973"
+    "subtitle_zh": "semiwork · 在线合作恐怖 · ",
+    "subtitle_en": "semiwork · Online Co-op Horror · ",
+    "header_image": ""
   },
   "operations": [
     {
@@ -241,30 +241,23 @@
   "store": {
     "name": "R.E.P.O.",
     "name_en": "R.E.P.O.",
-    "short_description": "An online co-op horror game with up to 6 players. Locate valuable, fully physics-based objects and handle them with care as you retrieve and extract to satisfy your creator's desires.",
+    "short_description": "",
     "short_description_en": "An online co-op horror game with up to 6 players. Locate valuable, fully physics-based objects and handle them with care as you retrieve and extract to satisfy your creator's desires.",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3241660/1ea445e044a2d5b09cfa8291350b63ebed6e5741/header.jpg?t=1791817973",
+    "header_image": "",
     "developers": [
       "semiwork"
     ],
     "publishers": [
       "semiwork"
     ],
-    "price": "¥ 35.00",
+    "price": "",
     "price_en": "$9.99",
-    "release_date": "2025 年 2 月 26 日",
-    "platforms": {
-      "windows": true,
-      "mac": false,
-      "linux": false
-    },
-    "genres": [
-      "动作",
-      "抢先体验"
-    ],
+    "release_date": "",
+    "platforms": {},
+    "genres": [],
     "is_free": false
   },
   "reviews": null,
-  "ccu": 13318,
-  "crawled_at": "2026-10-24T00:40:25.683714+00:00"
+  "ccu": 15312,
+  "crawled_at": "2026-10-25T00:22:22.830758+00:00"
 }

@@ -1,11 +1,11 @@
 {
   "_meta": {
-    "validated_at": "2026-10-24T08:42:53.529820+08:00",
-    "date": "2026-10-24",
+    "validated_at": "2026-10-25T08:25:07.581790+08:00",
+    "date": "2026-10-25",
     "passed": true,
     "total_checks": 18,
-    "pass_count": 18,
-    "warn_count": 0,
+    "pass_count": 17,
+    "warn_count": 1,
     "error_count": 0
   },
   "checks": [
@@ -36,7 +36,7 @@
     {
       "name": "rich_data 游戏数",
       "status": "PASS",
-      "message": "34 款游戏有富数据",
+      "message": "4 款游戏有富数据",
       "details": []
     },
     {
@@ -71,9 +71,15 @@
     },
     {
       "name": "registry → rich_data",
-      "status": "PASS",
-      "message": "所有有 appid 的游戏都有富数据",
-      "details": []
+      "status": "WARN",
+      "message": "30 个游戏缺富数据",
+      "details": [
+        "R.E.P.O. (appid=3241660)",
+        "致命公司 (appid=1966720)",
+        "内容警告 (appid=2881650)",
+        "饲养者 (appid=4408510)",
+        "巅峰梦序 (appid=3527290)"
+      ]
     },
     {
       "name": "registry → steam_data",
@@ -108,7 +114,7 @@
     {
       "name": "history 最新日期",
       "status": "PASS",
-      "message": "今天 (2026-10-24) 数据已入库",
+      "message": "今天 (2026-10-25) 数据已入库",
       "details": []
     },
     {
