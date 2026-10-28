@@ -3,11 +3,10 @@
     "package_id": "com.game.tombbusters",
     "source": "Google Play",
     "url": "https://play.google.com/store/apps/details?id=com.game.tombbusters",
-    "rating": 4.2,
-    "review_count": 1372,
+    "rating": 3.4,
     "description": "Hilarious Co-op Horror Extraction",
     "category": "FAMILY",
-    "crawled_at": "2026-10-27 01:35"
+    "crawled_at": "2026-10-28 01:20"
   },
   "google_play_reviews": [
     {
@@ -16,10 +15,6 @@
     },
     {
       "text": "Payments &amp; subscriptions",
-      "source": "Google Play"
-    },
-    {
-      "text": "Third-party app stores",
       "source": "Google Play"
     },
     {
@@ -37,7 +32,7 @@
       "title": "Raiding Ancient Tombs was a Mistake",
       "video_id": "Keonsv7ZCf8",
       "url": "https://www.youtube.com/watch?v=Keonsv7ZCf8",
-      "views": "4,359,799 views",
+      "views": "4,361,231 views",
       "channel": "SMii7Yplus",
       "published": "3y ago",
       "duration": "25:59"
@@ -46,7 +41,7 @@
       "title": "A New Tomb! (Game Fails #110)",
       "video_id": "0BtVzLlrv3M",
       "url": "https://www.youtube.com/watch?v=0BtVzLlrv3M",
-      "views": "2,153,599 views",
+      "views": "2,153,601 views",
       "channel": "GameSprout",
       "published": "10y ago",
       "duration": "5:23"
@@ -55,7 +50,7 @@
       "title": "TOMB RAIDER: ADDITIONAL DEATHS DLC FOR LARA CROFT",
       "video_id": "Ku1a1uNknCc",
       "url": "https://www.youtube.com/watch?v=Ku1a1uNknCc",
-      "views": "751,064 views",
+      "views": "751,102 views",
       "channel": "Animation Domination High Def",
       "published": "13y ago",
       "duration": "1:06"
@@ -64,7 +59,7 @@
       "title": "Tomb Busters - Nogla Won't Stay Away From Me!",
       "video_id": "EnuSSZ8nN4I",
       "url": "https://www.youtube.com/watch?v=EnuSSZ8nN4I",
-      "views": "511,630 views",
+      "views": "511,855 views",
       "channel": "VanossGaming",
       "published": "4mo ago",
       "duration": "27:18"
@@ -73,7 +68,7 @@
       "title": "Don't get caught! Steal the treasure from this dangerous place!【 Paranormal Squad 】",
       "video_id": "uf49EB_S4rc",
       "url": "https://www.youtube.com/watch?v=uf49EB_S4rc",
-      "views": "295,272 views",
+      "views": "295,731 views",
       "channel": "ちろぴの",
       "published": "3mo ago",
       "duration": "32:10"
@@ -82,25 +77,25 @@
       "title": "THIS MOBILE LETHAL-LIKE IS ACTUALLY HILARIOUS!!! | Tomb Busters (w/ Kyle & Squirrel)",
       "video_id": "O_JjLJQdGh0",
       "url": "https://www.youtube.com/watch?v=O_JjLJQdGh0",
-      "views": "434,773 views",
+      "views": "434,847 views",
       "channel": "CaRtOoNz",
-      "published": "3mo ago",
+      "published": "4mo ago",
       "duration": "1:26:18"
     },
     {
       "title": "Tomb Busters | Launch Gameplay Trailer",
       "video_id": "SozbL_ez72Y",
       "url": "https://www.youtube.com/watch?v=SozbL_ez72Y",
-      "views": "427,189 views",
+      "views": "427,202 views",
       "channel": "Tomb Busters",
-      "published": "4mo ago",
+      "published": "5mo ago",
       "duration": "0:56"
     },
     {
       "title": "Three Idiots VS Funniest New Horror Game",
       "video_id": "m6ENmCcWhBc",
       "url": "https://www.youtube.com/watch?v=m6ENmCcWhBc",
-      "views": "187,811 views",
+      "views": "188,105 views",
       "channel": "SeeReax",
       "published": "4mo ago",
       "duration": "43:39"
@@ -109,7 +104,7 @@
       "title": "Goofy Gang Explores SCARY TOMBS... (Tomb Busters)",
       "video_id": "l9WdUDC67bY",
       "url": "https://www.youtube.com/watch?v=l9WdUDC67bY",
-      "views": "188,781 views",
+      "views": "188,954 views",
       "channel": "Goofy Gang",
       "published": "4mo ago",
       "duration": "20:27"
@@ -118,7 +113,7 @@
       "title": "Tomb Raider apk download? #tombraider #gamingcommunity #tombraider2013gameplay #fpsgames ",
       "video_id": "RatbS4ym8QM",
       "url": "https://www.youtube.com/watch?v=RatbS4ym8QM",
-      "views": "160,887 views",
+      "views": "161,342 views",
       "channel": "Android Arena",
       "published": "8mo ago",
       "duration": "1:15"
@@ -215,6 +210,6 @@
       "rating_count": 0
     }
   },
-  "crawled_at": "2026-10-27T01:36:12.307740",
-  "crawled_date": "2026-10-27"
+  "crawled_at": "2026-10-28T01:20:55.057804",
+  "crawled_date": "2026-10-28"
 }

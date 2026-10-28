@@ -1,8 +1,8 @@
 {
-  "snapshot_date": "2026-10-27T01:34:32+08:00",
+  "snapshot_date": "2026-10-28T01:19:15+08:00",
   "hero": {
     "name": "黎明杀机",
-    "current_players": 44906,
+    "current_players": 45231,
     "positive_rate": 78.5,
     "reviews_total": 903715,
     "price_label": "¥ 37.50",
@@ -12,6 +12,28 @@
     ]
   },
   "operations": [
+    {
+      "date": "2026-10-27",
+      "timestamp": 1793091600,
+      "title": "Steam Global Top Sellers for week of 20 Oct — 27 October 2026",
+      "url": "https://steamstore-a.akamaihd.net/news/externalpost/SteamDB/1847286114048931",
+      "author": "SteamDB",
+      "feed_label": "SteamDB",
+      "feed_type": "媒体",
+      "is_patch": false,
+      "contents": "<a href=\"https://steamdb.info/topsellers/2026W44/?utm_source=Steam&utm_medium=Steam&utm_campaign=SteamRSS\"> </a> * <a href=\"https://steamdb.info/app/4435490/charts/?utm_source=Steam&utm_medium=Steam&u"
+    },
+    {
+      "date": "2026-10-27",
+      "timestamp": 1793086130,
+      "title": "Behaviour Interactive объяснила уход Чаки из Dead by Daylight и допустила его возвращение",
+      "url": "https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1847286114047962",
+      "author": "",
+      "feed_label": "PlayGround.ru - официальная группа",
+      "feed_type": "媒体",
+      "is_patch": false,
+      "contents": "Студия Behaviour Interactive, разработчик Dead by Daylight, прокомментировала предстоящее удаление Чаки из магазина игры и заверила поклонников, что культовые персонажи хорроров смогут вернуться в буд"
+    },
     {
       "date": "2026-10-23",
       "timestamp": 1792778450,
@@ -77,28 +99,6 @@
       "feed_type": "媒体",
       "is_patch": false,
       "contents": "Коллаборация Dead by Daylight и NieR: Automata стартовала несколько дней назад, однако реакция игроков оказалась далёкой от восторга. Причиной недовольства стали внешний вид и качество проработки перс"
-    },
-    {
-      "date": "2026-10-10",
-      "timestamp": 1791634363,
-      "title": "Игроки победили: \"мужиковатый\" скин 2B в Dead by Daylight исправят после негативной реакции сообщества",
-      "url": "https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1846018067936139",
-      "author": "",
-      "feed_label": "PlayGround.ru - официальная группа",
-      "feed_type": "媒体",
-      "is_patch": false,
-      "contents": "Разработчики Behaviour Interactive официально подтвердили, что легендарный скин 2B для Фэн Мин в хорроре Dead by Daylight из недавней коллаборации с NieR: Automata будет изменен. Компания пошла навстр"
-    },
-    {
-      "date": "2026-10-06",
-      "timestamp": 1791303462,
-      "title": "В Dead by Daylight стартовала коллаборация с NieR: Automata",
-      "url": "https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1845383656397013",
-      "author": "",
-      "feed_label": "PlayGround.ru - официальная группа",
-      "feed_type": "媒体",
-      "is_patch": false,
-      "contents": "Сегодня студия-разработчик Behaviour Interactive в сотрудничестве с SQUARE ENIX объявила о выходе платной коллекции «NieR:Automata Collection» для асимметричного хоррора Dead by Daylight (формат 4 про"
     }
   ],
   "patches": [
@@ -162,7 +162,7 @@
     "name_en": "Dead by Daylight",
     "short_description": "10年恐惧相伴。10年的惊吓与刺激体验。10年的残暴献祭与惊险逃脱。 永久困于邪恶的幻境之中，即使死亡也无法逃脱，这是一场需要勇气和智慧的较量，四名意志坚定的逃生者在残忍对局中面对嗜血杀手。选择一方，进入多人非对称竞技游戏世界，获得最佳恐怖游戏体验。",
     "short_description_en": "10 years of horror. 10 years of jump scares and close calls. 10 years of brutal sacrifices and thrilling escapes. Trapped forever in a realm of eldritch evil where even death is not an escape, four determined Survivors face a bloodthirsty Killer in a vicious game of nerve and wits.",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/381210/23fed9f741423413769ad1617e41519d1a466cdc/header_alt_assets_10.jpg?t=1791302579",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/381210/header.jpg?t=1793113581",
     "developers": [
       "Behaviour Interactive Inc."
     ],
@@ -182,6 +182,6 @@
     ]
   },
   "reviews": null,
-  "ccu": 44906,
-  "crawled_at": "2026-10-27T01:34:32.994142"
+  "ccu": 45231,
+  "crawled_at": "2026-10-28T01:19:15.553692"
 }
