@@ -1,8 +1,8 @@
 {
-  "snapshot_date": "2026-10-28T01:19:15+08:00",
+  "snapshot_date": "2026-10-29T01:53:40+08:00",
   "hero": {
     "name": "黎明杀机",
-    "current_players": 45231,
+    "current_players": 56569,
     "positive_rate": 78.5,
     "reviews_total": 903715,
     "price_label": "¥ 37.50",
@@ -12,6 +12,39 @@
     ]
   },
   "operations": [
+    {
+      "date": "2026-10-28",
+      "timestamp": 1793202665,
+      "title": "Dead by Daylight пополнится безжалостным убийцей Terrifier 17 ноября",
+      "url": "https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1847920302231915",
+      "author": "",
+      "feed_label": "PlayGround.ru - официальная группа",
+      "feed_type": "媒体",
+      "is_patch": false,
+      "contents": "Behaviour Interactive представила тизер Terrifier для асимметричного многопользовательского хоррора Dead by Daylight. Ролик демонстрирует нового жестокого убийцу, который принесёт в туманные владения "
+    },
+    {
+      "date": "2026-10-28",
+      "timestamp": 1793202031,
+      "title": "В Dead by Daylight появится клоун Арт из \"Ужасающего\" - с мешком оружия и собственными добиваниями",
+      "url": "https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1847920302231537",
+      "author": "",
+      "feed_label": "PlayGround.ru - официальная группа",
+      "feed_type": "媒体",
+      "is_patch": false,
+      "contents": "Behaviour Interactive объявила о сотрудничестве Dead by Daylight с хоррор-франшизой «Ужасающий». 24 ноября в асимметричном сетевом хорроре появятся клоун Арт в роли убийцы и Сиенна Шоу в качестве выжи"
+    },
+    {
+      "date": "2026-10-28",
+      "timestamp": 1793199609,
+      "title": "10.3.0 | Terrifier PTB Patch Notes",
+      "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847920302231335",
+      "author": "Goblin_BHVR",
+      "feed_label": "Community Announcements",
+      "feed_type": "官方",
+      "is_patch": false,
+      "contents": "ContentNew Killer: The TerrifierPower: Bag of Toys Hold the Ability button to open your Bag of Toys and select one of two random Toys. The Bag of Toys enters a cooldown state and cannot be opened agai"
+    },
     {
       "date": "2026-10-27",
       "timestamp": 1793091600,
@@ -66,39 +99,6 @@
       "feed_type": "媒体",
       "is_patch": false,
       "contents": "Разработчики Dead by Daylight запустили совместное событие с Diablo 4, добавив во внутриигровой магазин коллекцию образов ключевых персонажей Санктуария. С запуском события разработчики опубликовали н"
-    },
-    {
-      "date": "2026-10-20",
-      "timestamp": 1792504990,
-      "title": "We're giving away a limited edition Dead by Daylight 10th Anniversary Collector's Set",
-      "url": "https://steamstore-a.akamaihd.net/news/externalpost/PCGamesN/1846651706695765",
-      "author": "editor@pcgamesn.com",
-      "feed_label": "PCGamesN",
-      "feed_type": "媒体",
-      "is_patch": false,
-      "contents": "To celebrate Dead by Daylight's tenth anniversary, we're giving away a sold out Collector's Set worth $250. Not going to lie, I'm jealous. Read the full story on PCGamesN: <a href=\"https://www.pcgames"
-    },
-    {
-      "date": "2026-10-13",
-      "timestamp": 1791882000,
-      "title": "Steam Global Top Sellers for week of 6 Oct — 13 October 2026",
-      "url": "https://steamstore-a.akamaihd.net/news/externalpost/SteamDB/1846018067944049",
-      "author": "SteamDB",
-      "feed_label": "SteamDB",
-      "feed_type": "媒体",
-      "is_patch": false,
-      "contents": "<a href=\"https://steamdb.info/topsellers/2026W42/?utm_source=Steam&utm_medium=Steam&utm_campaign=SteamRSS\"> </a> * <a href=\"https://steamdb.info/app/4078430/charts/?utm_source=Steam&utm_medium=Steam&u"
-    },
-    {
-      "date": "2026-10-10",
-      "timestamp": 1791634405,
-      "title": "Фанаты возмущены внешним видом 2B в кроссовере с Dead by Daylight - разработчики пообещали всё исправить",
-      "url": "https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1846018067936138",
-      "author": "",
-      "feed_label": "PlayGround.ru - официальная группа",
-      "feed_type": "媒体",
-      "is_patch": false,
-      "contents": "Коллаборация Dead by Daylight и NieR: Automata стартовала несколько дней назад, однако реакция игроков оказалась далёкой от восторга. Причиной недовольства стали внешний вид и качество проработки перс"
     }
   ],
   "patches": [
@@ -162,7 +162,7 @@
     "name_en": "Dead by Daylight",
     "short_description": "10年恐惧相伴。10年的惊吓与刺激体验。10年的残暴献祭与惊险逃脱。 永久困于邪恶的幻境之中，即使死亡也无法逃脱，这是一场需要勇气和智慧的较量，四名意志坚定的逃生者在残忍对局中面对嗜血杀手。选择一方，进入多人非对称竞技游戏世界，获得最佳恐怖游戏体验。",
     "short_description_en": "10 years of horror. 10 years of jump scares and close calls. 10 years of brutal sacrifices and thrilling escapes. Trapped forever in a realm of eldritch evil where even death is not an escape, four determined Survivors face a bloodthirsty Killer in a vicious game of nerve and wits.",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/381210/header.jpg?t=1793113581",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/381210/header.jpg?t=1793202236",
     "developers": [
       "Behaviour Interactive Inc."
     ],
@@ -182,6 +182,6 @@
     ]
   },
   "reviews": null,
-  "ccu": 45231,
-  "crawled_at": "2026-10-28T01:19:15.553692"
+  "ccu": 56569,
+  "crawled_at": "2026-10-29T01:53:40.541078"
 }

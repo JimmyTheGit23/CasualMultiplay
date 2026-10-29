@@ -249,7 +249,7 @@
       "is_official": true,
       "contents": "Hey hey semibots! Here is yet another small update with some fixes and balancing! CHANGES BALANCING FIXES CHANGES Item Melee Weapons - Handling now properly scales with strength and should feel firmer"
     },
-    "crawled_at": "2026-10-28T01:20:55.460796"
+    "crawled_at": "2026-10-29T01:55:03.711285"
   },
   "Lethal Company": {
     "appid": 1966720,
@@ -501,7 +501,7 @@
       "is_official": true,
       "contents": "Hello, long time no see! Version 80 is out in beta for you to test. You can access it by opting into the public beta branch for Lethal Company on Steam. V80 brings a complete rework of March's exterio"
     },
-    "crawled_at": "2026-10-28T01:20:56.752105"
+    "crawled_at": "2026-10-29T01:55:04.874399"
   },
   "Phasmophobia": {
     "appid": 739630,
@@ -753,7 +753,7 @@
       "is_official": true,
       "contents": "Welcome back, Ghost Hunters. We’ve got an update for you.Today, we have released an update for Phasmophobia to address two issues that have been raised by the community since the release of our last u"
     },
-    "crawled_at": "2026-10-28T01:20:58.043750"
+    "crawled_at": "2026-10-29T01:55:05.982864"
   },
   "Content Warning": {
     "appid": 2881650,
@@ -1005,7 +1005,7 @@
       "is_official": true,
       "contents": "Hello Spööktubers! Thank you for your patience as we're fixing bugs on all platforms.Here's a new patch fixing some stuff!For those of you wondering when crossplay between Switch 1 & 2 and other platf"
     },
-    "crawled_at": "2026-10-28T01:20:59.290353"
+    "crawled_at": "2026-10-29T01:55:07.116763"
   },
   "FEEDERS": {
     "appid": 4408510,
@@ -1256,7 +1256,7 @@
       "is_official": true,
       "contents": "Gave the HUD a fresh redesign. New look across the board — the status bars (Health, Stamina, Radiation) and the bottom belt all got reworked. Same info, cleaner read. More guns coming with new solo ex"
     },
-    "crawled_at": "2026-10-28T01:21:00.540508"
+    "crawled_at": "2026-10-29T01:55:08.243527"
   },
   "NARAKA: BLADEPOINT": {
     "appid": 1203220,
@@ -1497,11 +1497,44 @@
       "contents": "Dear players,NARAKA: BLADEPOINT is committed to creating a fair and healthy competitive environment. We have not only used new anti-cheat technologies, but also established special cheat-reporting rew"
     },
     "latest_patch": null,
-    "crawled_at": "2026-10-28T01:21:01.873143"
+    "crawled_at": "2026-10-29T01:55:09.424714"
   },
   "Dead by Daylight": {
     "appid": 381210,
     "all": [
+      {
+        "date": "2026-10-28",
+        "datetime": "2026-10-28T15:51:05",
+        "title": "Dead by Daylight пополнится безжалостным убийцей Terrifier 17 ноября",
+        "url": "https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1847920302231915",
+        "author": "",
+        "feed_label": "PlayGround.ru - официальная группа",
+        "is_patch": false,
+        "is_official": false,
+        "contents": "Behaviour Interactive представила тизер Terrifier для асимметричного многопользовательского хоррора Dead by Daylight. Ролик демонстрирует нового жестокого убийцу, который принесёт в туманные владения "
+      },
+      {
+        "date": "2026-10-28",
+        "datetime": "2026-10-28T15:40:31",
+        "title": "В Dead by Daylight появится клоун Арт из \"Ужасающего\" - с мешком оружия и собственными добиваниями",
+        "url": "https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1847920302231537",
+        "author": "",
+        "feed_label": "PlayGround.ru - официальная группа",
+        "is_patch": false,
+        "is_official": false,
+        "contents": "Behaviour Interactive объявила о сотрудничестве Dead by Daylight с хоррор-франшизой «Ужасающий». 24 ноября в асимметричном сетевом хорроре появятся клоун Арт в роли убийцы и Сиенна Шоу в качестве выжи"
+      },
+      {
+        "date": "2026-10-28",
+        "datetime": "2026-10-28T15:00:09",
+        "title": "10.3.0 | Terrifier PTB Patch Notes",
+        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847920302231335",
+        "author": "Goblin_BHVR",
+        "feed_label": "Community Announcements",
+        "is_patch": false,
+        "is_official": true,
+        "contents": "ContentNew Killer: The TerrifierPower: Bag of Toys Hold the Ability button to open your Bag of Toys and select one of two random Toys. The Bag of Toys enters a cooldown state and cannot be opened agai"
+      },
       {
         "date": "2026-10-27",
         "datetime": "2026-10-27T09:00:00",
@@ -1578,39 +1611,6 @@
         "is_patch": false,
         "is_official": false,
         "contents": "To celebrate Dead by Daylight's tenth anniversary, we're giving away a sold out Collector's Set worth $250. Not going to lie, I'm jealous. Read the full story on PCGamesN: <a href=\"https://www.pcgames"
-      },
-      {
-        "date": "2026-10-14",
-        "datetime": "2026-10-14T15:01:01",
-        "title": "10.2.1 | Bugfix Patch",
-        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846651706674577",
-        "author": "Goblin_BHVR",
-        "feed_label": "Community Announcements",
-        "is_patch": true,
-        "is_official": true,
-        "contents": "FeaturesSurrender and End TrialSurrender OptionSurvivor Condition - When there are no other human survivors, and at least one bot, the remaining player gets the option to Surrender. (was Abandon)Survi"
-      },
-      {
-        "date": "2026-10-13",
-        "datetime": "2026-10-13T09:00:00",
-        "title": "Steam Global Top Sellers for week of 6 Oct — 13 October 2026",
-        "url": "https://steamstore-a.akamaihd.net/news/externalpost/SteamDB/1846018067944049",
-        "author": "SteamDB",
-        "feed_label": "SteamDB",
-        "is_patch": false,
-        "is_official": false,
-        "contents": "<a href=\"https://steamdb.info/topsellers/2026W42/?utm_source=Steam&utm_medium=Steam&utm_campaign=SteamRSS\"> </a> * <a href=\"https://steamdb.info/app/4078430/charts/?utm_source=Steam&utm_medium=Steam&u"
-      },
-      {
-        "date": "2026-10-10",
-        "datetime": "2026-10-10T12:13:25",
-        "title": "Фанаты возмущены внешним видом 2B в кроссовере с Dead by Daylight - разработчики пообещали всё исправить",
-        "url": "https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1846018067936138",
-        "author": "",
-        "feed_label": "PlayGround.ru - официальная группа",
-        "is_patch": false,
-        "is_official": false,
-        "contents": "Коллаборация Dead by Daylight и NieR: Automata стартовала несколько дней назад, однако реакция игроков оказалась далёкой от восторга. Причиной недовольства стали внешний вид и качество проработки перс"
       }
     ],
     "patches": [
@@ -1624,20 +1624,42 @@
         "is_patch": true,
         "is_official": true,
         "contents": "ContentKiller Perk UpdatesDark ArroganceYou basic-vault Windows 15/20/25% faster.Your basic-attack cooldown is 10% shorter. (was only missed, and 15/20/25%)Whenever you are blinded or Pallet-stunned, "
-      },
-      {
-        "date": "2026-10-14",
-        "datetime": "2026-10-14T15:01:01",
-        "title": "10.2.1 | Bugfix Patch",
-        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846651706674577",
-        "author": "Goblin_BHVR",
-        "feed_label": "Community Announcements",
-        "is_patch": true,
-        "is_official": true,
-        "contents": "FeaturesSurrender and End TrialSurrender OptionSurvivor Condition - When there are no other human survivors, and at least one bot, the remaining player gets the option to Surrender. (was Abandon)Survi"
       }
     ],
     "announcements": [
+      {
+        "date": "2026-10-28",
+        "datetime": "2026-10-28T15:51:05",
+        "title": "Dead by Daylight пополнится безжалостным убийцей Terrifier 17 ноября",
+        "url": "https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1847920302231915",
+        "author": "",
+        "feed_label": "PlayGround.ru - официальная группа",
+        "is_patch": false,
+        "is_official": false,
+        "contents": "Behaviour Interactive представила тизер Terrifier для асимметричного многопользовательского хоррора Dead by Daylight. Ролик демонстрирует нового жестокого убийцу, который принесёт в туманные владения "
+      },
+      {
+        "date": "2026-10-28",
+        "datetime": "2026-10-28T15:40:31",
+        "title": "В Dead by Daylight появится клоун Арт из \"Ужасающего\" - с мешком оружия и собственными добиваниями",
+        "url": "https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1847920302231537",
+        "author": "",
+        "feed_label": "PlayGround.ru - официальная группа",
+        "is_patch": false,
+        "is_official": false,
+        "contents": "Behaviour Interactive объявила о сотрудничестве Dead by Daylight с хоррор-франшизой «Ужасающий». 24 ноября в асимметричном сетевом хорроре появятся клоун Арт в роли убийцы и Сиенна Шоу в качестве выжи"
+      },
+      {
+        "date": "2026-10-28",
+        "datetime": "2026-10-28T15:00:09",
+        "title": "10.3.0 | Terrifier PTB Patch Notes",
+        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847920302231335",
+        "author": "Goblin_BHVR",
+        "feed_label": "Community Announcements",
+        "is_patch": false,
+        "is_official": true,
+        "contents": "ContentNew Killer: The TerrifierPower: Bag of Toys Hold the Ability button to open your Bag of Toys and select one of two random Toys. The Bag of Toys enters a cooldown state and cannot be opened agai"
+      },
       {
         "date": "2026-10-27",
         "datetime": "2026-10-27T09:00:00",
@@ -1703,40 +1725,18 @@
         "is_patch": false,
         "is_official": false,
         "contents": "To celebrate Dead by Daylight's tenth anniversary, we're giving away a sold out Collector's Set worth $250. Not going to lie, I'm jealous. Read the full story on PCGamesN: <a href=\"https://www.pcgames"
-      },
-      {
-        "date": "2026-10-13",
-        "datetime": "2026-10-13T09:00:00",
-        "title": "Steam Global Top Sellers for week of 6 Oct — 13 October 2026",
-        "url": "https://steamstore-a.akamaihd.net/news/externalpost/SteamDB/1846018067944049",
-        "author": "SteamDB",
-        "feed_label": "SteamDB",
-        "is_patch": false,
-        "is_official": false,
-        "contents": "<a href=\"https://steamdb.info/topsellers/2026W42/?utm_source=Steam&utm_medium=Steam&utm_campaign=SteamRSS\"> </a> * <a href=\"https://steamdb.info/app/4078430/charts/?utm_source=Steam&utm_medium=Steam&u"
-      },
-      {
-        "date": "2026-10-10",
-        "datetime": "2026-10-10T12:13:25",
-        "title": "Фанаты возмущены внешним видом 2B в кроссовере с Dead by Daylight - разработчики пообещали всё исправить",
-        "url": "https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1846018067936138",
-        "author": "",
-        "feed_label": "PlayGround.ru - официальная группа",
-        "is_patch": false,
-        "is_official": false,
-        "contents": "Коллаборация Dead by Daylight и NieR: Automata стартовала несколько дней назад, однако реакция игроков оказалась далёкой от восторга. Причиной недовольства стали внешний вид и качество проработки перс"
       }
     ],
     "latest": {
-      "date": "2026-10-27",
-      "datetime": "2026-10-27T09:00:00",
-      "title": "Steam Global Top Sellers for week of 20 Oct — 27 October 2026",
-      "url": "https://steamstore-a.akamaihd.net/news/externalpost/SteamDB/1847286114048931",
-      "author": "SteamDB",
-      "feed_label": "SteamDB",
+      "date": "2026-10-28",
+      "datetime": "2026-10-28T15:51:05",
+      "title": "Dead by Daylight пополнится безжалостным убийцей Terrifier 17 ноября",
+      "url": "https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1847920302231915",
+      "author": "",
+      "feed_label": "PlayGround.ru - официальная группа",
       "is_patch": false,
       "is_official": false,
-      "contents": "<a href=\"https://steamdb.info/topsellers/2026W44/?utm_source=Steam&utm_medium=Steam&utm_campaign=SteamRSS\"> </a> * <a href=\"https://steamdb.info/app/4435490/charts/?utm_source=Steam&utm_medium=Steam&u"
+      "contents": "Behaviour Interactive представила тизер Terrifier для асимметричного многопользовательского хоррора Dead by Daylight. Ролик демонстрирует нового жестокого убийцу, который принесёт в туманные владения "
     },
     "latest_patch": {
       "date": "2026-10-20",
@@ -1749,6 +1749,6 @@
       "is_official": true,
       "contents": "ContentKiller Perk UpdatesDark ArroganceYou basic-vault Windows 15/20/25% faster.Your basic-attack cooldown is 10% shorter. (was only missed, and 15/20/25%)Whenever you are blinded or Pallet-stunned, "
     },
-    "crawled_at": "2026-10-28T01:21:03.178667"
+    "crawled_at": "2026-10-29T01:55:10.578606"
   }
 }
