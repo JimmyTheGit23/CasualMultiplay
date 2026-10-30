@@ -3,6 +3,28 @@
     "appid": 3241660,
     "all": [
       {
+        "date": "2026-10-29",
+        "datetime": "2026-10-29T14:49:58",
+        "title": "R.E.P.O. получает обновление Sunstone с курортом Sunstone Valley и врагом-пони",
+        "url": "https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1847920302235974",
+        "author": "",
+        "feed_label": "PlayGround.ru - официальная группа",
+        "is_patch": false,
+        "is_official": false,
+        "contents": "В популярном кооперативном хорроре R.E.P.O. стало ещё больше способов погибнуть во время очередной вылазки. Студия Semiwork выпустила обновление Sunstone и представила релизный трейлер, посвящённый но"
+      },
+      {
+        "date": "2026-10-29",
+        "datetime": "2026-10-29T13:06:53",
+        "title": "R.E.P.O. v0.5.0 - The Sunstone Update",
+        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847920302234696",
+        "author": "semiwork",
+        "feed_label": "Community Announcements",
+        "is_patch": false,
+        "is_official": true,
+        "contents": "Hey hey semibots! Our fourth major update is now live, The Sunstone Update! Hope you guys have fun!! ❤️ NEW CHANGES BALANCING FIXES NEW A whole new level, Sunstone Valley Resort! New Enemy - Pony! Gam"
+      },
+      {
         "date": "2026-06-05",
         "datetime": "2026-06-05T12:48:50",
         "title": "A NEW R.E.P.O. LEVEL?!",
@@ -89,28 +111,6 @@
         "is_patch": false,
         "is_official": true,
         "contents": "Hey hey semibots! It’s devlog time and we can finally reveal the release date for the Cosmetics Update! We are also showcasing some powerful magic for you all! Check out the Devlog here: If you prefer"
-      },
-      {
-        "date": "2026-03-27",
-        "datetime": "2026-03-27T13:11:39",
-        "title": "KART RACING in R.E.P.O.?!",
-        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1828441623104509",
-        "author": "semiwork",
-        "feed_label": "Community Announcements",
-        "is_patch": false,
-        "is_official": true,
-        "contents": "Hey hey semibots! In today’s devlog, we’re revealing a brand new King of the Losers variant, coming together with the Cosmetics Update! We’re also showcasing a bunch of the cosmetics that you’ll be ab"
-      },
-      {
-        "date": "2026-03-06",
-        "datetime": "2026-03-06T12:58:26",
-        "title": "Addressing the BIGGEST QUESTIONS about R.E.P.O. in 2026",
-        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1826362059924100",
-        "author": "semiwork",
-        "feed_label": "Community Announcements",
-        "is_patch": false,
-        "is_official": true,
-        "contents": "Hey hey semibots! Today we’re answering some of your most burning questions regarding the upcoming update or just R.E.P.O. in general! Check out the Q&A Devlog here: If you prefer reading, here are th"
       }
     ],
     "patches": [
@@ -161,6 +161,28 @@
     ],
     "announcements": [
       {
+        "date": "2026-10-29",
+        "datetime": "2026-10-29T14:49:58",
+        "title": "R.E.P.O. получает обновление Sunstone с курортом Sunstone Valley и врагом-пони",
+        "url": "https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1847920302235974",
+        "author": "",
+        "feed_label": "PlayGround.ru - официальная группа",
+        "is_patch": false,
+        "is_official": false,
+        "contents": "В популярном кооперативном хорроре R.E.P.O. стало ещё больше способов погибнуть во время очередной вылазки. Студия Semiwork выпустила обновление Sunstone и представила релизный трейлер, посвящённый но"
+      },
+      {
+        "date": "2026-10-29",
+        "datetime": "2026-10-29T13:06:53",
+        "title": "R.E.P.O. v0.5.0 - The Sunstone Update",
+        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847920302234696",
+        "author": "semiwork",
+        "feed_label": "Community Announcements",
+        "is_patch": false,
+        "is_official": true,
+        "contents": "Hey hey semibots! Our fourth major update is now live, The Sunstone Update! Hope you guys have fun!! ❤️ NEW CHANGES BALANCING FIXES NEW A whole new level, Sunstone Valley Resort! New Enemy - Pony! Gam"
+      },
+      {
         "date": "2026-06-05",
         "datetime": "2026-06-05T12:48:50",
         "title": "A NEW R.E.P.O. LEVEL?!",
@@ -203,40 +225,18 @@
         "is_patch": false,
         "is_official": true,
         "contents": "Hey hey semibots! It’s devlog time and we can finally reveal the release date for the Cosmetics Update! We are also showcasing some powerful magic for you all! Check out the Devlog here: If you prefer"
-      },
-      {
-        "date": "2026-03-27",
-        "datetime": "2026-03-27T13:11:39",
-        "title": "KART RACING in R.E.P.O.?!",
-        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1828441623104509",
-        "author": "semiwork",
-        "feed_label": "Community Announcements",
-        "is_patch": false,
-        "is_official": true,
-        "contents": "Hey hey semibots! In today’s devlog, we’re revealing a brand new King of the Losers variant, coming together with the Cosmetics Update! We’re also showcasing a bunch of the cosmetics that you’ll be ab"
-      },
-      {
-        "date": "2026-03-06",
-        "datetime": "2026-03-06T12:58:26",
-        "title": "Addressing the BIGGEST QUESTIONS about R.E.P.O. in 2026",
-        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1826362059924100",
-        "author": "semiwork",
-        "feed_label": "Community Announcements",
-        "is_patch": false,
-        "is_official": true,
-        "contents": "Hey hey semibots! Today we’re answering some of your most burning questions regarding the upcoming update or just R.E.P.O. in general! Check out the Q&A Devlog here: If you prefer reading, here are th"
       }
     ],
     "latest": {
-      "date": "2026-06-05",
-      "datetime": "2026-06-05T12:48:50",
-      "title": "A NEW R.E.P.O. LEVEL?!",
-      "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1834602721190571",
-      "author": "Axel",
-      "feed_label": "Community Announcements",
+      "date": "2026-10-29",
+      "datetime": "2026-10-29T14:49:58",
+      "title": "R.E.P.O. получает обновление Sunstone с курортом Sunstone Valley и врагом-пони",
+      "url": "https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1847920302235974",
+      "author": "",
+      "feed_label": "PlayGround.ru - официальная группа",
       "is_patch": false,
-      "is_official": true,
-      "contents": "Hey hey semibots! WOHO! We’re alive and we have some exciting stuff to tell you! Check out the Devlog here: If you prefer reading, here are the key takeaways: NEXT UPDATE The main focus of the next up"
+      "is_official": false,
+      "contents": "В популярном кооперативном хорроре R.E.P.O. стало ещё больше способов погибнуть во время очередной вылазки. Студия Semiwork выпустила обновление Sunstone и представила релизный трейлер, посвящённый но"
     },
     "latest_patch": {
       "date": "2026-05-25",
@@ -249,7 +249,7 @@
       "is_official": true,
       "contents": "Hey hey semibots! Here is yet another small update with some fixes and balancing! CHANGES BALANCING FIXES CHANGES Item Melee Weapons - Handling now properly scales with strength and should feel firmer"
     },
-    "crawled_at": "2026-10-29T01:55:03.711285"
+    "crawled_at": "2026-10-30T02:01:17.409599"
   },
   "Lethal Company": {
     "appid": 1966720,
@@ -501,7 +501,7 @@
       "is_official": true,
       "contents": "Hello, long time no see! Version 80 is out in beta for you to test. You can access it by opting into the public beta branch for Lethal Company on Steam. V80 brings a complete rework of March's exterio"
     },
-    "crawled_at": "2026-10-29T01:55:04.874399"
+    "crawled_at": "2026-10-30T02:01:18.536179"
   },
   "Phasmophobia": {
     "appid": 739630,
@@ -753,7 +753,7 @@
       "is_official": true,
       "contents": "Welcome back, Ghost Hunters. We’ve got an update for you.Today, we have released an update for Phasmophobia to address two issues that have been raised by the community since the release of our last u"
     },
-    "crawled_at": "2026-10-29T01:55:05.982864"
+    "crawled_at": "2026-10-30T02:01:19.630187"
   },
   "Content Warning": {
     "appid": 2881650,
@@ -1005,7 +1005,7 @@
       "is_official": true,
       "contents": "Hello Spööktubers! Thank you for your patience as we're fixing bugs on all platforms.Here's a new patch fixing some stuff!For those of you wondering when crossplay between Switch 1 & 2 and other platf"
     },
-    "crawled_at": "2026-10-29T01:55:07.116763"
+    "crawled_at": "2026-10-30T02:01:20.769452"
   },
   "FEEDERS": {
     "appid": 4408510,
@@ -1256,7 +1256,7 @@
       "is_official": true,
       "contents": "Gave the HUD a fresh redesign. New look across the board — the status bars (Health, Stamina, Radiation) and the bottom belt all got reworked. Same info, cleaner read. More guns coming with new solo ex"
     },
-    "crawled_at": "2026-10-29T01:55:08.243527"
+    "crawled_at": "2026-10-30T02:01:21.947293"
   },
   "NARAKA: BLADEPOINT": {
     "appid": 1203220,
@@ -1497,11 +1497,22 @@
       "contents": "Dear players,NARAKA: BLADEPOINT is committed to creating a fair and healthy competitive environment. We have not only used new anti-cheat technologies, but also established special cheat-reporting rew"
     },
     "latest_patch": null,
-    "crawled_at": "2026-10-29T01:55:09.424714"
+    "crawled_at": "2026-10-30T02:01:23.114394"
   },
   "Dead by Daylight": {
     "appid": 381210,
     "all": [
+      {
+        "date": "2026-10-29",
+        "datetime": "2026-10-29T15:06:00",
+        "title": "10.2.2a Backend Bugfix Patch",
+        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847920302235142",
+        "author": "Goblin_BHVR",
+        "feed_label": "Community Announcements",
+        "is_patch": true,
+        "is_official": true,
+        "contents": "Last week, we introduced the Backend Tunables system as a way to get small balance changes in your hands quicker without having to wait for patch releases. We mentioned having changes planned for a nu"
+      },
       {
         "date": "2026-10-28",
         "datetime": "2026-10-28T15:51:05",
@@ -1600,20 +1611,20 @@
         "is_patch": true,
         "is_official": true,
         "contents": "ContentKiller Perk UpdatesDark ArroganceYou basic-vault Windows 15/20/25% faster.Your basic-attack cooldown is 10% shorter. (was only missed, and 15/20/25%)Whenever you are blinded or Pallet-stunned, "
-      },
-      {
-        "date": "2026-10-20",
-        "datetime": "2026-10-20T14:03:10",
-        "title": "We're giving away a limited edition Dead by Daylight 10th Anniversary Collector's Set",
-        "url": "https://steamstore-a.akamaihd.net/news/externalpost/PCGamesN/1846651706695765",
-        "author": "editor@pcgamesn.com",
-        "feed_label": "PCGamesN",
-        "is_patch": false,
-        "is_official": false,
-        "contents": "To celebrate Dead by Daylight's tenth anniversary, we're giving away a sold out Collector's Set worth $250. Not going to lie, I'm jealous. Read the full story on PCGamesN: <a href=\"https://www.pcgames"
       }
     ],
     "patches": [
+      {
+        "date": "2026-10-29",
+        "datetime": "2026-10-29T15:06:00",
+        "title": "10.2.2a Backend Bugfix Patch",
+        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847920302235142",
+        "author": "Goblin_BHVR",
+        "feed_label": "Community Announcements",
+        "is_patch": true,
+        "is_official": true,
+        "contents": "Last week, we introduced the Backend Tunables system as a way to get small balance changes in your hands quicker without having to wait for patch releases. We mentioned having changes planned for a nu"
+      },
       {
         "date": "2026-10-20",
         "datetime": "2026-10-20T15:01:39",
@@ -1714,41 +1725,30 @@
         "is_patch": false,
         "is_official": false,
         "contents": "Разработчики Dead by Daylight запустили совместное событие с Diablo 4, добавив во внутриигровой магазин коллекцию образов ключевых персонажей Санктуария. С запуском события разработчики опубликовали н"
-      },
-      {
-        "date": "2026-10-20",
-        "datetime": "2026-10-20T14:03:10",
-        "title": "We're giving away a limited edition Dead by Daylight 10th Anniversary Collector's Set",
-        "url": "https://steamstore-a.akamaihd.net/news/externalpost/PCGamesN/1846651706695765",
-        "author": "editor@pcgamesn.com",
-        "feed_label": "PCGamesN",
-        "is_patch": false,
-        "is_official": false,
-        "contents": "To celebrate Dead by Daylight's tenth anniversary, we're giving away a sold out Collector's Set worth $250. Not going to lie, I'm jealous. Read the full story on PCGamesN: <a href=\"https://www.pcgames"
       }
     ],
     "latest": {
-      "date": "2026-10-28",
-      "datetime": "2026-10-28T15:51:05",
-      "title": "Dead by Daylight пополнится безжалостным убийцей Terrifier 17 ноября",
-      "url": "https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1847920302231915",
-      "author": "",
-      "feed_label": "PlayGround.ru - официальная группа",
-      "is_patch": false,
-      "is_official": false,
-      "contents": "Behaviour Interactive представила тизер Terrifier для асимметричного многопользовательского хоррора Dead by Daylight. Ролик демонстрирует нового жестокого убийцу, который принесёт в туманные владения "
-    },
-    "latest_patch": {
-      "date": "2026-10-20",
-      "datetime": "2026-10-20T15:01:39",
-      "title": "10.2.2 | Bugfix Patch",
-      "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846651706695628",
-      "author": "rblanchard_bhvr",
+      "date": "2026-10-29",
+      "datetime": "2026-10-29T15:06:00",
+      "title": "10.2.2a Backend Bugfix Patch",
+      "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847920302235142",
+      "author": "Goblin_BHVR",
       "feed_label": "Community Announcements",
       "is_patch": true,
       "is_official": true,
-      "contents": "ContentKiller Perk UpdatesDark ArroganceYou basic-vault Windows 15/20/25% faster.Your basic-attack cooldown is 10% shorter. (was only missed, and 15/20/25%)Whenever you are blinded or Pallet-stunned, "
+      "contents": "Last week, we introduced the Backend Tunables system as a way to get small balance changes in your hands quicker without having to wait for patch releases. We mentioned having changes planned for a nu"
     },
-    "crawled_at": "2026-10-29T01:55:10.578606"
+    "latest_patch": {
+      "date": "2026-10-29",
+      "datetime": "2026-10-29T15:06:00",
+      "title": "10.2.2a Backend Bugfix Patch",
+      "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847920302235142",
+      "author": "Goblin_BHVR",
+      "feed_label": "Community Announcements",
+      "is_patch": true,
+      "is_official": true,
+      "contents": "Last week, we introduced the Backend Tunables system as a way to get small balance changes in your hands quicker without having to wait for patch releases. We mentioned having changes planned for a nu"
+    },
+    "crawled_at": "2026-10-30T02:01:24.249639"
   }
 }

@@ -1,8 +1,8 @@
 {
-  "snapshot_date": "2026-10-29T01:53:40+08:00",
+  "snapshot_date": "2026-10-30T01:59:44+08:00",
   "hero": {
     "name": "黎明杀机",
-    "current_players": 56569,
+    "current_players": 50925,
     "positive_rate": 78.5,
     "reviews_total": 903715,
     "price_label": "¥ 37.50",
@@ -103,6 +103,17 @@
   ],
   "patches": [
     {
+      "date": "2026-10-29",
+      "timestamp": 1793286360,
+      "title": "10.2.2a Backend Bugfix Patch",
+      "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847920302235142",
+      "author": "Goblin_BHVR",
+      "feed_label": "Community Announcements",
+      "feed_type": "官方",
+      "is_patch": true,
+      "contents": "Last week, we introduced the Backend Tunables system as a way to get small balance changes in your hands quicker without having to wait for patch releases. We mentioned having changes planned for a nu"
+    },
+    {
       "date": "2026-10-20",
       "timestamp": 1792508499,
       "title": "10.2.2 | Bugfix Patch",
@@ -182,6 +193,6 @@
     ]
   },
   "reviews": null,
-  "ccu": 56569,
-  "crawled_at": "2026-10-29T01:53:40.541078"
+  "ccu": 50925,
+  "crawled_at": "2026-10-30T01:59:44.408741"
 }

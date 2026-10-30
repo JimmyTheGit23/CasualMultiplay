@@ -1,13 +1,33 @@
 {
-  "snapshot_date": "2026-10-29T01:53:40.610200+00:00",
+  "snapshot_date": "2026-10-30T01:59:44.478169+00:00",
   "hero": {
     "title": "R.E.P.O.",
     "title_en": "R.E.P.O.",
     "subtitle_zh": "semiwork · 在线合作恐怖 · 2025 年 2 月 26 日",
     "subtitle_en": "semiwork · Online Co-op Horror · 2025 年 2 月 26 日",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3241660/1ea445e044a2d5b09cfa8291350b63ebed6e5741/header.jpg?t=1791817973"
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3241660/62177765c05399116f0453fe1177b00ceed698c4/header_alt_assets_3.jpg?t=1793278962"
   },
   "operations": [
+    {
+      "date": "2026-10-29",
+      "timestamp": 1793285398,
+      "title": "R.E.P.O. получает обновление Sunstone с курортом Sunstone Valley и врагом-пони",
+      "url": "https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1847920302235974",
+      "source": "媒体",
+      "type_zh": "公告",
+      "type_en": "Announcement",
+      "contents": "В популярном кооперативном хорроре R.E.P.O. стало ещё больше способов погибнуть во время очередной вылазки. Студия Semiwork выпустила обновление Sunstone и представила релизный трейлер, посвящённый новым локациям, противникам и предметам. Главным нововведением стал Sunstone Valley Resort — курортный"
+    },
+    {
+      "date": "2026-10-29",
+      "timestamp": 1793279213,
+      "title": "R.E.P.O. v0.5.0 - The Sunstone Update",
+      "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847920302234696",
+      "source": "官方",
+      "type_zh": "版本更新",
+      "type_en": "Patch",
+      "contents": "Hey hey semibots! Our fourth major update is now live, The Sunstone Update! Hope you guys have fun!! ❤️ NEW CHANGES BALANCING FIXES NEW A whole new level, Sunstone Valley Resort! New Enemy - Pony! Gamepad support! Localization Added - 21 languages! Cosmetics - Added 10 new cosmetics! Main Menu - Add"
+    },
     {
       "date": "2026-06-05",
       "timestamp": 1780663730,
@@ -137,29 +157,19 @@
       "type_zh": "公告",
       "type_en": "Announcement",
       "contents": "Hey hey semibots! It’s time for another devlog! Yes, can you even believe it?? You may watch it here: For those of you who’d like to read instead of watching the video, here’s the key takeaways: NEXT UPDATE BIGGER THAN ANTICIPATED The upcoming update started out with the main focus being cosmetics, "
-    },
-    {
-      "date": "2026-02-06",
-      "timestamp": 1770392646,
-      "title": "R.E.P.O. REVIVE BOT REVEAL!",
-      "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1823825466499986",
-      "source": "官方",
-      "type_zh": "公告",
-      "type_en": "Announcement",
-      "contents": "Hey hey semibots! We’re at it again with another DEVLOG! You may watch it here: For those of you who’d like to read instead of watching the video, here’s the key takeaways: NEW ITEM REVEAL With the next upcoming update, we’ll be adding a little robot named DEFIBRO that can help you out during your v"
-    },
-    {
-      "date": "2026-01-23",
-      "timestamp": 1769180250,
-      "title": "We made VEHICLES into CARTS?!",
-      "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1822556746162001",
-      "source": "官方",
-      "type_zh": "公告",
-      "type_en": "Announcement",
-      "contents": "Hey hey semibots! It’s 2026 and we’re BACK! Time for another devlog, yes? Here it is: For those of you who’d like to read instead of watching the video, here’s the key takeaways: VEHICLE CHANGES The Semiscooter is no longer a two-seated vehicle, and the back seat has been replaced with storage utili"
     }
   ],
   "patches": [
+    {
+      "date": "2026-10-29",
+      "timestamp": 1793279213,
+      "title": "R.E.P.O. v0.5.0 - The Sunstone Update",
+      "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847920302234696",
+      "source": "官方",
+      "type_zh": "版本更新",
+      "type_en": "Patch",
+      "contents": "Hey hey semibots! Our fourth major update is now live, The Sunstone Update! Hope you guys have fun!! ❤️ NEW CHANGES BALANCING FIXES NEW A whole new level, Sunstone Valley Resort! New Enemy - Pony! Gamepad support! Localization Added - 21 languages! Cosmetics - Added 10 new cosmetics! Main Menu - Add"
+    },
     {
       "date": "2026-05-25",
       "timestamp": 1779701699,
@@ -243,7 +253,7 @@
     "name_en": "R.E.P.O.",
     "short_description": "An online co-op horror game with up to 6 players. Locate valuable, fully physics-based objects and handle them with care as you retrieve and extract to satisfy your creator's desires.",
     "short_description_en": "An online co-op horror game with up to 6 players. Locate valuable, fully physics-based objects and handle them with care as you retrieve and extract to satisfy your creator's desires.",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3241660/1ea445e044a2d5b09cfa8291350b63ebed6e5741/header.jpg?t=1791817973",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3241660/62177765c05399116f0453fe1177b00ceed698c4/header_alt_assets_3.jpg?t=1793278962",
     "developers": [
       "semiwork"
     ],
@@ -265,6 +275,6 @@
     "is_free": false
   },
   "reviews": null,
-  "ccu": 13616,
-  "crawled_at": "2026-10-29T01:53:40.610200+00:00"
+  "ccu": 38345,
+  "crawled_at": "2026-10-30T01:59:44.478169+00:00"
 }
