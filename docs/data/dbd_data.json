@@ -1,8 +1,8 @@
 {
-  "snapshot_date": "2026-10-30T01:59:44+08:00",
+  "snapshot_date": "2026-10-31T01:39:57+08:00",
   "hero": {
     "name": "黎明杀机",
-    "current_players": 50925,
+    "current_players": 54226,
     "positive_rate": 78.5,
     "reviews_total": 903715,
     "price_label": "¥ 37.50",
@@ -12,6 +12,17 @@
     ]
   },
   "operations": [
+    {
+      "date": "2026-10-30",
+      "timestamp": 1793389938,
+      "title": "Custom Alienware Laptop Sweepstakes",
+      "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847920302240241",
+      "author": "Steven_BHVR",
+      "feed_label": "Community Announcements",
+      "feed_type": "官方",
+      "is_patch": false,
+      "contents": "To celebrate the Halloween season, our partners at Alienware have a sweet treat for you! From now until November 22nd, enter for a chance to win a custom-skinned Alienware 16X Aurora gaming laptop, co"
+    },
     {
       "date": "2026-10-28",
       "timestamp": 1793202665,
@@ -88,17 +99,6 @@
       "feed_type": "官方",
       "is_patch": false,
       "contents": "Whether you were able to tune in live (thanks!) or you're dropping by to get a tl;dr, we're here to give you a recap of some highlights from today's community stream:  MMR UPDATE As you may remember, "
-    },
-    {
-      "date": "2026-10-21",
-      "timestamp": 1792541687,
-      "title": "В Dead by Daylight стартовало событие в честь коллаборации с Diablo 4",
-      "url": "https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1847286114027123",
-      "author": "",
-      "feed_label": "PlayGround.ru - официальная группа",
-      "feed_type": "媒体",
-      "is_patch": false,
-      "contents": "Разработчики Dead by Daylight запустили совместное событие с Diablo 4, добавив во внутриигровой магазин коллекцию образов ключевых персонажей Санктуария. С запуском события разработчики опубликовали н"
     }
   ],
   "patches": [
@@ -193,6 +193,6 @@
     ]
   },
   "reviews": null,
-  "ccu": 50925,
-  "crawled_at": "2026-10-30T01:59:44.408741"
+  "ccu": 54226,
+  "crawled_at": "2026-10-31T01:39:57.457718"
 }

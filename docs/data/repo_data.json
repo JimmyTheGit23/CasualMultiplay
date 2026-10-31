@@ -1,5 +1,5 @@
 {
-  "snapshot_date": "2026-10-30T01:59:44.478169+00:00",
+  "snapshot_date": "2026-10-31T01:39:57.529301+00:00",
   "hero": {
     "title": "R.E.P.O.",
     "title_en": "R.E.P.O.",
@@ -26,7 +26,7 @@
       "source": "官方",
       "type_zh": "版本更新",
       "type_en": "Patch",
-      "contents": "Hey hey semibots! Our fourth major update is now live, The Sunstone Update! Hope you guys have fun!! ❤️ NEW CHANGES BALANCING FIXES NEW A whole new level, Sunstone Valley Resort! New Enemy - Pony! Gamepad support! Localization Added - 21 languages! Cosmetics - Added 10 new cosmetics! Main Menu - Add"
+      "contents": "Hey hey semibots! Our fourth major update is now live, The Sunstone Update! Hope you guys have fun!! ❤️ NEW CHANGES BALANCING FIXES NEW A whole new map, Sunstone Valley Resort! New Enemy - Pony! Gamepad support! Localization Added - 21 languages! Cosmetics - Added 10 new cosmetics! Main Menu - Added"
     },
     {
       "date": "2026-06-05",
@@ -168,7 +168,7 @@
       "source": "官方",
       "type_zh": "版本更新",
       "type_en": "Patch",
-      "contents": "Hey hey semibots! Our fourth major update is now live, The Sunstone Update! Hope you guys have fun!! ❤️ NEW CHANGES BALANCING FIXES NEW A whole new level, Sunstone Valley Resort! New Enemy - Pony! Gamepad support! Localization Added - 21 languages! Cosmetics - Added 10 new cosmetics! Main Menu - Add"
+      "contents": "Hey hey semibots! Our fourth major update is now live, The Sunstone Update! Hope you guys have fun!! ❤️ NEW CHANGES BALANCING FIXES NEW A whole new map, Sunstone Valley Resort! New Enemy - Pony! Gamepad support! Localization Added - 21 languages! Cosmetics - Added 10 new cosmetics! Main Menu - Added"
     },
     {
       "date": "2026-05-25",
@@ -275,6 +275,6 @@
     "is_free": false
   },
   "reviews": null,
-  "ccu": 38345,
-  "crawled_at": "2026-10-30T01:59:44.478169+00:00"
+  "ccu": 42999,
+  "crawled_at": "2026-10-31T01:39:57.529301+00:00"
 }

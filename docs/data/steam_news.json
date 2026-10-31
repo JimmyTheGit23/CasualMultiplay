@@ -22,7 +22,7 @@
         "feed_label": "Community Announcements",
         "is_patch": false,
         "is_official": true,
-        "contents": "Hey hey semibots! Our fourth major update is now live, The Sunstone Update! Hope you guys have fun!! ❤️ NEW CHANGES BALANCING FIXES NEW A whole new level, Sunstone Valley Resort! New Enemy - Pony! Gam"
+        "contents": "Hey hey semibots! Our fourth major update is now live, The Sunstone Update! Hope you guys have fun!! ❤️ NEW CHANGES BALANCING FIXES NEW A whole new map, Sunstone Valley Resort! New Enemy - Pony! Gamep"
       },
       {
         "date": "2026-06-05",
@@ -180,7 +180,7 @@
         "feed_label": "Community Announcements",
         "is_patch": false,
         "is_official": true,
-        "contents": "Hey hey semibots! Our fourth major update is now live, The Sunstone Update! Hope you guys have fun!! ❤️ NEW CHANGES BALANCING FIXES NEW A whole new level, Sunstone Valley Resort! New Enemy - Pony! Gam"
+        "contents": "Hey hey semibots! Our fourth major update is now live, The Sunstone Update! Hope you guys have fun!! ❤️ NEW CHANGES BALANCING FIXES NEW A whole new map, Sunstone Valley Resort! New Enemy - Pony! Gamep"
       },
       {
         "date": "2026-06-05",
@@ -249,7 +249,7 @@
       "is_official": true,
       "contents": "Hey hey semibots! Here is yet another small update with some fixes and balancing! CHANGES BALANCING FIXES CHANGES Item Melee Weapons - Handling now properly scales with strength and should feel firmer"
     },
-    "crawled_at": "2026-10-30T02:01:17.409599"
+    "crawled_at": "2026-10-31T01:41:22.953716"
   },
   "Lethal Company": {
     "appid": 1966720,
@@ -501,7 +501,7 @@
       "is_official": true,
       "contents": "Hello, long time no see! Version 80 is out in beta for you to test. You can access it by opting into the public beta branch for Lethal Company on Steam. V80 brings a complete rework of March's exterio"
     },
-    "crawled_at": "2026-10-30T02:01:18.536179"
+    "crawled_at": "2026-10-31T01:41:24.080552"
   },
   "Phasmophobia": {
     "appid": 739630,
@@ -753,7 +753,7 @@
       "is_official": true,
       "contents": "Welcome back, Ghost Hunters. We’ve got an update for you.Today, we have released an update for Phasmophobia to address two issues that have been raised by the community since the release of our last u"
     },
-    "crawled_at": "2026-10-30T02:01:19.630187"
+    "crawled_at": "2026-10-31T01:41:25.377826"
   },
   "Content Warning": {
     "appid": 2881650,
@@ -1005,7 +1005,7 @@
       "is_official": true,
       "contents": "Hello Spööktubers! Thank you for your patience as we're fixing bugs on all platforms.Here's a new patch fixing some stuff!For those of you wondering when crossplay between Switch 1 & 2 and other platf"
     },
-    "crawled_at": "2026-10-30T02:01:20.769452"
+    "crawled_at": "2026-10-31T01:41:26.580632"
   },
   "FEEDERS": {
     "appid": 4408510,
@@ -1256,7 +1256,7 @@
       "is_official": true,
       "contents": "Gave the HUD a fresh redesign. New look across the board — the status bars (Health, Stamina, Radiation) and the bottom belt all got reworked. Same info, cleaner read. More guns coming with new solo ex"
     },
-    "crawled_at": "2026-10-30T02:01:21.947293"
+    "crawled_at": "2026-10-31T01:41:27.798975"
   },
   "NARAKA: BLADEPOINT": {
     "appid": 1203220,
@@ -1497,11 +1497,22 @@
       "contents": "Dear players,NARAKA: BLADEPOINT is committed to creating a fair and healthy competitive environment. We have not only used new anti-cheat technologies, but also established special cheat-reporting rew"
     },
     "latest_patch": null,
-    "crawled_at": "2026-10-30T02:01:23.114394"
+    "crawled_at": "2026-10-31T01:41:28.921448"
   },
   "Dead by Daylight": {
     "appid": 381210,
     "all": [
+      {
+        "date": "2026-10-30",
+        "datetime": "2026-10-30T19:52:18",
+        "title": "Custom Alienware Laptop Sweepstakes",
+        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847920302240241",
+        "author": "Steven_BHVR",
+        "feed_label": "Community Announcements",
+        "is_patch": false,
+        "is_official": true,
+        "contents": "To celebrate the Halloween season, our partners at Alienware have a sweet treat for you! From now until November 22nd, enter for a chance to win a custom-skinned Alienware 16X Aurora gaming laptop, co"
+      },
       {
         "date": "2026-10-29",
         "datetime": "2026-10-29T15:06:00",
@@ -1600,17 +1611,6 @@
         "is_patch": false,
         "is_official": false,
         "contents": "Разработчики Dead by Daylight запустили совместное событие с Diablo 4, добавив во внутриигровой магазин коллекцию образов ключевых персонажей Санктуария. С запуском события разработчики опубликовали н"
-      },
-      {
-        "date": "2026-10-20",
-        "datetime": "2026-10-20T15:01:39",
-        "title": "10.2.2 | Bugfix Patch",
-        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846651706695628",
-        "author": "rblanchard_bhvr",
-        "feed_label": "Community Announcements",
-        "is_patch": true,
-        "is_official": true,
-        "contents": "ContentKiller Perk UpdatesDark ArroganceYou basic-vault Windows 15/20/25% faster.Your basic-attack cooldown is 10% shorter. (was only missed, and 15/20/25%)Whenever you are blinded or Pallet-stunned, "
       }
     ],
     "patches": [
@@ -1624,20 +1624,20 @@
         "is_patch": true,
         "is_official": true,
         "contents": "Last week, we introduced the Backend Tunables system as a way to get small balance changes in your hands quicker without having to wait for patch releases. We mentioned having changes planned for a nu"
-      },
-      {
-        "date": "2026-10-20",
-        "datetime": "2026-10-20T15:01:39",
-        "title": "10.2.2 | Bugfix Patch",
-        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846651706695628",
-        "author": "rblanchard_bhvr",
-        "feed_label": "Community Announcements",
-        "is_patch": true,
-        "is_official": true,
-        "contents": "ContentKiller Perk UpdatesDark ArroganceYou basic-vault Windows 15/20/25% faster.Your basic-attack cooldown is 10% shorter. (was only missed, and 15/20/25%)Whenever you are blinded or Pallet-stunned, "
       }
     ],
     "announcements": [
+      {
+        "date": "2026-10-30",
+        "datetime": "2026-10-30T19:52:18",
+        "title": "Custom Alienware Laptop Sweepstakes",
+        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847920302240241",
+        "author": "Steven_BHVR",
+        "feed_label": "Community Announcements",
+        "is_patch": false,
+        "is_official": true,
+        "contents": "To celebrate the Halloween season, our partners at Alienware have a sweet treat for you! From now until November 22nd, enter for a chance to win a custom-skinned Alienware 16X Aurora gaming laptop, co"
+      },
       {
         "date": "2026-10-28",
         "datetime": "2026-10-28T15:51:05",
@@ -1728,15 +1728,15 @@
       }
     ],
     "latest": {
-      "date": "2026-10-29",
-      "datetime": "2026-10-29T15:06:00",
-      "title": "10.2.2a Backend Bugfix Patch",
-      "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847920302235142",
-      "author": "Goblin_BHVR",
+      "date": "2026-10-30",
+      "datetime": "2026-10-30T19:52:18",
+      "title": "Custom Alienware Laptop Sweepstakes",
+      "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847920302240241",
+      "author": "Steven_BHVR",
       "feed_label": "Community Announcements",
-      "is_patch": true,
+      "is_patch": false,
       "is_official": true,
-      "contents": "Last week, we introduced the Backend Tunables system as a way to get small balance changes in your hands quicker without having to wait for patch releases. We mentioned having changes planned for a nu"
+      "contents": "To celebrate the Halloween season, our partners at Alienware have a sweet treat for you! From now until November 22nd, enter for a chance to win a custom-skinned Alienware 16X Aurora gaming laptop, co"
     },
     "latest_patch": {
       "date": "2026-10-29",
@@ -1749,6 +1749,6 @@
       "is_official": true,
       "contents": "Last week, we introduced the Backend Tunables system as a way to get small balance changes in your hands quicker without having to wait for patch releases. We mentioned having changes planned for a nu"
     },
-    "crawled_at": "2026-10-30T02:01:24.249639"
+    "crawled_at": "2026-10-31T01:41:30.129023"
   }
 }
