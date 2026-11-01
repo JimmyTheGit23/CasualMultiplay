@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "fetched_at": "2026-10-31T09:36:44.840194+08:00",
+    "fetched_at": "2026-11-01T09:01:43.562420+08:00",
     "total_developers": 43
   },
   "developers": {
@@ -505,19 +505,6 @@
           "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1089270/header.jpg?t=1682024598"
         },
         {
-          "appid": "3103150",
-          "name": "Dead by Daylight - Castlevania Chapter",
-          "release_date": "2024 年 8 月 27 日",
-          "type": "dlc",
-          "developers": [
-            "Behaviour Interactive Inc."
-          ],
-          "publishers": [
-            "Behaviour Interactive Inc."
-          ],
-          "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3103150/header.jpg?t=1740003609"
-        },
-        {
           "appid": "2661270",
           "name": "Dead by Daylight - All Things Wicked Chapter",
           "release_date": "2024 年 3 月 12 日",
@@ -529,6 +516,19 @@
             "Behaviour Interactive Inc."
           ],
           "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2661270/header.jpg?t=1712678426"
+        },
+        {
+          "appid": "3103150",
+          "name": "Dead by Daylight - Castlevania Chapter",
+          "release_date": "2024 年 8 月 27 日",
+          "type": "dlc",
+          "developers": [
+            "Behaviour Interactive Inc."
+          ],
+          "publishers": [
+            "Behaviour Interactive Inc."
+          ],
+          "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3103150/header.jpg?t=1740003609"
         }
       ],
       "is_first_game": true,
@@ -541,6 +541,21 @@
       "total_apps_on_steam": 3,
       "sampled_apps": 3,
       "apps": [
+        {
+          "appid": "2979480",
+          "name": "Masters of Light Original Soundtrack",
+          "release_date": "2024 年 5 月 23 日",
+          "type": "music",
+          "developers": [
+            "COVEN",
+            "ALBYON"
+          ],
+          "publishers": [
+            "COVEN",
+            "G4F Records"
+          ],
+          "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2979480/header.jpg?t=1716480242"
+        },
         {
           "appid": "2885690",
           "name": "Masters of Light",
@@ -567,21 +582,6 @@
             "COVEN"
           ],
           "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3453900/c976ff0948a19d56cc33f2739edb3aaeb499086a/header.jpg?t=1793039164"
-        },
-        {
-          "appid": "2979480",
-          "name": "Masters of Light Original Soundtrack",
-          "release_date": "2024 年 5 月 23 日",
-          "type": "music",
-          "developers": [
-            "COVEN",
-            "ALBYON"
-          ],
-          "publishers": [
-            "COVEN",
-            "G4F Records"
-          ],
-          "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2979480/header.jpg?t=1716480242"
         }
       ],
       "is_first_game": false,
@@ -725,17 +725,6 @@
           "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4730770/baddb5933a47e0eb213862c6b686b7f8f432c11f/header.jpg?t=1788958812"
         },
         {
-          "appid": "5036130",
-          "name": "Hunt: Showdown 1896 - Starter Pack: The Crow’s Calling",
-          "release_date": "2026 年 10 月 6 日",
-          "type": "dlc",
-          "developers": [
-            "Crytek"
-          ],
-          "publishers": [],
-          "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5036130/0ad124191ddae59aefba0d0f4a42fd8517fb035d/header.jpg?t=1791291615"
-        },
-        {
           "appid": "3204800",
           "name": "Hunt: Showdown 1896 - Ghost Face Rampage",
           "release_date": "2024 年 10 月 24 日",
@@ -747,6 +736,17 @@
             "Crytek"
           ],
           "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3204800/header.jpg?t=1782896565"
+        },
+        {
+          "appid": "5036130",
+          "name": "Hunt: Showdown 1896 - Starter Pack: The Crow’s Calling",
+          "release_date": "2026 年 10 月 6 日",
+          "type": "dlc",
+          "developers": [
+            "Crytek"
+          ],
+          "publishers": [],
+          "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5036130/0ad124191ddae59aefba0d0f4a42fd8517fb035d/header.jpg?t=1791291615"
         },
         {
           "appid": "2096610",
@@ -763,6 +763,19 @@
           "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2096610/ca8cc5ee7d4ce7a8fda5b050a9827aa117768b86/header.jpg?t=1783415156"
         },
         {
+          "appid": "4556010",
+          "name": "Hunt: Showdown 1896 - It Takes a Rogue",
+          "release_date": "2026 年 6 月 10 日",
+          "type": "dlc",
+          "developers": [
+            "Crytek"
+          ],
+          "publishers": [
+            "Crytek"
+          ],
+          "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4556010/b9cfe71099dcfd4c3a73516a746d3627f19a52f5/header.jpg?t=1782896554"
+        },
+        {
           "appid": "2096600",
           "name": "Crysis 2 Remastered",
           "release_date": "2022 年 11 月 17 日",
@@ -777,32 +790,6 @@
           "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2096600/c31e1907d3e05b05578d1dc928826b70cde66e6f/header.jpg?t=1783414847"
         },
         {
-          "appid": "1715130",
-          "name": "Crysis Remastered",
-          "release_date": "2021 年 9 月 17 日",
-          "type": "game",
-          "developers": [
-            "Crytek"
-          ],
-          "publishers": [
-            "Crytek"
-          ],
-          "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1715130/0c28c46e93f734d31b035e13057472b51b377936/header.jpg?t=1785838535"
-        },
-        {
-          "appid": "4556010",
-          "name": "Hunt: Showdown 1896 - It Takes a Rogue",
-          "release_date": "2026 年 6 月 10 日",
-          "type": "dlc",
-          "developers": [
-            "Crytek"
-          ],
-          "publishers": [
-            "Crytek"
-          ],
-          "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4556010/b9cfe71099dcfd4c3a73516a746d3627f19a52f5/header.jpg?t=1782896554"
-        },
-        {
           "appid": "3713770",
           "name": "Hunt: Showdown 1896 - Cry of the Caged Bird",
           "release_date": "2025 年 10 月 20 日",
@@ -814,11 +801,21 @@
             "Crytek"
           ],
           "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3713770/e09fac03147dd1dafd7ecf2d14bf8f513cc607d5/header.jpg?t=1782896562"
+        },
+        {
+          "appid": "4719180",
+          "name": "Hunt: Showdown 1896 - Twice a Renegade",
+          "release_date": "2026 年 7 月 2 日",
+          "type": "dlc",
+          "developers": [
+            "Crytek"
+          ],
+          "publishers": [],
+          "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4719180/138feb734d84d78e843bd35b95c1ab228752b353/header.jpg?t=1783080689"
         }
       ],
       "is_first_game": false,
       "actual_dev_apps": [
-        "1715130",
         "2096600",
         "2096610",
         "594650"
@@ -1073,19 +1070,6 @@
           "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4000/header.jpg?t=1776868682"
         },
         {
-          "appid": "3891560",
-          "name": "Rust - Warhammer 40,000 Pack",
-          "release_date": "2025 年 10 月 23 日",
-          "type": "dlc",
-          "developers": [
-            "Facepunch Studios"
-          ],
-          "publishers": [
-            "Facepunch Studios"
-          ],
-          "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3891560/3833382bd430c09e294d1b5a894bce46eaf12d87/header.jpg?t=1761238974"
-        },
-        {
           "appid": "1670430",
           "name": "Rust - Voice Props Pack",
           "release_date": "2021 年 7 月 1 日",
@@ -1097,6 +1081,19 @@
             "Facepunch Studios"
           ],
           "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1670430/header.jpg?t=1733417297"
+        },
+        {
+          "appid": "3891560",
+          "name": "Rust - Warhammer 40,000 Pack",
+          "release_date": "2025 年 10 月 23 日",
+          "type": "dlc",
+          "developers": [
+            "Facepunch Studios"
+          ],
+          "publishers": [
+            "Facepunch Studios"
+          ],
+          "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3891560/3833382bd430c09e294d1b5a894bce46eaf12d87/header.jpg?t=1761238974"
         },
         {
           "appid": "1353060",
@@ -1473,19 +1470,6 @@
           "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/434650/header_schinese.jpg?t=1759298493"
         },
         {
-          "appid": "1415420",
-          "name": "Lost Castle: The Old Ones Awaken / 失落城堡: 遗迹守护者",
-          "release_date": "2020 年 9 月 28 日",
-          "type": "dlc",
-          "developers": [
-            "Hunter Studio"
-          ],
-          "publishers": [
-            "Neon Doctrine"
-          ],
-          "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1415420/header.jpg?t=1619653942"
-        },
-        {
           "appid": "522620",
           "name": "Lost Castle: Official Soundtrack",
           "release_date": "2016 年 8 月 31 日",
@@ -1498,6 +1482,19 @@
             "X.D.Network  Inc."
           ],
           "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/522620/header.jpg?t=1619654018"
+        },
+        {
+          "appid": "1415420",
+          "name": "Lost Castle: The Old Ones Awaken / 失落城堡: 遗迹守护者",
+          "release_date": "2020 年 9 月 28 日",
+          "type": "dlc",
+          "developers": [
+            "Hunter Studio"
+          ],
+          "publishers": [
+            "Neon Doctrine"
+          ],
+          "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1415420/header.jpg?t=1619653942"
         },
         {
           "appid": "3063440",
@@ -1950,20 +1947,6 @@
           "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/588650/header.jpg?t=1779086887"
         },
         {
-          "appid": "2101430",
-          "name": "Dead Cells: Return to Castlevania",
-          "release_date": "2023 年 3 月 6 日",
-          "type": "dlc",
-          "developers": [
-            "Motion Twin",
-            "Evil Empire"
-          ],
-          "publishers": [
-            "Motion Twin"
-          ],
-          "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2101430/header.jpg?t=1757600495"
-        },
-        {
           "appid": "1911610",
           "name": "风中行者",
           "release_date": "2024 年 10 月 24 日",
@@ -1976,6 +1959,20 @@
             "Kepler Ghost"
           ],
           "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1911610/b91bf8be5d6d4fac5aa2d12443d66dd17cc38e79/header_schinese.jpg?t=1792488994"
+        },
+        {
+          "appid": "2101430",
+          "name": "Dead Cells: Return to Castlevania",
+          "release_date": "2023 年 3 月 6 日",
+          "type": "dlc",
+          "developers": [
+            "Motion Twin",
+            "Evil Empire"
+          ],
+          "publishers": [
+            "Motion Twin"
+          ],
+          "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2101430/header.jpg?t=1757600495"
         },
         {
           "appid": "1580050",
