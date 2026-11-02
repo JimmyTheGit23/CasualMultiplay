@@ -19,7 +19,7 @@
       "release_date": "2025 年 2 月 26 日",
       "release_date_en": "26 Feb, 2025",
       "metacritic": null,
-      "recommendations": 347699,
+      "recommendations": 348075,
       "platforms": {
         "windows": true,
         "mac": false,
@@ -69,11 +69,11 @@
       ]
     },
     "steamspy": {
-      "ccu": 38479
+      "ccu": 39320
     },
     "reviews": null,
-    "ccu": 38479,
-    "crawled_at": "2026-11-01T00:52:48.593491"
+    "ccu": 39320,
+    "crawled_at": "2026-11-02T01:25:01.224401"
   },
   "Lethal Company": {
     "appid": 1966720,
@@ -95,7 +95,7 @@
       "release_date": "2023 年 10 月 23 日",
       "release_date_en": "23 Oct, 2023",
       "metacritic": null,
-      "recommendations": 412127,
+      "recommendations": 412131,
       "platforms": {
         "windows": true,
         "mac": false,
@@ -135,11 +135,11 @@
       ]
     },
     "steamspy": {
-      "ccu": 4589
+      "ccu": 4185
     },
     "reviews": null,
-    "ccu": 4589,
-    "crawled_at": "2026-11-01T00:53:04.121209"
+    "ccu": 4185,
+    "crawled_at": "2026-11-02T01:25:17.393330"
   },
   "Content Warning": {
     "appid": 2881650,
@@ -165,7 +165,7 @@
       "release_date": "2024 年 4 月 1 日",
       "release_date_en": "1 Apr, 2024",
       "metacritic": null,
-      "recommendations": 73185,
+      "recommendations": 73197,
       "platforms": {
         "windows": true,
         "mac": false,
@@ -205,11 +205,11 @@
       ]
     },
     "steamspy": {
-      "ccu": 665
+      "ccu": 624
     },
     "reviews": null,
-    "ccu": 665,
-    "crawled_at": "2026-11-01T00:53:19.646892"
+    "ccu": 624,
+    "crawled_at": "2026-11-02T01:25:33.970525"
   },
   "FEEDERS": {
     "appid": 4408510,
@@ -271,7 +271,7 @@
     "steamspy": null,
     "reviews": null,
     "ccu": 0,
-    "crawled_at": "2026-11-01T00:53:35.061871"
+    "crawled_at": "2026-11-02T01:25:49.311762"
   },
   "Peak": {
     "appid": 3527290,
@@ -289,12 +289,12 @@
         "Aggro Crab",
         "Evil Landfall?"
       ],
-      "price": "¥ 33.00",
-      "price_en": "¥ 33.00",
+      "price": "¥ 20.46",
+      "price_en": "¥ 20.46",
       "release_date": "2025 年 6 月 16 日",
       "release_date_en": "16 Jun, 2025",
       "metacritic": null,
-      "recommendations": 311168,
+      "recommendations": 311342,
       "platforms": {
         "windows": true,
         "mac": false,
@@ -340,11 +340,11 @@
       ]
     },
     "steamspy": {
-      "ccu": 11852
+      "ccu": 17805
     },
     "reviews": null,
-    "ccu": 11852,
-    "crawled_at": "2026-11-01T00:53:51.583958"
+    "ccu": 17805,
+    "crawled_at": "2026-11-02T01:26:05.052358"
   },
   "Phasmophobia": {
     "appid": 739630,
@@ -354,7 +354,7 @@
       "type": "game",
       "short_description": "Phasmophobia is a 4 player online co-op psychological horror. Paranormal activity is on the rise and it’s up to you and your team to use all the ghost-hunting equipment at your disposal in order to gather as much evidence as you can.",
       "short_description_en": "Phasmophobia is a 4 player online co-op psychological horror. Paranormal activity is on the rise and it’s up to you and your team to use all the ghost-hunting equipment at your disposal in order to gather as much evidence as you can.",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/739630/6283e4bf96c6e8160492ae12016f0c9a308a75d9/header_alt_assets_13.jpg?t=1791632508",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/739630/c227a2855aba60f3657bc0c3a46515b8c41fb2b6/header.jpg?t=1791632508",
       "developers": [
         "Kinetic Games"
       ],
@@ -366,7 +366,7 @@
       "release_date": "2020 年 9 月 18 日",
       "release_date_en": "18 Sep, 2020",
       "metacritic": null,
-      "recommendations": 686492,
+      "recommendations": 686566,
       "platforms": {
         "windows": true,
         "mac": false,
@@ -432,11 +432,11 @@
       ]
     },
     "steamspy": {
-      "ccu": 17346
+      "ccu": 12841
     },
     "reviews": null,
-    "ccu": 17346,
-    "crawled_at": "2026-11-01T00:54:07.168941"
+    "ccu": 12841,
+    "crawled_at": "2026-11-02T01:26:20.749132"
   },
   "驱魔人": {
     "appid": 1929610,
@@ -458,7 +458,7 @@
       "release_date": "2023 年 9 月 25 日",
       "release_date_en": "25 Sep, 2023",
       "metacritic": null,
-      "recommendations": 19118,
+      "recommendations": 19130,
       "platforms": {
         "windows": true,
         "mac": false,
@@ -494,11 +494,11 @@
       ]
     },
     "steamspy": {
-      "ccu": 1057
+      "ccu": 533
     },
     "reviews": null,
-    "ccu": 1057,
-    "crawled_at": "2026-11-01T00:54:22.735839"
+    "ccu": 533,
+    "crawled_at": "2026-11-02T01:26:35.687170"
   },
   "逃生：试炼": {
     "appid": 1304930,
@@ -520,7 +520,7 @@
       "release_date": "2024 年 3 月 5 日",
       "release_date_en": "5 Mar, 2024",
       "metacritic": null,
-      "recommendations": 100828,
+      "recommendations": 100973,
       "platforms": {
         "windows": true,
         "mac": false,
@@ -562,11 +562,11 @@
       ]
     },
     "steamspy": {
-      "ccu": 11213
+      "ccu": 11147
     },
     "reviews": null,
-    "ccu": 11213,
-    "crawled_at": "2026-11-01T00:54:38.091739"
+    "ccu": 11147,
+    "crawled_at": "2026-11-02T01:26:51.163672"
   },
   "猎杀：对决": {
     "appid": 594650,
@@ -588,7 +588,7 @@
       "release_date": "2019 年 8 月 27 日",
       "release_date_en": "27 Aug, 2019",
       "metacritic": 81,
-      "recommendations": 214460,
+      "recommendations": 214492,
       "platforms": {
         "windows": true,
         "mac": false,
@@ -630,11 +630,11 @@
       ]
     },
     "steamspy": {
-      "ccu": 9809
+      "ccu": 9096
     },
     "reviews": null,
-    "ccu": 9809,
-    "crawled_at": "2026-11-01T00:54:53.832496"
+    "ccu": 9096,
+    "crawled_at": "2026-11-02T01:27:06.812559"
   },
   "NARAKA: BLADEPOINT": {
     "appid": 1203220,
@@ -656,7 +656,7 @@
       "release_date": "2021 年 8 月 11 日",
       "release_date_en": "11 Aug, 2021",
       "metacritic": null,
-      "recommendations": 198022,
+      "recommendations": 198028,
       "platforms": {
         "windows": true,
         "mac": false,
@@ -696,11 +696,11 @@
       ]
     },
     "steamspy": {
-      "ccu": 6923
+      "ccu": 6810
     },
     "reviews": null,
-    "ccu": 6923,
-    "crawled_at": "2026-11-01T00:55:09.472620"
+    "ccu": 6810,
+    "crawled_at": "2026-11-02T01:27:22.908439"
   },
   "灰境行者": {
     "appid": 3978820,
@@ -762,7 +762,7 @@
     "steamspy": null,
     "reviews": null,
     "ccu": 0,
-    "crawled_at": "2026-11-01T00:55:28.660406"
+    "crawled_at": "2026-11-02T01:27:41.342687"
   },
   "Haunted": {
     "appid": 3850670,
@@ -820,7 +820,7 @@
     "steamspy": null,
     "reviews": null,
     "ccu": 0,
-    "crawled_at": "2026-11-01T00:55:47.762465"
+    "crawled_at": "2026-11-02T01:27:59.886303"
   },
   "The Reflection": {
     "appid": 4314340,
@@ -876,7 +876,7 @@
     "steamspy": null,
     "reviews": null,
     "ccu": 0,
-    "crawled_at": "2026-11-01T00:56:03.451737"
+    "crawled_at": "2026-11-02T01:28:16.357069"
   },
   "Radio Decay": {
     "appid": 3956540,
@@ -940,7 +940,7 @@
     "steamspy": null,
     "reviews": null,
     "ccu": 0,
-    "crawled_at": "2026-11-01T00:56:22.694018"
+    "crawled_at": "2026-11-02T01:28:36.553599"
   },
   "In Us": {
     "appid": 4640600,
@@ -1004,7 +1004,7 @@
     "steamspy": null,
     "reviews": null,
     "ccu": 0,
-    "crawled_at": "2026-11-01T00:56:41.821625"
+    "crawled_at": "2026-11-02T01:28:56.813441"
   },
   "狂欢猎杀": {
     "appid": 1181550,
@@ -1027,7 +1027,7 @@
       "release_date": "2026 年 7 月 23 日",
       "release_date_en": "23 Jul, 2026",
       "metacritic": null,
-      "recommendations": 2172,
+      "recommendations": 2176,
       "platforms": {
         "windows": true,
         "mac": false,
@@ -1067,11 +1067,11 @@
       ]
     },
     "steamspy": {
-      "ccu": 147
+      "ccu": 157
     },
     "reviews": null,
-    "ccu": 147,
-    "crawled_at": "2026-11-01T00:56:57.518214"
+    "ccu": 157,
+    "crawled_at": "2026-11-02T01:29:14.962772"
   },
   "月光光心慌慌": {
     "appid": 3219630,
@@ -1094,7 +1094,7 @@
       "release_date": "2026 年 9 月 8 日",
       "release_date_en": "8 Sep, 2026",
       "metacritic": null,
-      "recommendations": 15081,
+      "recommendations": 15132,
       "platforms": {
         "windows": true,
         "mac": false,
@@ -1138,11 +1138,11 @@
       ]
     },
     "steamspy": {
-      "ccu": 3563
+      "ccu": 3254
     },
     "reviews": null,
-    "ccu": 3563,
-    "crawled_at": "2026-11-01T00:57:12.949766"
+    "ccu": 3254,
+    "crawled_at": "2026-11-02T01:29:34.374654"
   },
   "土丘：克苏鲁恶兆": {
     "appid": 2569760,
@@ -1164,7 +1164,7 @@
       "release_date": "2026 年 7 月 15 日",
       "release_date_en": "15 Jul, 2026",
       "metacritic": null,
-      "recommendations": 3247,
+      "recommendations": 3253,
       "platforms": {
         "windows": true,
         "mac": false,
@@ -1222,11 +1222,11 @@
       ]
     },
     "steamspy": {
-      "ccu": 258
+      "ccu": 293
     },
     "reviews": null,
-    "ccu": 258,
-    "crawled_at": "2026-11-01T00:57:28.786003"
+    "ccu": 293,
+    "crawled_at": "2026-11-02T01:29:54.939673"
   },
   "MECCHA CHAMELEON": {
     "appid": 4704690,
@@ -1248,7 +1248,7 @@
       "release_date": "2026 年 6 月 9 日",
       "release_date_en": "9 Jun, 2026",
       "metacritic": null,
-      "recommendations": 81310,
+      "recommendations": 81375,
       "platforms": {
         "windows": true,
         "mac": false,
@@ -1290,11 +1290,11 @@
       ]
     },
     "steamspy": {
-      "ccu": 2536
+      "ccu": 3223
     },
     "reviews": null,
-    "ccu": 2536,
-    "crawled_at": "2026-11-01T00:57:44.387839"
+    "ccu": 3223,
+    "crawled_at": "2026-11-02T01:30:10.108109"
   },
   "HELLDIVERS 2": {
     "appid": 553850,
@@ -1316,7 +1316,7 @@
       "release_date": "2024 年 2 月 8 日",
       "release_date_en": "8 Feb, 2024",
       "metacritic": null,
-      "recommendations": 850502,
+      "recommendations": 850786,
       "platforms": {
         "windows": true,
         "mac": false,
@@ -1378,11 +1378,11 @@
       ]
     },
     "steamspy": {
-      "ccu": 32314
+      "ccu": 35306
     },
     "reviews": null,
-    "ccu": 32314,
-    "crawled_at": "2026-11-01T00:58:00.075625"
+    "ccu": 35306,
+    "crawled_at": "2026-11-02T01:30:25.146727"
   },
   "Far Far West": {
     "appid": 3124540,
@@ -1404,7 +1404,7 @@
       "release_date": "2026 年 4 月 28 日",
       "release_date_en": "28 Apr, 2026",
       "metacritic": null,
-      "recommendations": 32930,
+      "recommendations": 32983,
       "platforms": {
         "windows": true,
         "mac": false,
@@ -1454,11 +1454,11 @@
       ]
     },
     "steamspy": {
-      "ccu": 4112
+      "ccu": 4773
     },
     "reviews": null,
-    "ccu": 4112,
-    "crawled_at": "2026-11-01T00:58:15.721388"
+    "ccu": 4773,
+    "crawled_at": "2026-11-02T01:30:40.088923"
   },
   "Burglin' Gnomes": {
     "appid": 3844970,
@@ -1480,7 +1480,7 @@
       "release_date": "2026 年 6 月 10 日",
       "release_date_en": "10 Jun, 2026",
       "metacritic": null,
-      "recommendations": 5198,
+      "recommendations": 5207,
       "platforms": {
         "windows": true,
         "mac": false,
@@ -1516,11 +1516,11 @@
       ]
     },
     "steamspy": {
-      "ccu": 265
+      "ccu": 456
     },
     "reviews": null,
-    "ccu": 265,
-    "crawled_at": "2026-11-01T00:58:31.390828"
+    "ccu": 456,
+    "crawled_at": "2026-11-02T01:30:54.989526"
   },
   "一起开火车2": {
     "appid": 2211170,
@@ -1611,11 +1611,11 @@
       ]
     },
     "steamspy": {
-      "ccu": 49
+      "ccu": 52
     },
     "reviews": null,
-    "ccu": 49,
-    "crawled_at": "2026-11-01T00:58:47.536941"
+    "ccu": 52,
+    "crawled_at": "2026-11-02T01:31:09.828983"
   },
   "Lost Castle 2": {
     "appid": 2445690,
@@ -1637,7 +1637,7 @@
       "release_date": "2026 年 6 月 10 日",
       "release_date_en": "10 Jun, 2026",
       "metacritic": 83,
-      "recommendations": 11152,
+      "recommendations": 11156,
       "platforms": {
         "windows": true,
         "mac": false,
@@ -1709,11 +1709,11 @@
       ]
     },
     "steamspy": {
-      "ccu": 758
+      "ccu": 631
     },
     "reviews": null,
-    "ccu": 758,
-    "crawled_at": "2026-11-01T00:59:03.205815"
+    "ccu": 631,
+    "crawled_at": "2026-11-02T01:31:25.615239"
   },
   "Deep Rock Galactic": {
     "appid": 548430,
@@ -1735,7 +1735,7 @@
       "release_date": "2020 年 5 月 13 日",
       "release_date_en": "13 May, 2020",
       "metacritic": 85,
-      "recommendations": 304271,
+      "recommendations": 304307,
       "platforms": {
         "windows": true,
         "mac": false,
@@ -1791,11 +1791,11 @@
       ]
     },
     "steamspy": {
-      "ccu": 4444
+      "ccu": 4892
     },
     "reviews": null,
-    "ccu": 4444,
-    "crawled_at": "2026-11-01T00:59:19.108564"
+    "ccu": 4892,
+    "crawled_at": "2026-11-02T01:31:40.954860"
   },
   "Among Us": {
     "appid": 945360,
@@ -1817,7 +1817,7 @@
       "release_date": "2018 年 11 月 16 日",
       "release_date_en": "16 Nov, 2018",
       "metacritic": 85,
-      "recommendations": 662952,
+      "recommendations": 663011,
       "platforms": {
         "windows": true,
         "mac": false,
@@ -1865,11 +1865,11 @@
       ]
     },
     "steamspy": {
-      "ccu": 6569
+      "ccu": 7390
     },
     "reviews": null,
-    "ccu": 6569,
-    "crawled_at": "2026-11-01T00:59:34.397975"
+    "ccu": 7390,
+    "crawled_at": "2026-11-02T01:31:55.516477"
   },
   "Sons Of The Forest": {
     "appid": 1326470,
@@ -1891,7 +1891,7 @@
       "release_date": "2024 年 2 月 22 日",
       "release_date_en": "22 Feb, 2024",
       "metacritic": null,
-      "recommendations": 288378,
+      "recommendations": 288534,
       "platforms": {
         "windows": true,
         "mac": false,
@@ -1939,11 +1939,11 @@
       ]
     },
     "steamspy": {
-      "ccu": 10906
+      "ccu": 12160
     },
     "reviews": null,
-    "ccu": 10906,
-    "crawled_at": "2026-11-01T00:59:50.324799"
+    "ccu": 12160,
+    "crawled_at": "2026-11-02T01:32:10.081255"
   },
   "Risk of Rain 2": {
     "appid": 632360,
@@ -1966,7 +1966,7 @@
       "release_date": "2020 年 8 月 11 日",
       "release_date_en": "11 Aug, 2020",
       "metacritic": 85,
-      "recommendations": 242581,
+      "recommendations": 242624,
       "platforms": {
         "windows": true,
         "mac": false,
@@ -2026,11 +2026,11 @@
       ]
     },
     "steamspy": {
-      "ccu": 12232
+      "ccu": 14091
     },
     "reviews": null,
-    "ccu": 12232,
-    "crawled_at": "2026-11-01T01:00:06.151077"
+    "ccu": 14091,
+    "crawled_at": "2026-11-02T01:32:24.723887"
   },
   "Windblown": {
     "appid": 1911610,
@@ -2053,7 +2053,7 @@
       "release_date": "2024 年 10 月 24 日",
       "release_date_en": "24 Oct, 2024",
       "metacritic": null,
-      "recommendations": 9163,
+      "recommendations": 9169,
       "platforms": {
         "windows": true,
         "mac": false,
@@ -2101,11 +2101,11 @@
       ]
     },
     "steamspy": {
-      "ccu": 206
+      "ccu": 229
     },
     "reviews": null,
-    "ccu": 206,
-    "crawled_at": "2026-11-01T01:00:21.593624"
+    "ccu": 229,
+    "crawled_at": "2026-11-02T01:32:39.812182"
   },
   "青蛙小队": {
     "appid": 3989960,
@@ -2175,11 +2175,11 @@
       ]
     },
     "steamspy": {
-      "ccu": 20
+      "ccu": 30
     },
     "reviews": null,
-    "ccu": 20,
-    "crawled_at": "2026-11-01T01:00:37.081776"
+    "ccu": 30,
+    "crawled_at": "2026-11-02T01:32:54.328431"
   },
   "Garry's Mod": {
     "appid": 4000,
@@ -2201,7 +2201,7 @@
       "release_date": "2006 年 11 月 29 日",
       "release_date_en": "29 Nov, 2006",
       "metacritic": null,
-      "recommendations": 1099629,
+      "recommendations": 1099829,
       "platforms": {
         "windows": true,
         "mac": true,
@@ -2273,11 +2273,11 @@
       ]
     },
     "steamspy": {
-      "ccu": 22943
+      "ccu": 22853
     },
     "reviews": null,
-    "ccu": 22943,
-    "crawled_at": "2026-11-01T01:00:52.978108"
+    "ccu": 22853,
+    "crawled_at": "2026-11-02T01:33:08.961857"
   },
   "Crab Game": {
     "appid": 1782210,
@@ -2337,11 +2337,11 @@
       ]
     },
     "steamspy": {
-      "ccu": 902
+      "ccu": 1011
     },
     "reviews": null,
-    "ccu": 902,
-    "crawled_at": "2026-11-01T01:01:08.556832"
+    "ccu": 1011,
+    "crawled_at": "2026-11-02T01:33:23.721933"
   },
   "Dead by Daylight": {
     "appid": 381210,
@@ -2363,7 +2363,7 @@
       "release_date": "2016 年 6 月 14 日",
       "release_date_en": "14 Jun, 2016",
       "metacritic": null,
-      "recommendations": 691838,
+      "recommendations": 692132,
       "platforms": {
         "windows": true,
         "mac": false,
@@ -2421,11 +2421,11 @@
       ]
     },
     "steamspy": {
-      "ccu": 50742
+      "ccu": 51383
     },
     "reviews": null,
-    "ccu": 50742,
-    "crawled_at": "2026-11-01T01:01:24.299535"
+    "ccu": 51383,
+    "crawled_at": "2026-11-02T01:33:38.821512"
   },
   "Dear Passengers": {
     "appid": 4534960,
@@ -2481,6 +2481,6 @@
     "steamspy": null,
     "reviews": null,
     "ccu": 0,
-    "crawled_at": "2026-11-01T01:01:43.215213"
+    "crawled_at": "2026-11-02T01:33:56.969467"
   }
 }
