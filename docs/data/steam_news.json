@@ -249,7 +249,7 @@
       "is_official": true,
       "contents": "Hey hey semibots! Here is yet another small update with some fixes and balancing! CHANGES BALANCING FIXES CHANGES Item Melee Weapons - Handling now properly scales with strength and should feel firmer"
     },
-    "crawled_at": "2026-11-02T01:38:56.372769"
+    "crawled_at": "2026-11-03T03:39:31.299338"
   },
   "Lethal Company": {
     "appid": 1966720,
@@ -501,11 +501,22 @@
       "is_official": true,
       "contents": "Hello, long time no see! Version 80 is out in beta for you to test. You can access it by opting into the public beta branch for Lethal Company on Steam. V80 brings a complete rework of March's exterio"
     },
-    "crawled_at": "2026-11-02T01:38:57.615786"
+    "crawled_at": "2026-11-03T03:39:32.552551"
   },
   "Phasmophobia": {
     "appid": 739630,
     "all": [
+      {
+        "date": "2026-11-02",
+        "datetime": "2026-11-02T11:48:09",
+        "title": "Phasmophobia - Development Preview #22",
+        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847920302247862",
+        "author": "Tom Dent",
+        "feed_label": "Community Announcements",
+        "is_patch": false,
+        "is_official": true,
+        "contents": "Welcome back, Ghost Hunters.We want to start this Development Preview, which contains a lot of exciting news for the rest of the year, with a heartfelt thank you to those that have continued to suppor"
+      },
       {
         "date": "2026-10-16",
         "datetime": "2026-10-16T13:00:52",
@@ -604,17 +615,6 @@
         "is_patch": false,
         "is_official": true,
         "contents": "Welcome back, Ghost Hunters.Thank you to everyone for the warm reception to our first Quality of Life update last month, and we’re glad to see many of you enjoying Phasmophobia once more.Today as prom"
-      },
-      {
-        "date": "2026-07-28",
-        "datetime": "2026-07-28T16:14:53",
-        "title": "Phasmophobia v0.18.0.1 - Hotfix",
-        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1839041357038727",
-        "author": "Tom Dent",
-        "feed_label": "Community Announcements",
-        "is_patch": true,
-        "is_official": true,
-        "contents": "Welcome back, Ghost Hunters. We've deployed a small hotfix to address feedback on the Equipment and Item slot assignments. Patch notes below: ChangesItems and Equipment will now be assigned a slot in "
       }
     ],
     "patches": [
@@ -628,20 +628,20 @@
         "is_patch": true,
         "is_official": true,
         "contents": "Welcome back, Ghost Hunters. We’ve got an update for you.Today, we have released an update for Phasmophobia to address two issues that have been raised by the community since the release of our last u"
-      },
-      {
-        "date": "2026-07-28",
-        "datetime": "2026-07-28T16:14:53",
-        "title": "Phasmophobia v0.18.0.1 - Hotfix",
-        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1839041357038727",
-        "author": "Tom Dent",
-        "feed_label": "Community Announcements",
-        "is_patch": true,
-        "is_official": true,
-        "contents": "Welcome back, Ghost Hunters. We've deployed a small hotfix to address feedback on the Equipment and Item slot assignments. Patch notes below: ChangesItems and Equipment will now be assigned a slot in "
       }
     ],
     "announcements": [
+      {
+        "date": "2026-11-02",
+        "datetime": "2026-11-02T11:48:09",
+        "title": "Phasmophobia - Development Preview #22",
+        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847920302247862",
+        "author": "Tom Dent",
+        "feed_label": "Community Announcements",
+        "is_patch": false,
+        "is_official": true,
+        "contents": "Welcome back, Ghost Hunters.We want to start this Development Preview, which contains a lot of exciting news for the rest of the year, with a heartfelt thank you to those that have continued to suppor"
+      },
       {
         "date": "2026-10-16",
         "datetime": "2026-10-16T13:00:52",
@@ -732,15 +732,15 @@
       }
     ],
     "latest": {
-      "date": "2026-10-16",
-      "datetime": "2026-10-16T13:00:52",
-      "title": "Ghost Hunts For Hearts Returns",
-      "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846651706681382",
+      "date": "2026-11-02",
+      "datetime": "2026-11-02T11:48:09",
+      "title": "Phasmophobia - Development Preview #22",
+      "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847920302247862",
       "author": "Tom Dent",
       "feed_label": "Community Announcements",
       "is_patch": false,
       "is_official": true,
-      "contents": "Welcome back, Ghost Hunters. Today we’re excited to announce the return of Ghost Hunts for Hearts in collaboration with our good friends at American Heart Association Liive.Last year, the Phasmophobia"
+      "contents": "Welcome back, Ghost Hunters.We want to start this Development Preview, which contains a lot of exciting news for the rest of the year, with a heartfelt thank you to those that have continued to suppor"
     },
     "latest_patch": {
       "date": "2026-09-16",
@@ -753,7 +753,7 @@
       "is_official": true,
       "contents": "Welcome back, Ghost Hunters. We’ve got an update for you.Today, we have released an update for Phasmophobia to address two issues that have been raised by the community since the release of our last u"
     },
-    "crawled_at": "2026-11-02T01:38:58.828738"
+    "crawled_at": "2026-11-03T03:39:33.759805"
   },
   "Content Warning": {
     "appid": 2881650,
@@ -1005,7 +1005,7 @@
       "is_official": true,
       "contents": "Hello Spööktubers! Thank you for your patience as we're fixing bugs on all platforms.Here's a new patch fixing some stuff!For those of you wondering when crossplay between Switch 1 & 2 and other platf"
     },
-    "crawled_at": "2026-11-02T01:39:00.268046"
+    "crawled_at": "2026-11-03T03:39:35.000949"
   },
   "FEEDERS": {
     "appid": 4408510,
@@ -1256,7 +1256,7 @@
       "is_official": true,
       "contents": "Gave the HUD a fresh redesign. New look across the board — the status bars (Health, Stamina, Radiation) and the bottom belt all got reworked. Same info, cleaner read. More guns coming with new solo ex"
     },
-    "crawled_at": "2026-11-02T01:39:01.484446"
+    "crawled_at": "2026-11-03T03:39:36.237129"
   },
   "NARAKA: BLADEPOINT": {
     "appid": 1203220,
@@ -1497,11 +1497,22 @@
       "contents": "Dear players,NARAKA: BLADEPOINT is committed to creating a fair and healthy competitive environment. We have not only used new anti-cheat technologies, but also established special cheat-reporting rew"
     },
     "latest_patch": null,
-    "crawled_at": "2026-11-02T01:39:02.606637"
+    "crawled_at": "2026-11-03T03:39:37.436508"
   },
   "Dead by Daylight": {
     "appid": 381210,
     "all": [
+      {
+        "date": "2026-11-02",
+        "datetime": "2026-11-02T07:05:47",
+        "title": "Разработчики Dead by Daylight подарили все DLC популярному стримеру и извинились перед игроками после негативной реакции",
+        "url": "https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1847920302247226",
+        "author": "",
+        "feed_label": "PlayGround.ru - официальная группа",
+        "is_patch": false,
+        "is_official": false,
+        "contents": "Студия Behaviour Interactive, разработчик хоррор-игры Dead by Daylight, извинилась перед сообществом после того, как популярному Twitch-стримеру TheBurntPeanut во время трансляции бесплатно выдали вес"
+      },
       {
         "date": "2026-10-30",
         "datetime": "2026-10-30T19:52:18",
@@ -1600,17 +1611,6 @@
         "is_patch": false,
         "is_official": true,
         "contents": "Whether you were able to tune in live (thanks!) or you're dropping by to get a tl;dr, we're here to give you a recap of some highlights from today's community stream:  MMR UPDATE As you may remember, "
-      },
-      {
-        "date": "2026-10-21",
-        "datetime": "2026-10-21T00:14:47",
-        "title": "В Dead by Daylight стартовало событие в честь коллаборации с Diablo 4",
-        "url": "https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1847286114027123",
-        "author": "",
-        "feed_label": "PlayGround.ru - официальная группа",
-        "is_patch": false,
-        "is_official": false,
-        "contents": "Разработчики Dead by Daylight запустили совместное событие с Diablo 4, добавив во внутриигровой магазин коллекцию образов ключевых персонажей Санктуария. С запуском события разработчики опубликовали н"
       }
     ],
     "patches": [
@@ -1628,6 +1628,17 @@
     ],
     "announcements": [
       {
+        "date": "2026-11-02",
+        "datetime": "2026-11-02T07:05:47",
+        "title": "Разработчики Dead by Daylight подарили все DLC популярному стримеру и извинились перед игроками после негативной реакции",
+        "url": "https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1847920302247226",
+        "author": "",
+        "feed_label": "PlayGround.ru - официальная группа",
+        "is_patch": false,
+        "is_official": false,
+        "contents": "Студия Behaviour Interactive, разработчик хоррор-игры Dead by Daylight, извинилась перед сообществом после того, как популярному Twitch-стримеру TheBurntPeanut во время трансляции бесплатно выдали вес"
+      },
+      {
         "date": "2026-10-30",
         "datetime": "2026-10-30T19:52:18",
         "title": "Custom Alienware Laptop Sweepstakes",
@@ -1714,29 +1725,18 @@
         "is_patch": false,
         "is_official": true,
         "contents": "Whether you were able to tune in live (thanks!) or you're dropping by to get a tl;dr, we're here to give you a recap of some highlights from today's community stream:  MMR UPDATE As you may remember, "
-      },
-      {
-        "date": "2026-10-21",
-        "datetime": "2026-10-21T00:14:47",
-        "title": "В Dead by Daylight стартовало событие в честь коллаборации с Diablo 4",
-        "url": "https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1847286114027123",
-        "author": "",
-        "feed_label": "PlayGround.ru - официальная группа",
-        "is_patch": false,
-        "is_official": false,
-        "contents": "Разработчики Dead by Daylight запустили совместное событие с Diablo 4, добавив во внутриигровой магазин коллекцию образов ключевых персонажей Санктуария. С запуском события разработчики опубликовали н"
       }
     ],
     "latest": {
-      "date": "2026-10-30",
-      "datetime": "2026-10-30T19:52:18",
-      "title": "Custom Alienware Laptop Sweepstakes",
-      "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847920302240241",
-      "author": "Steven_BHVR",
-      "feed_label": "Community Announcements",
+      "date": "2026-11-02",
+      "datetime": "2026-11-02T07:05:47",
+      "title": "Разработчики Dead by Daylight подарили все DLC популярному стримеру и извинились перед игроками после негативной реакции",
+      "url": "https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1847920302247226",
+      "author": "",
+      "feed_label": "PlayGround.ru - официальная группа",
       "is_patch": false,
-      "is_official": true,
-      "contents": "To celebrate the Halloween season, our partners at Alienware have a sweet treat for you! From now until November 22nd, enter for a chance to win a custom-skinned Alienware 16X Aurora gaming laptop, co"
+      "is_official": false,
+      "contents": "Студия Behaviour Interactive, разработчик хоррор-игры Dead by Daylight, извинилась перед сообществом после того, как популярному Twitch-стримеру TheBurntPeanut во время трансляции бесплатно выдали вес"
     },
     "latest_patch": {
       "date": "2026-10-29",
@@ -1749,6 +1749,6 @@
       "is_official": true,
       "contents": "Last week, we introduced the Backend Tunables system as a way to get small balance changes in your hands quicker without having to wait for patch releases. We mentioned having changes planned for a nu"
     },
-    "crawled_at": "2026-11-02T01:39:03.814679"
+    "crawled_at": "2026-11-03T03:39:38.652358"
   }
 }

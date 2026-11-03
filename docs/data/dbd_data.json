@@ -1,17 +1,28 @@
 {
-  "snapshot_date": "2026-11-02T01:37:26+08:00",
+  "snapshot_date": "2026-11-03T03:37:52+08:00",
   "hero": {
     "name": "黎明杀机",
-    "current_players": 51383,
+    "current_players": 44731,
     "positive_rate": 78.5,
     "reviews_total": 903715,
-    "price_label": "¥ 37.50",
+    "price_label": "¥ 93.75",
     "release_date": "2016 年 6 月 14 日",
     "genres": [
       "动作"
     ]
   },
   "operations": [
+    {
+      "date": "2026-11-02",
+      "timestamp": 1793603147,
+      "title": "Разработчики Dead by Daylight подарили все DLC популярному стримеру и извинились перед игроками после негативной реакции",
+      "url": "https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1847920302247226",
+      "author": "",
+      "feed_label": "PlayGround.ru - официальная группа",
+      "feed_type": "媒体",
+      "is_patch": false,
+      "contents": "Студия Behaviour Interactive, разработчик хоррор-игры Dead by Daylight, извинилась перед сообществом после того, как популярному Twitch-стримеру TheBurntPeanut во время трансляции бесплатно выдали вес"
+    },
     {
       "date": "2026-10-30",
       "timestamp": 1793389938,
@@ -88,17 +99,6 @@
       "feed_type": "官方",
       "is_patch": false,
       "contents": "Mother of Sanctuary. Lord of Hatred. Lord of Lies. Hell is coming to The Fog.Even in the Burning Hells, nothing escapes The Entity’s reach. With 30 years of soul-shattering horrors at its disposal, Th"
-    },
-    {
-      "date": "2026-10-22",
-      "timestamp": 1792698657,
-      "title": "October Community Stream Recap",
-      "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847286114034014",
-      "author": "Goblin_BHVR",
-      "feed_label": "Community Announcements",
-      "feed_type": "官方",
-      "is_patch": false,
-      "contents": "Whether you were able to tune in live (thanks!) or you're dropping by to get a tl;dr, we're here to give you a recap of some highlights from today's community stream:  MMR UPDATE As you may remember, "
     }
   ],
   "patches": [
@@ -180,8 +180,8 @@
     "publishers": [
       "Behaviour Interactive Inc."
     ],
-    "price": "¥ 37.50",
-    "price_en": "$7.99",
+    "price": "¥ 93.75",
+    "price_en": "$19.99",
     "release_date": "2016 年 6 月 14 日",
     "platforms": {
       "windows": true,
@@ -193,6 +193,6 @@
     ]
   },
   "reviews": null,
-  "ccu": 51383,
-  "crawled_at": "2026-11-02T01:37:26.889098"
+  "ccu": 44731,
+  "crawled_at": "2026-11-03T03:37:52.969928"
 }
