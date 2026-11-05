@@ -249,7 +249,7 @@
       "is_official": true,
       "contents": "Hey hey semibots! Here is yet another small update with some fixes and balancing! CHANGES BALANCING FIXES CHANGES Item Melee Weapons - Handling now properly scales with strength and should feel firmer"
     },
-    "crawled_at": "2026-11-04T02:19:35.930948"
+    "crawled_at": "2026-11-05T02:23:21.860149"
   },
   "Lethal Company": {
     "appid": 1966720,
@@ -501,7 +501,7 @@
       "is_official": true,
       "contents": "Hello, long time no see! Version 80 is out in beta for you to test. You can access it by opting into the public beta branch for Lethal Company on Steam. V80 brings a complete rework of March's exterio"
     },
-    "crawled_at": "2026-11-04T02:19:37.177062"
+    "crawled_at": "2026-11-05T02:23:23.094660"
   },
   "Phasmophobia": {
     "appid": 739630,
@@ -753,7 +753,7 @@
       "is_official": true,
       "contents": "Welcome back, Ghost Hunters. We’ve got an update for you.Today, we have released an update for Phasmophobia to address two issues that have been raised by the community since the release of our last u"
     },
-    "crawled_at": "2026-11-04T02:19:38.432390"
+    "crawled_at": "2026-11-05T02:23:24.307979"
   },
   "Content Warning": {
     "appid": 2881650,
@@ -1005,7 +1005,7 @@
       "is_official": true,
       "contents": "Hello Spööktubers! Thank you for your patience as we're fixing bugs on all platforms.Here's a new patch fixing some stuff!For those of you wondering when crossplay between Switch 1 & 2 and other platf"
     },
-    "crawled_at": "2026-11-04T02:19:39.729391"
+    "crawled_at": "2026-11-05T02:23:25.553615"
   },
   "FEEDERS": {
     "appid": 4408510,
@@ -1256,12 +1256,23 @@
       "is_official": true,
       "contents": "Gave the HUD a fresh redesign. New look across the board — the status bars (Health, Stamina, Radiation) and the bottom belt all got reworked. Same info, cleaner read. More guns coming with new solo ex"
     },
-    "crawled_at": "2026-11-04T02:19:40.977680"
+    "crawled_at": "2026-11-05T02:23:26.766332"
   },
   "NARAKA: BLADEPOINT": {
     "appid": 1203220,
     "all": [
       {
+        "date": "2026-11-04",
+        "datetime": "2026-11-04T15:40:35",
+        "title": "NARAKA: BLADEPOINT Update – November 5th, 2026",
+        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1848557880479637",
+        "author": "Yeeeeee",
+        "feed_label": "Community Announcements",
+        "is_patch": false,
+        "is_official": true,
+        "contents": "Dear players,The servers of NARAKA： BLADEPOINT will be suspended for maintenance from Nov 4th, 2026 23：00 (UTC) to Nov 5th, 2026 04：00 (UTC). We suggest you log out in advance and enter the game again"
+      },
+      {
         "date": "2026-11-03",
         "datetime": "2026-11-03T13:43:40",
         "title": "NARAKA: BLADEPOINT Banned Players List November 3rd",
@@ -1359,22 +1370,22 @@
         "is_patch": false,
         "is_official": true,
         "contents": "Dear players, The servers of NARAKA: BLADEPOINT will be suspended for maintenance from Sep. 16th, 2026 23:00 (UTC) to Sep. 17th, 2026 04:00 (UTC). We suggest you log out in advance and enter the game "
-      },
-      {
-        "date": "2026-09-16",
-        "datetime": "2026-09-16T06:51:53",
-        "title": "NARAKA: BLADEPOINT Banned Players List September 15th",
-        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844115010488275",
-        "author": "Yeeeeee",
-        "feed_label": "Community Announcements",
-        "is_patch": false,
-        "is_official": true,
-        "contents": "Dear players,NARAKA: BLADEPOINT is committed to creating a fair and healthy competitive environment. We have not only used new anti-cheat technologies, but also established special cheat-reporting rew"
       }
     ],
     "patches": [],
     "announcements": [
       {
+        "date": "2026-11-04",
+        "datetime": "2026-11-04T15:40:35",
+        "title": "NARAKA: BLADEPOINT Update – November 5th, 2026",
+        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1848557880479637",
+        "author": "Yeeeeee",
+        "feed_label": "Community Announcements",
+        "is_patch": false,
+        "is_official": true,
+        "contents": "Dear players,The servers of NARAKA： BLADEPOINT will be suspended for maintenance from Nov 4th, 2026 23：00 (UTC) to Nov 5th, 2026 04：00 (UTC). We suggest you log out in advance and enter the game again"
+      },
+      {
         "date": "2026-11-03",
         "datetime": "2026-11-03T13:43:40",
         "title": "NARAKA: BLADEPOINT Banned Players List November 3rd",
@@ -1472,36 +1483,36 @@
         "is_patch": false,
         "is_official": true,
         "contents": "Dear players, The servers of NARAKA: BLADEPOINT will be suspended for maintenance from Sep. 16th, 2026 23:00 (UTC) to Sep. 17th, 2026 04:00 (UTC). We suggest you log out in advance and enter the game "
-      },
-      {
-        "date": "2026-09-16",
-        "datetime": "2026-09-16T06:51:53",
-        "title": "NARAKA: BLADEPOINT Banned Players List September 15th",
-        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844115010488275",
-        "author": "Yeeeeee",
-        "feed_label": "Community Announcements",
-        "is_patch": false,
-        "is_official": true,
-        "contents": "Dear players,NARAKA: BLADEPOINT is committed to creating a fair and healthy competitive environment. We have not only used new anti-cheat technologies, but also established special cheat-reporting rew"
       }
     ],
     "latest": {
-      "date": "2026-11-03",
-      "datetime": "2026-11-03T13:43:40",
-      "title": "NARAKA: BLADEPOINT Banned Players List November 3rd",
-      "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847920302252036",
+      "date": "2026-11-04",
+      "datetime": "2026-11-04T15:40:35",
+      "title": "NARAKA: BLADEPOINT Update – November 5th, 2026",
+      "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1848557880479637",
       "author": "Yeeeeee",
       "feed_label": "Community Announcements",
       "is_patch": false,
       "is_official": true,
-      "contents": "Dear players,NARAKA: BLADEPOINT is committed to creating a fair and healthy competitive environment. We have not only used new anti-cheat technologies, but also established special cheat-reporting rew"
+      "contents": "Dear players,The servers of NARAKA： BLADEPOINT will be suspended for maintenance from Nov 4th, 2026 23：00 (UTC) to Nov 5th, 2026 04：00 (UTC). We suggest you log out in advance and enter the game again"
     },
     "latest_patch": null,
-    "crawled_at": "2026-11-04T02:19:42.191986"
+    "crawled_at": "2026-11-05T02:23:27.972509"
   },
   "Dead by Daylight": {
     "appid": 381210,
     "all": [
+      {
+        "date": "2026-11-04",
+        "datetime": "2026-11-04T16:14:53",
+        "title": "Dead by Daylight apologises to fans after gifting DLC to TheBurntPeanut and has since 'removed the content that was granted'",
+        "url": "https://steamstore-a.akamaihd.net/news/externalpost/PC Gamer/1848557880479806",
+        "author": "Elie Gould",
+        "feed_label": "PC Gamer",
+        "is_patch": false,
+        "is_official": false,
+        "contents": "<a href=\"https://www.pcgamer.com/dead-by-daylight/\">Dead by Daylight's</a> devs have found themselves in hot water and in the middle of quite a mess. In short, over the Halloween weekend a team member"
+      },
       {
         "date": "2026-11-03",
         "datetime": "2026-11-03T09:00:00",
@@ -1600,17 +1611,6 @@
         "is_patch": false,
         "is_official": false,
         "contents": "Студия Behaviour Interactive, разработчик Dead by Daylight, прокомментировала предстоящее удаление Чаки из магазина игры и заверила поклонников, что культовые персонажи хорроров смогут вернуться в буд"
-      },
-      {
-        "date": "2026-10-23",
-        "datetime": "2026-10-23T18:00:50",
-        "title": "Dead By Daylight x Diablo Collection OUT NOW",
-        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847286114037461",
-        "author": "Goblin_BHVR",
-        "feed_label": "Community Announcements",
-        "is_patch": false,
-        "is_official": true,
-        "contents": "Mother of Sanctuary. Lord of Hatred. Lord of Lies. Hell is coming to The Fog.Even in the Burning Hells, nothing escapes The Entity’s reach. With 30 years of soul-shattering horrors at its disposal, Th"
       }
     ],
     "patches": [
@@ -1628,6 +1628,17 @@
     ],
     "announcements": [
       {
+        "date": "2026-11-04",
+        "datetime": "2026-11-04T16:14:53",
+        "title": "Dead by Daylight apologises to fans after gifting DLC to TheBurntPeanut and has since 'removed the content that was granted'",
+        "url": "https://steamstore-a.akamaihd.net/news/externalpost/PC Gamer/1848557880479806",
+        "author": "Elie Gould",
+        "feed_label": "PC Gamer",
+        "is_patch": false,
+        "is_official": false,
+        "contents": "<a href=\"https://www.pcgamer.com/dead-by-daylight/\">Dead by Daylight's</a> devs have found themselves in hot water and in the middle of quite a mess. In short, over the Halloween weekend a team member"
+      },
+      {
         "date": "2026-11-03",
         "datetime": "2026-11-03T09:00:00",
         "title": "Steam Global Top Sellers for week of 27 Oct — 3 November 2026",
@@ -1714,29 +1725,18 @@
         "is_patch": false,
         "is_official": false,
         "contents": "Студия Behaviour Interactive, разработчик Dead by Daylight, прокомментировала предстоящее удаление Чаки из магазина игры и заверила поклонников, что культовые персонажи хорроров смогут вернуться в буд"
-      },
-      {
-        "date": "2026-10-23",
-        "datetime": "2026-10-23T18:00:50",
-        "title": "Dead By Daylight x Diablo Collection OUT NOW",
-        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847286114037461",
-        "author": "Goblin_BHVR",
-        "feed_label": "Community Announcements",
-        "is_patch": false,
-        "is_official": true,
-        "contents": "Mother of Sanctuary. Lord of Hatred. Lord of Lies. Hell is coming to The Fog.Even in the Burning Hells, nothing escapes The Entity’s reach. With 30 years of soul-shattering horrors at its disposal, Th"
       }
     ],
     "latest": {
-      "date": "2026-11-03",
-      "datetime": "2026-11-03T09:00:00",
-      "title": "Steam Global Top Sellers for week of 27 Oct — 3 November 2026",
-      "url": "https://steamstore-a.akamaihd.net/news/externalpost/SteamDB/1847920302252093",
-      "author": "SteamDB",
-      "feed_label": "SteamDB",
+      "date": "2026-11-04",
+      "datetime": "2026-11-04T16:14:53",
+      "title": "Dead by Daylight apologises to fans after gifting DLC to TheBurntPeanut and has since 'removed the content that was granted'",
+      "url": "https://steamstore-a.akamaihd.net/news/externalpost/PC Gamer/1848557880479806",
+      "author": "Elie Gould",
+      "feed_label": "PC Gamer",
       "is_patch": false,
       "is_official": false,
-      "contents": "<a href=\"https://steamdb.info/topsellers/2026W45/?utm_source=Steam&utm_medium=Steam&utm_campaign=SteamRSS\"> </a> * <a href=\"https://steamdb.info/app/4115450/charts/?utm_source=Steam&utm_medium=Steam&u"
+      "contents": "<a href=\"https://www.pcgamer.com/dead-by-daylight/\">Dead by Daylight's</a> devs have found themselves in hot water and in the middle of quite a mess. In short, over the Halloween weekend a team member"
     },
     "latest_patch": {
       "date": "2026-10-29",
@@ -1749,6 +1749,6 @@
       "is_official": true,
       "contents": "Last week, we introduced the Backend Tunables system as a way to get small balance changes in your hands quicker without having to wait for patch releases. We mentioned having changes planned for a nu"
     },
-    "crawled_at": "2026-11-04T02:19:43.443574"
+    "crawled_at": "2026-11-05T02:23:29.190412"
   }
 }
