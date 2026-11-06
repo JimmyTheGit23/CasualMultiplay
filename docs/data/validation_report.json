@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "validated_at": "2026-11-05T10:24:17.017580+08:00",
-    "date": "2026-11-05",
+    "validated_at": "2026-11-06T10:23:47.596459+08:00",
+    "date": "2026-11-06",
     "passed": true,
     "total_checks": 18,
     "pass_count": 18,
@@ -108,7 +108,7 @@
     {
       "name": "history 最新日期",
       "status": "PASS",
-      "message": "今天 (2026-11-05) 数据已入库",
+      "message": "今天 (2026-11-06) 数据已入库",
       "details": []
     },
     {

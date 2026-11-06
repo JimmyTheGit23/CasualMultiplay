@@ -1,5 +1,5 @@
 {
-  "snapshot_date": "2026-11-05T02:21:45.106402+00:00",
+  "snapshot_date": "2026-11-06T02:21:14.935853+00:00",
   "hero": {
     "title": "R.E.P.O.",
     "title_en": "R.E.P.O.",
@@ -8,6 +8,16 @@
     "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3241660/62177765c05399116f0453fe1177b00ceed698c4/header_alt_assets_3.jpg?t=1793278962"
   },
   "operations": [
+    {
+      "date": "2026-11-05",
+      "timestamp": 1793869629,
+      "title": "R.E.P.O. v0.5.1",
+      "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1848664643340421",
+      "source": "官方",
+      "type_zh": "版本更新",
+      "type_en": "Patch",
+      "contents": "Hey hey semibots! Here is a small update with some fixes for our latest content update! NEW CHANGES BALANCING FIXES NEW Keybinding - Added the ability to unbind optional keybinds (chat, expressions, and voice chat). Added gamepad keybinds for chat, push-to-talk, and toggle mute. Gamepad - Added game"
+    },
     {
       "date": "2026-10-29",
       "timestamp": 1793285398,
@@ -147,19 +157,19 @@
       "type_zh": "版本更新",
       "type_en": "Patch",
       "contents": "REPO is gearing up to release its next update, the Cosmetic Update, and thanks to a shiny <a href=\"https://www.youtube.com/watch?v=ArkeOU4FDwU\">new video uploaded to the Semiwork YouTube channel</a>, we've got a sneak peek into what exactly this launch will involve. It's easy to assume that the upda"
-    },
-    {
-      "date": "2026-02-20",
-      "timestamp": 1771592812,
-      "title": "The CONTENT SITUATION is CRAZY",
-      "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1825093633187731",
-      "source": "官方",
-      "type_zh": "公告",
-      "type_en": "Announcement",
-      "contents": "Hey hey semibots! It’s time for another devlog! Yes, can you even believe it?? You may watch it here: For those of you who’d like to read instead of watching the video, here’s the key takeaways: NEXT UPDATE BIGGER THAN ANTICIPATED The upcoming update started out with the main focus being cosmetics, "
     }
   ],
   "patches": [
+    {
+      "date": "2026-11-05",
+      "timestamp": 1793869629,
+      "title": "R.E.P.O. v0.5.1",
+      "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1848664643340421",
+      "source": "官方",
+      "type_zh": "版本更新",
+      "type_en": "Patch",
+      "contents": "Hey hey semibots! Here is a small update with some fixes for our latest content update! NEW CHANGES BALANCING FIXES NEW Keybinding - Added the ability to unbind optional keybinds (chat, expressions, and voice chat). Added gamepad keybinds for chat, push-to-talk, and toggle mute. Gamepad - Added game"
+    },
     {
       "date": "2026-10-29",
       "timestamp": 1793279213,
@@ -275,6 +285,6 @@
     "is_free": false
   },
   "reviews": null,
-  "ccu": 26814,
-  "crawled_at": "2026-11-05T02:21:45.106402+00:00"
+  "ccu": 26262,
+  "crawled_at": "2026-11-06T02:21:14.935853+00:00"
 }
