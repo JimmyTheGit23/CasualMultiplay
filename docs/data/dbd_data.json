@@ -1,8 +1,8 @@
 {
-  "snapshot_date": "2026-11-09T01:48:25+08:00",
+  "snapshot_date": "2026-11-10T04:14:14+08:00",
   "hero": {
     "name": "黎明杀机",
-    "current_players": 39825,
+    "current_players": 34152,
     "positive_rate": 78.5,
     "reviews_total": 903715,
     "price_label": "¥ 93.75",
@@ -103,6 +103,17 @@
   ],
   "patches": [
     {
+      "date": "2026-11-09",
+      "timestamp": 1794251336,
+      "title": "10.2.2b Backend Patch",
+      "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1848664643356687",
+      "author": "rblanchard_bhvr",
+      "feed_label": "Community Announcements",
+      "feed_type": "官方",
+      "is_patch": true,
+      "contents": "Towards the end of October, we released a small balance patch using our new Backend Tunables system, adjusting The Executioner and The Good Guy. After working through your feedback and watching both o"
+    },
+    {
       "date": "2026-10-29",
       "timestamp": 1793286360,
       "title": "10.2.2a Backend Bugfix Patch",
@@ -112,17 +123,6 @@
       "feed_type": "官方",
       "is_patch": true,
       "contents": "Last week, we introduced the Backend Tunables system as a way to get small balance changes in your hands quicker without having to wait for patch releases. We mentioned having changes planned for a nu"
-    },
-    {
-      "date": "2026-10-20",
-      "timestamp": 1792508499,
-      "title": "10.2.2 | Bugfix Patch",
-      "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846651706695628",
-      "author": "rblanchard_bhvr",
-      "feed_label": "Community Announcements",
-      "feed_type": "官方",
-      "is_patch": true,
-      "contents": "ContentKiller Perk UpdatesDark ArroganceYou basic-vault Windows 15/20/25% faster.Your basic-attack cooldown is 10% shorter. (was only missed, and 15/20/25%)Whenever you are blinded or Pallet-stunned, "
     }
   ],
   "trends": [
@@ -182,6 +182,6 @@
     ]
   },
   "reviews": null,
-  "ccu": 39825,
-  "crawled_at": "2026-11-09T01:48:25.966505"
+  "ccu": 34152,
+  "crawled_at": "2026-11-10T04:14:14.725787"
 }

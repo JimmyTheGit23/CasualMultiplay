@@ -249,7 +249,7 @@
       "is_official": true,
       "contents": "Hey hey semibots! Here is a small update with some fixes for our latest content update! NEW CHANGES BALANCING FIXES NEW Keybinding - Added the ability to unbind optional keybinds (chat, expressions, a"
     },
-    "crawled_at": "2026-11-09T01:50:10.597181"
+    "crawled_at": "2026-11-10T04:15:45.268754"
   },
   "Lethal Company": {
     "appid": 1966720,
@@ -501,7 +501,7 @@
       "is_official": true,
       "contents": "Hello, long time no see! Version 80 is out in beta for you to test. You can access it by opting into the public beta branch for Lethal Company on Steam. V80 brings a complete rework of March's exterio"
     },
-    "crawled_at": "2026-11-09T01:50:11.891025"
+    "crawled_at": "2026-11-10T04:15:46.489355"
   },
   "Phasmophobia": {
     "appid": 739630,
@@ -753,7 +753,7 @@
       "is_official": true,
       "contents": "Welcome back, Ghost Hunters. We’ve got an update for you.Today, we have released an update for Phasmophobia to address two issues that have been raised by the community since the release of our last u"
     },
-    "crawled_at": "2026-11-09T01:50:13.139382"
+    "crawled_at": "2026-11-10T04:15:47.704486"
   },
   "Content Warning": {
     "appid": 2881650,
@@ -1005,7 +1005,7 @@
       "is_official": true,
       "contents": "Hello Spööktubers! Thank you for your patience as we're fixing bugs on all platforms.Here's a new patch fixing some stuff!For those of you wondering when crossplay between Switch 1 & 2 and other platf"
     },
-    "crawled_at": "2026-11-09T01:50:14.375082"
+    "crawled_at": "2026-11-10T04:15:48.954079"
   },
   "FEEDERS": {
     "appid": 4408510,
@@ -1256,7 +1256,7 @@
       "is_official": true,
       "contents": "Gave the HUD a fresh redesign. New look across the board — the status bars (Health, Stamina, Radiation) and the bottom belt all got reworked. Same info, cleaner read. More guns coming with new solo ex"
     },
-    "crawled_at": "2026-11-09T01:50:15.733363"
+    "crawled_at": "2026-11-10T04:15:50.213637"
   },
   "NARAKA: BLADEPOINT": {
     "appid": 1203220,
@@ -1497,11 +1497,22 @@
       "contents": "Dear players,The servers of NARAKA： BLADEPOINT will be suspended for maintenance from Nov 4th, 2026 23：00 (UTC) to Nov 5th, 2026 04：00 (UTC). We suggest you log out in advance and enter the game again"
     },
     "latest_patch": null,
-    "crawled_at": "2026-11-09T01:50:16.967644"
+    "crawled_at": "2026-11-10T04:15:51.395836"
   },
   "Dead by Daylight": {
     "appid": 381210,
     "all": [
+      {
+        "date": "2026-11-09",
+        "datetime": "2026-11-09T19:08:56",
+        "title": "10.2.2b Backend Patch",
+        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1848664643356687",
+        "author": "rblanchard_bhvr",
+        "feed_label": "Community Announcements",
+        "is_patch": true,
+        "is_official": true,
+        "contents": "Towards the end of October, we released a small balance patch using our new Backend Tunables system, adjusting The Executioner and The Good Guy. After working through your feedback and watching both o"
+      },
       {
         "date": "2026-11-06",
         "datetime": "2026-11-06T19:51:07",
@@ -1600,20 +1611,20 @@
         "is_patch": false,
         "is_official": true,
         "contents": "ContentNew Killer: The TerrifierPower: Bag of Toys Hold the Ability button to open your Bag of Toys and select one of two random Toys. The Bag of Toys enters a cooldown state and cannot be opened agai"
-      },
-      {
-        "date": "2026-10-27",
-        "datetime": "2026-10-27T09:00:00",
-        "title": "Steam Global Top Sellers for week of 20 Oct — 27 October 2026",
-        "url": "https://steamstore-a.akamaihd.net/news/externalpost/SteamDB/1847286114048931",
-        "author": "SteamDB",
-        "feed_label": "SteamDB",
-        "is_patch": false,
-        "is_official": false,
-        "contents": "<a href=\"https://steamdb.info/topsellers/2026W44/?utm_source=Steam&utm_medium=Steam&utm_campaign=SteamRSS\"> </a> * <a href=\"https://steamdb.info/app/4435490/charts/?utm_source=Steam&utm_medium=Steam&u"
       }
     ],
     "patches": [
+      {
+        "date": "2026-11-09",
+        "datetime": "2026-11-09T19:08:56",
+        "title": "10.2.2b Backend Patch",
+        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1848664643356687",
+        "author": "rblanchard_bhvr",
+        "feed_label": "Community Announcements",
+        "is_patch": true,
+        "is_official": true,
+        "contents": "Towards the end of October, we released a small balance patch using our new Backend Tunables system, adjusting The Executioner and The Good Guy. After working through your feedback and watching both o"
+      },
       {
         "date": "2026-10-29",
         "datetime": "2026-10-29T15:06:00",
@@ -1714,41 +1725,30 @@
         "is_patch": false,
         "is_official": true,
         "contents": "ContentNew Killer: The TerrifierPower: Bag of Toys Hold the Ability button to open your Bag of Toys and select one of two random Toys. The Bag of Toys enters a cooldown state and cannot be opened agai"
-      },
-      {
-        "date": "2026-10-27",
-        "datetime": "2026-10-27T09:00:00",
-        "title": "Steam Global Top Sellers for week of 20 Oct — 27 October 2026",
-        "url": "https://steamstore-a.akamaihd.net/news/externalpost/SteamDB/1847286114048931",
-        "author": "SteamDB",
-        "feed_label": "SteamDB",
-        "is_patch": false,
-        "is_official": false,
-        "contents": "<a href=\"https://steamdb.info/topsellers/2026W44/?utm_source=Steam&utm_medium=Steam&utm_campaign=SteamRSS\"> </a> * <a href=\"https://steamdb.info/app/4435490/charts/?utm_source=Steam&utm_medium=Steam&u"
       }
     ],
     "latest": {
-      "date": "2026-11-06",
-      "datetime": "2026-11-06T19:51:07",
-      "title": "В Dead by Daylight появились новые облики героев \"Очень странных дел\" - представлен трейлер коллекции",
-      "url": "https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1848664643347990",
-      "author": "",
-      "feed_label": "PlayGround.ru - официальная группа",
-      "is_patch": false,
-      "is_official": false,
-      "contents": "Студия Behaviour Interactive представила новый трейлер Dead by Daylight, посвящённый сотрудничеству с популярным сериалом «Очень странные дела» (Stranger Things). В честь Stranger Things Day разработч"
-    },
-    "latest_patch": {
-      "date": "2026-10-29",
-      "datetime": "2026-10-29T15:06:00",
-      "title": "10.2.2a Backend Bugfix Patch",
-      "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847920302235142",
-      "author": "Goblin_BHVR",
+      "date": "2026-11-09",
+      "datetime": "2026-11-09T19:08:56",
+      "title": "10.2.2b Backend Patch",
+      "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1848664643356687",
+      "author": "rblanchard_bhvr",
       "feed_label": "Community Announcements",
       "is_patch": true,
       "is_official": true,
-      "contents": "Last week, we introduced the Backend Tunables system as a way to get small balance changes in your hands quicker without having to wait for patch releases. We mentioned having changes planned for a nu"
+      "contents": "Towards the end of October, we released a small balance patch using our new Backend Tunables system, adjusting The Executioner and The Good Guy. After working through your feedback and watching both o"
     },
-    "crawled_at": "2026-11-09T01:50:18.287557"
+    "latest_patch": {
+      "date": "2026-11-09",
+      "datetime": "2026-11-09T19:08:56",
+      "title": "10.2.2b Backend Patch",
+      "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1848664643356687",
+      "author": "rblanchard_bhvr",
+      "feed_label": "Community Announcements",
+      "is_patch": true,
+      "is_official": true,
+      "contents": "Towards the end of October, we released a small balance patch using our new Backend Tunables system, adjusting The Executioner and The Good Guy. After working through your feedback and watching both o"
+    },
+    "crawled_at": "2026-11-10T04:15:52.597072"
   }
 }
