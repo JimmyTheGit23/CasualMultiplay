@@ -249,7 +249,7 @@
       "is_official": true,
       "contents": "Hey hey semibots! Here is a small update with some fixes for our latest content update! NEW CHANGES BALANCING FIXES NEW Keybinding - Added the ability to unbind optional keybinds (chat, expressions, a"
     },
-    "crawled_at": "2026-11-10T04:15:45.268754"
+    "crawled_at": "2026-11-11T02:03:07.148490"
   },
   "Lethal Company": {
     "appid": 1966720,
@@ -501,11 +501,22 @@
       "is_official": true,
       "contents": "Hello, long time no see! Version 80 is out in beta for you to test. You can access it by opting into the public beta branch for Lethal Company on Steam. V80 brings a complete rework of March's exterio"
     },
-    "crawled_at": "2026-11-10T04:15:46.489355"
+    "crawled_at": "2026-11-11T02:03:08.336407"
   },
   "Phasmophobia": {
     "appid": 739630,
     "all": [
+      {
+        "date": "2026-11-10",
+        "datetime": "2026-11-10T11:17:09",
+        "title": "Phasmophobia raises over $200,000 for charity in the annual Ghost Hunts for Hearts collaboration with the American Heart Association",
+        "url": "https://steamstore-a.akamaihd.net/news/externalpost/PC Gamer/1848664643359036",
+        "author": "Elie Gould",
+        "feed_label": "PC Gamer",
+        "is_patch": false,
+        "is_official": false,
+        "contents": "It's the second year for <a href=\"https://www.pcgamer.com/uk/phasmophobia/\">Phasmophobia's</a> Ghost Hunts for Hearts event in which players come together to raise money for the American Heart Associa"
+      },
       {
         "date": "2026-11-03",
         "datetime": "2026-11-03T16:25:33",
@@ -604,17 +615,6 @@
         "is_patch": false,
         "is_official": true,
         "contents": "Welcome back, Ghost Hunters. We’ve got an update for you.Today, we have released an update for Phasmophobia to address several issues that were raised following our latest Quality of Life update. Than"
-      },
-      {
-        "date": "2026-08-25",
-        "datetime": "2026-08-25T15:02:48",
-        "title": "Phasmophobia v0.19.0.0 - Quality of Life Part 2",
-        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1841579228678571",
-        "author": "Tom Dent",
-        "feed_label": "Community Announcements",
-        "is_patch": false,
-        "is_official": true,
-        "contents": "Welcome back, Ghost Hunters.Today we have released Phasmophobia v0.19.0.0, our latest update that brings with it the second part of our Quality of Life update. Full patch notes can be found below, and"
       }
     ],
     "patches": [
@@ -632,6 +632,17 @@
     ],
     "announcements": [
       {
+        "date": "2026-11-10",
+        "datetime": "2026-11-10T11:17:09",
+        "title": "Phasmophobia raises over $200,000 for charity in the annual Ghost Hunts for Hearts collaboration with the American Heart Association",
+        "url": "https://steamstore-a.akamaihd.net/news/externalpost/PC Gamer/1848664643359036",
+        "author": "Elie Gould",
+        "feed_label": "PC Gamer",
+        "is_patch": false,
+        "is_official": false,
+        "contents": "It's the second year for <a href=\"https://www.pcgamer.com/uk/phasmophobia/\">Phasmophobia's</a> Ghost Hunts for Hearts event in which players come together to raise money for the American Heart Associa"
+      },
+      {
         "date": "2026-11-03",
         "datetime": "2026-11-03T16:25:33",
         "title": "Phasmophobia перейдёт на Unity 6 в конце ноября: обновление Resonance улучшит игру и добавит новые механики",
@@ -718,29 +729,18 @@
         "is_patch": false,
         "is_official": true,
         "contents": "Welcome back, Ghost Hunters. We’ve got an update for you.Today, we have released an update for Phasmophobia to address several issues that were raised following our latest Quality of Life update. Than"
-      },
-      {
-        "date": "2026-08-25",
-        "datetime": "2026-08-25T15:02:48",
-        "title": "Phasmophobia v0.19.0.0 - Quality of Life Part 2",
-        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1841579228678571",
-        "author": "Tom Dent",
-        "feed_label": "Community Announcements",
-        "is_patch": false,
-        "is_official": true,
-        "contents": "Welcome back, Ghost Hunters.Today we have released Phasmophobia v0.19.0.0, our latest update that brings with it the second part of our Quality of Life update. Full patch notes can be found below, and"
       }
     ],
     "latest": {
-      "date": "2026-11-03",
-      "datetime": "2026-11-03T16:25:33",
-      "title": "Phasmophobia перейдёт на Unity 6 в конце ноября: обновление Resonance улучшит игру и добавит новые механики",
-      "url": "https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1847920302252724",
-      "author": "",
-      "feed_label": "PlayGround.ru - официальная группа",
+      "date": "2026-11-10",
+      "datetime": "2026-11-10T11:17:09",
+      "title": "Phasmophobia raises over $200,000 for charity in the annual Ghost Hunts for Hearts collaboration with the American Heart Association",
+      "url": "https://steamstore-a.akamaihd.net/news/externalpost/PC Gamer/1848664643359036",
+      "author": "Elie Gould",
+      "feed_label": "PC Gamer",
       "is_patch": false,
       "is_official": false,
-      "contents": "В конце ноября Phasmophobia получит крупное обновление Resonance, которое станет одним из важных этапов подготовки игры к полноценному релизу. Разработчики не только добавят новые возможности для охот"
+      "contents": "It's the second year for <a href=\"https://www.pcgamer.com/uk/phasmophobia/\">Phasmophobia's</a> Ghost Hunts for Hearts event in which players come together to raise money for the American Heart Associa"
     },
     "latest_patch": {
       "date": "2026-09-16",
@@ -753,7 +753,7 @@
       "is_official": true,
       "contents": "Welcome back, Ghost Hunters. We’ve got an update for you.Today, we have released an update for Phasmophobia to address two issues that have been raised by the community since the release of our last u"
     },
-    "crawled_at": "2026-11-10T04:15:47.704486"
+    "crawled_at": "2026-11-11T02:03:09.531813"
   },
   "Content Warning": {
     "appid": 2881650,
@@ -1005,7 +1005,7 @@
       "is_official": true,
       "contents": "Hello Spööktubers! Thank you for your patience as we're fixing bugs on all platforms.Here's a new patch fixing some stuff!For those of you wondering when crossplay between Switch 1 & 2 and other platf"
     },
-    "crawled_at": "2026-11-10T04:15:48.954079"
+    "crawled_at": "2026-11-11T02:03:10.709100"
   },
   "FEEDERS": {
     "appid": 4408510,
@@ -1256,12 +1256,23 @@
       "is_official": true,
       "contents": "Gave the HUD a fresh redesign. New look across the board — the status bars (Health, Stamina, Radiation) and the bottom belt all got reworked. Same info, cleaner read. More guns coming with new solo ex"
     },
-    "crawled_at": "2026-11-10T04:15:50.213637"
+    "crawled_at": "2026-11-11T02:03:11.908983"
   },
   "NARAKA: BLADEPOINT": {
     "appid": 1203220,
     "all": [
       {
+        "date": "2026-11-10",
+        "datetime": "2026-11-10T12:53:44",
+        "title": "NARAKA: BLADEPOINT Banned Players List November 10rd",
+        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1848664643359279",
+        "author": "Yeeeeee",
+        "feed_label": "Community Announcements",
+        "is_patch": false,
+        "is_official": true,
+        "contents": "Dear players,NARAKA: BLADEPOINT is committed to creating a fair and healthy competitive environment. We have not only used new anti-cheat technologies, but also established special cheat-reporting rew"
+      },
+      {
         "date": "2026-11-04",
         "datetime": "2026-11-04T15:40:35",
         "title": "NARAKA: BLADEPOINT Update – November 5th, 2026",
@@ -1359,22 +1370,22 @@
         "is_patch": false,
         "is_official": true,
         "contents": "Dear players,NARAKA: BLADEPOINT is committed to creating a fair and healthy competitive environment. We have not only used new anti-cheat technologies, but also established special cheat-reporting rew"
-      },
-      {
-        "date": "2026-09-16",
-        "datetime": "2026-09-16T14:56:31",
-        "title": "NARAKA: BLADEPOINT Update –September 16th, 2026",
-        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844115010489349",
-        "author": "Yeeeeee",
-        "feed_label": "Community Announcements",
-        "is_patch": false,
-        "is_official": true,
-        "contents": "Dear players, The servers of NARAKA: BLADEPOINT will be suspended for maintenance from Sep. 16th, 2026 23:00 (UTC) to Sep. 17th, 2026 04:00 (UTC). We suggest you log out in advance and enter the game "
       }
     ],
     "patches": [],
     "announcements": [
       {
+        "date": "2026-11-10",
+        "datetime": "2026-11-10T12:53:44",
+        "title": "NARAKA: BLADEPOINT Banned Players List November 10rd",
+        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1848664643359279",
+        "author": "Yeeeeee",
+        "feed_label": "Community Announcements",
+        "is_patch": false,
+        "is_official": true,
+        "contents": "Dear players,NARAKA: BLADEPOINT is committed to creating a fair and healthy competitive environment. We have not only used new anti-cheat technologies, but also established special cheat-reporting rew"
+      },
+      {
         "date": "2026-11-04",
         "datetime": "2026-11-04T15:40:35",
         "title": "NARAKA: BLADEPOINT Update – November 5th, 2026",
@@ -1472,32 +1483,21 @@
         "is_patch": false,
         "is_official": true,
         "contents": "Dear players,NARAKA: BLADEPOINT is committed to creating a fair and healthy competitive environment. We have not only used new anti-cheat technologies, but also established special cheat-reporting rew"
-      },
-      {
-        "date": "2026-09-16",
-        "datetime": "2026-09-16T14:56:31",
-        "title": "NARAKA: BLADEPOINT Update –September 16th, 2026",
-        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844115010489349",
-        "author": "Yeeeeee",
-        "feed_label": "Community Announcements",
-        "is_patch": false,
-        "is_official": true,
-        "contents": "Dear players, The servers of NARAKA: BLADEPOINT will be suspended for maintenance from Sep. 16th, 2026 23:00 (UTC) to Sep. 17th, 2026 04:00 (UTC). We suggest you log out in advance and enter the game "
       }
     ],
     "latest": {
-      "date": "2026-11-04",
-      "datetime": "2026-11-04T15:40:35",
-      "title": "NARAKA: BLADEPOINT Update – November 5th, 2026",
-      "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1848557880479637",
+      "date": "2026-11-10",
+      "datetime": "2026-11-10T12:53:44",
+      "title": "NARAKA: BLADEPOINT Banned Players List November 10rd",
+      "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1848664643359279",
       "author": "Yeeeeee",
       "feed_label": "Community Announcements",
       "is_patch": false,
       "is_official": true,
-      "contents": "Dear players,The servers of NARAKA： BLADEPOINT will be suspended for maintenance from Nov 4th, 2026 23：00 (UTC) to Nov 5th, 2026 04：00 (UTC). We suggest you log out in advance and enter the game again"
+      "contents": "Dear players,NARAKA: BLADEPOINT is committed to creating a fair and healthy competitive environment. We have not only used new anti-cheat technologies, but also established special cheat-reporting rew"
     },
     "latest_patch": null,
-    "crawled_at": "2026-11-10T04:15:51.395836"
+    "crawled_at": "2026-11-11T02:03:13.097706"
   },
   "Dead by Daylight": {
     "appid": 381210,
@@ -1749,6 +1749,6 @@
       "is_official": true,
       "contents": "Towards the end of October, we released a small balance patch using our new Backend Tunables system, adjusting The Executioner and The Good Guy. After working through your feedback and watching both o"
     },
-    "crawled_at": "2026-11-10T04:15:52.597072"
+    "crawled_at": "2026-11-11T02:03:14.309444"
   }
 }

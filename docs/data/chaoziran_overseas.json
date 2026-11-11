@@ -4,10 +4,10 @@
     "source": "Google Play",
     "url": "https://play.google.com/store/apps/details?id=com.game.tombbusters",
     "rating": 4.2,
-    "review_count": 1441,
+    "review_count": 1439,
     "description": "Hilarious Co-op Horror Extraction",
     "category": "FAMILY",
-    "crawled_at": "2026-11-10 04:15"
+    "crawled_at": "2026-11-11 02:02"
   },
   "google_play_reviews": [
     {
@@ -37,43 +37,34 @@
       "title": "Raiding Ancient Tombs was a Mistake",
       "video_id": "Keonsv7ZCf8",
       "url": "https://www.youtube.com/watch?v=Keonsv7ZCf8",
-      "views": "4,373,613 views",
+      "views": "4,374,476 views",
       "channel": "SMii7Yplus",
       "published": "4y ago",
       "duration": "25:59"
     },
     {
-      "title": "Lara Croft: Tomb Raider (1/9) Movie CLIP - The Training Robot (2001) HD",
-      "video_id": "5Gc9pviBlJA",
-      "url": "https://www.youtube.com/watch?v=5Gc9pviBlJA",
-      "views": "3,881,181 views",
-      "channel": "Movieclips",
-      "published": "15y ago",
-      "duration": "2:43"
-    },
-    {
-      "title": "okay VR horror games are no joke.",
-      "video_id": "d7IZlnLTdww",
-      "url": "https://www.youtube.com/watch?v=d7IZlnLTdww",
-      "views": "855,577 views",
-      "channel": "daukey",
-      "published": "2y ago",
-      "duration": "24:33"
-    },
-    {
       "title": "TOMB RAIDER: ADDITIONAL DEATHS DLC FOR LARA CROFT",
       "video_id": "Ku1a1uNknCc",
       "url": "https://www.youtube.com/watch?v=Ku1a1uNknCc",
-      "views": "751,406 views",
+      "views": "751,423 views",
       "channel": "Animation Domination High Def",
       "published": "13y ago",
       "duration": "1:06"
     },
     {
+      "title": "I Shouldn’t Have Went To This Tomb…",
+      "video_id": "n7TH4qng_v4",
+      "url": "https://www.youtube.com/watch?v=n7TH4qng_v4",
+      "views": "694,504 views",
+      "channel": "CaseOh",
+      "published": "11mo ago",
+      "duration": "59:17"
+    },
+    {
       "title": "Tomb Busters - Nogla Won't Stay Away From Me!",
       "video_id": "EnuSSZ8nN4I",
       "url": "https://www.youtube.com/watch?v=EnuSSZ8nN4I",
-      "views": "515,003 views",
+      "views": "515,225 views",
       "channel": "VanossGaming",
       "published": "5mo ago",
       "duration": "27:18"
@@ -82,7 +73,7 @@
       "title": "THIS MOBILE LETHAL-LIKE IS ACTUALLY HILARIOUS!!! | Tomb Busters (w/ Kyle & Squirrel)",
       "video_id": "O_JjLJQdGh0",
       "url": "https://www.youtube.com/watch?v=O_JjLJQdGh0",
-      "views": "435,986 views",
+      "views": "436,043 views",
       "channel": "CaRtOoNz",
       "published": "4mo ago",
       "duration": "1:26:18"
@@ -91,7 +82,7 @@
       "title": "Tomb Busters | Launch Gameplay Trailer",
       "video_id": "SozbL_ez72Y",
       "url": "https://www.youtube.com/watch?v=SozbL_ez72Y",
-      "views": "427,886 views",
+      "views": "427,965 views",
       "channel": "Tomb Busters",
       "published": "5mo ago",
       "duration": "0:56"
@@ -100,7 +91,7 @@
       "title": "Three Idiots VS Funniest New Horror Game",
       "video_id": "m6ENmCcWhBc",
       "url": "https://www.youtube.com/watch?v=m6ENmCcWhBc",
-      "views": "191,957 views",
+      "views": "192,257 views",
       "channel": "SeeReax",
       "published": "5mo ago",
       "duration": "43:39"
@@ -109,7 +100,7 @@
       "title": "Goofy Gang Explores SCARY TOMBS... (Tomb Busters)",
       "video_id": "l9WdUDC67bY",
       "url": "https://www.youtube.com/watch?v=l9WdUDC67bY",
-      "views": "191,842 views",
+      "views": "191,942 views",
       "channel": "Goofy Gang",
       "published": "5mo ago",
       "duration": "20:27"
@@ -118,10 +109,19 @@
       "title": "Tomb Raider apk download? #tombraider #gamingcommunity #tombraider2013gameplay #fpsgames ",
       "video_id": "RatbS4ym8QM",
       "url": "https://www.youtube.com/watch?v=RatbS4ym8QM",
-      "views": "167,243 views",
+      "views": "167,474 views",
       "channel": "Android Arena",
       "published": "8mo ago",
       "duration": "1:15"
+    },
+    {
+      "title": "We Explored Cursed Tombs!",
+      "video_id": "vJXmp4iKiD0",
+      "url": "https://www.youtube.com/watch?v=vJXmp4iKiD0",
+      "views": "151,242 views",
+      "channel": "daukeytoo",
+      "published": "5mo ago",
+      "duration": "26:47"
     }
   ],
   "official_news_en": [],
@@ -215,6 +215,6 @@
       "rating_count": 0
     }
   },
-  "crawled_at": "2026-11-10T04:15:44.900099",
-  "crawled_date": "2026-11-10"
+  "crawled_at": "2026-11-11T02:03:06.868413",
+  "crawled_date": "2026-11-11"
 }
