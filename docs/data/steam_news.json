@@ -249,7 +249,7 @@
       "is_official": true,
       "contents": "Hey hey semibots! Here is a small update with some fixes for our latest content update! NEW CHANGES BALANCING FIXES NEW Keybinding - Added the ability to unbind optional keybinds (chat, expressions, a"
     },
-    "crawled_at": "2026-11-11T02:03:07.148490"
+    "crawled_at": "2026-11-12T03:02:49.562973"
   },
   "Lethal Company": {
     "appid": 1966720,
@@ -501,11 +501,22 @@
       "is_official": true,
       "contents": "Hello, long time no see! Version 80 is out in beta for you to test. You can access it by opting into the public beta branch for Lethal Company on Steam. V80 brings a complete rework of March's exterio"
     },
-    "crawled_at": "2026-11-11T02:03:08.336407"
+    "crawled_at": "2026-11-12T03:02:50.824529"
   },
   "Phasmophobia": {
     "appid": 739630,
     "all": [
+      {
+        "date": "2026-11-11",
+        "datetime": "2026-11-11T07:41:01",
+        "title": "Фанаты Phasmophobia собрали рекордные $200 тысяч на благотворительность - Kinetic Games приготовила им подарки",
+        "url": "https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1849192144177635",
+        "author": "",
+        "feed_label": "PlayGround.ru - официальная группа",
+        "is_patch": false,
+        "is_official": false,
+        "contents": "Сообщество Phasmophobia собрало более 200 тысяч долларов в рамках благотворительной акции Ghost Hunts for Hearts. Все средства направят American Heart Association, которая занимается борьбой с сердечн"
+      },
       {
         "date": "2026-11-10",
         "datetime": "2026-11-10T11:17:09",
@@ -604,17 +615,6 @@
         "is_patch": true,
         "is_official": true,
         "contents": "Welcome back, Ghost Hunters. We’ve got an update for you.Today, we have released an update for Phasmophobia to address two issues that have been raised by the community since the release of our last u"
-      },
-      {
-        "date": "2026-09-10",
-        "datetime": "2026-09-10T11:04:16",
-        "title": "Phasmophobia v0.19.0.1 - Patch Notes",
-        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1843481262691864",
-        "author": "Tom Dent",
-        "feed_label": "Community Announcements",
-        "is_patch": false,
-        "is_official": true,
-        "contents": "Welcome back, Ghost Hunters. We’ve got an update for you.Today, we have released an update for Phasmophobia to address several issues that were raised following our latest Quality of Life update. Than"
       }
     ],
     "patches": [
@@ -632,6 +632,17 @@
     ],
     "announcements": [
       {
+        "date": "2026-11-11",
+        "datetime": "2026-11-11T07:41:01",
+        "title": "Фанаты Phasmophobia собрали рекордные $200 тысяч на благотворительность - Kinetic Games приготовила им подарки",
+        "url": "https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1849192144177635",
+        "author": "",
+        "feed_label": "PlayGround.ru - официальная группа",
+        "is_patch": false,
+        "is_official": false,
+        "contents": "Сообщество Phasmophobia собрало более 200 тысяч долларов в рамках благотворительной акции Ghost Hunts for Hearts. Все средства направят American Heart Association, которая занимается борьбой с сердечн"
+      },
+      {
         "date": "2026-11-10",
         "datetime": "2026-11-10T11:17:09",
         "title": "Phasmophobia raises over $200,000 for charity in the annual Ghost Hunts for Hearts collaboration with the American Heart Association",
@@ -718,29 +729,18 @@
         "is_patch": false,
         "is_official": true,
         "contents": "Welcome back, Ghost Hunters. This week marks 6 years of #Phasmophobia. Thank you to each & every Ghost Hunter that has joined us so far. To celebrate, a Twitch Drop campaign will be live between Septe"
-      },
-      {
-        "date": "2026-09-10",
-        "datetime": "2026-09-10T11:04:16",
-        "title": "Phasmophobia v0.19.0.1 - Patch Notes",
-        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1843481262691864",
-        "author": "Tom Dent",
-        "feed_label": "Community Announcements",
-        "is_patch": false,
-        "is_official": true,
-        "contents": "Welcome back, Ghost Hunters. We’ve got an update for you.Today, we have released an update for Phasmophobia to address several issues that were raised following our latest Quality of Life update. Than"
       }
     ],
     "latest": {
-      "date": "2026-11-10",
-      "datetime": "2026-11-10T11:17:09",
-      "title": "Phasmophobia raises over $200,000 for charity in the annual Ghost Hunts for Hearts collaboration with the American Heart Association",
-      "url": "https://steamstore-a.akamaihd.net/news/externalpost/PC Gamer/1848664643359036",
-      "author": "Elie Gould",
-      "feed_label": "PC Gamer",
+      "date": "2026-11-11",
+      "datetime": "2026-11-11T07:41:01",
+      "title": "Фанаты Phasmophobia собрали рекордные $200 тысяч на благотворительность - Kinetic Games приготовила им подарки",
+      "url": "https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1849192144177635",
+      "author": "",
+      "feed_label": "PlayGround.ru - официальная группа",
       "is_patch": false,
       "is_official": false,
-      "contents": "It's the second year for <a href=\"https://www.pcgamer.com/uk/phasmophobia/\">Phasmophobia's</a> Ghost Hunts for Hearts event in which players come together to raise money for the American Heart Associa"
+      "contents": "Сообщество Phasmophobia собрало более 200 тысяч долларов в рамках благотворительной акции Ghost Hunts for Hearts. Все средства направят American Heart Association, которая занимается борьбой с сердечн"
     },
     "latest_patch": {
       "date": "2026-09-16",
@@ -753,7 +753,7 @@
       "is_official": true,
       "contents": "Welcome back, Ghost Hunters. We’ve got an update for you.Today, we have released an update for Phasmophobia to address two issues that have been raised by the community since the release of our last u"
     },
-    "crawled_at": "2026-11-11T02:03:09.531813"
+    "crawled_at": "2026-11-12T03:02:52.014214"
   },
   "Content Warning": {
     "appid": 2881650,
@@ -1005,7 +1005,7 @@
       "is_official": true,
       "contents": "Hello Spööktubers! Thank you for your patience as we're fixing bugs on all platforms.Here's a new patch fixing some stuff!For those of you wondering when crossplay between Switch 1 & 2 and other platf"
     },
-    "crawled_at": "2026-11-11T02:03:10.709100"
+    "crawled_at": "2026-11-12T03:02:53.199975"
   },
   "FEEDERS": {
     "appid": 4408510,
@@ -1256,7 +1256,7 @@
       "is_official": true,
       "contents": "Gave the HUD a fresh redesign. New look across the board — the status bars (Health, Stamina, Radiation) and the bottom belt all got reworked. Same info, cleaner read. More guns coming with new solo ex"
     },
-    "crawled_at": "2026-11-11T02:03:11.908983"
+    "crawled_at": "2026-11-12T03:02:54.563331"
   },
   "NARAKA: BLADEPOINT": {
     "appid": 1203220,
@@ -1497,7 +1497,7 @@
       "contents": "Dear players,NARAKA: BLADEPOINT is committed to creating a fair and healthy competitive environment. We have not only used new anti-cheat technologies, but also established special cheat-reporting rew"
     },
     "latest_patch": null,
-    "crawled_at": "2026-11-11T02:03:13.097706"
+    "crawled_at": "2026-11-12T03:02:55.776958"
   },
   "Dead by Daylight": {
     "appid": 381210,
@@ -1749,6 +1749,6 @@
       "is_official": true,
       "contents": "Towards the end of October, we released a small balance patch using our new Backend Tunables system, adjusting The Executioner and The Good Guy. After working through your feedback and watching both o"
     },
-    "crawled_at": "2026-11-11T02:03:14.309444"
+    "crawled_at": "2026-11-12T03:02:56.967656"
   }
 }
