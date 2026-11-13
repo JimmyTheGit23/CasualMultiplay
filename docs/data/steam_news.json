@@ -249,7 +249,7 @@
       "is_official": true,
       "contents": "Hey hey semibots! Here is a small update with some fixes for our latest content update! NEW CHANGES BALANCING FIXES NEW Keybinding - Added the ability to unbind optional keybinds (chat, expressions, a"
     },
-    "crawled_at": "2026-11-12T03:02:49.562973"
+    "crawled_at": "2026-11-13T02:45:01.303336"
   },
   "Lethal Company": {
     "appid": 1966720,
@@ -501,7 +501,7 @@
       "is_official": true,
       "contents": "Hello, long time no see! Version 80 is out in beta for you to test. You can access it by opting into the public beta branch for Lethal Company on Steam. V80 brings a complete rework of March's exterio"
     },
-    "crawled_at": "2026-11-12T03:02:50.824529"
+    "crawled_at": "2026-11-13T02:45:02.548823"
   },
   "Phasmophobia": {
     "appid": 739630,
@@ -753,7 +753,7 @@
       "is_official": true,
       "contents": "Welcome back, Ghost Hunters. We’ve got an update for you.Today, we have released an update for Phasmophobia to address two issues that have been raised by the community since the release of our last u"
     },
-    "crawled_at": "2026-11-12T03:02:52.014214"
+    "crawled_at": "2026-11-13T02:45:03.787798"
   },
   "Content Warning": {
     "appid": 2881650,
@@ -1005,7 +1005,7 @@
       "is_official": true,
       "contents": "Hello Spööktubers! Thank you for your patience as we're fixing bugs on all platforms.Here's a new patch fixing some stuff!For those of you wondering when crossplay between Switch 1 & 2 and other platf"
     },
-    "crawled_at": "2026-11-12T03:02:53.199975"
+    "crawled_at": "2026-11-13T02:45:05.148558"
   },
   "FEEDERS": {
     "appid": 4408510,
@@ -1256,7 +1256,7 @@
       "is_official": true,
       "contents": "Gave the HUD a fresh redesign. New look across the board — the status bars (Health, Stamina, Radiation) and the bottom belt all got reworked. Same info, cleaner read. More guns coming with new solo ex"
     },
-    "crawled_at": "2026-11-12T03:02:54.563331"
+    "crawled_at": "2026-11-13T02:45:06.488018"
   },
   "NARAKA: BLADEPOINT": {
     "appid": 1203220,
@@ -1497,7 +1497,7 @@
       "contents": "Dear players,NARAKA: BLADEPOINT is committed to creating a fair and healthy competitive environment. We have not only used new anti-cheat technologies, but also established special cheat-reporting rew"
     },
     "latest_patch": null,
-    "crawled_at": "2026-11-12T03:02:55.776958"
+    "crawled_at": "2026-11-13T02:45:07.751306"
   },
   "Dead by Daylight": {
     "appid": 381210,
@@ -1749,6 +1749,6 @@
       "is_official": true,
       "contents": "Towards the end of October, we released a small balance patch using our new Backend Tunables system, adjusting The Executioner and The Good Guy. After working through your feedback and watching both o"
     },
-    "crawled_at": "2026-11-12T03:02:56.967656"
+    "crawled_at": "2026-11-13T02:45:08.947012"
   }
 }
