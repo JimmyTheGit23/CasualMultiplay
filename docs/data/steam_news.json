@@ -249,7 +249,7 @@
       "is_official": true,
       "contents": "Hey hey semibots! Here is a small update with some fixes for our latest content update! NEW CHANGES BALANCING FIXES NEW Keybinding - Added the ability to unbind optional keybinds (chat, expressions, a"
     },
-    "crawled_at": "2026-11-16T01:59:22.726890"
+    "crawled_at": "2026-11-17T04:37:03.964932"
   },
   "Lethal Company": {
     "appid": 1966720,
@@ -501,7 +501,7 @@
       "is_official": true,
       "contents": "Hello, long time no see! Version 80 is out in beta for you to test. You can access it by opting into the public beta branch for Lethal Company on Steam. V80 brings a complete rework of March's exterio"
     },
-    "crawled_at": "2026-11-16T01:59:24.091512"
+    "crawled_at": "2026-11-17T04:37:05.101759"
   },
   "Phasmophobia": {
     "appid": 739630,
@@ -753,7 +753,7 @@
       "is_official": true,
       "contents": "Welcome back, Ghost Hunters. We’ve got an update for you.Today, we have released an update for Phasmophobia to address two issues that have been raised by the community since the release of our last u"
     },
-    "crawled_at": "2026-11-16T01:59:25.307475"
+    "crawled_at": "2026-11-17T04:37:06.216461"
   },
   "Content Warning": {
     "appid": 2881650,
@@ -1005,7 +1005,7 @@
       "is_official": true,
       "contents": "Hello Spööktubers! Thank you for your patience as we're fixing bugs on all platforms.Here's a new patch fixing some stuff!For those of you wondering when crossplay between Switch 1 & 2 and other platf"
     },
-    "crawled_at": "2026-11-16T01:59:26.559875"
+    "crawled_at": "2026-11-17T04:37:07.360857"
   },
   "FEEDERS": {
     "appid": 4408510,
@@ -1256,7 +1256,7 @@
       "is_official": true,
       "contents": "Gave the HUD a fresh redesign. New look across the board — the status bars (Health, Stamina, Radiation) and the bottom belt all got reworked. Same info, cleaner read. More guns coming with new solo ex"
     },
-    "crawled_at": "2026-11-16T01:59:27.825319"
+    "crawled_at": "2026-11-17T04:37:08.566853"
   },
   "NARAKA: BLADEPOINT": {
     "appid": 1203220,
@@ -1264,7 +1264,7 @@
       {
         "date": "2026-11-10",
         "datetime": "2026-11-10T12:53:44",
-        "title": "NARAKA: BLADEPOINT Banned Players List November 10rd",
+        "title": "NARAKA: BLADEPOINT Banned Players List November 10th",
         "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1848664643359279",
         "author": "Yeeeeee",
         "feed_label": "Community Announcements",
@@ -1377,7 +1377,7 @@
       {
         "date": "2026-11-10",
         "datetime": "2026-11-10T12:53:44",
-        "title": "NARAKA: BLADEPOINT Banned Players List November 10rd",
+        "title": "NARAKA: BLADEPOINT Banned Players List November 10th",
         "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1848664643359279",
         "author": "Yeeeeee",
         "feed_label": "Community Announcements",
@@ -1488,7 +1488,7 @@
     "latest": {
       "date": "2026-11-10",
       "datetime": "2026-11-10T12:53:44",
-      "title": "NARAKA: BLADEPOINT Banned Players List November 10rd",
+      "title": "NARAKA: BLADEPOINT Banned Players List November 10th",
       "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1848664643359279",
       "author": "Yeeeeee",
       "feed_label": "Community Announcements",
@@ -1497,7 +1497,7 @@
       "contents": "Dear players,NARAKA: BLADEPOINT is committed to creating a fair and healthy competitive environment. We have not only used new anti-cheat technologies, but also established special cheat-reporting rew"
     },
     "latest_patch": null,
-    "crawled_at": "2026-11-16T01:59:28.947456"
+    "crawled_at": "2026-11-17T04:37:10.314999"
   },
   "Dead by Daylight": {
     "appid": 381210,
@@ -1749,6 +1749,6 @@
       "is_official": true,
       "contents": "Towards the end of October, we released a small balance patch using our new Backend Tunables system, adjusting The Executioner and The Good Guy. After working through your feedback and watching both o"
     },
-    "crawled_at": "2026-11-16T01:59:30.176285"
+    "crawled_at": "2026-11-17T04:37:11.540353"
   }
 }
