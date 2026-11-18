@@ -1,8 +1,8 @@
 {
-  "snapshot_date": "2026-11-17T04:35:41+08:00",
+  "snapshot_date": "2026-11-18T03:44:39+08:00",
   "hero": {
     "name": "黎明杀机",
-    "current_players": 31383,
+    "current_players": 34650,
     "positive_rate": 78.5,
     "reviews_total": 903715,
     "price_label": "¥ 93.75",
@@ -12,6 +12,17 @@
     ]
   },
   "operations": [
+    {
+      "date": "2026-11-17",
+      "timestamp": 1794937869,
+      "title": "Dead by Daylight показали будущие визуальные переработки и динамическую погоду",
+      "url": "https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1849458702694885",
+      "author": "",
+      "feed_label": "PlayGround.ru - официальная группа",
+      "feed_type": "媒体",
+      "is_patch": false,
+      "contents": "Behaviour Interactive показала будущее асимметричного хоррора Dead by Daylight: крупное обновление принесёт визуальные переработки, динамическую погоду, новые анимации и другие изменения. Разработчики"
+    },
     {
       "date": "2026-11-06",
       "timestamp": 1793994667,
@@ -88,17 +99,6 @@
       "feed_type": "媒体",
       "is_patch": false,
       "contents": "Behaviour Interactive объявила о сотрудничестве Dead by Daylight с хоррор-франшизой «Ужасающий». 24 ноября в асимметричном сетевом хорроре появятся клоун Арт в роли убийцы и Сиенна Шоу в качестве выжи"
-    },
-    {
-      "date": "2026-10-28",
-      "timestamp": 1793199609,
-      "title": "10.3.0 | Terrifier PTB Patch Notes",
-      "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847920302231335",
-      "author": "Goblin_BHVR",
-      "feed_label": "Community Announcements",
-      "feed_type": "官方",
-      "is_patch": false,
-      "contents": "ContentNew Killer: The TerrifierPower: Bag of Toys Hold the Ability button to open your Bag of Toys and select one of two random Toys. The Bag of Toys enters a cooldown state and cannot be opened agai"
     }
   ],
   "patches": [
@@ -182,6 +182,6 @@
     ]
   },
   "reviews": null,
-  "ccu": 31383,
-  "crawled_at": "2026-11-17T04:35:41.192010"
+  "ccu": 34650,
+  "crawled_at": "2026-11-18T03:44:39.202994"
 }

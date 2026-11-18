@@ -4,10 +4,10 @@
     "source": "Google Play",
     "url": "https://play.google.com/store/apps/details?id=com.game.tombbusters",
     "rating": 4.2,
-    "review_count": 1463,
+    "review_count": 1475,
     "description": "Hilarious Co-op Horror Extraction",
     "category": "FAMILY",
-    "crawled_at": "2026-11-17 04:36"
+    "crawled_at": "2026-11-18 03:45"
   },
   "google_play_reviews": [
     {
@@ -32,7 +32,98 @@
     }
   ],
   "reddit": [],
-  "youtube": [],
+  "youtube": [
+    {
+      "title": "Raiding Ancient Tombs was a Mistake",
+      "video_id": "Keonsv7ZCf8",
+      "url": "https://www.youtube.com/watch?v=Keonsv7ZCf8",
+      "views": "4,378,643 views",
+      "channel": "SMii7Yplus",
+      "published": "4y ago",
+      "duration": "25:59"
+    },
+    {
+      "title": "TOMB RAIDER: ADDITIONAL DEATHS DLC FOR LARA CROFT",
+      "video_id": "Ku1a1uNknCc",
+      "url": "https://www.youtube.com/watch?v=Ku1a1uNknCc",
+      "views": "751,544 views",
+      "channel": "Animation Domination High Def",
+      "published": "13y ago",
+      "duration": "1:06"
+    },
+    {
+      "title": "Tomb Busters - Nogla Won't Stay Away From Me!",
+      "video_id": "EnuSSZ8nN4I",
+      "url": "https://www.youtube.com/watch?v=EnuSSZ8nN4I",
+      "views": "516,650 views",
+      "channel": "VanossGaming",
+      "published": "5mo ago",
+      "duration": "27:18"
+    },
+    {
+      "title": "Don't get caught! Steal the treasure from this dangerous place!【 Paranormal Squad 】",
+      "video_id": "uf49EB_S4rc",
+      "url": "https://www.youtube.com/watch?v=uf49EB_S4rc",
+      "views": "306,111 views",
+      "channel": "ちろぴの",
+      "published": "4mo ago",
+      "duration": "32:10"
+    },
+    {
+      "title": "THIS MOBILE LETHAL-LIKE IS ACTUALLY HILARIOUS!!! | Tomb Busters (w/ Kyle & Squirrel)",
+      "video_id": "O_JjLJQdGh0",
+      "url": "https://www.youtube.com/watch?v=O_JjLJQdGh0",
+      "views": "436,706 views",
+      "channel": "CaRtOoNz",
+      "published": "4mo ago",
+      "duration": "1:26:18"
+    },
+    {
+      "title": "Tomb Busters | Launch Gameplay Trailer",
+      "video_id": "SozbL_ez72Y",
+      "url": "https://www.youtube.com/watch?v=SozbL_ez72Y",
+      "views": "428,509 views",
+      "channel": "Tomb Busters",
+      "published": "5mo ago",
+      "duration": "0:56"
+    },
+    {
+      "title": "Three Idiots VS Funniest New Horror Game",
+      "video_id": "m6ENmCcWhBc",
+      "url": "https://www.youtube.com/watch?v=m6ENmCcWhBc",
+      "views": "193,709 views",
+      "channel": "SeeReax",
+      "published": "5mo ago",
+      "duration": "43:39"
+    },
+    {
+      "title": "Goofy Gang Explores SCARY TOMBS... (Tomb Busters)",
+      "video_id": "l9WdUDC67bY",
+      "url": "https://www.youtube.com/watch?v=l9WdUDC67bY",
+      "views": "193,145 views",
+      "channel": "Goofy Gang",
+      "published": "5mo ago",
+      "duration": "20:27"
+    },
+    {
+      "title": "Tomb Raider apk download? #tombraider #gamingcommunity #tombraider2013gameplay #fpsgames ",
+      "video_id": "RatbS4ym8QM",
+      "url": "https://www.youtube.com/watch?v=RatbS4ym8QM",
+      "views": "169,080 views",
+      "channel": "Android Arena",
+      "published": "9mo ago",
+      "duration": "1:15"
+    },
+    {
+      "title": "We Explored Cursed Tombs!",
+      "video_id": "vJXmp4iKiD0",
+      "url": "https://www.youtube.com/watch?v=vJXmp4iKiD0",
+      "views": "152,234 views",
+      "channel": "daukeytoo",
+      "published": "5mo ago",
+      "duration": "26:47"
+    }
+  ],
   "official_news_en": [],
   "twitter": [
     {
@@ -45,7 +136,7 @@
     "us": {
       "name": "美国",
       "rating": 4.56,
-      "rating_count": 1066,
+      "rating_count": 1067,
       "current_version": "1.33.22",
       "price": "Free",
       "genre": "Games"
@@ -124,6 +215,6 @@
       "rating_count": 0
     }
   },
-  "crawled_at": "2026-11-17T04:37:03.775546",
-  "crawled_date": "2026-11-17"
+  "crawled_at": "2026-11-18T03:46:11.140002",
+  "crawled_date": "2026-11-18"
 }
