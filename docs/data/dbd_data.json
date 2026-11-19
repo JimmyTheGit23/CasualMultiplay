@@ -1,8 +1,8 @@
 {
-  "snapshot_date": "2026-11-18T03:44:39+08:00",
+  "snapshot_date": "2026-11-19T03:18:42+08:00",
   "hero": {
     "name": "黎明杀机",
-    "current_players": 34650,
+    "current_players": 33095,
     "positive_rate": 78.5,
     "reviews_total": 903715,
     "price_label": "¥ 93.75",
@@ -12,6 +12,28 @@
     ]
   },
   "operations": [
+    {
+      "date": "2026-11-18",
+      "timestamp": 1795046111,
+      "title": "Dead by Daylight намекнула на возможную коллаборацию с Годзиллой в новом тизере",
+      "url": "https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1849827110426461",
+      "author": "",
+      "feed_label": "PlayGround.ru - официальная группа",
+      "feed_type": "媒体",
+      "is_patch": false,
+      "contents": "Разработчики Dead by Daylight опубликовали короткий тизер под названием «Опасность от незнакомцев». В ролике Дуайт сталкивается с чем-то пугающим, а в самом конце звучит рев, который фанаты мгновенно "
+    },
+    {
+      "date": "2026-11-17",
+      "timestamp": 1794951230,
+      "title": "The siren call of user-generated content has caught Dead by Daylight in its snare, as Behaviour Interactive outline a big revamp update slated for next year",
+      "url": "https://steamstore-a.akamaihd.net/news/externalpost/Rock, Paper, Shotgun/1849458702695702",
+      "author": "",
+      "feed_label": "Rock, Paper, Shotgun",
+      "feed_type": "媒体",
+      "is_patch": false,
+      "contents": "The promise of user-generated content, this idea that you could host a platform that grows infinitely because the people that interact with it make things for it and you don't even have to pay anyone,"
+    },
     {
       "date": "2026-11-17",
       "timestamp": 1794937869,
@@ -77,28 +99,6 @@
       "feed_type": "官方",
       "is_patch": false,
       "contents": "To celebrate the Halloween season, our partners at Alienware have a sweet treat for you! From now until November 22nd, enter for a chance to win a custom-skinned Alienware 16X Aurora gaming laptop, co"
-    },
-    {
-      "date": "2026-10-28",
-      "timestamp": 1793202665,
-      "title": "Dead by Daylight пополнится безжалостным убийцей Terrifier 17 ноября",
-      "url": "https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1847920302231915",
-      "author": "",
-      "feed_label": "PlayGround.ru - официальная группа",
-      "feed_type": "媒体",
-      "is_patch": false,
-      "contents": "Behaviour Interactive представила тизер Terrifier для асимметричного многопользовательского хоррора Dead by Daylight. Ролик демонстрирует нового жестокого убийцу, который принесёт в туманные владения "
-    },
-    {
-      "date": "2026-10-28",
-      "timestamp": 1793202031,
-      "title": "В Dead by Daylight появится клоун Арт из \"Ужасающего\" - с мешком оружия и собственными добиваниями",
-      "url": "https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1847920302231537",
-      "author": "",
-      "feed_label": "PlayGround.ru - официальная группа",
-      "feed_type": "媒体",
-      "is_patch": false,
-      "contents": "Behaviour Interactive объявила о сотрудничестве Dead by Daylight с хоррор-франшизой «Ужасающий». 24 ноября в асимметричном сетевом хорроре появятся клоун Арт в роли убийцы и Сиенна Шоу в качестве выжи"
     }
   ],
   "patches": [
@@ -182,6 +182,6 @@
     ]
   },
   "reviews": null,
-  "ccu": 34650,
-  "crawled_at": "2026-11-18T03:44:39.202994"
+  "ccu": 33095,
+  "crawled_at": "2026-11-19T03:18:42.442533"
 }

@@ -1,5 +1,5 @@
 {
-  "snapshot_date": "2026-11-18T03:44:39.269937+00:00",
+  "snapshot_date": "2026-11-19T03:18:42.495288+00:00",
   "hero": {
     "title": "R.E.P.O.",
     "title_en": "R.E.P.O.",
@@ -8,6 +8,16 @@
     "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3241660/62177765c05399116f0453fe1177b00ceed698c4/header_alt_assets_3.jpg?t=1793278962"
   },
   "operations": [
+    {
+      "date": "2026-11-18",
+      "timestamp": 1794998107,
+      "title": "R.E.P.O. v0.5.2",
+      "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1849827110423646",
+      "source": "官方",
+      "type_zh": "版本更新",
+      "type_en": "Patch",
+      "contents": "Hey hey semibots! Here is another small update with some fixes for our latest content update! NEW CHANGES BALANCING FIXES NEW Object Shadow Quality - Added a new graphics setting to disable shadows cast by smaller objects. Try this if you're experiencing performance issues on the new map! CHANGES Vi"
+    },
     {
       "date": "2026-11-05",
       "timestamp": 1793869629,
@@ -147,19 +157,19 @@
       "type_zh": "公告",
       "type_en": "Announcement",
       "contents": "Hey hey semibots! As of yesterday, it was exactly 1 year ago since R.E.P.O. got launched in Early Access and what a year it has been! We feel truly blessed and humbled by our amazing community, gathering valuables and hiding from (or fighting) all the bad guys. To celebrate the 1 year anniversery fo"
-    },
-    {
-      "date": "2026-02-23",
-      "timestamp": 1771845385,
-      "title": "REPO's upcoming cosmetic update is much more than just funny hats and clothes: 'It has become way bigger and way crazier than we anticipated from the start'",
-      "url": "https://steamstore-a.akamaihd.net/news/externalpost/PC Gamer/1825093633193670",
-      "source": "媒体",
-      "type_zh": "版本更新",
-      "type_en": "Patch",
-      "contents": "REPO is gearing up to release its next update, the Cosmetic Update, and thanks to a shiny <a href=\"https://www.youtube.com/watch?v=ArkeOU4FDwU\">new video uploaded to the Semiwork YouTube channel</a>, we've got a sneak peek into what exactly this launch will involve. It's easy to assume that the upda"
     }
   ],
   "patches": [
+    {
+      "date": "2026-11-18",
+      "timestamp": 1794998107,
+      "title": "R.E.P.O. v0.5.2",
+      "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1849827110423646",
+      "source": "官方",
+      "type_zh": "版本更新",
+      "type_en": "Patch",
+      "contents": "Hey hey semibots! Here is another small update with some fixes for our latest content update! NEW CHANGES BALANCING FIXES NEW Object Shadow Quality - Added a new graphics setting to disable shadows cast by smaller objects. Try this if you're experiencing performance issues on the new map! CHANGES Vi"
+    },
     {
       "date": "2026-11-05",
       "timestamp": 1793869629,
@@ -239,16 +249,6 @@
       "type_zh": "版本更新",
       "type_en": "Patch",
       "contents": "Hey hey semibots! It’s devlog time and we can finally reveal the release date for the Cosmetics Update! We are also showcasing some powerful magic for you all! Check out the Devlog here: If you prefer reading, here are the key takeaways: UPDATE RELEASE DATE The Cosmetics Update will arrive on May 7t"
-    },
-    {
-      "date": "2026-02-23",
-      "timestamp": 1771845385,
-      "title": "REPO's upcoming cosmetic update is much more than just funny hats and clothes: 'It has become way bigger and way crazier than we anticipated from the start'",
-      "url": "https://steamstore-a.akamaihd.net/news/externalpost/PC Gamer/1825093633193670",
-      "source": "媒体",
-      "type_zh": "版本更新",
-      "type_en": "Patch",
-      "contents": "REPO is gearing up to release its next update, the Cosmetic Update, and thanks to a shiny <a href=\"https://www.youtube.com/watch?v=ArkeOU4FDwU\">new video uploaded to the Semiwork YouTube channel</a>, we've got a sneak peek into what exactly this launch will involve. It's easy to assume that the upda"
     }
   ],
   "trends": [
@@ -285,6 +285,6 @@
     "is_free": false
   },
   "reviews": null,
-  "ccu": 19120,
-  "crawled_at": "2026-11-18T03:44:39.269937+00:00"
+  "ccu": 18409,
+  "crawled_at": "2026-11-19T03:18:42.495288+00:00"
 }
