@@ -1,8 +1,8 @@
 {
-  "snapshot_date": "2026-11-19T03:18:42+08:00",
+  "snapshot_date": "2026-11-20T03:09:56+08:00",
   "hero": {
     "name": "黎明杀机",
-    "current_players": 33095,
+    "current_players": 33486,
     "positive_rate": 78.5,
     "reviews_total": 903715,
     "price_label": "¥ 93.75",
@@ -162,7 +162,7 @@
     "name_en": "Dead by Daylight",
     "short_description": "10年恐惧相伴。10年的惊吓与刺激体验。10年的残暴献祭与惊险逃脱。 永久困于邪恶的幻境之中，即使死亡也无法逃脱，这是一场需要勇气和智慧的较量，四名意志坚定的逃生者在残忍对局中面对嗜血杀手。选择一方，进入多人非对称竞技游戏世界，获得最佳恐怖游戏体验。",
     "short_description_en": "10 years of horror. 10 years of jump scares and close calls. 10 years of brutal sacrifices and thrilling escapes. Trapped forever in a realm of eldritch evil where even death is not an escape, four determined Survivors face a bloodthirsty Killer in a vicious game of nerve and wits.",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/381210/header.jpg?t=1793724618",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/381210/header.jpg?t=1795112227",
     "developers": [
       "Behaviour Interactive Inc."
     ],
@@ -182,6 +182,6 @@
     ]
   },
   "reviews": null,
-  "ccu": 33095,
-  "crawled_at": "2026-11-19T03:18:42.442533"
+  "ccu": 33486,
+  "crawled_at": "2026-11-20T03:09:56.710156"
 }
