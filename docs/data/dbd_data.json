@@ -1,8 +1,8 @@
 {
-  "snapshot_date": "2026-11-20T03:09:56+08:00",
+  "snapshot_date": "2026-11-21T03:16:25+08:00",
   "hero": {
     "name": "黎明杀机",
-    "current_players": 33486,
+    "current_players": 37088,
     "positive_rate": 78.5,
     "reviews_total": 903715,
     "price_label": "¥ 93.75",
@@ -12,6 +12,61 @@
     ]
   },
   "operations": [
+    {
+      "date": "2026-11-20",
+      "timestamp": 1795215020,
+      "title": "Клоун Арт доберётся до Dead by Daylight - представлен трейлер кроссовера с \"Ужасающим\"",
+      "url": "https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1849827110434155",
+      "author": "",
+      "feed_label": "PlayGround.ru - официальная группа",
+      "feed_type": "媒体",
+      "is_patch": false,
+      "contents": "Студия Behaviour Interactive представила новый трейлер Dead by Daylight, посвящённый предстоящему кроссоверу с хоррор-франшизой «Ужасающий» (Terrifier). Тематический контент появится в асимметричном м"
+    },
+    {
+      "date": "2026-11-20",
+      "timestamp": 1795204863,
+      "title": "Black Friday Arrives in The Fog",
+      "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1849827110433575",
+      "author": "rblanchard_bhvr",
+      "feed_label": "Community Announcements",
+      "feed_type": "官方",
+      "is_patch": false,
+      "contents": "No need to bleed your wallet dry. Black Friday arrives in The Fog from November 13th, 12PM EST to December 1st, 12PM EST. Save up to 50% on select items while supplies last.Check out the sale here!"
+    },
+    {
+      "date": "2026-11-20",
+      "timestamp": 1795195371,
+      "title": "Dead by Daylight confirms Terrifier changes after its new Killer's PTB debut",
+      "url": "https://steamstore-a.akamaihd.net/news/externalpost/PCGamesN/1849827110433416",
+      "author": "editor@pcgamesn.com",
+      "feed_label": "PCGamesN",
+      "feed_type": "媒体",
+      "is_patch": false,
+      "contents": "Behaviour Interactive confirms The Terrifier changes in Dead by Daylight update 10.3.0, responding to the PTB for new Killer Art the Clown. Read the full story on PCGamesN: <a href=\"https://www.pcgame"
+    },
+    {
+      "date": "2026-11-20",
+      "timestamp": 1795186835,
+      "title": "PTB-to-Live Update | The Terrifier",
+      "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1849827110432541",
+      "author": "Donnary21st",
+      "feed_label": "Community Announcements",
+      "feed_type": "官方",
+      "is_patch": false,
+      "contents": "Coming away from the 10.3.0 PTB, we saw how much of a blast you had testing out (and coming face-to-face with) The Terrifier's Bag of Toys! With the release of 10.3.0 right around the corner, we wante"
+    },
+    {
+      "date": "2026-11-20",
+      "timestamp": 1795149000,
+      "title": "Динамическая погода, лицевая анимация и моды: авторы Dead by Daylight поделились планами на 2027 год",
+      "url": "https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1849827110430854",
+      "author": "",
+      "feed_label": "PlayGround.ru - официальная группа",
+      "feed_type": "媒体",
+      "is_patch": false,
+      "contents": "Студия Behaviour Interactive представила детали крупного обновления для Dead by Daylight, которое выйдет в 2027 году и кардинально преобразит асимметричный хоррор. После первого анонса на трансляции в"
+    },
     {
       "date": "2026-11-18",
       "timestamp": 1795046111,
@@ -44,61 +99,6 @@
       "feed_type": "媒体",
       "is_patch": false,
       "contents": "Behaviour Interactive показала будущее асимметричного хоррора Dead by Daylight: крупное обновление принесёт визуальные переработки, динамическую погоду, новые анимации и другие изменения. Разработчики"
-    },
-    {
-      "date": "2026-11-06",
-      "timestamp": 1793994667,
-      "title": "В Dead by Daylight появились новые облики героев \"Очень странных дел\" - представлен трейлер коллекции",
-      "url": "https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1848664643347990",
-      "author": "",
-      "feed_label": "PlayGround.ru - официальная группа",
-      "feed_type": "媒体",
-      "is_patch": false,
-      "contents": "Студия Behaviour Interactive представила новый трейлер Dead by Daylight, посвящённый сотрудничеству с популярным сериалом «Очень странные дела» (Stranger Things). В честь Stranger Things Day разработч"
-    },
-    {
-      "date": "2026-11-04",
-      "timestamp": 1793808893,
-      "title": "Dead by Daylight apologises to fans after gifting DLC to TheBurntPeanut and has since 'removed the content that was granted'",
-      "url": "https://steamstore-a.akamaihd.net/news/externalpost/PC Gamer/1848557880479806",
-      "author": "Elie Gould",
-      "feed_label": "PC Gamer",
-      "feed_type": "媒体",
-      "is_patch": false,
-      "contents": "<a href=\"https://www.pcgamer.com/dead-by-daylight/\">Dead by Daylight's</a> devs have found themselves in hot water and in the middle of quite a mess. In short, over the Halloween weekend a team member"
-    },
-    {
-      "date": "2026-11-03",
-      "timestamp": 1793696400,
-      "title": "Steam Global Top Sellers for week of 27 Oct — 3 November 2026",
-      "url": "https://steamstore-a.akamaihd.net/news/externalpost/SteamDB/1847920302252093",
-      "author": "SteamDB",
-      "feed_label": "SteamDB",
-      "feed_type": "媒体",
-      "is_patch": false,
-      "contents": "<a href=\"https://steamdb.info/topsellers/2026W45/?utm_source=Steam&utm_medium=Steam&utm_campaign=SteamRSS\"> </a> * <a href=\"https://steamdb.info/app/4115450/charts/?utm_source=Steam&utm_medium=Steam&u"
-    },
-    {
-      "date": "2026-11-02",
-      "timestamp": 1793603147,
-      "title": "Разработчики Dead by Daylight подарили все DLC популярному стримеру и извинились перед игроками после негативной реакции",
-      "url": "https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1847920302247226",
-      "author": "",
-      "feed_label": "PlayGround.ru - официальная группа",
-      "feed_type": "媒体",
-      "is_patch": false,
-      "contents": "Студия Behaviour Interactive, разработчик хоррор-игры Dead by Daylight, извинилась перед сообществом после того, как популярному Twitch-стримеру TheBurntPeanut во время трансляции бесплатно выдали вес"
-    },
-    {
-      "date": "2026-10-30",
-      "timestamp": 1793389938,
-      "title": "Custom Alienware Laptop Sweepstakes",
-      "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847920302240241",
-      "author": "Steven_BHVR",
-      "feed_label": "Community Announcements",
-      "feed_type": "官方",
-      "is_patch": false,
-      "contents": "To celebrate the Halloween season, our partners at Alienware have a sweet treat for you! From now until November 22nd, enter for a chance to win a custom-skinned Alienware 16X Aurora gaming laptop, co"
     }
   ],
   "patches": [
@@ -182,6 +182,6 @@
     ]
   },
   "reviews": null,
-  "ccu": 33486,
-  "crawled_at": "2026-11-20T03:09:56.710156"
+  "ccu": 37088,
+  "crawled_at": "2026-11-21T03:16:25.456168"
 }

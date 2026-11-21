@@ -249,7 +249,7 @@
       "is_official": true,
       "contents": "Hey hey semibots! Here is another small update with some fixes for our latest content update! NEW CHANGES BALANCING FIXES NEW Object Shadow Quality - Added a new graphics setting to disable shadows ca"
     },
-    "crawled_at": "2026-11-20T03:12:26.787068"
+    "crawled_at": "2026-11-21T03:17:52.301602"
   },
   "Lethal Company": {
     "appid": 1966720,
@@ -501,7 +501,7 @@
       "is_official": true,
       "contents": "Hello, long time no see! Version 80 is out in beta for you to test. You can access it by opting into the public beta branch for Lethal Company on Steam. V80 brings a complete rework of March's exterio"
     },
-    "crawled_at": "2026-11-20T03:12:28.062317"
+    "crawled_at": "2026-11-21T03:17:53.736100"
   },
   "Phasmophobia": {
     "appid": 739630,
@@ -742,7 +742,7 @@
       "contents": "Kinetic Games объявила дату выхода Resonance — одного из крупнейших обновлений Phasmophobia. Оно появится 24 ноября и объединит новый контент с переходом на Unity 6. Игроков ждут дополнительные инстру"
     },
     "latest_patch": null,
-    "crawled_at": "2026-11-20T03:12:29.608761"
+    "crawled_at": "2026-11-21T03:17:54.907336"
   },
   "Content Warning": {
     "appid": 2881650,
@@ -994,7 +994,7 @@
       "is_official": true,
       "contents": "Hello Spööktubers! Thank you for your patience as we're fixing bugs on all platforms.Here's a new patch fixing some stuff!For those of you wondering when crossplay between Switch 1 & 2 and other platf"
     },
-    "crawled_at": "2026-11-20T03:12:30.811480"
+    "crawled_at": "2026-11-21T03:17:56.066110"
   },
   "FEEDERS": {
     "appid": 4408510,
@@ -1245,7 +1245,7 @@
       "is_official": true,
       "contents": "Gave the HUD a fresh redesign. New look across the board — the status bars (Health, Stamina, Radiation) and the bottom belt all got reworked. Same info, cleaner read. More guns coming with new solo ex"
     },
-    "crawled_at": "2026-11-20T03:12:32.057507"
+    "crawled_at": "2026-11-21T03:17:57.311204"
   },
   "NARAKA: BLADEPOINT": {
     "appid": 1203220,
@@ -1486,11 +1486,66 @@
       "contents": "19 ноября NARAKA: BLADEPOINT получила крупное обновление с несколькими временными событиями, изменениями баланса и расширением игрового контента. Главной новинкой стала «Полярная экспедиция» — совмест"
     },
     "latest_patch": null,
-    "crawled_at": "2026-11-20T03:12:33.335776"
+    "crawled_at": "2026-11-21T03:17:58.410085"
   },
   "Dead by Daylight": {
     "appid": 381210,
     "all": [
+      {
+        "date": "2026-11-20",
+        "datetime": "2026-11-20T22:50:20",
+        "title": "Клоун Арт доберётся до Dead by Daylight - представлен трейлер кроссовера с \"Ужасающим\"",
+        "url": "https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1849827110434155",
+        "author": "",
+        "feed_label": "PlayGround.ru - официальная группа",
+        "is_patch": false,
+        "is_official": false,
+        "contents": "Студия Behaviour Interactive представила новый трейлер Dead by Daylight, посвящённый предстоящему кроссоверу с хоррор-франшизой «Ужасающий» (Terrifier). Тематический контент появится в асимметричном м"
+      },
+      {
+        "date": "2026-11-20",
+        "datetime": "2026-11-20T20:01:03",
+        "title": "Black Friday Arrives in The Fog",
+        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1849827110433575",
+        "author": "rblanchard_bhvr",
+        "feed_label": "Community Announcements",
+        "is_patch": false,
+        "is_official": true,
+        "contents": "No need to bleed your wallet dry. Black Friday arrives in The Fog from November 13th, 12PM EST to December 1st, 12PM EST. Save up to 50% on select items while supplies last.Check out the sale here!"
+      },
+      {
+        "date": "2026-11-20",
+        "datetime": "2026-11-20T17:22:51",
+        "title": "Dead by Daylight confirms Terrifier changes after its new Killer's PTB debut",
+        "url": "https://steamstore-a.akamaihd.net/news/externalpost/PCGamesN/1849827110433416",
+        "author": "editor@pcgamesn.com",
+        "feed_label": "PCGamesN",
+        "is_patch": false,
+        "is_official": false,
+        "contents": "Behaviour Interactive confirms The Terrifier changes in Dead by Daylight update 10.3.0, responding to the PTB for new Killer Art the Clown. Read the full story on PCGamesN: <a href=\"https://www.pcgame"
+      },
+      {
+        "date": "2026-11-20",
+        "datetime": "2026-11-20T15:00:35",
+        "title": "PTB-to-Live Update | The Terrifier",
+        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1849827110432541",
+        "author": "Donnary21st",
+        "feed_label": "Community Announcements",
+        "is_patch": false,
+        "is_official": true,
+        "contents": "Coming away from the 10.3.0 PTB, we saw how much of a blast you had testing out (and coming face-to-face with) The Terrifier's Bag of Toys! With the release of 10.3.0 right around the corner, we wante"
+      },
+      {
+        "date": "2026-11-20",
+        "datetime": "2026-11-20T04:30:00",
+        "title": "Динамическая погода, лицевая анимация и моды: авторы Dead by Daylight поделились планами на 2027 год",
+        "url": "https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1849827110430854",
+        "author": "",
+        "feed_label": "PlayGround.ru - официальная группа",
+        "is_patch": false,
+        "is_official": false,
+        "contents": "Студия Behaviour Interactive представила детали крупного обновления для Dead by Daylight, которое выйдет в 2027 году и кардинально преобразит асимметричный хоррор. После первого анонса на трансляции в"
+      },
       {
         "date": "2026-11-18",
         "datetime": "2026-11-18T23:55:11",
@@ -1545,61 +1600,6 @@
         "is_patch": false,
         "is_official": false,
         "contents": "Студия Behaviour Interactive представила новый трейлер Dead by Daylight, посвящённый сотрудничеству с популярным сериалом «Очень странные дела» (Stranger Things). В честь Stranger Things Day разработч"
-      },
-      {
-        "date": "2026-11-04",
-        "datetime": "2026-11-04T16:14:53",
-        "title": "Dead by Daylight apologises to fans after gifting DLC to TheBurntPeanut and has since 'removed the content that was granted'",
-        "url": "https://steamstore-a.akamaihd.net/news/externalpost/PC Gamer/1848557880479806",
-        "author": "Elie Gould",
-        "feed_label": "PC Gamer",
-        "is_patch": false,
-        "is_official": false,
-        "contents": "<a href=\"https://www.pcgamer.com/dead-by-daylight/\">Dead by Daylight's</a> devs have found themselves in hot water and in the middle of quite a mess. In short, over the Halloween weekend a team member"
-      },
-      {
-        "date": "2026-11-03",
-        "datetime": "2026-11-03T09:00:00",
-        "title": "Steam Global Top Sellers for week of 27 Oct — 3 November 2026",
-        "url": "https://steamstore-a.akamaihd.net/news/externalpost/SteamDB/1847920302252093",
-        "author": "SteamDB",
-        "feed_label": "SteamDB",
-        "is_patch": false,
-        "is_official": false,
-        "contents": "<a href=\"https://steamdb.info/topsellers/2026W45/?utm_source=Steam&utm_medium=Steam&utm_campaign=SteamRSS\"> </a> * <a href=\"https://steamdb.info/app/4115450/charts/?utm_source=Steam&utm_medium=Steam&u"
-      },
-      {
-        "date": "2026-11-02",
-        "datetime": "2026-11-02T07:05:47",
-        "title": "Разработчики Dead by Daylight подарили все DLC популярному стримеру и извинились перед игроками после негативной реакции",
-        "url": "https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1847920302247226",
-        "author": "",
-        "feed_label": "PlayGround.ru - официальная группа",
-        "is_patch": false,
-        "is_official": false,
-        "contents": "Студия Behaviour Interactive, разработчик хоррор-игры Dead by Daylight, извинилась перед сообществом после того, как популярному Twitch-стримеру TheBurntPeanut во время трансляции бесплатно выдали вес"
-      },
-      {
-        "date": "2026-10-30",
-        "datetime": "2026-10-30T19:52:18",
-        "title": "Custom Alienware Laptop Sweepstakes",
-        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847920302240241",
-        "author": "Steven_BHVR",
-        "feed_label": "Community Announcements",
-        "is_patch": false,
-        "is_official": true,
-        "contents": "To celebrate the Halloween season, our partners at Alienware have a sweet treat for you! From now until November 22nd, enter for a chance to win a custom-skinned Alienware 16X Aurora gaming laptop, co"
-      },
-      {
-        "date": "2026-10-29",
-        "datetime": "2026-10-29T15:06:00",
-        "title": "10.2.2a Backend Bugfix Patch",
-        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847920302235142",
-        "author": "Goblin_BHVR",
-        "feed_label": "Community Announcements",
-        "is_patch": true,
-        "is_official": true,
-        "contents": "Last week, we introduced the Backend Tunables system as a way to get small balance changes in your hands quicker without having to wait for patch releases. We mentioned having changes planned for a nu"
       }
     ],
     "patches": [
@@ -1613,20 +1613,64 @@
         "is_patch": true,
         "is_official": true,
         "contents": "Towards the end of October, we released a small balance patch using our new Backend Tunables system, adjusting The Executioner and The Good Guy. After working through your feedback and watching both o"
-      },
-      {
-        "date": "2026-10-29",
-        "datetime": "2026-10-29T15:06:00",
-        "title": "10.2.2a Backend Bugfix Patch",
-        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847920302235142",
-        "author": "Goblin_BHVR",
-        "feed_label": "Community Announcements",
-        "is_patch": true,
-        "is_official": true,
-        "contents": "Last week, we introduced the Backend Tunables system as a way to get small balance changes in your hands quicker without having to wait for patch releases. We mentioned having changes planned for a nu"
       }
     ],
     "announcements": [
+      {
+        "date": "2026-11-20",
+        "datetime": "2026-11-20T22:50:20",
+        "title": "Клоун Арт доберётся до Dead by Daylight - представлен трейлер кроссовера с \"Ужасающим\"",
+        "url": "https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1849827110434155",
+        "author": "",
+        "feed_label": "PlayGround.ru - официальная группа",
+        "is_patch": false,
+        "is_official": false,
+        "contents": "Студия Behaviour Interactive представила новый трейлер Dead by Daylight, посвящённый предстоящему кроссоверу с хоррор-франшизой «Ужасающий» (Terrifier). Тематический контент появится в асимметричном м"
+      },
+      {
+        "date": "2026-11-20",
+        "datetime": "2026-11-20T20:01:03",
+        "title": "Black Friday Arrives in The Fog",
+        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1849827110433575",
+        "author": "rblanchard_bhvr",
+        "feed_label": "Community Announcements",
+        "is_patch": false,
+        "is_official": true,
+        "contents": "No need to bleed your wallet dry. Black Friday arrives in The Fog from November 13th, 12PM EST to December 1st, 12PM EST. Save up to 50% on select items while supplies last.Check out the sale here!"
+      },
+      {
+        "date": "2026-11-20",
+        "datetime": "2026-11-20T17:22:51",
+        "title": "Dead by Daylight confirms Terrifier changes after its new Killer's PTB debut",
+        "url": "https://steamstore-a.akamaihd.net/news/externalpost/PCGamesN/1849827110433416",
+        "author": "editor@pcgamesn.com",
+        "feed_label": "PCGamesN",
+        "is_patch": false,
+        "is_official": false,
+        "contents": "Behaviour Interactive confirms The Terrifier changes in Dead by Daylight update 10.3.0, responding to the PTB for new Killer Art the Clown. Read the full story on PCGamesN: <a href=\"https://www.pcgame"
+      },
+      {
+        "date": "2026-11-20",
+        "datetime": "2026-11-20T15:00:35",
+        "title": "PTB-to-Live Update | The Terrifier",
+        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1849827110432541",
+        "author": "Donnary21st",
+        "feed_label": "Community Announcements",
+        "is_patch": false,
+        "is_official": true,
+        "contents": "Coming away from the 10.3.0 PTB, we saw how much of a blast you had testing out (and coming face-to-face with) The Terrifier's Bag of Toys! With the release of 10.3.0 right around the corner, we wante"
+      },
+      {
+        "date": "2026-11-20",
+        "datetime": "2026-11-20T04:30:00",
+        "title": "Динамическая погода, лицевая анимация и моды: авторы Dead by Daylight поделились планами на 2027 год",
+        "url": "https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1849827110430854",
+        "author": "",
+        "feed_label": "PlayGround.ru - официальная группа",
+        "is_patch": false,
+        "is_official": false,
+        "contents": "Студия Behaviour Interactive представила детали крупного обновления для Dead by Daylight, которое выйдет в 2027 году и кардинально преобразит асимметричный хоррор. После первого анонса на трансляции в"
+      },
       {
         "date": "2026-11-18",
         "datetime": "2026-11-18T23:55:11",
@@ -1670,62 +1714,18 @@
         "is_patch": false,
         "is_official": false,
         "contents": "Студия Behaviour Interactive представила новый трейлер Dead by Daylight, посвящённый сотрудничеству с популярным сериалом «Очень странные дела» (Stranger Things). В честь Stranger Things Day разработч"
-      },
-      {
-        "date": "2026-11-04",
-        "datetime": "2026-11-04T16:14:53",
-        "title": "Dead by Daylight apologises to fans after gifting DLC to TheBurntPeanut and has since 'removed the content that was granted'",
-        "url": "https://steamstore-a.akamaihd.net/news/externalpost/PC Gamer/1848557880479806",
-        "author": "Elie Gould",
-        "feed_label": "PC Gamer",
-        "is_patch": false,
-        "is_official": false,
-        "contents": "<a href=\"https://www.pcgamer.com/dead-by-daylight/\">Dead by Daylight's</a> devs have found themselves in hot water and in the middle of quite a mess. In short, over the Halloween weekend a team member"
-      },
-      {
-        "date": "2026-11-03",
-        "datetime": "2026-11-03T09:00:00",
-        "title": "Steam Global Top Sellers for week of 27 Oct — 3 November 2026",
-        "url": "https://steamstore-a.akamaihd.net/news/externalpost/SteamDB/1847920302252093",
-        "author": "SteamDB",
-        "feed_label": "SteamDB",
-        "is_patch": false,
-        "is_official": false,
-        "contents": "<a href=\"https://steamdb.info/topsellers/2026W45/?utm_source=Steam&utm_medium=Steam&utm_campaign=SteamRSS\"> </a> * <a href=\"https://steamdb.info/app/4115450/charts/?utm_source=Steam&utm_medium=Steam&u"
-      },
-      {
-        "date": "2026-11-02",
-        "datetime": "2026-11-02T07:05:47",
-        "title": "Разработчики Dead by Daylight подарили все DLC популярному стримеру и извинились перед игроками после негативной реакции",
-        "url": "https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1847920302247226",
-        "author": "",
-        "feed_label": "PlayGround.ru - официальная группа",
-        "is_patch": false,
-        "is_official": false,
-        "contents": "Студия Behaviour Interactive, разработчик хоррор-игры Dead by Daylight, извинилась перед сообществом после того, как популярному Twitch-стримеру TheBurntPeanut во время трансляции бесплатно выдали вес"
-      },
-      {
-        "date": "2026-10-30",
-        "datetime": "2026-10-30T19:52:18",
-        "title": "Custom Alienware Laptop Sweepstakes",
-        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847920302240241",
-        "author": "Steven_BHVR",
-        "feed_label": "Community Announcements",
-        "is_patch": false,
-        "is_official": true,
-        "contents": "To celebrate the Halloween season, our partners at Alienware have a sweet treat for you! From now until November 22nd, enter for a chance to win a custom-skinned Alienware 16X Aurora gaming laptop, co"
       }
     ],
     "latest": {
-      "date": "2026-11-18",
-      "datetime": "2026-11-18T23:55:11",
-      "title": "Dead by Daylight намекнула на возможную коллаборацию с Годзиллой в новом тизере",
-      "url": "https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1849827110426461",
+      "date": "2026-11-20",
+      "datetime": "2026-11-20T22:50:20",
+      "title": "Клоун Арт доберётся до Dead by Daylight - представлен трейлер кроссовера с \"Ужасающим\"",
+      "url": "https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1849827110434155",
       "author": "",
       "feed_label": "PlayGround.ru - официальная группа",
       "is_patch": false,
       "is_official": false,
-      "contents": "Разработчики Dead by Daylight опубликовали короткий тизер под названием «Опасность от незнакомцев». В ролике Дуайт сталкивается с чем-то пугающим, а в самом конце звучит рев, который фанаты мгновенно "
+      "contents": "Студия Behaviour Interactive представила новый трейлер Dead by Daylight, посвящённый предстоящему кроссоверу с хоррор-франшизой «Ужасающий» (Terrifier). Тематический контент появится в асимметричном м"
     },
     "latest_patch": {
       "date": "2026-11-09",
@@ -1738,6 +1738,6 @@
       "is_official": true,
       "contents": "Towards the end of October, we released a small balance patch using our new Backend Tunables system, adjusting The Executioner and The Good Guy. After working through your feedback and watching both o"
     },
-    "crawled_at": "2026-11-20T03:12:34.645145"
+    "crawled_at": "2026-11-21T03:17:59.739527"
   }
 }
