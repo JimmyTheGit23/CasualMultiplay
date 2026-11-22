@@ -249,7 +249,7 @@
       "is_official": true,
       "contents": "Hey hey semibots! Here is another small update with some fixes for our latest content update! NEW CHANGES BALANCING FIXES NEW Object Shadow Quality - Added a new graphics setting to disable shadows ca"
     },
-    "crawled_at": "2026-11-21T03:17:52.301602"
+    "crawled_at": "2026-11-22T02:14:32.336705"
   },
   "Lethal Company": {
     "appid": 1966720,
@@ -501,7 +501,7 @@
       "is_official": true,
       "contents": "Hello, long time no see! Version 80 is out in beta for you to test. You can access it by opting into the public beta branch for Lethal Company on Steam. V80 brings a complete rework of March's exterio"
     },
-    "crawled_at": "2026-11-21T03:17:53.736100"
+    "crawled_at": "2026-11-22T02:14:33.555114"
   },
   "Phasmophobia": {
     "appid": 739630,
@@ -742,7 +742,7 @@
       "contents": "Kinetic Games объявила дату выхода Resonance — одного из крупнейших обновлений Phasmophobia. Оно появится 24 ноября и объединит новый контент с переходом на Unity 6. Игроков ждут дополнительные инстру"
     },
     "latest_patch": null,
-    "crawled_at": "2026-11-21T03:17:54.907336"
+    "crawled_at": "2026-11-22T02:14:34.701197"
   },
   "Content Warning": {
     "appid": 2881650,
@@ -994,7 +994,7 @@
       "is_official": true,
       "contents": "Hello Spööktubers! Thank you for your patience as we're fixing bugs on all platforms.Here's a new patch fixing some stuff!For those of you wondering when crossplay between Switch 1 & 2 and other platf"
     },
-    "crawled_at": "2026-11-21T03:17:56.066110"
+    "crawled_at": "2026-11-22T02:14:35.941068"
   },
   "FEEDERS": {
     "appid": 4408510,
@@ -1245,7 +1245,7 @@
       "is_official": true,
       "contents": "Gave the HUD a fresh redesign. New look across the board — the status bars (Health, Stamina, Radiation) and the bottom belt all got reworked. Same info, cleaner read. More guns coming with new solo ex"
     },
-    "crawled_at": "2026-11-21T03:17:57.311204"
+    "crawled_at": "2026-11-22T02:14:37.073437"
   },
   "NARAKA: BLADEPOINT": {
     "appid": 1203220,
@@ -1486,7 +1486,7 @@
       "contents": "19 ноября NARAKA: BLADEPOINT получила крупное обновление с несколькими временными событиями, изменениями баланса и расширением игрового контента. Главной новинкой стала «Полярная экспедиция» — совмест"
     },
     "latest_patch": null,
-    "crawled_at": "2026-11-21T03:17:58.410085"
+    "crawled_at": "2026-11-22T02:14:38.189600"
   },
   "Dead by Daylight": {
     "appid": 381210,
@@ -1738,6 +1738,6 @@
       "is_official": true,
       "contents": "Towards the end of October, we released a small balance patch using our new Backend Tunables system, adjusting The Executioner and The Good Guy. After working through your feedback and watching both o"
     },
-    "crawled_at": "2026-11-21T03:17:59.739527"
+    "crawled_at": "2026-11-22T02:14:39.310616"
   }
 }
