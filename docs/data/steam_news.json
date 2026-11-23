@@ -249,7 +249,7 @@
       "is_official": true,
       "contents": "Hey hey semibots! Here is another small update with some fixes for our latest content update! NEW CHANGES BALANCING FIXES NEW Object Shadow Quality - Added a new graphics setting to disable shadows ca"
     },
-    "crawled_at": "2026-11-22T02:14:32.336705"
+    "crawled_at": "2026-11-23T02:41:30.645532"
   },
   "Lethal Company": {
     "appid": 1966720,
@@ -501,7 +501,7 @@
       "is_official": true,
       "contents": "Hello, long time no see! Version 80 is out in beta for you to test. You can access it by opting into the public beta branch for Lethal Company on Steam. V80 brings a complete rework of March's exterio"
     },
-    "crawled_at": "2026-11-22T02:14:33.555114"
+    "crawled_at": "2026-11-23T02:41:31.971696"
   },
   "Phasmophobia": {
     "appid": 739630,
@@ -742,7 +742,7 @@
       "contents": "Kinetic Games объявила дату выхода Resonance — одного из крупнейших обновлений Phasmophobia. Оно появится 24 ноября и объединит новый контент с переходом на Unity 6. Игроков ждут дополнительные инстру"
     },
     "latest_patch": null,
-    "crawled_at": "2026-11-22T02:14:34.701197"
+    "crawled_at": "2026-11-23T02:41:33.201291"
   },
   "Content Warning": {
     "appid": 2881650,
@@ -994,7 +994,7 @@
       "is_official": true,
       "contents": "Hello Spööktubers! Thank you for your patience as we're fixing bugs on all platforms.Here's a new patch fixing some stuff!For those of you wondering when crossplay between Switch 1 & 2 and other platf"
     },
-    "crawled_at": "2026-11-22T02:14:35.941068"
+    "crawled_at": "2026-11-23T02:41:34.417628"
   },
   "FEEDERS": {
     "appid": 4408510,
@@ -1245,11 +1245,22 @@
       "is_official": true,
       "contents": "Gave the HUD a fresh redesign. New look across the board — the status bars (Health, Stamina, Radiation) and the bottom belt all got reworked. Same info, cleaner read. More guns coming with new solo ex"
     },
-    "crawled_at": "2026-11-22T02:14:37.073437"
+    "crawled_at": "2026-11-23T02:41:35.626506"
   },
   "NARAKA: BLADEPOINT": {
     "appid": 1203220,
     "all": [
+      {
+        "date": "2026-11-22",
+        "datetime": "2026-11-22T16:31:12",
+        "title": "NARAKA: BLADEPOINT Maintenance Notice - November 22",
+        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1849827110438887",
+        "author": "Misty",
+        "feed_label": "Community Announcements",
+        "is_patch": false,
+        "is_official": true,
+        "contents": "Dear Players,Due to a network issue, the servers will be taken offline for temporary maintenance expected to last approximately 3 hours at 9:00 11/22 PT. We sincerely apologize for the inconvenience t"
+      },
       {
         "date": "2026-11-19",
         "datetime": "2026-11-19T13:52:47",
@@ -1343,17 +1354,6 @@
         "datetime": "2026-10-20T14:16:17",
         "title": "NARAKA: BLADEPOINT Banned Players List Oct 20th",
         "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846651706695473",
-        "author": "Yeeeeee",
-        "feed_label": "Community Announcements",
-        "is_patch": false,
-        "is_official": true,
-        "contents": "Dear players,NARAKA: BLADEPOINT is committed to creating a fair and healthy competitive environment. We have not only used new anti-cheat technologies, but also established special cheat-reporting rew"
-      },
-      {
-        "date": "2026-10-13",
-        "datetime": "2026-10-13T12:18:34",
-        "title": "NARAKA: BLADEPOINT Banned Players List October 13th",
-        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846018067943855",
         "author": "Yeeeeee",
         "feed_label": "Community Announcements",
         "is_patch": false,
@@ -1364,6 +1364,17 @@
     "patches": [],
     "announcements": [
       {
+        "date": "2026-11-22",
+        "datetime": "2026-11-22T16:31:12",
+        "title": "NARAKA: BLADEPOINT Maintenance Notice - November 22",
+        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1849827110438887",
+        "author": "Misty",
+        "feed_label": "Community Announcements",
+        "is_patch": false,
+        "is_official": true,
+        "contents": "Dear Players,Due to a network issue, the servers will be taken offline for temporary maintenance expected to last approximately 3 hours at 9:00 11/22 PT. We sincerely apologize for the inconvenience t"
+      },
+      {
         "date": "2026-11-19",
         "datetime": "2026-11-19T13:52:47",
         "title": "NARAKA: BLADEPOINT отправилась в Антарктиду: новое событие добавило экспедицию, рыбалку и десятки наград",
@@ -1461,32 +1472,21 @@
         "is_patch": false,
         "is_official": true,
         "contents": "Dear players,NARAKA: BLADEPOINT is committed to creating a fair and healthy competitive environment. We have not only used new anti-cheat technologies, but also established special cheat-reporting rew"
-      },
-      {
-        "date": "2026-10-13",
-        "datetime": "2026-10-13T12:18:34",
-        "title": "NARAKA: BLADEPOINT Banned Players List October 13th",
-        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846018067943855",
-        "author": "Yeeeeee",
-        "feed_label": "Community Announcements",
-        "is_patch": false,
-        "is_official": true,
-        "contents": "Dear players,NARAKA: BLADEPOINT is committed to creating a fair and healthy competitive environment. We have not only used new anti-cheat technologies, but also established special cheat-reporting rew"
       }
     ],
     "latest": {
-      "date": "2026-11-19",
-      "datetime": "2026-11-19T13:52:47",
-      "title": "NARAKA: BLADEPOINT отправилась в Антарктиду: новое событие добавило экспедицию, рыбалку и десятки наград",
-      "url": "https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1849827110428442",
-      "author": "",
-      "feed_label": "PlayGround.ru - официальная группа",
+      "date": "2026-11-22",
+      "datetime": "2026-11-22T16:31:12",
+      "title": "NARAKA: BLADEPOINT Maintenance Notice - November 22",
+      "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1849827110438887",
+      "author": "Misty",
+      "feed_label": "Community Announcements",
       "is_patch": false,
-      "is_official": false,
-      "contents": "19 ноября NARAKA: BLADEPOINT получила крупное обновление с несколькими временными событиями, изменениями баланса и расширением игрового контента. Главной новинкой стала «Полярная экспедиция» — совмест"
+      "is_official": true,
+      "contents": "Dear Players,Due to a network issue, the servers will be taken offline for temporary maintenance expected to last approximately 3 hours at 9:00 11/22 PT. We sincerely apologize for the inconvenience t"
     },
     "latest_patch": null,
-    "crawled_at": "2026-11-22T02:14:38.189600"
+    "crawled_at": "2026-11-23T02:41:36.829574"
   },
   "Dead by Daylight": {
     "appid": 381210,
@@ -1738,6 +1738,6 @@
       "is_official": true,
       "contents": "Towards the end of October, we released a small balance patch using our new Backend Tunables system, adjusting The Executioner and The Good Guy. After working through your feedback and watching both o"
     },
-    "crawled_at": "2026-11-22T02:14:39.310616"
+    "crawled_at": "2026-11-23T02:41:38.047317"
   }
 }
