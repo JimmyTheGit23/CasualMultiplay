@@ -1,5 +1,5 @@
 {
-  "snapshot_date": "2026-11-23T02:39:55.751089+00:00",
+  "snapshot_date": "2026-11-24T06:02:45.522899+00:00",
   "hero": {
     "title": "R.E.P.O.",
     "title_en": "R.E.P.O.",
@@ -8,6 +8,16 @@
     "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3241660/62177765c05399116f0453fe1177b00ceed698c4/header_alt_assets_3.jpg?t=1793278962"
   },
   "operations": [
+    {
+      "date": "2026-11-23",
+      "timestamp": 1795425222,
+      "title": "R.E.P.O. v0.5.3",
+      "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1849827110440975",
+      "source": "官方",
+      "type_zh": "版本更新",
+      "type_en": "Patch",
+      "contents": "Hey hey semibots! Here is yet another small update with some fixes for our latest content update! CHANGES FIXES CHANGES Localization - Improved accuracy of some localizations. Upgrade Tumble Climb - Climbing and swinging are now easier. FIXES Phys Grabber - Fixed rotation strength varying depending "
+    },
     {
       "date": "2026-11-18",
       "timestamp": 1794998107,
@@ -147,19 +157,19 @@
       "type_zh": "公告",
       "type_en": "Announcement",
       "contents": "Hey hey semibots! Today we’re answering some of your most burning questions regarding the upcoming update or just R.E.P.O. in general! Check out the Q&A Devlog here: If you prefer reading, here are the key takeaways from the Q&A: Are you planning any variation to the “King of the Losers” minigame? A"
-    },
-    {
-      "date": "2026-02-27",
-      "timestamp": 1772204178,
-      "title": "Did someone say \"R.E.P.O. MERCH\"???",
-      "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1825727806710964",
-      "source": "官方",
-      "type_zh": "公告",
-      "type_en": "Announcement",
-      "contents": "Hey hey semibots! As of yesterday, it was exactly 1 year ago since R.E.P.O. got launched in Early Access and what a year it has been! We feel truly blessed and humbled by our amazing community, gathering valuables and hiding from (or fighting) all the bad guys. To celebrate the 1 year anniversery fo"
     }
   ],
   "patches": [
+    {
+      "date": "2026-11-23",
+      "timestamp": 1795425222,
+      "title": "R.E.P.O. v0.5.3",
+      "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1849827110440975",
+      "source": "官方",
+      "type_zh": "版本更新",
+      "type_en": "Patch",
+      "contents": "Hey hey semibots! Here is yet another small update with some fixes for our latest content update! CHANGES FIXES CHANGES Localization - Improved accuracy of some localizations. Upgrade Tumble Climb - Climbing and swinging are now easier. FIXES Phys Grabber - Fixed rotation strength varying depending "
+    },
     {
       "date": "2026-11-18",
       "timestamp": 1794998107,
@@ -285,6 +295,6 @@
     "is_free": false
   },
   "reviews": null,
-  "ccu": 21670,
-  "crawled_at": "2026-11-23T02:39:55.751089+00:00"
+  "ccu": 12474,
+  "crawled_at": "2026-11-24T06:02:45.522899+00:00"
 }

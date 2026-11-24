@@ -3,6 +3,17 @@
     "appid": 3241660,
     "all": [
       {
+        "date": "2026-11-23",
+        "datetime": "2026-11-23T09:13:42",
+        "title": "R.E.P.O. v0.5.3",
+        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1849827110440975",
+        "author": "semiwork",
+        "feed_label": "Community Announcements",
+        "is_patch": true,
+        "is_official": true,
+        "contents": "Hey hey semibots! Here is yet another small update with some fixes for our latest content update! CHANGES FIXES CHANGES Localization - Improved accuracy of some localizations. Upgrade Tumble Climb - C"
+      },
+      {
         "date": "2026-11-18",
         "datetime": "2026-11-18T10:35:07",
         "title": "R.E.P.O. v0.5.2",
@@ -100,20 +111,20 @@
         "is_patch": true,
         "is_official": true,
         "contents": "Hey hey semibots! Hope you are enjoying all the new fashions, here is a patch with some fixes and balancing! CHANGES BALANCING FIXES CHANGES Cosmetic Box Spawn - Increased the \"bad luck\" multiplier sl"
-      },
-      {
-        "date": "2026-05-07",
-        "datetime": "2026-05-07T13:00:55",
-        "title": "R.E.P.O. v0.4.0 - The Cosmetic Update",
-        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1832065502811979",
-        "author": "Axel",
-        "feed_label": "Community Announcements",
-        "is_patch": false,
-        "is_official": true,
-        "contents": "Hey hey semibots! Our third major update is now live, The Cosmetic Update! Hope you guys have fun with all the new content, and please share your fresh outfits! ❤️ NEW CHANGES BALANCING FIXES NEW Cosm"
       }
     ],
     "patches": [
+      {
+        "date": "2026-11-23",
+        "datetime": "2026-11-23T09:13:42",
+        "title": "R.E.P.O. v0.5.3",
+        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1849827110440975",
+        "author": "semiwork",
+        "feed_label": "Community Announcements",
+        "is_patch": true,
+        "is_official": true,
+        "contents": "Hey hey semibots! Here is yet another small update with some fixes for our latest content update! CHANGES FIXES CHANGES Localization - Improved accuracy of some localizations. Upgrade Tumble Climb - C"
+      },
       {
         "date": "2026-11-18",
         "datetime": "2026-11-18T10:35:07",
@@ -214,42 +225,31 @@
         "is_patch": false,
         "is_official": true,
         "contents": "Hey hey semibots! WOHO! We’re alive and we have some exciting stuff to tell you! Check out the Devlog here: If you prefer reading, here are the key takeaways: NEXT UPDATE The main focus of the next up"
-      },
-      {
-        "date": "2026-05-07",
-        "datetime": "2026-05-07T13:00:55",
-        "title": "R.E.P.O. v0.4.0 - The Cosmetic Update",
-        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1832065502811979",
-        "author": "Axel",
-        "feed_label": "Community Announcements",
-        "is_patch": false,
-        "is_official": true,
-        "contents": "Hey hey semibots! Our third major update is now live, The Cosmetic Update! Hope you guys have fun with all the new content, and please share your fresh outfits! ❤️ NEW CHANGES BALANCING FIXES NEW Cosm"
       }
     ],
     "latest": {
-      "date": "2026-11-18",
-      "datetime": "2026-11-18T10:35:07",
-      "title": "R.E.P.O. v0.5.2",
-      "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1849827110423646",
+      "date": "2026-11-23",
+      "datetime": "2026-11-23T09:13:42",
+      "title": "R.E.P.O. v0.5.3",
+      "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1849827110440975",
       "author": "semiwork",
       "feed_label": "Community Announcements",
       "is_patch": true,
       "is_official": true,
-      "contents": "Hey hey semibots! Here is another small update with some fixes for our latest content update! NEW CHANGES BALANCING FIXES NEW Object Shadow Quality - Added a new graphics setting to disable shadows ca"
+      "contents": "Hey hey semibots! Here is yet another small update with some fixes for our latest content update! CHANGES FIXES CHANGES Localization - Improved accuracy of some localizations. Upgrade Tumble Climb - C"
     },
     "latest_patch": {
-      "date": "2026-11-18",
-      "datetime": "2026-11-18T10:35:07",
-      "title": "R.E.P.O. v0.5.2",
-      "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1849827110423646",
+      "date": "2026-11-23",
+      "datetime": "2026-11-23T09:13:42",
+      "title": "R.E.P.O. v0.5.3",
+      "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1849827110440975",
       "author": "semiwork",
       "feed_label": "Community Announcements",
       "is_patch": true,
       "is_official": true,
-      "contents": "Hey hey semibots! Here is another small update with some fixes for our latest content update! NEW CHANGES BALANCING FIXES NEW Object Shadow Quality - Added a new graphics setting to disable shadows ca"
+      "contents": "Hey hey semibots! Here is yet another small update with some fixes for our latest content update! CHANGES FIXES CHANGES Localization - Improved accuracy of some localizations. Upgrade Tumble Climb - C"
     },
-    "crawled_at": "2026-11-23T02:41:30.645532"
+    "crawled_at": "2026-11-24T06:04:07.940743"
   },
   "Lethal Company": {
     "appid": 1966720,
@@ -501,7 +501,7 @@
       "is_official": true,
       "contents": "Hello, long time no see! Version 80 is out in beta for you to test. You can access it by opting into the public beta branch for Lethal Company on Steam. V80 brings a complete rework of March's exterio"
     },
-    "crawled_at": "2026-11-23T02:41:31.971696"
+    "crawled_at": "2026-11-24T06:04:09.105651"
   },
   "Phasmophobia": {
     "appid": 739630,
@@ -742,7 +742,7 @@
       "contents": "Kinetic Games объявила дату выхода Resonance — одного из крупнейших обновлений Phasmophobia. Оно появится 24 ноября и объединит новый контент с переходом на Unity 6. Игроков ждут дополнительные инстру"
     },
     "latest_patch": null,
-    "crawled_at": "2026-11-23T02:41:33.201291"
+    "crawled_at": "2026-11-24T06:04:10.272692"
   },
   "Content Warning": {
     "appid": 2881650,
@@ -994,7 +994,7 @@
       "is_official": true,
       "contents": "Hello Spööktubers! Thank you for your patience as we're fixing bugs on all platforms.Here's a new patch fixing some stuff!For those of you wondering when crossplay between Switch 1 & 2 and other platf"
     },
-    "crawled_at": "2026-11-23T02:41:34.417628"
+    "crawled_at": "2026-11-24T06:04:11.439563"
   },
   "FEEDERS": {
     "appid": 4408510,
@@ -1245,7 +1245,7 @@
       "is_official": true,
       "contents": "Gave the HUD a fresh redesign. New look across the board — the status bars (Health, Stamina, Radiation) and the bottom belt all got reworked. Same info, cleaner read. More guns coming with new solo ex"
     },
-    "crawled_at": "2026-11-23T02:41:35.626506"
+    "crawled_at": "2026-11-24T06:04:12.591722"
   },
   "NARAKA: BLADEPOINT": {
     "appid": 1203220,
@@ -1486,7 +1486,7 @@
       "contents": "Dear Players,Due to a network issue, the servers will be taken offline for temporary maintenance expected to last approximately 3 hours at 9:00 11/22 PT. We sincerely apologize for the inconvenience t"
     },
     "latest_patch": null,
-    "crawled_at": "2026-11-23T02:41:36.829574"
+    "crawled_at": "2026-11-24T06:04:13.768521"
   },
   "Dead by Daylight": {
     "appid": 381210,
@@ -1738,6 +1738,6 @@
       "is_official": true,
       "contents": "Towards the end of October, we released a small balance patch using our new Backend Tunables system, adjusting The Executioner and The Good Guy. After working through your feedback and watching both o"
     },
-    "crawled_at": "2026-11-23T02:41:38.047317"
+    "crawled_at": "2026-11-24T06:04:14.926520"
   }
 }
