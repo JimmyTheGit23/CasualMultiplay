@@ -1,8 +1,8 @@
 {
-  "snapshot_date": "2026-11-24T06:02:45+08:00",
+  "snapshot_date": "2026-11-25T05:02:24+08:00",
   "hero": {
     "name": "黎明杀机",
-    "current_players": 26998,
+    "current_players": 46929,
     "positive_rate": 78.5,
     "reviews_total": 903715,
     "price_label": "¥ 93.75",
@@ -12,6 +12,39 @@
     ]
   },
   "operations": [
+    {
+      "date": "2026-11-24",
+      "timestamp": 1795555220,
+      "title": "The Terrifier Chapter is now available on Steam!",
+      "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1849827110447868",
+      "author": "linda_bhvr",
+      "feed_label": "Community Announcements",
+      "feed_type": "官方",
+      "is_patch": false,
+      "contents": "Dead by Daylight: Terrifier brings horror icons The Terrifier and Sienna Shaw into The Fog alongside a new original Map, Hartshorne Mall. Purchasing this add-on unlocks the Art Crispies Cereal charm a"
+    },
+    {
+      "date": "2026-11-24",
+      "timestamp": 1795542650,
+      "title": "Для Dead by Daylight вышло дополнение Terrifier с Клоуно Артом",
+      "url": "https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1849827110447355",
+      "author": "",
+      "feed_label": "PlayGround.ru - официальная группа",
+      "feed_type": "媒体",
+      "is_patch": false,
+      "contents": "Создатели асимметричного хоррора Dead by Daylight выпустили дополнение Terrifier: оно добавляет Арта Клоуна, выжившую Сиенну Шоу, новую карту и косметические предметы. Икона инди-хорроров Арт Клоун ст"
+    },
+    {
+      "date": "2026-11-24",
+      "timestamp": 1795539699,
+      "title": "10.3.0 | Terrifier Patch Notes",
+      "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1849827110447019",
+      "author": "rblanchard_bhvr",
+      "feed_label": "Community Announcements",
+      "feed_type": "官方",
+      "is_patch": false,
+      "contents": "ContentNew Killer: The TerrifierPOWER: BAG OF TOYS Hold the Ability Button to open the Bag of Toys and choose from 2 Toys. New Toys are randomly available each time the bag is opened. Closing the bag "
+    },
     {
       "date": "2026-11-20",
       "timestamp": 1795215020,
@@ -66,39 +99,6 @@
       "feed_type": "媒体",
       "is_patch": false,
       "contents": "Студия Behaviour Interactive представила детали крупного обновления для Dead by Daylight, которое выйдет в 2027 году и кардинально преобразит асимметричный хоррор. После первого анонса на трансляции в"
-    },
-    {
-      "date": "2026-11-18",
-      "timestamp": 1795046111,
-      "title": "Dead by Daylight намекнула на возможную коллаборацию с Годзиллой в новом тизере",
-      "url": "https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1849827110426461",
-      "author": "",
-      "feed_label": "PlayGround.ru - официальная группа",
-      "feed_type": "媒体",
-      "is_patch": false,
-      "contents": "Разработчики Dead by Daylight опубликовали короткий тизер под названием «Опасность от незнакомцев». В ролике Дуайт сталкивается с чем-то пугающим, а в самом конце звучит рев, который фанаты мгновенно "
-    },
-    {
-      "date": "2026-11-17",
-      "timestamp": 1794951230,
-      "title": "The siren call of user-generated content has caught Dead by Daylight in its snare, as Behaviour Interactive outline a big revamp update slated for next year",
-      "url": "https://steamstore-a.akamaihd.net/news/externalpost/Rock, Paper, Shotgun/1849458702695702",
-      "author": "",
-      "feed_label": "Rock, Paper, Shotgun",
-      "feed_type": "媒体",
-      "is_patch": false,
-      "contents": "The promise of user-generated content, this idea that you could host a platform that grows infinitely because the people that interact with it make things for it and you don't even have to pay anyone,"
-    },
-    {
-      "date": "2026-11-17",
-      "timestamp": 1794937869,
-      "title": "Dead by Daylight показали будущие визуальные переработки и динамическую погоду",
-      "url": "https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1849458702694885",
-      "author": "",
-      "feed_label": "PlayGround.ru - официальная группа",
-      "feed_type": "媒体",
-      "is_patch": false,
-      "contents": "Behaviour Interactive показала будущее асимметричного хоррора Dead by Daylight: крупное обновление принесёт визуальные переработки, динамическую погоду, новые анимации и другие изменения. Разработчики"
     }
   ],
   "patches": [
@@ -112,17 +112,6 @@
       "feed_type": "官方",
       "is_patch": true,
       "contents": "Towards the end of October, we released a small balance patch using our new Backend Tunables system, adjusting The Executioner and The Good Guy. After working through your feedback and watching both o"
-    },
-    {
-      "date": "2026-10-29",
-      "timestamp": 1793286360,
-      "title": "10.2.2a Backend Bugfix Patch",
-      "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847920302235142",
-      "author": "Goblin_BHVR",
-      "feed_label": "Community Announcements",
-      "feed_type": "官方",
-      "is_patch": true,
-      "contents": "Last week, we introduced the Backend Tunables system as a way to get small balance changes in your hands quicker without having to wait for patch releases. We mentioned having changes planned for a nu"
     }
   ],
   "trends": [
@@ -162,7 +151,7 @@
     "name_en": "Dead by Daylight",
     "short_description": "10年恐惧相伴。10年的惊吓与刺激体验。10年的残暴献祭与惊险逃脱。 永久困于邪恶的幻境之中，即使死亡也无法逃脱，这是一场需要勇气和智慧的较量，四名意志坚定的逃生者在残忍对局中面对嗜血杀手。选择一方，进入多人非对称竞技游戏世界，获得最佳恐怖游戏体验。",
     "short_description_en": "10 years of horror. 10 years of jump scares and close calls. 10 years of brutal sacrifices and thrilling escapes. Trapped forever in a realm of eldritch evil where even death is not an escape, four determined Survivors face a bloodthirsty Killer in a vicious game of nerve and wits.",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/381210/header.jpg?t=1795112227",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/381210/c5cf48bd5676caa7e505ef7e552598d2a01effcd/header_alt_assets_11.jpg?t=1795543658",
     "developers": [
       "Behaviour Interactive Inc."
     ],
@@ -182,6 +171,6 @@
     ]
   },
   "reviews": null,
-  "ccu": 26998,
-  "crawled_at": "2026-11-24T06:02:45.443894"
+  "ccu": 46929,
+  "crawled_at": "2026-11-25T05:02:24.846217"
 }
