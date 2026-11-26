@@ -3,6 +3,17 @@
     "appid": 3241660,
     "all": [
       {
+        "date": "2026-11-25",
+        "datetime": "2026-11-25T10:26:33",
+        "title": "R.E.P.O. v0.5.4",
+        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1850460852980616",
+        "author": "semiwork",
+        "feed_label": "Community Announcements",
+        "is_patch": true,
+        "is_official": true,
+        "contents": "Hey hey semibots! Here is yet another small update with some fixes for our latest content update! NEW CHANGES FIXES NEW Museum of Human Art - Added a new room! CHANGES Item Pocket C.A.R.T. - No longer"
+      },
+      {
         "date": "2026-11-23",
         "datetime": "2026-11-23T09:13:42",
         "title": "R.E.P.O. v0.5.3",
@@ -100,20 +111,20 @@
         "is_patch": true,
         "is_official": true,
         "contents": "Hey hey semibots! Here is another small update with some fixes and balancing! CHANGES BALANCING FIXES CHANGES Vehicles - Now drift less sharply at low speeds. Added scratch sound effects that scale wi"
-      },
-      {
-        "date": "2026-05-09",
-        "datetime": "2026-05-09T14:03:19",
-        "title": "R.E.P.O. v0.4.1",
-        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1832065502817573",
-        "author": "Axel",
-        "feed_label": "Community Announcements",
-        "is_patch": true,
-        "is_official": true,
-        "contents": "Hey hey semibots! Hope you are enjoying all the new fashions, here is a patch with some fixes and balancing! CHANGES BALANCING FIXES CHANGES Cosmetic Box Spawn - Increased the \"bad luck\" multiplier sl"
       }
     ],
     "patches": [
+      {
+        "date": "2026-11-25",
+        "datetime": "2026-11-25T10:26:33",
+        "title": "R.E.P.O. v0.5.4",
+        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1850460852980616",
+        "author": "semiwork",
+        "feed_label": "Community Announcements",
+        "is_patch": true,
+        "is_official": true,
+        "contents": "Hey hey semibots! Here is yet another small update with some fixes for our latest content update! NEW CHANGES FIXES NEW Museum of Human Art - Added a new room! CHANGES Item Pocket C.A.R.T. - No longer"
+      },
       {
         "date": "2026-11-23",
         "datetime": "2026-11-23T09:13:42",
@@ -179,17 +190,6 @@
         "is_patch": true,
         "is_official": true,
         "contents": "Hey hey semibots! Here is another small update with some fixes and balancing! CHANGES BALANCING FIXES CHANGES Vehicles - Now drift less sharply at low speeds. Added scratch sound effects that scale wi"
-      },
-      {
-        "date": "2026-05-09",
-        "datetime": "2026-05-09T14:03:19",
-        "title": "R.E.P.O. v0.4.1",
-        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1832065502817573",
-        "author": "Axel",
-        "feed_label": "Community Announcements",
-        "is_patch": true,
-        "is_official": true,
-        "contents": "Hey hey semibots! Hope you are enjoying all the new fashions, here is a patch with some fixes and balancing! CHANGES BALANCING FIXES CHANGES Cosmetic Box Spawn - Increased the \"bad luck\" multiplier sl"
       }
     ],
     "announcements": [
@@ -228,28 +228,28 @@
       }
     ],
     "latest": {
-      "date": "2026-11-23",
-      "datetime": "2026-11-23T09:13:42",
-      "title": "R.E.P.O. v0.5.3",
-      "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1849827110440975",
+      "date": "2026-11-25",
+      "datetime": "2026-11-25T10:26:33",
+      "title": "R.E.P.O. v0.5.4",
+      "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1850460852980616",
       "author": "semiwork",
       "feed_label": "Community Announcements",
       "is_patch": true,
       "is_official": true,
-      "contents": "Hey hey semibots! Here is yet another small update with some fixes for our latest content update! CHANGES FIXES CHANGES Localization - Improved accuracy of some localizations. Upgrade Tumble Climb - C"
+      "contents": "Hey hey semibots! Here is yet another small update with some fixes for our latest content update! NEW CHANGES FIXES NEW Museum of Human Art - Added a new room! CHANGES Item Pocket C.A.R.T. - No longer"
     },
     "latest_patch": {
-      "date": "2026-11-23",
-      "datetime": "2026-11-23T09:13:42",
-      "title": "R.E.P.O. v0.5.3",
-      "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1849827110440975",
+      "date": "2026-11-25",
+      "datetime": "2026-11-25T10:26:33",
+      "title": "R.E.P.O. v0.5.4",
+      "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1850460852980616",
       "author": "semiwork",
       "feed_label": "Community Announcements",
       "is_patch": true,
       "is_official": true,
-      "contents": "Hey hey semibots! Here is yet another small update with some fixes for our latest content update! CHANGES FIXES CHANGES Localization - Improved accuracy of some localizations. Upgrade Tumble Climb - C"
+      "contents": "Hey hey semibots! Here is yet another small update with some fixes for our latest content update! NEW CHANGES FIXES NEW Museum of Human Art - Added a new room! CHANGES Item Pocket C.A.R.T. - No longer"
     },
-    "crawled_at": "2026-11-25T05:03:51.049461"
+    "crawled_at": "2026-11-26T04:16:39.270391"
   },
   "Lethal Company": {
     "appid": 1966720,
@@ -501,7 +501,7 @@
       "is_official": true,
       "contents": "Hello, long time no see! Version 80 is out in beta for you to test. You can access it by opting into the public beta branch for Lethal Company on Steam. V80 brings a complete rework of March's exterio"
     },
-    "crawled_at": "2026-11-25T05:03:52.188691"
+    "crawled_at": "2026-11-26T04:16:40.434550"
   },
   "Phasmophobia": {
     "appid": 739630,
@@ -742,7 +742,7 @@
       "contents": "Welcome back, Ghost Hunters.Today, we have released the Resonance update for Phasmophobia. The update is now available across all platforms where Phasmophobia is available. If you encounter any issues"
     },
     "latest_patch": null,
-    "crawled_at": "2026-11-25T05:03:53.316816"
+    "crawled_at": "2026-11-26T04:16:41.574379"
   },
   "Content Warning": {
     "appid": 2881650,
@@ -994,7 +994,7 @@
       "is_official": true,
       "contents": "Hello Spööktubers! Thank you for your patience as we're fixing bugs on all platforms.Here's a new patch fixing some stuff!For those of you wondering when crossplay between Switch 1 & 2 and other platf"
     },
-    "crawled_at": "2026-11-25T05:03:54.504871"
+    "crawled_at": "2026-11-26T04:16:42.770486"
   },
   "FEEDERS": {
     "appid": 4408510,
@@ -1245,7 +1245,7 @@
       "is_official": true,
       "contents": "Gave the HUD a fresh redesign. New look across the board — the status bars (Health, Stamina, Radiation) and the bottom belt all got reworked. Same info, cleaner read. More guns coming with new solo ex"
     },
-    "crawled_at": "2026-11-25T05:03:55.639845"
+    "crawled_at": "2026-11-26T04:16:44.003964"
   },
   "NARAKA: BLADEPOINT": {
     "appid": 1203220,
@@ -1486,7 +1486,7 @@
       "contents": "Dear players,NARAKA: BLADEPOINT is committed to creating a fair and healthy competitive environment. We have not only used new anti-cheat technologies, but also established special cheat-reporting rew"
     },
     "latest_patch": null,
-    "crawled_at": "2026-11-25T05:03:56.783272"
+    "crawled_at": "2026-11-26T04:16:45.155876"
   },
   "Dead by Daylight": {
     "appid": 381210,
@@ -1727,6 +1727,6 @@
       "contents": "Dead by Daylight: Terrifier brings horror icons The Terrifier and Sienna Shaw into The Fog alongside a new original Map, Hartshorne Mall. Purchasing this add-on unlocks the Art Crispies Cereal charm a"
     },
     "latest_patch": null,
-    "crawled_at": "2026-11-25T05:03:57.955004"
+    "crawled_at": "2026-11-26T04:16:46.458397"
   }
 }

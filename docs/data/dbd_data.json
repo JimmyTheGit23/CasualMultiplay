@@ -1,8 +1,8 @@
 {
-  "snapshot_date": "2026-11-25T05:02:24+08:00",
+  "snapshot_date": "2026-11-26T04:15:17+08:00",
   "hero": {
     "name": "黎明杀机",
-    "current_players": 46929,
+    "current_players": 42598,
     "positive_rate": 78.5,
     "reviews_total": 903715,
     "price_label": "¥ 93.75",
@@ -171,6 +171,6 @@
     ]
   },
   "reviews": null,
-  "ccu": 46929,
-  "crawled_at": "2026-11-25T05:02:24.846217"
+  "ccu": 42598,
+  "crawled_at": "2026-11-26T04:15:17.163375"
 }
