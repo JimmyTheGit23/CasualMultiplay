@@ -249,7 +249,7 @@
       "is_official": true,
       "contents": "Hey hey semibots! Here is yet another small update with some fixes for our latest content update! NEW CHANGES FIXES NEW Museum of Human Art - Added a new room! CHANGES Item Pocket C.A.R.T. - No longer"
     },
-    "crawled_at": "2026-11-26T04:16:39.270391"
+    "crawled_at": "2026-11-27T04:16:29.465702"
   },
   "Lethal Company": {
     "appid": 1966720,
@@ -501,11 +501,22 @@
       "is_official": true,
       "contents": "Hello, long time no see! Version 80 is out in beta for you to test. You can access it by opting into the public beta branch for Lethal Company on Steam. V80 brings a complete rework of March's exterio"
     },
-    "crawled_at": "2026-11-26T04:16:40.434550"
+    "crawled_at": "2026-11-27T04:16:30.705250"
   },
   "Phasmophobia": {
     "appid": 739630,
     "all": [
+      {
+        "date": "2026-11-26",
+        "datetime": "2026-11-26T19:02:22",
+        "title": "Phasmophobia v0.20.0.0 - Compatibility Fix",
+        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1850460852986875",
+        "author": "Kinetic Games",
+        "feed_label": "Community Announcements",
+        "is_patch": true,
+        "is_official": true,
+        "contents": "Ghost Hunters, we have deployed a fix for Steam that addresses an issue that caused a black screen for users with Eye Adaptation enabled. This was related to a compatibility issue with graphics cards "
+      },
       {
         "date": "2026-11-24",
         "datetime": "2026-11-24T11:45:35",
@@ -604,20 +615,21 @@
         "is_patch": false,
         "is_official": true,
         "contents": "Journals at the ready, Ghost Hunters. Double XP & Rewards in #Phasmophobia will be active for a week beginning 15th October. The Crimson Eye continues to provide for all."
-      },
-      {
-        "date": "2026-10-07",
-        "datetime": "2026-10-07T09:01:54",
-        "title": "Phasmophobia v0.19.1.0 - Patch Notes",
-        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846018067925452",
-        "author": "Tom Dent",
-        "feed_label": "Community Announcements",
-        "is_patch": false,
-        "is_official": true,
-        "contents": "Welcome back, Ghost Hunters. We have an update for you.Today’s small update is in preparation for Crimson Eye, launching 8th October 2026, with the focus on getting the game ready for the start of the"
       }
     ],
-    "patches": [],
+    "patches": [
+      {
+        "date": "2026-11-26",
+        "datetime": "2026-11-26T19:02:22",
+        "title": "Phasmophobia v0.20.0.0 - Compatibility Fix",
+        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1850460852986875",
+        "author": "Kinetic Games",
+        "feed_label": "Community Announcements",
+        "is_patch": true,
+        "is_official": true,
+        "contents": "Ghost Hunters, we have deployed a fix for Steam that addresses an issue that caused a black screen for users with Eye Adaptation enabled. This was related to a compatibility issue with graphics cards "
+      }
+    ],
     "announcements": [
       {
         "date": "2026-11-24",
@@ -717,32 +729,31 @@
         "is_patch": false,
         "is_official": true,
         "contents": "Journals at the ready, Ghost Hunters. Double XP & Rewards in #Phasmophobia will be active for a week beginning 15th October. The Crimson Eye continues to provide for all."
-      },
-      {
-        "date": "2026-10-07",
-        "datetime": "2026-10-07T09:01:54",
-        "title": "Phasmophobia v0.19.1.0 - Patch Notes",
-        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846018067925452",
-        "author": "Tom Dent",
-        "feed_label": "Community Announcements",
-        "is_patch": false,
-        "is_official": true,
-        "contents": "Welcome back, Ghost Hunters. We have an update for you.Today’s small update is in preparation for Crimson Eye, launching 8th October 2026, with the focus on getting the game ready for the start of the"
       }
     ],
     "latest": {
-      "date": "2026-11-24",
-      "datetime": "2026-11-24T11:45:35",
-      "title": "Phasmophobia v0.20.0.0 - Resonance Patch Notes",
-      "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1849827110445832",
-      "author": "Tom Dent",
+      "date": "2026-11-26",
+      "datetime": "2026-11-26T19:02:22",
+      "title": "Phasmophobia v0.20.0.0 - Compatibility Fix",
+      "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1850460852986875",
+      "author": "Kinetic Games",
       "feed_label": "Community Announcements",
-      "is_patch": false,
+      "is_patch": true,
       "is_official": true,
-      "contents": "Welcome back, Ghost Hunters.Today, we have released the Resonance update for Phasmophobia. The update is now available across all platforms where Phasmophobia is available. If you encounter any issues"
+      "contents": "Ghost Hunters, we have deployed a fix for Steam that addresses an issue that caused a black screen for users with Eye Adaptation enabled. This was related to a compatibility issue with graphics cards "
     },
-    "latest_patch": null,
-    "crawled_at": "2026-11-26T04:16:41.574379"
+    "latest_patch": {
+      "date": "2026-11-26",
+      "datetime": "2026-11-26T19:02:22",
+      "title": "Phasmophobia v0.20.0.0 - Compatibility Fix",
+      "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1850460852986875",
+      "author": "Kinetic Games",
+      "feed_label": "Community Announcements",
+      "is_patch": true,
+      "is_official": true,
+      "contents": "Ghost Hunters, we have deployed a fix for Steam that addresses an issue that caused a black screen for users with Eye Adaptation enabled. This was related to a compatibility issue with graphics cards "
+    },
+    "crawled_at": "2026-11-27T04:16:31.932720"
   },
   "Content Warning": {
     "appid": 2881650,
@@ -994,7 +1005,7 @@
       "is_official": true,
       "contents": "Hello Spööktubers! Thank you for your patience as we're fixing bugs on all platforms.Here's a new patch fixing some stuff!For those of you wondering when crossplay between Switch 1 & 2 and other platf"
     },
-    "crawled_at": "2026-11-26T04:16:42.770486"
+    "crawled_at": "2026-11-27T04:16:33.292119"
   },
   "FEEDERS": {
     "appid": 4408510,
@@ -1245,7 +1256,7 @@
       "is_official": true,
       "contents": "Gave the HUD a fresh redesign. New look across the board — the status bars (Health, Stamina, Radiation) and the bottom belt all got reworked. Same info, cleaner read. More guns coming with new solo ex"
     },
-    "crawled_at": "2026-11-26T04:16:44.003964"
+    "crawled_at": "2026-11-27T04:16:34.495962"
   },
   "NARAKA: BLADEPOINT": {
     "appid": 1203220,
@@ -1486,12 +1497,23 @@
       "contents": "Dear players,NARAKA: BLADEPOINT is committed to creating a fair and healthy competitive environment. We have not only used new anti-cheat technologies, but also established special cheat-reporting rew"
     },
     "latest_patch": null,
-    "crawled_at": "2026-11-26T04:16:45.155876"
+    "crawled_at": "2026-11-27T04:16:35.766620"
   },
   "Dead by Daylight": {
     "appid": 381210,
     "all": [
       {
+        "date": "2026-11-26",
+        "datetime": "2026-11-26T09:09:05",
+        "title": "Фанаты Dead by Daylight раскритиковали редизайн Фэн Мин из-за того, что героиню сделали слишком красивой",
+        "url": "https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1850460852984659",
+        "author": "",
+        "feed_label": "PlayGround.ru - официальная группа",
+        "is_patch": false,
+        "is_official": false,
+        "contents": "Обновленный образ популярной выжившей Фэн Мин, представленный студией Behaviour Interactive на выставке WePlay в Китае, вызвал волну возмущения в сообществе асимметричного хоррора Dead by Daylight. Вм"
+      },
+      {
         "date": "2026-11-24",
         "datetime": "2026-11-24T21:20:20",
         "title": "The Terrifier Chapter is now available on Steam!",
@@ -1589,22 +1611,22 @@
         "is_patch": false,
         "is_official": false,
         "contents": "Разработчики Dead by Daylight опубликовали короткий тизер под названием «Опасность от незнакомцев». В ролике Дуайт сталкивается с чем-то пугающим, а в самом конце звучит рев, который фанаты мгновенно "
-      },
-      {
-        "date": "2026-11-17",
-        "datetime": "2026-11-17T21:33:50",
-        "title": "The siren call of user-generated content has caught Dead by Daylight in its snare, as Behaviour Interactive outline a big revamp update slated for next year",
-        "url": "https://steamstore-a.akamaihd.net/news/externalpost/Rock, Paper, Shotgun/1849458702695702",
-        "author": "",
-        "feed_label": "Rock, Paper, Shotgun",
-        "is_patch": false,
-        "is_official": false,
-        "contents": "The promise of user-generated content, this idea that you could host a platform that grows infinitely because the people that interact with it make things for it and you don't even have to pay anyone,"
       }
     ],
     "patches": [],
     "announcements": [
       {
+        "date": "2026-11-26",
+        "datetime": "2026-11-26T09:09:05",
+        "title": "Фанаты Dead by Daylight раскритиковали редизайн Фэн Мин из-за того, что героиню сделали слишком красивой",
+        "url": "https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1850460852984659",
+        "author": "",
+        "feed_label": "PlayGround.ru - официальная группа",
+        "is_patch": false,
+        "is_official": false,
+        "contents": "Обновленный образ популярной выжившей Фэн Мин, представленный студией Behaviour Interactive на выставке WePlay в Китае, вызвал волну возмущения в сообществе асимметричного хоррора Dead by Daylight. Вм"
+      },
+      {
         "date": "2026-11-24",
         "datetime": "2026-11-24T21:20:20",
         "title": "The Terrifier Chapter is now available on Steam!",
@@ -1702,31 +1724,20 @@
         "is_patch": false,
         "is_official": false,
         "contents": "Разработчики Dead by Daylight опубликовали короткий тизер под названием «Опасность от незнакомцев». В ролике Дуайт сталкивается с чем-то пугающим, а в самом конце звучит рев, который фанаты мгновенно "
-      },
-      {
-        "date": "2026-11-17",
-        "datetime": "2026-11-17T21:33:50",
-        "title": "The siren call of user-generated content has caught Dead by Daylight in its snare, as Behaviour Interactive outline a big revamp update slated for next year",
-        "url": "https://steamstore-a.akamaihd.net/news/externalpost/Rock, Paper, Shotgun/1849458702695702",
-        "author": "",
-        "feed_label": "Rock, Paper, Shotgun",
-        "is_patch": false,
-        "is_official": false,
-        "contents": "The promise of user-generated content, this idea that you could host a platform that grows infinitely because the people that interact with it make things for it and you don't even have to pay anyone,"
       }
     ],
     "latest": {
-      "date": "2026-11-24",
-      "datetime": "2026-11-24T21:20:20",
-      "title": "The Terrifier Chapter is now available on Steam!",
-      "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1849827110447868",
-      "author": "linda_bhvr",
-      "feed_label": "Community Announcements",
+      "date": "2026-11-26",
+      "datetime": "2026-11-26T09:09:05",
+      "title": "Фанаты Dead by Daylight раскритиковали редизайн Фэн Мин из-за того, что героиню сделали слишком красивой",
+      "url": "https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1850460852984659",
+      "author": "",
+      "feed_label": "PlayGround.ru - официальная группа",
       "is_patch": false,
-      "is_official": true,
-      "contents": "Dead by Daylight: Terrifier brings horror icons The Terrifier and Sienna Shaw into The Fog alongside a new original Map, Hartshorne Mall. Purchasing this add-on unlocks the Art Crispies Cereal charm a"
+      "is_official": false,
+      "contents": "Обновленный образ популярной выжившей Фэн Мин, представленный студией Behaviour Interactive на выставке WePlay в Китае, вызвал волну возмущения в сообществе асимметричного хоррора Dead by Daylight. Вм"
     },
     "latest_patch": null,
-    "crawled_at": "2026-11-26T04:16:46.458397"
+    "crawled_at": "2026-11-27T04:16:36.980745"
   }
 }

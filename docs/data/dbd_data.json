@@ -1,8 +1,8 @@
 {
-  "snapshot_date": "2026-11-26T04:15:17+08:00",
+  "snapshot_date": "2026-11-27T04:14:52+08:00",
   "hero": {
     "name": "黎明杀机",
-    "current_players": 42598,
+    "current_players": 38929,
     "positive_rate": 78.5,
     "reviews_total": 903715,
     "price_label": "¥ 93.75",
@@ -12,6 +12,17 @@
     ]
   },
   "operations": [
+    {
+      "date": "2026-11-26",
+      "timestamp": 1795684145,
+      "title": "Фанаты Dead by Daylight раскритиковали редизайн Фэн Мин из-за того, что героиню сделали слишком красивой",
+      "url": "https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1850460852984659",
+      "author": "",
+      "feed_label": "PlayGround.ru - официальная группа",
+      "feed_type": "媒体",
+      "is_patch": false,
+      "contents": "Обновленный образ популярной выжившей Фэн Мин, представленный студией Behaviour Interactive на выставке WePlay в Китае, вызвал волну возмущения в сообществе асимметричного хоррора Dead by Daylight. Вм"
+    },
     {
       "date": "2026-11-24",
       "timestamp": 1795555220,
@@ -88,17 +99,6 @@
       "feed_type": "官方",
       "is_patch": false,
       "contents": "Coming away from the 10.3.0 PTB, we saw how much of a blast you had testing out (and coming face-to-face with) The Terrifier's Bag of Toys! With the release of 10.3.0 right around the corner, we wante"
-    },
-    {
-      "date": "2026-11-20",
-      "timestamp": 1795149000,
-      "title": "Динамическая погода, лицевая анимация и моды: авторы Dead by Daylight поделились планами на 2027 год",
-      "url": "https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1849827110430854",
-      "author": "",
-      "feed_label": "PlayGround.ru - официальная группа",
-      "feed_type": "媒体",
-      "is_patch": false,
-      "contents": "Студия Behaviour Interactive представила детали крупного обновления для Dead by Daylight, которое выйдет в 2027 году и кардинально преобразит асимметричный хоррор. После первого анонса на трансляции в"
     }
   ],
   "patches": [
@@ -171,6 +171,6 @@
     ]
   },
   "reviews": null,
-  "ccu": 42598,
-  "crawled_at": "2026-11-26T04:15:17.163375"
+  "ccu": 38929,
+  "crawled_at": "2026-11-27T04:14:52.881074"
 }
