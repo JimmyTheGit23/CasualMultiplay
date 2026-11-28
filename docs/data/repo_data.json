@@ -1,5 +1,5 @@
 {
-  "snapshot_date": "2026-11-27T04:14:52.956679+00:00",
+  "snapshot_date": "2026-11-28T04:02:33.010485+00:00",
   "hero": {
     "title": "R.E.P.O.",
     "title_en": "R.E.P.O.",
@@ -8,6 +8,16 @@
     "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3241660/62177765c05399116f0453fe1177b00ceed698c4/header_alt_assets_3.jpg?t=1793278962"
   },
   "operations": [
+    {
+      "date": "2026-11-27",
+      "timestamp": 1795783818,
+      "title": "DEVLOG TIME!",
+      "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1850460852989500",
+      "source": "官方",
+      "type_zh": "公告",
+      "type_en": "Announcement",
+      "contents": "Hey hey semibots! We’re so happy seeing all of you enjoying The Sunstone Update! And now, it is once again time for a devlog, which you can check out here: If you prefer reading, here are the key takeaways: GENERAL WALKTHROUGH OF THE SUNSTONE UPDATE Details about the Sunstone update can be found ! R"
+    },
     {
       "date": "2026-11-25",
       "timestamp": 1795602393,
@@ -147,16 +157,6 @@
       "type_zh": "版本更新",
       "type_en": "Patch",
       "contents": "Hey hey semibots! It’s devlog time and we can finally reveal the release date for the Cosmetics Update! We are also showcasing some powerful magic for you all! Check out the Devlog here: If you prefer reading, here are the key takeaways: UPDATE RELEASE DATE The Cosmetics Update will arrive on May 7t"
-    },
-    {
-      "date": "2026-03-27",
-      "timestamp": 1774617099,
-      "title": "KART RACING in R.E.P.O.?!",
-      "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1828441623104509",
-      "source": "官方",
-      "type_zh": "公告",
-      "type_en": "Announcement",
-      "contents": "Hey hey semibots! In today’s devlog, we’re revealing a brand new King of the Losers variant, coming together with the Cosmetics Update! We’re also showcasing a bunch of the cosmetics that you’ll be able to get your hands on in the upcoming update! Check out the Devlog here: If you prefer reading, he"
     }
   ],
   "patches": [
@@ -305,6 +305,6 @@
     "is_free": false
   },
   "reviews": null,
-  "ccu": 16148,
-  "crawled_at": "2026-11-27T04:14:52.956679+00:00"
+  "ccu": 23550,
+  "crawled_at": "2026-11-28T04:02:33.010485+00:00"
 }

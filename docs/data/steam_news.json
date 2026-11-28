@@ -3,6 +3,17 @@
     "appid": 3241660,
     "all": [
       {
+        "date": "2026-11-27",
+        "datetime": "2026-11-27T12:50:18",
+        "title": "DEVLOG TIME!",
+        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1850460852989500",
+        "author": "semiwork",
+        "feed_label": "Community Announcements",
+        "is_patch": false,
+        "is_official": true,
+        "contents": "Hey hey semibots! We’re so happy seeing all of you enjoying The Sunstone Update! And now, it is once again time for a devlog, which you can check out here: If you prefer reading, here are the key take"
+      },
+      {
         "date": "2026-11-25",
         "datetime": "2026-11-25T10:26:33",
         "title": "R.E.P.O. v0.5.4",
@@ -100,17 +111,6 @@
         "is_patch": true,
         "is_official": true,
         "contents": "Hey hey semibots! Here is yet another small update with some fixes and balancing! CHANGES BALANCING FIXES CHANGES Shopkeeper - When disabled, ruckus tracking is now capped so they won’t wake up too an"
-      },
-      {
-        "date": "2026-05-12",
-        "datetime": "2026-05-12T13:59:55",
-        "title": "R.E.P.O. v0.4.2",
-        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1832065502823937",
-        "author": "Axel",
-        "feed_label": "Community Announcements",
-        "is_patch": true,
-        "is_official": true,
-        "contents": "Hey hey semibots! Here is another small update with some fixes and balancing! CHANGES BALANCING FIXES CHANGES Vehicles - Now drift less sharply at low speeds. Added scratch sound effects that scale wi"
       }
     ],
     "patches": [
@@ -179,20 +179,20 @@
         "is_patch": true,
         "is_official": true,
         "contents": "Hey hey semibots! Here is yet another small update with some fixes and balancing! CHANGES BALANCING FIXES CHANGES Shopkeeper - When disabled, ruckus tracking is now capped so they won’t wake up too an"
-      },
-      {
-        "date": "2026-05-12",
-        "datetime": "2026-05-12T13:59:55",
-        "title": "R.E.P.O. v0.4.2",
-        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1832065502823937",
-        "author": "Axel",
-        "feed_label": "Community Announcements",
-        "is_patch": true,
-        "is_official": true,
-        "contents": "Hey hey semibots! Here is another small update with some fixes and balancing! CHANGES BALANCING FIXES CHANGES Vehicles - Now drift less sharply at low speeds. Added scratch sound effects that scale wi"
       }
     ],
     "announcements": [
+      {
+        "date": "2026-11-27",
+        "datetime": "2026-11-27T12:50:18",
+        "title": "DEVLOG TIME!",
+        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1850460852989500",
+        "author": "semiwork",
+        "feed_label": "Community Announcements",
+        "is_patch": false,
+        "is_official": true,
+        "contents": "Hey hey semibots! We’re so happy seeing all of you enjoying The Sunstone Update! And now, it is once again time for a devlog, which you can check out here: If you prefer reading, here are the key take"
+      },
       {
         "date": "2026-10-29",
         "datetime": "2026-10-29T14:49:58",
@@ -228,15 +228,15 @@
       }
     ],
     "latest": {
-      "date": "2026-11-25",
-      "datetime": "2026-11-25T10:26:33",
-      "title": "R.E.P.O. v0.5.4",
-      "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1850460852980616",
+      "date": "2026-11-27",
+      "datetime": "2026-11-27T12:50:18",
+      "title": "DEVLOG TIME!",
+      "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1850460852989500",
       "author": "semiwork",
       "feed_label": "Community Announcements",
-      "is_patch": true,
+      "is_patch": false,
       "is_official": true,
-      "contents": "Hey hey semibots! Here is yet another small update with some fixes for our latest content update! NEW CHANGES FIXES NEW Museum of Human Art - Added a new room! CHANGES Item Pocket C.A.R.T. - No longer"
+      "contents": "Hey hey semibots! We’re so happy seeing all of you enjoying The Sunstone Update! And now, it is once again time for a devlog, which you can check out here: If you prefer reading, here are the key take"
     },
     "latest_patch": {
       "date": "2026-11-25",
@@ -249,7 +249,7 @@
       "is_official": true,
       "contents": "Hey hey semibots! Here is yet another small update with some fixes for our latest content update! NEW CHANGES FIXES NEW Museum of Human Art - Added a new room! CHANGES Item Pocket C.A.R.T. - No longer"
     },
-    "crawled_at": "2026-11-27T04:16:29.465702"
+    "crawled_at": "2026-11-28T04:04:07.648647"
   },
   "Lethal Company": {
     "appid": 1966720,
@@ -501,7 +501,7 @@
       "is_official": true,
       "contents": "Hello, long time no see! Version 80 is out in beta for you to test. You can access it by opting into the public beta branch for Lethal Company on Steam. V80 brings a complete rework of March's exterio"
     },
-    "crawled_at": "2026-11-27T04:16:30.705250"
+    "crawled_at": "2026-11-28T04:04:08.947988"
   },
   "Phasmophobia": {
     "appid": 739630,
@@ -753,7 +753,7 @@
       "is_official": true,
       "contents": "Ghost Hunters, we have deployed a fix for Steam that addresses an issue that caused a black screen for users with Eye Adaptation enabled. This was related to a compatibility issue with graphics cards "
     },
-    "crawled_at": "2026-11-27T04:16:31.932720"
+    "crawled_at": "2026-11-28T04:04:10.528422"
   },
   "Content Warning": {
     "appid": 2881650,
@@ -1005,7 +1005,7 @@
       "is_official": true,
       "contents": "Hello Spööktubers! Thank you for your patience as we're fixing bugs on all platforms.Here's a new patch fixing some stuff!For those of you wondering when crossplay between Switch 1 & 2 and other platf"
     },
-    "crawled_at": "2026-11-27T04:16:33.292119"
+    "crawled_at": "2026-11-28T04:04:11.849915"
   },
   "FEEDERS": {
     "appid": 4408510,
@@ -1256,7 +1256,7 @@
       "is_official": true,
       "contents": "Gave the HUD a fresh redesign. New look across the board — the status bars (Health, Stamina, Radiation) and the bottom belt all got reworked. Same info, cleaner read. More guns coming with new solo ex"
     },
-    "crawled_at": "2026-11-27T04:16:34.495962"
+    "crawled_at": "2026-11-28T04:04:13.298405"
   },
   "NARAKA: BLADEPOINT": {
     "appid": 1203220,
@@ -1497,7 +1497,7 @@
       "contents": "Dear players,NARAKA: BLADEPOINT is committed to creating a fair and healthy competitive environment. We have not only used new anti-cheat technologies, but also established special cheat-reporting rew"
     },
     "latest_patch": null,
-    "crawled_at": "2026-11-27T04:16:35.766620"
+    "crawled_at": "2026-11-28T04:04:14.644484"
   },
   "Dead by Daylight": {
     "appid": 381210,
@@ -1738,6 +1738,6 @@
       "contents": "Обновленный образ популярной выжившей Фэн Мин, представленный студией Behaviour Interactive на выставке WePlay в Китае, вызвал волну возмущения в сообществе асимметричного хоррора Dead by Daylight. Вм"
     },
     "latest_patch": null,
-    "crawled_at": "2026-11-27T04:16:36.980745"
+    "crawled_at": "2026-11-28T04:04:15.948140"
   }
 }
